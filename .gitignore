@@ -1,0 +1,19 @@
+# PHPStorm folder
+.idea
+
+## OS ##
+
+# Linux
+*~
+*.swp
+.directory
+
+# Mac OS
+.DS_Store*
+._*
+
+# Windows
+ehthumbs.db
+Icon?
+Thumbs.db
+
