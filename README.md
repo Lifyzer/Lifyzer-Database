@@ -1,6 +1,6 @@
 # 🍏 !Lifyzer Database! 🍓
 
-Fork from [Open Food Facts](https://openfoodfacts.org) database. This database structure is different from the original "OpenFoodFacts".
+**Lifyzer Database** is a fork of [Open Food Facts](https://openfoodfacts.org) database. This database structure is different from the original "OpenFoodFacts" database.
 
 It has much less columns (and removes redundant/unnecessary columns).
 
@@ -16,4 +16,4 @@ June 18, 2018  # Update it each time a newer OpenFoodFacts DB has been used
 
 ## Who Did This...? 😉
 
-Made with LOT of ❤️ by [Pierre-Henry Soria](http://pierrehenry.be)! (and in great health **thanks Lifyzer App**! 😸)
+Made with LOT of ❤️ by **[Pierre-Henry Soria](http://pierrehenry.be)**! (and in great health **thanks Lifyzer App**! 😸)
