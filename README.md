@@ -16,4 +16,4 @@ June 18, 2018  # Update it each time a newer OpenFoodFacts DB has been used
 
 ## Who Did This...? 😉
 
-Made with LOT of ❤️ by **[Pierre-Henry Soria](http://pierrehenry.be)**! (and in great health **thanks Lifyzer App**! 😸)
+Made with LOT of ❤️ by **[Pierre-Henry Soria](http://pierrehenry.be)**! (and in great health **thanks [Lifyzer App](https://lifyzer.com)**! 😸)
