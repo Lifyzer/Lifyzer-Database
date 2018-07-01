@@ -7,9 +7,9 @@ function save-project-to-repo() {
 }
 
 declare readonly gitRemotes=(
-    git@github.com:Lifyzer/Lifyzer-Database.git
     git@bitbucket.org:pH_7/lifyzer-database.git
     git@gitlab.com:pH-7/lifyzer-database.git
+    git@github.com:Lifyzer/Lifyzer-Database.git
 )
 for remote in "${gitRemotes[@]}"
 do
