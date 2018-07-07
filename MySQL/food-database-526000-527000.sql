@@ -1,2724 +1,2739 @@
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8859296300361', 'Lin', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80927686', 'white (Tutti frutti)', '', '', '0', '', '70', '0', '', '', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8859342000078', 'Coconut Chips', '', '8', '7', '6', '6', '', '0', '10', '3.93700787401575', '', '0');
+VALUES ('80930679', 'Estathe Bic T3X24 Pesca Zero', '', '', '0', '0', '1.7', '0.4', '', '0', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8859534107219', 'Basil Seed Drink - Coktail Flavour', 'Eau, Graines de basilica (12%), Sucre, Correcteur d\' acidité (E330), Arôme de cocktail (0.1%), Gélifiants (E418), Colorant (E133)', '0', '0', '37.2', '31.9', '0.8', '0', '0', '0', '', '0');
+VALUES ('80931515', 'Menthos White Always', '', '', '0.2', '0.2', '72', '0', '', '0', '0.78', '0.307086614173228', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88649000076', 'Sliced Beef Steak', 'Beef, water, seasoning (fructose, soy sauce (wheat, soybeans, salt, sodium benzoate), brown sugar, maltodextrin, salt, dehydrated garlic, sesame oil, caramel color, black pepper, sesame seed, dehydrated green onion, malic acid, guar gum, natural flavors),', '9.82', '4.02', '2.68', '1.79', '0', '17.86', '1.33858', '0.527', '', '0');
+VALUES ('80931560', 'Mentos white always', '', '', '0.2', '0.2', '72', '0', '', '0', '0.78', '0.307086614173228', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8866391493584', 'Petits pains grilles au froment', '', '4.7', '0.4', '74.3', '9.3', '', '9.8', '0.79', '0.311023622047244', '', '1');
+VALUES ('80936091', 'Red fruit', '- rode vruchtensmaak. Ingrediënten: 30nbons met zoetstoffen, met een xylitol kern netstoffen (isomalt, xylitol (30%), sorbitol, acesulfaam-K), voedingszuren (melkzuur, citroenzuur àppelzuur), vruchtensappen (kers, framboos, aardbei)(l %), plantaardige Olie (palmpit), aroma\'s, (ieurstof (karmijn). Kan sporen van MELK en SOJA bevatten, Overmatig gebruik kan een laxerend ?ffect hebben. Bonbons avec édulcorants, avec un centre de xylitol - parfum fruits rouges. ngrédients: édulcorants (isomatt, xylitol (30%), sorbitol, acésuifame K), acidifiants (acide lactique, acide citrique, acide malique), jus de fruits (cerise, framboise, fraise)(l huile vegétale (palmiste), arômes, contenir des traces de LAIT et de 45 g SOJA. Une consommation excessive peut avoir des effets laxatifs.', '', '0.3', '0.3', '96', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88670009963', 'French Fried Potatoes', 'Potatoes, vegetable oil (contains one or more of the following: soybean oil, canola oil), disodium dihydrogen pyrophosphate to promote color retention and dextrose.', '4.12', '0.59', '22.35', '0', '2.4', '2.35', '0.13462', '0.053', '', '1');
+VALUES ('80936640', 'Chewing-Gum (sans Sucre)', 'édulcorants (maltitol, sorbitol, xylitol (15%), sirop de maltitol, aspartame, acésulfame-K, sucralose), gomme base, arômes, maltodextrine, stabilisant (glycérol), épaississants (gomme arabique, gomme de cellulose), émulsifiant (sucroesters d\'acides gras), correcteur d\'acidité (carbonate acide de sodium), antioxydant (E321), agen\\ d\'enrobage (cire de carnauba), graisse de noix de coco. Une consommation excessive peut avoir des effets laxatif Contient une source de phénylalanine. Perfetti Van Benelux B.V., Box 3000, 4800 C Breda, Holland. DistrbtJé en France par Solinest SAS,', '', '0', '0', '70', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88692604564', 'Bountiful Morning, Fruit & Nut Cereal', 'Whole grain rolled oat flakes, sugar, whole grain rolled wheat flakes, raisins (raisins, glycerin, sugar, palm oil, invert sugar), rice flour, palm oil, sliced almonds. less than 2 percent of: cinnamon, skim milk, wheat gluten, salt, barley and wheat malt flour.', '9.84', '3.28', '77.05', '26.23', '6.6', '9.84', '0.37592', '0.148', '', '0');
+VALUES ('80936848', 'Tic tac strawberry mix goûts duo de fraises', '', '', '', '0.6', '', '91.3', '0', '0', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8869630601054', 'Lait aux fruits', 'Lait entier en poudre, Sucre, eau purifiée, Concentré de fruits 5%(Ananas,Banane,Mangue,Pêche,Pomme, Orange), Acide citrique, Acide malique, CMC, Sorbate de potassium, Vitamine C, Acésulfame-k, Glycophosphate de calcium, Arômes de fruits, Bêta-carotène, Tartrazine. contient de l’Aspartame.', '0.8', '0', '13.4', '0', '', '1', '0', '0', '', '1');
+VALUES ('80939108', 'Mentos Gum UP2U Chlor Men', '', '', '0.1', '0.1', '62', '0', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8871141025083', 'Individually Quick Shrimp', 'Shrimp, salt, citric acid, sodium citrate and sodium carbonates.', '0.89', '0', '0', '0', '0', '16.07', '1.1557', '0.455', '', '0');
+VALUES ('80939139', 'Golia Herbs Limone Con Vitamina C Senza Zucchero Senza Glutine', 'Edulcoranti: isomalto, sorbitolo, aspartame, acesufame k, sucralosio Agente di carica: polidestrosio Acidificante: acido citrico, succo di limone (1%), vitamina C Aromi Estratto di erbe (0,1%): Salvia (Salvia Officinalis), Piantaggine (Plantago lanceolata), Timo (Thymus vulgaris), Sambuco (Sambucus Nigra), Anice Stellato (Illicium Verum) Concentrato vegetale (cartamo, limone) Emulsionante: Lecitina (_SOIA_) ', '', '0', '0', '89', '89', '0', '0', '0.17', '0.0669291338582677', '0', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8874855009561', 'FONDANT D\'ERABLE', 'Sirop d\'érable bio', '0', '0', '79', '73', '0', '0', '0', '0', '', '0');
+VALUES ('80946458', 'Nutella Coppette X6', '', '', '30.9', '10.6', '57.5', '56.3', '', '6.3', '0.107', '0.0421259842519685', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8874913658410', 'Soupe froide', 'Un bol -200 ml \'21 portion* Cet emballage COÛtient5bOlS de 200rnL *ApportS deféférence pourunadultertype (8400 k} / 2000 kcal)A4es apports de référence et Aes portions peuvent varier selon -l\'âge, ile -sexe, l\'activité physique. Pour plus d\'informationsr consulter A conserver au réfrigérateur et à consommer dans les 5 jours. &quot;—s%suivant l\'ouverture -Setvice Consommateurs Alvalle Pi?i 420, rue d4Estienne dtOrves 92705 COLOMBES CEDEX', '1', '0.1', '4.3', '3.5', '1.4', '1.1', '0.46', '0.181102362204724', '', '1');
+VALUES ('80948582', 'Mentos Gum Bottle Fruit Crush Strawberry', '', '', '0.2', '0', '72', '10', '', '0.7', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8880209307221', 'Rice crackers', 'Énergie Matières grasses dontaddesgrassaturés Glucides dontsucres Protéines', '3.4', '0.8', '28', '0.2', '', '2.5', '0.53', '0.208661417322835', '', '1');
+VALUES ('80951247', 'Chewing gum Mentos White', 'Edulcorants (xylitol (31%), sorbitol, mannitol, sirop de maltitol, aspartame, acésulfame-K, sucralose), gomme base, arômes, fécule, maltodextrine, graisse de noix de coco, émulsifiants (lécithine de _soja_, sucroesters d\'acides gras), stabilisant (glycérol), épaississants (gomme de cellulose, gomme arabique), correcteur d\'acidité (carbonate acide de sodium), agent d\'enrobage (cire de carnauba), antioxydant (E321)', '', '0.6', '0.6', '69', '0', '', '0', '0.07', '0.0275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88810900400', 'Twinkies Banana', 'Farine de _blé_ enrichie [farine, fer, vitamines B (Niacine, mononitrate de thiamine (B1), Riboflavine (B2), acide folique)], eau, sirop de maïs, sucre, sirop de maïs à haute teneur en fructose, matières grasses végétales et / ou animales partiellement hydrogénés (huile de graines de _soja_, huile de graines de coton, huile de colza, graisse de bœuf), dextrose, _œufs_ entiers, amidon de maïs modifié, poudres à lever (Bicarbonate de sodium (E500) phosphates de disodium (E450), phosphates de calcium (E341)), émulsifiants (lécithine de _soja_, mono- et diglycérides d\'acides gras (E471), polysorbate 60 (E435)), stéarol-2 lactylate de sodium (E481), glucose, protéines de _lait_, glycérine, huile de graines de _soja_, purée de banane (0,6%), sel, conservateurs : acide sorbique (E200), sorbate de potassium (E202), sulfate de calcium (E226), stabilisants (gomme xanthane (E415), gomme de cellulose (E468), arômes, colorants artificiels (tartrazine (E102), rouge allura (E129).', '11.7', '5.8', '59.7', '42.9', '0', '2.6', '1.2', '0.47244094488189', '', '0');
+VALUES ('80957409', 'Pure fresh chewing-gum', '', '', '0', '0', '74', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88810901676', 'Jumbo Honey Bun', 'Enriched flour (wheat flour, niacin, iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, palm and cottonseed oils, yeast, contains 2% or less of: honey powder (honey, maltodextrin), salt, calcium carbonate, calcium propionate (preservative),', '19.26', '9.63', '54.81', '21.48', '1.5', '5.93', '0.82804', '0.326', '', '1');
+VALUES ('80957430', 'Mentos gum pure fresh', '', '', '0', '0', '76', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88810911088', 'Glazed Mini Donuts', 'Sugar, water, enriched wheat flour [ferrous sulfate (iron), \"b\" vitamins (niacin, thiamine mononitrate (b1), riboflavin (b2), folic acid)], non-fat milk, soy flour, leavenings (baking soda, sodium acid pyrophosphate, sodium aluminum phosphate), egg yolks,', '18.87', '9.43', '56.6', '33.96', '0', '3.77', '0.8636', '0.34', '', '0');
+VALUES ('80957621', 'Chemin gum White always', '', '', '0.2', '0.2', '70', '0', '', '0', '0.78', '0.307086614173228', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8881304287401', 'Lait de chevre', '', '3.34', '2.06', '8.63', '8', '', '3.06', '0.5', '0.196850393700787', '', '1');
+VALUES ('80957997', 'Tic tac gout bubble gum', 'sucre, maltodexrine, épaississant : gomme arabique ; amidon de riz, fructose, acidifiant : acide citrique ; arômes, agents d\'enrobage (gomme shellac, cire de carnauba), colorants : E 100, El 53. Valeurs nutritionnelles moyennes pour 100 g: Energie 1668 kJ 1 393 kcal, Matières grasses 0,5 g, dont acides gras saturés 0,5 g, Glucides 95,7 g, dont sucres 93 g, Protéines 0,1 g, Sel 0,010 g. Distribué par Ferrero fiance Commerciale -CS 90058-76136 Mont-Saint-Aignan Cedex 18ge A de préférence avantfin:Voirci-dessous 8095 7997', '', '0.5', '0.5', '95.7', '93', '', '0.01', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88813914999', 'Beef Franks', 'Beef, water, contains 2% or less of salt, sorbitol, sodium lactate, natural flavorings, sodium phosphates, hydrolyzed corn protein, paprika, sodium diacetate, sodium erythorbate, sodium nitrite.', '30', '12', '2', '0', '0', '12', '2.794', '1.1', '', '0');
+VALUES ('80962175', 'Pure fresh', '', '', '0', '0', '72', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88831391496', 'Skinless Beef Franks', 'Beef, water, contains 2% or less of salt, sorbitol, sodium lactate, natural flavorings, sodium phosphate, hydrolyzed corn protein, paprika, sodium diacetate, sodium erythorbate, sodium nitrite', '30.23', '11.63', '2.33', '0', '0', '11.63', '2.83464', '1.116', '', '0');
+VALUES ('8097017013309', 'Sauce tomate Ciliegino Bio', '', '', '1.4', '0.2', '7.8', '5.3', '', '1.8', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88839257', 'Limonade artisanale parfum citron', 'Eau gazéifiée, sucre, acidifiant : acide citrique, arômes naturels de citron et d\'orange.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80971290', 'Mentos Gum Fliptop White Bubble Fresh 30G', '', '', '0', '0', '70', '0', '', '0', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8885000830084', 'Nouilles Udon', 'farine de blé, eau, amidon de tapiocp modifié, sel.', '0.29', '0.09', '30.6', '0.19', '', '3.69', '0.32', '0.125984251968504', '', '1');
+VALUES ('80972280', 'Biscotte', '', 'https://static.openfoodfacts.org/images/products/80972280/front_en.3.400.jpg', '5', '0.6', '72', '6.8', '', '11.5', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8885007835020', 'Banana chips', '', '42', '10', '52', '4', '', '2', '2', '0.78740157480315', '', '0');
+VALUES ('80974482', 'Kinder Joy Egg', '', 'https://static.openfoodfacts.org/images/products/80974482/front.3.400.jpg', '32', '15.4', '51', '51', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8885010662026', 'Sorbet Soja Au the Vert', 'EXTRAIT DE SOJA 70,5% (EAU, POUDRE, PROTEINES DE SOJA), SUCROSE, DEXTROSE, HUILE DE SOJA, INULINE, MALTODEXTRINE, THE VERT EN POUDRE 1%, EMULSIFIANT (E471), STABILISANTS (E412, E410 ET E407), SEL. PEUT CONTENIR DES TRACES DE : ?UF, LAIT, ARACHIDES SESAME, GLUTEN, FRUITS A COQUE. VALEURS NUTRITIONNELLES POUR IOOG : ENERGIE 676 KJ / 161 KCAL ; MATIERES GRASSES G - DONT ACIDES GRAS SATURES G ; GLUCIDES 26 G - DONT SUCRES 19,5 G ; PROTEINES 2,7 G ; SEL G A CONSERVER A -ICC. NE JAMAIS RECONGELER UN A CONSOMMER DE PREFERENCE LE COUVERCLE. 473 MLO VOLUME NET : DE MALAISIE PAR TANG FRERES SA. $ VENUE D\'IVRY 75013 PARIS FRANCE 49 60 56 78 - FAX. 01 49 60 56 29', '5.3', '3.3', '26', '19.5', '', '2.7', '0.1', '0.0393700787401575', '', '1');
+VALUES ('80975601', 'Chewing Gum Pure Fresh', 'édulcorants (xylitol, sorbitol, mannitol, maltitol, sirop de maltitol, aspartame, acésulfame-K, sucralose), gomme base, stabilisant (glycérol), arômes, épaississants (gomme arabique, gomme de cellulose, gomme xanthane), maltodextrine, fécule, émulsifiants (lécithines (_soja_), sucroesters d\'acides gras), extrait naturel de thé vert (0,1%), graisse de noix de coco, agent d\'enrobage (cire de carnauba), antioxydant (E321), colorants (bleu brillant FCF, curcumine).', '', '0', '0', '69', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8885012292580', 'Ribena', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80976059', 'MENTOS ICE CUP', 'édulcorants (xylitol, sorbitol, sirop de maltitol, maltitol, aspartame, acésulfame-K, sucralose), gomme base, stabilisant (glycérol), arômes, graisse de noix de coco, épaississant (gomme arabique),émulsifiants (lécithines (_soja_),sucroesters d\'acides gras),  gélatine, antioxydant (E321), colorants (bleu brillant FCF, lutéine).', '', '0.4', '0.4', '68', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8885014850115', 'Gourmet salted egg yolk - fish skin crisps', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80982036', 'pure fresh', '', '', '0.2', '0.2', '73', '70', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886001038011', 'Beng-Beng', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8098701075016', 'Huile d\'olive extra vierge', '', 'https://static.openfoodfacts.org/images/products/809/870/107/5016/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886001100145', 'Kopiko', '', '9.9', '7.6', '86.2', '67.1', '', '0.6', '0.28', '0.110236220472441', '', '0');
+VALUES ('80990062', 'Mentos pure fresh', 'édulcorants J Ptol soiitd sirop de aspadan/ aièy/f/?( j gomme base, stabilisant\' émulsifiants (lécithine de suc ers d\'acides {35), epajssjssants (gomme de cellu\\osq extrait de thé vert (0,1%), graisse l/ alénrotage (cire de carnauba), bleu brillant FCF). Une consommation avoides effets laxatifs, Contient une source de phenfqlanlne, léspourlllg pro 100 g I Informations nutritiof* (J asses vesàtfrgte Fettsàuren / acides gras salués ü/ûnldoqt ? ?ucker/ sucres Afkohole / polyols', '', '0', '0', '76', '73', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886001200272', 'طعم القهوة', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80990079', 'Tic Tac Minions T1', '', '', '0.4', '0.4', '91.1', '90.6', '', '0.1', '0.005', '0.00196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886007811038', 'Teh Cap Botol Loose Jasmine Green Tea', '', '0', '0', '0', '0', '', '0.1', '', '', '', '1');
+VALUES ('80991915', 'Ice cup goût fraise sans sucre', 'édulcorants (xylitol, sorbitol, sirop de maltitol, maltitol, aspartame, acésulfame-K, sucralose), gomme base, arômes, stabilisant (glycérol), acidifiant (acide malique), graisse de noix de coco, jus de fraise en poudre (0,5 %), gélatine, émulsifiants (lécithines (_soja_), sucroesters d\'acides gras), colorants (extrait de paprika, carmins), antioxydant (E321), maltodextrine, épaississant (gomme de cellulose).', '', '0.6', '0.6', '67', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886007811410', 'Teh poci celup wangi teh asli 25\'s', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80991922', 'Chewing Gum White Green Mint', '', '', '0.6', '0.6', '69', '0', '66', '0', '0.0699999999999999', '0.0275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886008101053', 'AQUA', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80993193', 'Chewing gum Mentos Squeez', 'édulcorants (xylitol, mannitol, sorbitol, maltitol, aspartame, sirop de maltitol, sucralose, acésulfame-K), gomme base, fourrage fruit 10,5% (pomme en poudre (99% dans le cœur, 10,4% dans le produit) - arôme fraise - acidifiant: acide citrique), fécule, acidifiants (acide tartrique, acide citrique, acide malique), jus de fraise en poudre (1,2%), arômes, épaississants (gomme arabique, gomme de cellulose), émulsifiants (sucroesters d\'acides gras, lécithines (_soja_)), gélatine, stabilisant (glycérol), maltodextrine, agent d\'enrobage (cire de carnauba), antioxydant (E321).', 'https://static.openfoodfacts.org/images/products/80993193/front.6.400.jpg', '0', '0', '72', '10', '', '0.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886015428167', 'Tim tam chocolate', '+àxjon Information Per 100g/S100h : Energy/ü 482kcal/# 4.491} 21.ag/Ë Saturated 14.9gË Trans Fat/iitYËË-0Ü5 Carbohydrate 67.9g/% Sugars,tg 41.9n/ï Sodium/à 244rng/üS', '21.4', '14.9', '67.9', '41.9', '0', '4.4', '2.44', '0.960629921259842', '', '0');
+VALUES ('80994442', 'IceCup menthe givrée', 'Édulcorants (xylitol, sorbitol, sirop de maltitol, maltitol, aspartame, acésulfame-K, sucralose), gomme base, arômes, stabilisant (glycérol), gélatine, graisse de noix de coco, émulsifiants (lécithine (_soja_), sucroesters d\'acides gras), antioxydant (E321), colorant (bleu brillant FCF).', 'https://static.openfoodfacts.org/images/products/80994442/front.3.400.jpg', '0.3', '0.3', '73', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303200024', 'Lait de coco', '', '24', '21', '1', '1', '', '2.2', '', '', '', '1');
+VALUES ('80995050', 'Zaini Cars Crockki Spread 24X18G', 'FR - PÂTE À TARTINER AUX NOISETTES ET AU CACAO AVEC DU BLE CROUSTILLANT - : fibres graisses vâétafes (karité, toumesol,carthame wcrellécroustilbnt 12% (farire de blé, farine de bé comptet: fructose, germe de bé 1%, scnre poudre à lever : bicarborate de sodium, extrait de malt d\'orge, farire d\'orge maltée, sel), noisetEs 12%, protéines de lait, fructose, poudre de cacao 4%, agent de charge: carbonate de calcium, émulsifiant : l&ithlne de soja, arômes naturels,', '', '27', '6.1', '35', '28', '20', '10', '0.61', '0.240157480314961', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210061', 'Crème de coco', 'extrait de noix de coco fraîche (90%), eau, épaississants (gomme de xanthane, gomme de guar et carraghénanes)', '25', '23', '2', '2', '0.5', '2.3', '0.08', '0.031496062992126', '', '1');
+VALUES ('80996347', 'Gran Cereale Barretta di Cereali (nocciole e cioccolato)', '', 'https://static.openfoodfacts.org/images/products/80996347/front.3.400.jpg', '19', '6', '55.2', '17', '8', '10', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210207', 'Crème de coco très onctueuse', 'crème de coco 99,9% (extrait de noix de coco, eau), stabilisants (gomme de xanthane, gomme de guar, carraghénanes)', '25', '23', '2', '2', '0.5', '2.3', '0.08', '0.031496062992126', '', '1');
+VALUES ('80998013', 'Mentos', 'édulcorants (xylitol, sorbitol, mannitol, maltitol, sirop de maltitol, aspartame, acésulfame-K, sucralose), gomme base, stabilisant (glycérol), arômes, fécule, maltodextrine, émulsifiants (lécithines (SOJA), sucroesters d\'acides gras), épaississants (gomme de cellulose, gomme arabique, gomme xanthane), extrait naturel de thé vert (0,1%), graisse de noix de coco, antioxydant (E321), agent d\'enrobage (cire de carnauba), colorants (curcumine, bleu brillant FCF).', '', '0', '0', '76', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210238', 'Lait de coco', ' Extrait de noix de coco fraîche 64%, eau, épaississants (gomme de xanthane, gomme guar, carraghénanes)', '18', '16', '1.7', '1.6', '0.2', '1.7', '0.1', '0.0393700787401575', '', '1');
+VALUES ('80999171', 'Chewing gum Mentos', 'Edulcorants (xylitol (32%), erythritol, mannitol, maltitol, sorbitol, sirop de maltitol, aspartame, acésulfame K, sucralose), gomme base, arômes, agent épaissisant (gomme arabique), gélatine, colorant (dioxyde de titane), stabilisant (glycérol), émulsifiant (lécithine de soja), extrait naturel de thé vert, agent d\'enrobage (cire de carnauba), antioxydant (E320).', 'https://static.openfoodfacts.org/images/products/80999171/front.6.400.jpg', '0.5', '0.5', '71', '0', '0.6', '0.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210504', 'UHT Natural Coconut Cream', 'Fresh Natural Coconut Cream (99.9%), Stabilisers (Xanthan Gum e415, Guar Gum E412, Carrageenan, E407)', '24.6', '23.5', '2.3', '2.2', '0', '2.5', '0.04064', '0.016', '', '1');
+VALUES ('80999249', 'Mentos White Sweet Mint', '', 'https://static.openfoodfacts.org/images/products/80999249/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210535', 'Lait de coco', 'extrait de noix de coco fraîche 64%, eau, épaississants (gomme de xanthane, gomme de guar et carraghénanes).', '18', '16', '1.7', '1.6', '0.2', '1.7', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8100090000514', 'Saiwa Oro più Gocce Gustose', 'Farina di _frumento_, Zucchero, Olio di palma, Cioccolato 11,4% (zucchero, burro di cacao, pasta di cacao, emulsionante (lecitine di _soia_), aroma (vanillina)), Siero di _latte_ in polvere, Sciroppo di glucosio-fruttosio, Agenti lievitanti (carbonati di ammonio, carbonati di sodio), Cacao in polvere, Sale, Aroma (contiene _latte_)', '', '15', '7.5', '70', '28', '3.7', '7.4', '0.68', '0.267716535433071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210542', 'Classic Coconut Milk', 'Fresh coconut milk (99.9%), stabilizers (xanthan gum e415, carrageenan e407).', '20', '16.67', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('8100090000903', 'Oro Saiwa Classico', '', 'https://static.openfoodfacts.org/images/products/810/009/000/0903/front.3.400.jpg', '', '0.9', '', '20', '3.4', '8.3', '0.62', '0.244094488188976', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303210559', 'Crème de coco', 'Extrait de noix de coco fraîche (90 %), eau, épaississants (gomme de xanthane, gomme de guar et carraghénanes)', '25', '23', '2', '2', '0.5', '2.3', '0.08', '0.031496062992126', '', '1');
+VALUES ('8101241208018', 'Barilla', '', 'https://static.openfoodfacts.org/images/products/810/124/120/8018/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303221012', 'Crème de coco', 'Crème de coco 99,7% (extrait de noix de coco, eau), Stabilisants (E466 et E415)  ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('810165018354', 'Yum Earth, Gummy Bears, Pomegranate Pucker, Mango Tango, Perfectly Peach & Strawberry Smash', 'Organic rice syrup, organic cane sugar, gelatin, dextrose, organic tapioca starch, citric acid, white grape juice from concentrate, ascorbic acid, natural flavors, carrot juice from concentrate, blueberry juice from concentrate, saffron, annatto, purple c', '', '0', '0', '70.42', '42.25', '0', '7.04', '0.05334', '0.021', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303239505', 'Kara Coconut Cream Powder', 'Ingredients: Coconut extract (80%), hydrolysed starch, dairy milk protein and tricalcium phosphate (E341) ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8102852990965', 'Leche saborizada', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303245124', 'Coconut mango+fruitice', '', '3.5', '3.1', '16.9', '10.3', '', '0.5', '0.226', '0.0889763779527559', '', '1');
+VALUES ('8102861807407', 'Pom’Curv', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303245148', 'Smooze Fruit Ice, Pink Guave Und Coconut', '', '2.2', '2', '11', '10.4', '', '0.3', '', '', '', '1');
+VALUES ('81029102115', 'Chocolate chip cookies', 'semi-sweet chocolate (sugar, chocolate ...., cocoa butter, milk fat, soy lecithin (an emulsifier), vanilla, natural flavor), unbleached flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid, malted barley flour), butter, cane sugar, brown cane sugar, eggs, baking soda, salt, vanilla extract', 'https://static.openfoodfacts.org/images/products/810/291/021/15/front_en.6.400.jpg', '25', '13.9', '61.1', '38.9', '0', '5.56', '1.34', '0.528', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303245162', 'Smooze fruit ice simpky coco', 'Coconut milk 80%, natural cane sugar, maltodextrin, fructose, stabdisers (tara gum, xanthan gum), natural flavour. salt', '5.1', '4.6', '13.5', '10.9', '0', '0', '0.00317', '0.00124803149606299', '', '1');
+VALUES ('8103175880018', 'Moutarde de Dijon fine & forte', '', '', '12', '0.7', '4.4', '2.3', '', '7.1', '6.3', '2.48031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303245551', 'Smooze!', 'Coconut miik 70%, banana puree 17%, natural cane sugar, natural flavour, tara gun, fruit pectin, citric acidi ascorbic acid (vitamin C). natural beta-carotene (colouring).', '4.7', '4.4', '19.3', '18', '', '0.8', '0.075', '0.0295275590551181', '', '1');
+VALUES ('8103187875323', 'Nocciolata', '', '', '38', '6', '53', '51', '', '7', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303280057', 'Coco (100% Coconut Water)', '', '0', '0', '4.4', '3.4', '0', '0.4', '0.14', '0.0551181102362205', '', '1');
+VALUES ('8103900277118', 'Protein Bar', 'Dairy protein blend [whey protein isolate, milk protein isolate, whey protein crisp (whey protein isolate, whey protein concentrate, tapioca starch, calcium carbonate, sunflower lecithin)], greek yogurt flavored coating [sugar, fractionated palm kernel oi', '', '14.29', '5.56', '41.27', '12.7', '15.9', '31.75', '0.6858', '0.27', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886303870838', 'Lait de coco UHT CLASSIC', 'Extrait de noix de coco (90%). eau, épaississants (gomme Xanthane, gomme guar, Carraghenanes)  ', '17.6', '15.7', '2.1', '1.8', '0.2', '1.6', '0.019558', '0.0077', '', '1');
+VALUES ('8104749017212', 'Pur jus', '', '', '0', '0', '8.3', '7.6', '', '0.6', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886311101634', 'Teh Tarik', '', '1.7', '1.7', '11.2', '8.3', '', '0.3', '0.13', '0.0511811023622047', '', '1');
+VALUES ('81061662', 'Organic Apple Cider Vinegar', 'Organic pasteurized, unfiltered apple cider vinegar diluted with water to 5% acidity.', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886323522809', 'Xo kaya', 'Sugar, Eggs, Coconut Milk, Isomalt, Pandan Juice, Starch(E1dd2) Qitains 25% sugar Nian regular kaya Nett Wt: 270am', '7.7', '6.9', '59.4', '38.8', '0', '6.8', '0.6', '0.236220472440945', '', '0');
+VALUES ('8108561859401', 'bière', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886350061203', 'PT Ready-to-cook Kit For Singapore Curry', 'SINGAPORE CURRY PASTE (HEAT STERILISED) VEGETABLE 011 (PALM OLEIN)I WATER, SHALLOTI CURRY POWDER (CORIANDERÎ CHILLII FENNEC DHAL, TURMERICI CUMIN, BLACK PEPPER, CINNAMON, STAR ANISE, CLOVE, CARDAMOM), GALANGALÎ SALTI CANDLENUT, DRIED CHILLIÎ GARLICÎ LEMON GRASSI TURMERIC, GINGE SUGARI SPICS, SHRIMP PAS SALT) SINGAPO CURRY PREMIX(DEHYDRATE OCONUT MILK POWDER (cocÔNUT MILK SOLIDS, MALTODDffRlN, SODIUM CASEINATE), SUGAR/ SALTI YEAST D(TRACT THIS PRODUCT CONTAINS: CRUSTACEANS, TREE NUTS, MILK PRODUCTS MANUFACTURED ON EQUIPMENT', '42.1', '30', '9.1', '5.7', '2.9', '6.6', '1.414', '0.556692913385827', '', '0');
+VALUES ('8110641546415', 'Coca-Cola', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886350067946', 'Prima Taste - Singapore Fish Soup La Mian (premium Noodle In Aromatic Fish Soup) 154G', 'BOUILLON {EAU/ ARÊTE DE POISSON OIGNON, SOJA, POULET, GINGEMBRE/ ANCHOIS DÉSHYDPATÈ (POISSON) SEL SUCRE CIBOULE, RIZ POIVRE BIANC)I LAIT CONCENTRE (OLÉINE DE PALME) STABILISATEUR (CARRAGHÉNANE), DE SODIUM), PALMITATE DE VITAMINE VITAMINE D31t - (OLÉINE DE PALME), HUILE .NOUlt-u--(JMlAN (64%) FARINE DE BLÉ, SEL, RÉGULATEURS SODIUM, PHOSPHATE DISODIQUE) AVIS ALLERGIQUE: POUR ALLERGÈNES, Y DU GLUTEN, VOIR LES INGRÉDIENTS EN CARACTÈRES GRAS CE UN ATELIER UTILISANT DES ARACHIDES, CRUSTACÉS, MOLLUSQUES À BASE D\'ŒUFS. * CE PRODUIT CONTIENT DU GLUTMIATE NATUREL', '3', '1.5', '50.3', '3.1', '1.8', '10.2', '2.7', '1.06299212598425', '', '0');
+VALUES ('8111502894348', 'Yaourts Nature', '', 'https://static.openfoodfacts.org/images/products/811/150/289/4348/front.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886350068127', 'Juzz\'s mee', '', '21.8', '11.6', '51.4', '6.1', '', '8.8', '3', '1.18110236220472', '', '0');
+VALUES ('8111660100763', 'Sucre a la vanille bourbon', 'sucre, arôme naturel de vanille Bourbon, poudre de vanille Bourbon (0,1%), amidon de maïs.  ', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886367902025', 'Peche rouge', '', '0', '0', '0', '0', '', '0.6', '12', '4.7244094488189', '', '0');
+VALUES ('8111681061586', 'Sables chocolat noir intense', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390200013', 'Ahg 50 G Würzpaste Für Thailändisches Rotes Curry', 'huile de soja, ail, poivre de cayenne, échalotes, sucre, citronnelle, sel, galanga, jus d\'ananas, crevettes séchées sauce de poisson (extrait d\'anchois, sel, sucre), zeste de kaffir lime, herbes et épices.', '19', '3.1', '21', '17', '7.9', '4.9', '8.2', '3.22834645669291', '', '0');
+VALUES ('81117185', 'Knorr Original Vlees / Viande', '', 'https://static.openfoodfacts.org/images/products/81117185/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390200020', 'Ahg 50 G Würzpaste Für Thailändisches Grünes Curry', 'piment vert, citronnelle, ail, échalotes, sel, galanga, sauce de poisson (extrait d\'anchois, sel, sucre), feuilles de basilic, poivre blanc, pâte de crevettes (crevettes, sel), zeste de kaffir lime, cumir coriandre.', '1', '0.3', '7.7', '7.6', '4.7', '3.7', '9.8', '3.85826771653543', '', '0');
+VALUES ('811201020419', 'Crispy Seaweed Strips', 'Seaweed, glutinous rice flour, sesame seed, rice flour, organic coconut sugar, organic extra virgin olive oil, sesame oil, tapioca starch, isomalto-oligosaccharide, sea salt.', '', '15', '0', '30', '10', '0', '10', '1.651', '0.65', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390200044', 'Pad Thai Noodles Spice Paste', 'Sucre. de soja, sauce de poisson (exftralt d\'anchois. El, sucre), ajl, radis sucré (radis, sucre). paprika, tamarin, sel, vinaigre naturel, correcteuf d\'acidité: acide citrique.', '10', '1.9', '32', '27', '7.5', '3.2', '8.8', '3.46456692913386', '', '0');
+VALUES ('811206021277', 'The Sprouted Flour, Yellow Cornmeal Flour', 'Organic yellow cornmeal', '', '3.03', '0', '84.85', '0', '15.2', '6.06', '0.0762', '0.03', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390200129', 'Ahg Spice Paste For Thai Panaeng Curry,50G', 'citronnelle, échalotes, piment rouge, ail, sel, galanga, arachides rôtis, zeste de combava, pâte de crevettes (crevettes, sel), herbes et épices.', '4.1', '2.4', '7.3', '7.2', '8.2', '6.1', '11', '4.33070866141732', '', '0');
+VALUES ('81120703', 'Heineken', 'Water, Malted Barley, Hops', 'https://static.openfoodfacts.org/images/products/81120703/front.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390202031', 'Tikka Masala Indio 12x50GR', 'concentre de tomate, huile de soja, vinaigre naturel, oignon, sel, gingembre, ail, coriandre, piment, fenugrec, cumin, herbes et épices, colorant: extrait de paprika, curcumine.', '16', '2.3', '8.6', '5.5', '7', '3.7', '11.5', '4.52755905511811', '', '0');
+VALUES ('8112470002520', 'All-Bran Fruits\'n Fibre', '_Blé_ complet (68%), fruits secs (28%) [raisin, noix de coco, banane (banane, huile végétale (noix de coco), sucre, arôme), pomme, _noisettes_], sucre, sel, arôme de malt d\'_orge_. Vitamines et minéraux.', 'https://static.openfoodfacts.org/images/products/811/247/000/2520/front.3.400.jpg', '6', '3.5', '69', '24', '9', '8', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390202079', 'Pollo Con Mantequilla Indio 12x50GR', 'concentré de tornates, huile de soja, oignon, sel, sucre. Coriandre moulu, piments rouges, ail, Vinaigre naturel, gingembre, herbes et epices. poivre de cayenne, poivre. correcteur d\'acidite: acide Citrique.', '16', '2.4', '6.3', '6.2', '4.2', '8.3', '8.5', '3.34645669291339', '', '0');
+VALUES ('8112470005071', 'Extra', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390203069', 'Stir-Fried Rice Spice Paste', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8112871938008', 'M&m’s', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390203076', 'Ahg 50 G Szechuan Scharf Saure Suppe', 'sauce de soja (eau, sel, fèves de soja, blé, sucre), sucre, piment, protéine végétale hydrolysée (soja, maïs, blé), sel, oignons, vinaigre naturel, champignons séchés, amidon de tapioca modifié, maltodextrine, colorant: E150c.', '0.5', '0.1', '21', '19', '8.7', '5.1', '17.2', '6.77165354330709', '', '0');
+VALUES ('8112881740349', 'Farine de Quinoa', 'Farine de quinoa bio.', 'https://static.openfoodfacts.org/images/products/811/288/174/0349/front.3.400.jpg', '1.5', '0', '80', '0', '3.5', '4', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886390203137', 'Prep. Nouille Chow Mein Cantonai Ahg', '', '13', '2.1', '9.2', '8.2', '', '2.9', '16.3', '6.41732283464567', '', '0');
+VALUES ('8114311017717', 'Gâche en Tranches (Pur beurre et à la crème fraîche)', 'Farine de blé (_gluten_), _œufs_ frais, sucre, _beurre_ 12.6 %, _crème_ fraîche 6.8 %, _levain_, levure, sel, arôme. Dorure : _œufs_. ', 'https://static.openfoodfacts.org/images/products/811/431/101/7717/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100017', 'Original', '', '27.9', '12.3', '14', '0.4', '', '5.1', '0.469', '0.184645669291339', '', '1');
+VALUES ('8114840005445', 'Dattes', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100024', 'Pringles Sour Cream & Onion', 'Sour Cream & Onion flavour. Potato Crisps • (dextrose, salt, whey, onion, flavour enhancer (monosodium glutamate, Le), bute( yeast eftact, natural and artificial flavours, sour cream (sour cream, mik aca soy), rice flour, emulsifier (mono- and diglycerides of fatty acids (vegetab!e lànsfood allergen: cereals containing gluten (Wheat), milk and soy, and their : Manufactured by: Super Food Technology Sdn, Bhd„ Lot 7648, Jalan SINGAPORE\'. Centurion Marketing Pte. Ltd., No. 2 Enterprise Road, SiV? (erepek Kentang Ramuan: Kentang kering, minyak sayuran (oleiasc:: SlJStl, bawang, mentega (mengandungi SIISIJ), krim Mengandungi mononatrium L-glutarnat dan ekstrak yis sebagaÎ Pemekat, pengawal asid, pengemulsi dan agen antikempal sebagûl Produk buatan Malaysia Dikilangkan oleh: Super Food Malaysia Diedarkan di Malaysia oleh Delfi Marketing Sdn. Bhi 5123 3300', '28', '13', '63', '1.6', '4.3', '5.5', '4.4', '1.73228346456693', '', '0');
+VALUES ('8114840005520', 'Dattes Deglet Nour', 'Dattes.', '', '0.2', '0.1', '68', '68', '', '3.3', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100048', 'Pringles Potato Chips BBQ 110 G', '', '', '13.7', '', '3.9', '5.3', '6.2', '0.52', '0.204724409448819', '', '1');
+VALUES ('8115460010017', 'Ail & Fines Herbes (40% MG)', '_lait_ et _crème_ pasteurisés, ferments lactiques, ail et fines herbes 1,6 %, sel 1,3 %, poivre.', 'https://static.openfoodfacts.org/images/products/811/546/001/0017/front.10.400.jpg', '40', '', '3', '', '', '8.5', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100062', 'Pringles Potato Chip Seaweed Flavoured 110 G.', '', '8', '3.5', '1', '1', '', '15', '3.5', '1.37795275590551', '', '0');
+VALUES ('8115580276812', 'Taboulé oriental', '', '', '9.3', '0.81', '25.1', '2.9', '', '4.5', '0.93', '0.366141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100154', 'Pringles Pizza Potato Crisps 110G', 'dried potato, vegetable oil (palm olein), Wheat starch, pizza flavour (salt, milk solid, dextrose, onion, garlic, flavour enhancers (monosodium glutamate, L-, disodium inosinate, 51-, disodium guanylate, 51-), sugar, cheese solids (milk, starter culture, enzyme, salt), acidity regulator (malic acid, lactic acid, acetic acid), spices (fennel, star anise, black pepper), herbs (ground basil, ground oregano), natural and artificial flavours, spice extracts (paprika, green onion), yeast extract, buttermilk powder, artificial partially (allura red), colour hydrogenated soybean oil, modified maize starch), rice flour, emulsifier (mono- and diglycerides of fatty acids (vegetable origin)), acidity maltodextrin, dextrose, regulator (citric acid). This product contains food allergeil.? cereals containing gluten (wheat), milk and soy, and their products thereof Expiry date: See bottom of the DD.MM.YYYY MADE IN MALAYSIA Manufactured by: Super Food Technology Sdn. Bhd? Lot 7648, Jalan Permas Barat Mukim Plentong, 81750 Masai, Johor, Malaysia Imported and Distributed by: SINGAPORE: Centurion Marketing Pte. Ltd., No. 2 Enterprise Road, Singapore 629814 :+65 6515 3785', '30.2', '14.4', '58.3', '2.8', '5.5', '5.9', '0.631', '0.248425196850394', '', '0');
+VALUES ('8115681133717', 'Soja du Sud-Ouest Spécial Cuisine', 'Jus de _soja_* 87% (eau, _soja_* dépelliculé 6,8%), huile de tournesol*, émulsifiant : gomme arabique*, épaississants : gomme xanthane, carraghénanes, sucre de canne* non raffiné. Soja sans OGM. *Ingrédients issus de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/811/568/113/3717/front.5.400.jpg', '12', '1.5', '3.4', '1.2', '0.4', '3.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100260', 'Pringles Original 47G', '', '4', '1', '2', '0.4', '', '2', '', '', '', '1');
+VALUES ('81166302124', 'Mild Salsa', 'Tomatoes (vine ripened tomatoes, tomato juice, salt, calcium chloride, citric acid), crushed tomatoes (vine ripened tomatoes), onions, green bell peppers, red bell peppers, distilled white vinegar, cilantro, garlic, jalapeno, sugar, corn starch, kosher sa', '', '0', '0', '10', '3.33', '0', '0', '1.016', '0.4', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100352', 'Pringles original', '', '31.6', '13.9', '60', '0.4', '', '5.2', '0.8', '0.31496062992126', '', '1');
+VALUES ('81166302126', 'Salsa', 'Tomatoes (vine ripened tomatoes, tomato juice, salt, calcium chloride, citric acid), crushed tomatoes (vine ripened tomatoes), jalapeno, onion, green bell peppers, serrano peppers, red bell peppers, distilled white vinegar, cilantro, chipotle sauce (chipo', '', '0', '0', '10', '3.33', '0', '0', '0.93218', '0.367', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100369', 'Pringles Sour Cream And Onion', 'Pomme de terre déshydratée, huile végétale (oléine de palme (deïG (gluten), arôme crème aigre et oignon (5,5 %) (dextrose, sel, lactosérum maftodextrine, L?glutamate monosodique (exhausteur de goût), arôme (lait de v de Silicium (antiagglomérant), huile végétale (palmiste, noix de coco) (fruit à tülcique, lactate de calcium (régulateurs dacidité), gomme arabique émulsifiant E 471 (dorigine végétale), maltodextrine, dextrose, acide citrique (gl±), lait de vache, gprme de soja, noix de coco (fruit à coque), A DD.MM.YYYY FABRIQUE EN MALAISIE. Fabriqué par : Super Food Mukim Plentong, 81750 Masai, Johor, Malaisie. Importé par : MAYOTTE/REUN!ONV 21182 97829 Le cedex MADAGASCAR SICMA Bâtiment Partagé : MAYOTTE/RÉUNION +262 262 42 71 00', '29.7', '13', '61.9', '2', '4.3', '5.4', '1', '0.393700787401575', '', '0');
+VALUES ('8118857527211', 'Crème glacée rhum raisin', '', '', '6.1', '4.1', '27', '22', '', '2.5', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467100383', 'Pringles Salt And Vinegar', '', '30', '14.5', '56', '2.4', '', '4.2', '2.3', '0.905511811023622', '', '0');
+VALUES ('8120860032316', 'Sucre de canne', '', 'https://static.openfoodfacts.org/images/products/812/086/003/2316/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467102394', 'Original', '乾燥馬鈴薯, 棕櫚油, 小麥澱粉, 米粉, 水, 乳化劑(脂肪酸甘油脂) (E471), 調味粉(鹽, 糖, 麥芽糊精, 酵母萃取物, 磷酸鈣, 二氧化矽, 5\'-鳥嘌呤核甘磷二酸鈉, 5\'-次黃嘌呤核甘磷二酸鈉, 棕櫚油, 香料), 麥芽糊精, 葡萄糖, 調味劑(檸檬酸)', '30.4', '13.3', '57.2', '0.7', '3.5', '7.3', '0', '0', '', '1');
+VALUES ('8121340000542', 'Bio bis Epeautre', 'farine d\'épeautre de canne brut*, graisse de palmet poudre de cacao* fortement %), amidon de maïs*s sirop de riz*, poudre à lever: bicarbonate de sodium, sel marim vanille Bourbon* *issu deragriculture biologique Peutcontenirdes tracesdefrUit cogue;de sojaet desesame.', '', '22', '10', '63', '26', '0', '7.5', '0.4', '0.15748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467103421', 'Pringles Sour Cream and Onion', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8124750122293', 'Real Aloe Vera Juice', 'Water, aloe vera juice, aloe vera pulp, cane sugar, peach juice, watermelon juice, citric acid, vitamin c (ascorbic acid), natural flavors (watermelon and peach), grape skin extract.', '', '0', '0', '7.08', '7.08', '0', '0', '0.03048', '0.012', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467103469', 'Pringles BBQ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8125681060524', 'Sablés Miel, saveur citron & sarrasin', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467104480', 'Tortilla Corn Chips - Cheese Supreme', '', '29.2', '2.8', '59.2', '3.2', '2.4', '6', '1.7', '0.668', '', '0');
+VALUES ('8125681110106', 'germe de blé', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467106569', 'Pringles Jalapeno Flavour', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8125681117860', 'Pain complet de seigle', '', '', '2.8', '0.5', '35', '2.2', '', '4.9', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467106576', 'Pringles Green Curry Flavour', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8125681139947', 'Envia Beurre tendre demi-sel', '', '', '80', '55', '0.5', '0.5', '', '0.7', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886467108839', 'Pringles マヨチーズ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8130880051228', 'Vannamei Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '', '1.19', '0', '0', '0', '0', '21.43', '0.57404', '0.226', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8886703210203', 'Creme de coco', '', '25', '23', '2', '2', '', '2.3', '0.08', '0.031496062992126', '', '1');
+VALUES ('813090000000', 'Habanero Hot Sauce, Pineapple & Orange', 'Crushed pineapple, orange juice, mango puree, distilled vinegar, apple sauce, lemon juice, soy sauce (water, non-gmo soybeans, wheat, salt), pure honey, habanero peppers, roasted garlic, spices and salt.', '', '0', '0', '13.33', '13.33', '0', '0', '0.508', '0.2', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88870025956', 'Turkey Meatballs', 'Turkey, water, onions, mechanically separated turkey, textured soy flour, seasoning (dehydrated onion, maltodextrin, sugar, spices, garlic powder, parsley), bread crumbs (wheat flour, salt, and yeast), soy protein concentrate, salt.', '11.76', '3.53', '5.88', '1.18', '2.4', '15.29', '1.4351', '0.565', '', '0');
+VALUES ('8131311807407', 'Biscottes 6 cereales', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88870026465', 'Chicken, Broccoli & Cheddar Cheese With Orzo Pasta', 'Chicken (chicken breast with rib meat, chicken thigh meat, water, rice starch, salt), water, enriched orzo pasta (water, semolina, egg white, niacin, ferrous sulfate [iron], thiamine mononitrate, riboflavin, folic acid), cheddar cheese ([pasteurized milk,', '9.39', '4.9', '8.16', '0.82', '0.8', '9.8', '1.14046', '0.449', '', '0');
+VALUES ('8131789607165', 'Evening Dream 60% Cacao', '', 'https://static.openfoodfacts.org/images/products/813/178/960/7165/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8887127112012', 'Base Bouillon Au Champignon Po Lo Ku 500G', '', '0.4', '0.13', '48.54', '13.08', '', '7.49', '12.8', '5.03937007874016', '', '0');
+VALUES ('8131861540410', 'Extreme Mini', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8887219200603', 'Natural Coconut Milk', '', '20', '18', '3.5', '3', '', '2.5', '0', '0', '', '1');
+VALUES ('8132402839888', 'Bretzels d\'Alsace ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8887255134207', 'Nouilles oeufs', '', '1', '0', '82', '4', '', '14', '2', '0.78740157480315', '', '0');
+VALUES ('8132734888677', 'Boudin Blanc nature', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8887290101004', 'Мяу кофе три в одном', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8132874887318', 'Mini Babybel', '_Lait_ 98%, sel, ferments lactiques, coagulant.', '', '23', '15.5', '0', '0', '', '21.5', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8887361212134', 'Organic Mulberries', 'name for itscetf in dried fruits, nuts S items in Singepcre S soutn . Our commatme rest quality ,2\'id bd,', '0.5', '0', '0.1', '0.1', '', '0.1', '0.2', '0.078740157480315', '', '1');
+VALUES ('8133357475169', 'Rice', 'Precooked long grain rice, wheat flour, hydrolyzed protein (corn, soy and wheat), onions*, salt, carrots*, sugar, monosodium glutamate, yeast extract, potassium chloride, natural flavor (contains milk), caramel color, beef broth, ferric orthophosphate, ga', '', '0.89', '0', '75', '3.57', '1.8', '8.93', '2.67716', '1.054', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888001789658', 'Thé de chrysanthème', 'Eau, extrait de chrysanthème (12%), sucre de canne, colorants : E102 & E110 (peuvent causer des troubles de l\'attention et du comportement chez les enfants).', '0', '0', '7', '7', '0', '0', '0', '0', '', '1');
+VALUES ('813724020104', 'Watkins, Gourmet Seasoning, Chipotle Lime', 'Lime juice powder (maltodextrin, lime juice and lime oil), chipotle pepper, salt, sugar, and more than 2% silicon dioxide to prevent caking.', '', '0', '', '100', '', '', '0', '13.97', '5.5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888002066000', 'Schweppes Dry Ginger Ale Drink 330ML', 'CARBONATED WATER, SUCROSE, HIGH FRUCTOSE CORN SYRUP, CITRIC ACID, FLAVOURING, SODIUM ClTRATE, PRESERVATIVE (SODIUM BENZOATE) AND CARAMEL COLOUR', '0', '0', '9.1', '9.1', '', '0', '8', '3.1496062992126', '', '0');
+VALUES ('8137264957381', 'Tagliatelle', '', '', '2.6', '0.7', '12.6', '3.8', '', '62.1', '3.4', '1.33858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888002119430', 'Ayataka', '', '0', '0', '0', '0', '', '0', '8', '3.1496062992126', '', '0');
+VALUES ('8140162540470', 'Soupe repas', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888002237479', 'Vitaminwater', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8140740031604', 'Party Fizz', '@ASSORhlENT DEiaVfS€RlES GÉLIFIÉES AROMATISÉES, INGRÉDIENTS de glucose-fruc ose, Sucre$étatine, Amidon modifié, Acidifiants (Acide citrique, Acide lactique, Acide malique), Côlbraflts(E100, El 20, El 31 , El 33, El El Goa, El El 70), Correcteur d\'acidité (Malates de sodium), Arômes, Denrées alimentaires colorantes (Concentré Carthame, Patate douce, Pomme, Cerise, Cassis).', '', '0', '0', '79.1', '65.2', '0', '4.6', '0.21', '0.0826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003041228', 'Brioche Pandan 300G - Surgeles', '', '0.6', '0.4', '58.9', '9.3', '', '7.2', '0.027', '0.0106299212598425', '', '1');
+VALUES ('8141681037854', 'Tartines craquantes sarrasin', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003071225', 'Peking duck wrapper', '', '3.7', '0.599', '51.9', '1.4', '', '7.9', '0.145', '0.0570866141732283', '', '1');
+VALUES ('8141681188389', 'miel Oranger', '', '', '0', '0', '81', '79', '', '0.4', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003111105', 'Asian soft braid', '', '6', '1.1', '40.7', '1.5', '', '6.9', '1.1', '0.433070866141732', '', '0');
+VALUES ('8142002635094', 'Préparation flan vanille bio', 'Amidon de maïs*, extrait de vanille biologique (15%), gélifiants : carraghénanes, agar agar. *ingrédients agricoles issus de l\'Agriculture Biologique.', 'https://static.openfoodfacts.org/images/products/814/200/263/5094/front.5.400.jpg', '0.3', '', '86.9', '', '', '0.3', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003125508', 'Galette De Blé 50F 250G - Surgeles', '', '4.9', '3.9', '58.4', '1.4', '', '7.4', '0.94', '0.37007874015748', '', '1');
+VALUES ('8142005650063', 'Sucre de fleur de cocotier ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003190506', 'Spring Home Spring Roll Sheets', '', '4.9', '3.9', '58.4', '1.4', '', '7.4', '0.94', '0.37007874015748', '', '1');
+VALUES ('8143433274937', 'Panettone Traditionnel', '', '', '14.5', '8.6', '48.1', '23.2', '3.3', '6.7', '0.499999999999999', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003215209', 'Tyj spring roll pastry', 'farine de eau, huile de coco, sel Produit surgelé Conserver à -1 BOC 20 feuilles produit en: Singapour', '4.9', '3.9', '58.4', '1.4', '', '7.4', '0.95', '0.374015748031496', '', '1');
+VALUES ('8144308701817', 'Lisa\'s Gloriously Garlic Hummus', '', 'https://static.openfoodfacts.org/images/products/814/430/870/1817/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003215407', 'Feuille de bick chinoise', '', '4.9', '3.9', '58.4', '1.4', '0', '7.4', '0.9', '0.354330708661417', '', '1');
+VALUES ('8148660012680', 'Crunchy Corn Treats', 'Corn (99%), (Contains one or more of the following: Olive Oil and Hydrogenated _Soybean_ Oil), Salt', 'https://static.openfoodfacts.org/images/products/814/866/001/2680/front_en.7.400.jpg', '11.5', '2.1', '69.9', '0.3', '6', '7.6', '0.000762', '0.0003', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003250309', 'Tyj Spring Roll Pastry', '_Wheat_ Flour (48%), Water, Coconut Oil, Salt ', '4.9', '3.9', '58.4', '1.4', '0.8', '7.4', '0.95504', '0.376', '', '1');
+VALUES ('8150034274549', 'Trio de poivrons', 'LE OOUPARGEL MÉLANGE DE POIVRO VERTS ET JAUNES EN SURGELÉ. • (pourcent- ages minimum) : poivrons rouges (27,2 0%), poivrons verts (26,4%), poivrons jaunes (26,4%). PRODUIT CERttFìÉ VECONATUR Pour', '', '0.5', '0.1', '4.7', '4.2', '1.2', '0.9', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003320019', 'Glutinous Rice Ball Red Bean Paste Filling', 'Riz gluant (39 %), eau, sucre, pâte d\'haricot rouge (7 %) (sucre, haricots rouges, huile de palme), graisse alimentaire (RBD huile de palme, émulsifiant: E471 antioxygène : E320), amidon de maïs modifié, farine de _blé_, émulsifiant: E471.', '12.5', '7.8', '48', '10.7', '', '3.83', '0.015', '0.00590551181102362', '', '1');
+VALUES ('8150034275003', 'Duo de carottes', '', '', '0.5', '0.1', '4.7', '4.2', '', '1', '0.06', '0.0236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003320026', 'Boulette Sésame 200G - Surgeles', 'Ingrédients : riz gluant(39%), eau, sucre, graisse alimentaire(RBD huile de palme, émulsifiant: E471, antioxygène: E320), sésame(9%), amidon de maïs modifié, farine de blé, émulsifiant: E471', '19.9', '10.2', '46.3', '10.8', '0', '4.84', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8150260100247', 'Tomates entieres pelees', '', '', '0.1', '0', '3', '3', '', '1.1', '0.075', '0.0295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003320033', 'Boulette Cacahuète 200G - Surgeles', 'riz gluant(39%), eau, sucre, cacahuètes(ll %), graisse alimentaire(RBD huile de palme, émulsifiant: E471, antioxygène: E320), amidon de maïs modifié, sésame, farine de blé, émulsifiant: E471 Conserver à -180C Produit en Singapour', '21.5', '10.9', '45.2', '10.7', '', '7.4', '0.015', '0.00590551181102362', '', '1');
+VALUES ('8150340000566', 'Bio bis', '15B}sèVitsfourrèScrème. :dqgeao (20%) ë\'ngrédients:farine de froments sucre de canne brut*, graisse de palme*, sirop de froment*, fortement dégraissé (2,3 0%), Namidon de maïs*, poudre à lever: S$bìçarbonatede sodium, sel marin, •ss del\'agriculture biologique ut\\conEenirdestracesdefrUit desO;aet A conserver au frais et au sec.', '', '20', '8.9', '67', '25', '', '6.1', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003652400', 'Crêpe Blé Roti Paratha', 'Farine de Eau, Margarine Végétal[Huile de palme, Eau, sels Emulsifiant(E471, E475), Arôme de Romarin Naturel, Aroma de Beurre), Sucre, Sel, Agent de El 700), Amidon de Maïs, Conditions de stockage: Garder congelé à -1 BOC', '16.2', '11.4', '37.8', '3.9', '1.5', '6.1', '1.19', '0.468503937007874', '', '0');
+VALUES ('81505511181', 'Vietnamese Fresh Spring Roll Kit', 'Rice paper ingredients: tapioca flour, rice flour, salt, vietnamese garlic chili sauce ingredients: water, salt, cane sugar, chili, garlic, tomato paste, tapioca starch, xanthan gum, vitamin c, paprika, vietnamese garlic chili fish sauce ingredients: wate', '', '1.18', '0', '52.94', '4.71', '1.2', '1.18', '2.00152', '0.788', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888003653209', 'Crepe Blé Oignon Roti Paratha (5P. )', 'Farine de Eau, Margarine Végétal[HuiIe de palme, Eau, Sel, Emulsifiant(E471 , E475), Arôme de Romarin Naturel, Aroma de Beurre], Oignon(5%), Su?e, Sel, Agent de Levage [E500(ïl), E170(l), E450(i), Amidon de Maïs, E341 Conditions de stockage: Garder congelé à -180C Produit de: Singapour', '17', '12', '37.1', '4.7', '0.7', '6.5', '1.24', '0.488188976377953', '', '0');
+VALUES ('8151260016220', 'Sirop d\'Erable', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888007100129', 'Sesamöl 250ML (100% Rein)', 'huile de graines de sésame blanc rôti. Net Contents/l! tto Inhalt/ Nettolnhoud/(cntenu Net: 5 Oml eae Importeur: Heuschen & Schrouff OFT B.V, ArtNr: 10514 P. O. Box 30202.6370 KE Landgraaf- Version AAG sales@heuschenschrouff.com/ Store in a dry place / trocken lagern / droog bewaren / tenir au sec Best before: See imprint on cap / Mindestens haltbar bis: siehe Verschluss [Ten minste houdbaar tot: zie dop / A consommer avant le: voir sur le couvercle Product of Singapore / hergestellt in Singapur / geproduceerd in Singapore / produit en Singapour 8 888007 100129', '91', '14', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('8151681328098', 'Galettes Épeautre & Boulgour aux petits légumes', 'Boulghour de blé précuit 44,3%, épeautre précuit 13,5%, huiles végétales (tournesol oléique et tournesol), carottes 6,2%, oignons 5,0%, flocons de blé complet, flocons d\'avoine complets, concentré de tomate, poivrons rouges 3,4%, farine de riz, céleri rave 1,4%, ail*, raisins secs, sel marin, gluten de blé, épices (cumin, curcuma, coriandre, gingembre, cannelle, fenugrec, poivre, girofle, muscade). ', '', '10', '1', '26', '3.6', '6.2', '5.7', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888007100310', 'Sesame Oil 750ML Chee Seng', '', '91', '14', '4', '1', '', '1', '', '', '', '0');
+VALUES ('8151681713788', '4 galettes son d\'avoine nature', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888010101762', 'Australian Oat Soft Grain', '', '2.8', '1.2', '36.4', '10', '', '10.8', '0.3', '0.118110236220472', '', '1');
+VALUES ('8151771870001', 'tartine au blé complet', '', 'https://static.openfoodfacts.org/images/products/815/177/187/0001/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888010101809', 'Premium Extra Grain', '', '', '1.2', '', '33', '6', '9.2', '3.6', '1.41732283464567', '', '0');
+VALUES ('8154030101625', 'Monsters high ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888026256012', 'Yoghurt non fat mixed berries', 'Milk solids, berry blend (sucrose, strawberry, blueberry, raspberry puree), permitted flavouring, potassium sorbate), permitte stabiliser, tricalcium phosphate, live cultures (Streptococcus thermophilus and Lactobacillus bulgaricus).', '0.08', '0.08', '14.4', '', '0.24', '4.32', '0.169', '0.0664', '', '1');
+VALUES ('8154030104169', 'Ali kazan    Ali hussein iman rayan lynn kazan', 'JDhr', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888026263003', 'Yoghurt low fat peach', 'Milk solids, peach blend (peach, sucrose, permitted flavouring, citric acid, ascorbic acid, potassium sorbate), permitted stabilised, live cultures (Streptococcus thermophilus and Lactobacillus bulgaricus)', '1.8', '1.1', '20.4', '', '0.5', '4.6', '0.17526', '0.069', '', '1');
+VALUES ('815585002523', 'Key West Pink Peeled & Deveined Shrimp', 'Shrimp, sodium bisulfite (as a preservative), sodium tripolyphosphate (to retain moisture).', '', '0.89', '0', '0', '0', '0', '16.07', '0.29464', '0.116', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888026432812', '100% juice orange', '', '0', '0', '10.4', '8.8', '', '0.8', '0.001', '0.000393700787401575', '', '1');
+VALUES ('81571201284', 'Beef & Ale Stew', 'Water, beef (beef brisket, water, salt, spice), potatoes, beer (water, hops, malt, yeast), carrots, onion, beef base (beef broth (beef stock, water, salt), beef fat, caramel color, flavor), green peas, contains 2% or less of cornstarch, enriched wheat flo', '', '2.4', '0.8', '7.2', '1.2', '0.8', '5.6', '0.97536', '0.384', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888026436025', 'Marigold 100% Pear Mixed Berries', 'WATER, PEAR, GRAPE & MIXED BERRIES (BLUEBERRY, RASPBERRY, CRANBERRY & MULBERRY) JUICE CONCENTRÂTES, VITAMIN C', '1', '1', '1', '1', '', '1', '11', '4.33070866141732', '', '0');
+VALUES ('8157980110723', 'Beurre de Cacahuète - Peanut Butter - Super Chunk', '', 'https://static.openfoodfacts.org/images/products/815/798/011/0723/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888026450069', 'Chrysanthemum Tea', '', '0', '0', '8.7', '8.1', '', '0', '0.006', '0.00236220472440945', '', '1');
+VALUES ('8158710118910', 'Rice cakes', '', '', '4', '4', '8', '6', '', '2', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888030035825', 'Shanghai Noodles', '', '0', '0', '73', '1.3', '', '13', '5.27', '2.0748031496063', '', '0');
+VALUES ('8160310867778', 'Ma pause fruit', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888047849996', 'Spicy green peas', 'Green peas ,Vegetable oil , Salt Sugar Chili, Food color additives (Lemon Yellow E102,Brillian Blue E133) Expiry Date:', '31.2', '20', '22.7', '1', '', '34.6', '0.523', '0.205905511811024', '', '1');
+VALUES ('816107013709', 'Marshmallow Hearts', 'Milk chocolate (sugar, whole milk powder, cocoa butter, unsweetened chocolate, soy lecithin (an emulsifier), vanilla), rice syrup, invert sugar, sugar, decoration (confectionary coating (sugar, palm kernel oil, nonfat milk powder, whole milk powder, whey', '', '20', '12', '56', '48', '4', '4', '0.1524', '0.06', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056540570', 'Koka Easy Cook Noodles 375G', 'EZY-COOK NOODLES Chinoises \'Nature 2 Minutes INGREDIENTS / INGRÉDIENTS I I Nood/es: wheat flour. palm oil, salt. Vouil/es: farine de blé. huile de palme, sel.', '9.2', '4.3', '27.8', '1.3', '1.3', '4.7', '0.4', '0.15748031496063', '', '1');
+VALUES ('81611089', 'Huile mediterranéenne', 'Extra Virgin Ofive Oi138%, \' 06 naturol flavour, Bos/ Ingrédients: Huile d Romarin 0,68 arome naturelle, Poivron Ail Rouge Aromatisiertes Wurzôl aus nativem Olivenôl extro (98 Basilikume Chilli, KPQblauch und Rosmarin. Zutaten: Natives Olivenôl extra Rosmarin 0 6% natürfiches Atonya, Basilikum 0 03%, (nÔlauth Da consumarsi preferibilmente entro it: be(ore: A consomerde préfére L3EY', '', '20', '0', '20', '0', '5', '0', '20', '7.8740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056540587', 'Nouilles chinoises nature ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8161480185143', 'May tea', '. Infusion de thé vert 94% (eau, Intense de thé vert), sucre, eau, : citrate de sodium, antioxydant : acide ascorbique, acide citrique', '', '0', '0', '4.8', '4.7', '', '0', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056603862', 'Nouilles chinoises instantanées à l\'orientale goût poulet', 'Nouilles 78 g : farine de blé, huile de palme, sel. Assaisonnement 7 g : Sel, E621, E627, E631, sucre, poudre d\'oignon, saveurs (contient soja), poudre d\'ail, poudre de champignon, oignons séchés, poivre, curcuma, gingembre, piment fort. Huile de palme.', '3.4', '1.6', '10.4', '0.5', '0.5', '1.9', '0.699999999999999', '0.275590551181102', '', '1');
+VALUES ('8162850018535', 'Antésite réglisse et menthe', '', 'https://static.openfoodfacts.org/images/products/816/285/001/8535/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056603916', 'KOKA Nudler M / Bøf Smag', '', '3.4', '1.6', '10.5', '0.7', '', '1.8', '0.6', '0.236220472440945', '', '1');
+VALUES ('8163152223641', 'Orange Drink From Concentrate, Orange', 'Filtered water, high fructose corn syrup and 2% or less of each of the following: concentrated juices (pear, apple, orange, pineapple, passionfruit), purees (papaya, guava), citric acid, natural and artificial flavors, potassium sorbate (preservative), as', '', '0', '', '8.75', '8.33', '', '0', '0.0381', '0.015', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056604012', 'The Noodle People', '', '16.6', '7.7', '50', '3', '', '9', '3.1', '1.22047244094488', '', '0');
+VALUES ('8165320016901', 'Crème de pruneaux', '', '', '0.9', '0', '55', '53', '5', '2', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056605101', 'Instant noodles', 'nouilles 74g (farine de blé tendre, huile de palme, sel) sauce d\'assaisonement 11g (sel, exhausteur de gout E621, arôme de homard artificiel, épices)', '3.4', '1.6', '1', '0.7', '0.5', '1.9', '0.8', '0.31496062992126', '', '1');
+VALUES ('816546012124', 'Mini Pies', 'Unbleached untreated wheat flour, mushrooms, red bell pepper, spinach, monterey jack cheese (pasteurized cow\'s milk, culture, salt, enzymes), water, skim milk, corn starch, vegetable broth (vegetable juices {tomato, mushroom, onion, carrot, celery, & sunf', '', '11.63', '5.81', '25.58', '0', '4.6', '6.98', '0.73914', '0.291', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056605606', 'Nouilles chinoises instantanées à l\'orientale goût crabe', 'Nouilles 78g : farine de blé,huile de palme,sel. Assaisonnement 7g : sel,E621,E627,E631,sucre,saveur(contient crevette,crustacés ),oignons séchés,poivre,poudre d\'ail,caramel(E150A),gingembre,piment fort,huile de palme.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('816680010610', 'Gelato', 'Milk, sugar, cream, skim milk, dextrose, vanilla extract, glucose, carob gum, vanilla beans, lemon zest.', '', '9', '6', '27', '25', '0', '4', '0.1524', '0.06', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056705603', 'Koka Nudler I Kop M / Bøfsmag', '', '3.3', '1.5', '10.5', '0.8', '', '1.8', '0.9', '0.354330708661417', '', '1');
+VALUES ('81668010259', 'Gelato', 'Milk, sugar, peanuts, cream, eggs, chocolate, coconut oil, dutched cocoa, dextrose, carob gum, salt, soy lecithin, vanilla, natural flavors.', '', '12.5', '6.73', '30.77', '28.85', '1', '4.81', '0.10922', '0.043', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056707218', 'Koka Pot Noodles Vegetable', 'Farine de blé, huile de palme, sel, sel, E621, sucre, oignon,  proténes de soja hydrolysées, chou, ciboulette, champignon extrait de levure, épices, carottes déshydratées, maïs, pois', '3.3', '1.5', '10.5', '0.8', '0.5', '1.8', '0.9', '0.354330708661417', '', '1');
+VALUES ('8167820784939', 'Lait d\'amande grillée original', '', '', '1.1', '0.1', '3', '3', '', '0.5', '0.14', '0.0551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056707607', 'Koka Nudler M / Tom Yam Smag', 'Noui//es: farine de blé, huile de palme, sel, Assaisonnement: sel, sucre exhausteUr de goût (E621 ), régutateur d\'acidité (acide citrique), poudie de piment, poudre de crevette, protéines de soja hydrolysées, poudre de citronnelle, épices.', '3.3', '1.5', '10.5', '1', '0.5', '1.8', '0.7', '0.275590551181102', '', '1');
+VALUES ('8169691611017', 'Choco : Biscuits doubles farcis', 'farine de froment, sucre, graisses végétales (palme), cacao maigre en poudre 7%, petit-lait, poudres à lever (E500ii et E503ii), sel de cuisine, arôme, émulsifiant (lécithine de tournesol), conservateur (métabisulfite de sodium)', '', '21', '11', '66', '32', '2.6', '4.5', '0.71', '0.279527559055118', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056708512', 'Nouilles chinoises instantanées à l\'orientale goût légumes', 'Nouilles 78 g : farine de blé, huile de palme, sel. Assaisonnement 7 g : sel, E621, E627, E631, sucre, poudre d\'oignon, curry, poudre d\'ail, poudre de champignon, saveurs (contient soja), oignons séchés, poivre. Huile de palme.', '3.4', '1.6', '10.5', '0.6', '', '1.9', '0.6', '0.236220472440945', '', '1');
+VALUES ('8170379017007', 'Crevettes grises cuites et décortiquées', 'Crevettes grises (Crangon crangon), sel, conservateur : E210, correcteur d\'acidité : E330 # Cet emballage contient des crevettes partiellement fraîches, partiellement décongelées.', 'https://static.openfoodfacts.org/images/products/817/037/901/7007/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056801107', 'Fettucine de Riz Instantanées saveur Poulet Pho', '', '3', '1.5', '10.2', '2', '', '4', '1.4', '0.551181102362205', '', '0');
+VALUES ('817169013489', 'Gourmet Decorated Shortbread Cookie', 'Flour (enriched wheat flour, malted barley flour, potassium bromate), butter blend (butter, palm oil, soybean oil, water, salt, mono and diglycerides, annatto [coloring]), granulated sugar, water, artificial flavoring, powdered eggs, milk substitute, baki', '', '10', '5', '62', '38', '0', '6', '0.5588', '0.22', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056813124', 'Nouilles chinoises', '', '16', '8', '4', '4', '', '8', '1.2', '0.47244094488189', '', '0');
+VALUES ('8171774782873', 'Kaiku Desnatada sin lactosa', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888056813179', 'Noodles chicken satay', 'Composition dos nouillos: tanne de fécu:o do tapota. huile de palme, sol. carbonato do potassajm, cagbonato do sod.um. Composition du sachot d\'assaisonomont: sucre. sel. htnlo do Sésame. huile do patmo. llavcurinos (contenez poissons. htacés. céleri. ta moutarde. traces do tael). poudro d oignon, végétale hydroi,lsees (conttent to coriandre, ribonuciéotido do ditodtum 5\'. caratne$. to chil!i émiotto, acido', '19', '8', '51', '3', '3', '6', '1.348', '0.530708661417323', '', '0');
+VALUES ('8172158345394', 'Sel Himalaya', '', '', '0', '0', '0', '0', '', '0', '100', '39.3700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077101125', 'Biscuit Meiji Yanyan Stick Fraise Hello Kitty 50G Chine', '', '28.1', '9.5', '61.3', '25.5', '', '6', '0.8', '0.31496062992126', '', '0');
+VALUES ('8174508005002', 'Champignons de Paris', 'Champignons de Paris', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077101200', 'Yan Yan Vanlla -', 'bigredients: Wheat flour, Palm oil, Canola oil, Sugar, fiole milk powder, Skim milk powder, Ammonium bdium Bicarbonate, Yeast, Cheddar Cheese, Salt, Soya lecithin, Artificial Flavours: Vanilla and Milk, Natural Colouî Betaarotene, Caramel, Papain . Contains: Soy, Milk And Wheat. May contain traces of Hazelt hgrédients: Farine de froment, Huile de Palme, Huilede hola, Sucre,Lactose, Lait Entière en Poudre, Lait ér Bicarbonate de Ammonium, Bicarbonate de Soude, Levure, Fromage de cheedar, Sel,Lécithine de h Arome artificiel: Vanille et Lait, Colorant harotène, Caramel, Papain Soja, Lait et Ble. Peut contenir des traces de Nok by Importe par I bonbon Trading Co Ltd Imex Import 56 Allee Pierre Loti I MIS 3Bl Tahiti, French Fabrique par by (S) Pte Ltd Road, 618806 of Sinaannrp', '13', '5', '32', '13', '1', '4', '0', '0', '', '1');
+VALUES ('8174774894348', 'activia rhubarbe', '', 'https://static.openfoodfacts.org/images/products/817/477/489/4348/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077101224', 'Yanyan Choco&straw', '', '32.1', '10.5', '57.2', '29', '', '6.1', '0.249', '0.0980314960629921', '', '0');
+VALUES ('8174900350793', 'Muesli Bien-être Protéiné', '', '', '8.7', '1', '36', '14', '', '40', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077101378', 'Meiji Yan Yan Chocolate', '', '29.7', '10.2', '58.8', '24.8', '', '7.4', '0.288', '0.113385826771654', '', '1');
+VALUES ('81754000304', 'Mesquite Bbq', 'Organic spices (including paprika), sea salt, organic sugar, organic garlic & onion , organic tomato and natural mesquite smoke flavor.', '', '0', '0', '71.43', '0', '0', '0', '29.02966', '11.429', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077102023', 'Meiji Hello Panda - Chocolate', '\'. Wheat flour (35%), Vegetable oil (Palm oil), Sugar, Cocoa mass (7.496), Whole milk powder, Seasoning [Maltodextrin, Hydrolyzed vegetable protein, Yoghurt powder (Dextrin, Skim milk powder), Flavour enhancers (Disodium 3-guanylate, Disodium 5\'-inosinate)l, Leavening agents (Ammonium bicarbonate, Sodium bicarbonate), Emulsifiers (Sucrose esters of fatty acids, Soya lecithin), Salt, Malt extract (Barley), Yeast powder, Natural colouring (Plain caramel), Artificial vanilla and chocolate flavourings. Additive derived from plant and synthetic origin. Vegetable oil (Palm oil) is plant origin. Allergens: Contains Wheat, Barley (Cereals containing gluten), Milk and Soya. MnlEKOTAKlA ME rEMlEH KPEMA EOKOAATA EucraTIKd: AXeùp1 Eirou (35%), OUTIKd éRata (Ootv1KéXa10), Zdxapn, KaKaogàÇa n Xhpeq ae OK 6 v n, K a pu K eüuara IMaXr05e$pivn, YôpoXugévn OUTIKh rtpore?ivn, r taoüpT1 oe 0K6vn (ôe&lt;rpivn, anopourupagévo YdÀa ae 0K6vn), evtoxuréq yeüonq (Elvdzpto 5t-youavuXIKhq, ôtvdrpto 5t-1V001VIK6)), A10YKQ)TIKd UXIKd (000 avepaKIKô aggôvto, 600 avepaKIKô vdrpto), raXaKrcouarort0111Tfiq (eczépeq Xinap?v ogéav ge oaKxap6(n, XeK1e[vn 06Ylas), AXdT1, Püvnq (Kptedpt), 0K6vn gayldq, QUOIK6 xpôua (ArtX6 apogaTIKéq ouoieq rexvnrhq PaviX1aq Kat 00K0Xdxaq. npòoeera ourlKhq Kat ouveeTIKhq rtpoéXeuonq. OUTIKd éRata (Ootv1KéXa10) AkÀepvoy6va: Ta OUOTaTIKd ae évTovo xpwpaTtop6 eival aÀÀepY10Y6veç ouaieq, Kaeap6 Pdpoq:50 g. AvdXcoon Kard nporipnon rtptv aflô: Avaypdqerau oxo Népoq ouoxeuao[aq. a\\ia avé 100g: Evépyeta:2281 kJ / 543kcal, AITtapd:30.6 g rcov ortoiwv K0peogéva :16.2 g, YòardvepaKeq :59.7 g TOV ortoicov odKxapa: 29.7 g, OutlKéq Oveq :3.0 g, nporeiveq :7.1 g, AXdT1 :290 mg. napdyerat', '30.6', '16.2', '59.7', '29.7', '3', '7.1', '0', '0', '', '0');
+VALUES ('8175700417884', 'Sauce Heinz curry mango', '', 'https://static.openfoodfacts.org/images/products/817/570/041/7884/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077102092', 'Hello Panda', '', '30.5', '0.2', '60.7', '29.6', '', '5.5', '0.7', '0.275590551181102', '', '0');
+VALUES ('81792511', '特級龍牙百合', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077102108', 'Meiji Hello Panda Chocolate Cream Chocolate Biscuits 50G', 'Wheat flour (34.6%), Vegetabte oil (Palm oil), Sugar, Cocoa mass (7.4%), Whole milk powder, Cocoa powder, Seasoning (Maltodextrin. Hydrolyzed vegetable protein, Yoghurt powder (Dextrine Skim milk powder), Flavour enhancers (Disodium 5/-guanylate, Disodium 51-inosinate)l, Leavening agents (Ammonium bicarbonate, Sodium bicarbonate), Emulsifiers (Sucrose esters of fatty acids, Soya lecithin), Salt, Malt extract (Barley), Artificial vanilla, chocolate, butter and milk flavourings, Yeast powder, Natural colouring (Plain caramel). Additive derived from plant and synthetic origin. Vegetable oil (Palm oil) is plant origin. Allergens: Contains Wheat, Barley (Cereals containing gluten), Milk and Soya. \'(7,4%) %34.6 ) - - 58 36 - 618806', '30.8', '16.8', '58.6', '31.1', '1.8', '8', '0', '0', '', '0');
+VALUES ('8179381004982', 'Tweeny bar', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077102658', 'Yanyan Stick 50 Piece Banana', '', '32.1', '10.5', '57.2', '29', '', '6.1', '2.48', '0.976377952755905', '', '0');
+VALUES ('8181331440108', 'Avoine croquante trios de petits fruits', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077103389', 'Meiji Plain Crackers 4 Packs 104G', '', '10.1', '5.1', '0.1', '0', '', '10.3', '5.02', '1.97637795275591', '', '0');
+VALUES ('8181812886517', 'Galettes riz complet de Camargue', '', 'https://static.openfoodfacts.org/images/products/818/181/288/6517/front.3.400.jpg', '2.7', '0.8', '81', '0.7', '3', '7.3', '0.42', '0.165354330708661', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077108032', 'Meiji Hello Panda Biscuit With Milk Flavour Filling', '', '9', '5', '18', '8', '', '2', '0.8', '0.31496062992126', '', '1');
+VALUES ('818207015015', 'Raw Bar', 'All natural ingredients: high energy fruit & seeds mix (pumpkin seeds, cranberries, sunflower seeds & california dates) brown rice extract, organic flax crisp, organic brown rice powder, raisin juice, sea salt & organic orange extract.', '', '30', '4', '44', '24', '6', '14', '0.2032', '0.08', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077109152', 'Hello Panda Chocolate', 'Biscuit - Farine de blé 35,4%, Huile végétale (Huile de palme) 11.4%, Sucre 7%, Assaisonnement [Maltodextrine, Protéine végétale hydrolysée, Yaourt en poudre (Lait écrémé en poudre, lactosérum en poudre, matière grasse du lait), Exhausteurs de goût (E627, E631 Ferments (E503(ii), E500(ii)), Sel, Émulsifiant (E473), Extrait de malt (Orge), Levure en poudre, Colorant naturel (El 50a). Chocolat crème aromatisée Sucre 18.3%, Huile végétate (Huile de palme) 140496, Pâte de cacao Lait entier en poudre, Émulsifiant (Lécithine de soja E322). Arbmes et chocolat. Allergène Conseils: Pouf\' contenant du giu:ent vo:t G', '30.6', '16.2', '56.7', '29.7', '3', '7.1', '0.7', '0.275590551181102', '', '0');
+VALUES ('8182881780843', 'Poulet Bio', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077109183', 'Meiji Hello Panda Creamy Strawberry Filling (50G)', 'Biscuit (56,0%) - Farine de blé 35.4%, Huile végétale (Huile de palme) 11.4%, Sucre 7%, Assaisonnement [Maltodextrine, Protéine végétale hydrolysée, Yaourt en poudre (Lait écrémé en poudre, lactosérum en poudre, matière grasse du lait), Exhausteurs de goût (E627, E631)l, Ferments (E503(ii), E500(ii)), Sel, Emulsifiant (E473), Extrait de malt (Orge), Levure en poudre, Colorant naturel (El 50a). Fraise crème aromatisée (44,0%) - Huile végétale (Huile de palme) 18.7%, Sucre 11.7%, Lactosérum en poudre 6.6%, Lactose, Lait entier en poudre, Émulsifiant (lécithine de soja E322), Fraises en poudre, Couleur naturelle (El 62), Arômes artificiels fraise et yaourt, Acide citrique (E330). Allergène Conseils: Pour les allergènes, y compris les céréales contenant du gluten, voir ingrédients en Gras. Conserver dans un endroit frais et à l\'abri de l\'humidité.', '30.1', '16.4', '60.4', '29.4', '0.9', '6.1', '0.7', '0.275590551181102', '', '0');
+VALUES ('8184734083880', 'l\'original noir ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077109206', 'Hello Panda Galleta De Leche (50GR)', 'meiji flovouree Fun Filled Biscuit Troots Net wt.: 500', '30.06', '16', '58', '29.2', '1.9', '6.2', '0.7', '0.275590551181102', '', '0');
+VALUES ('81857000432', 'Gourmet Seasoning Chicken Gravy With Natural Spice', 'Enriched wheat flour (enriched with niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid, corn starch, modified corn starch, salt, dextrose, cooked chicken, chicken fat, chicken broth, onion powder, hydrolyzed corn protein, yeast extract, di', '', '0', '', '50', '16.67', '', '16.67', '13.12418', '5.167', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077109220', 'Hello Panda Double Choco Biscuit', 'Biscuit - Farine de blé 34.6%, Huile végétale (Huile de palme) 11.3%, Sucre 7%, Assaisonnement [Maltodextrine, Protéine végétale hydrolysée, Yaourt en poudre (Lait écrémé en poudre, lactosérum en poudre, matière grasse du lait), Exhausteurs de goût (E627, E631 Ferments (E503(ii), E500(ii)), sel, Émulsifiant (E473), Extrait de malt (Orge). Levure en poudre, Colorant naturel (El 50a)t Arômes artificiels butter en lait. Chocolat crème aromatisée (44,0%) - Sucre 18,3%, Huile végétale (Huile de palme) 14.4%, Pâte de cacao 7,4%, Lait entier en poudre 3,8%, Émulsifiant (Lécithine de soja E322), Arômes artificiels vanille et chocolat. Allergène Conseils: Pour les allergènes, y compris les céréales contenant du gluten, voir ingrédients en Gras. Conserver dans un endroit frais et à l\'abri de l\'humidité.', '2', '2', '6', '3', '8', '6', '30', '11.8110236220472', '', '0');
+VALUES ('818570004964', 'Gourmet Seasoning Fajita', 'Maltodextrin, lime juice solids (maltodextrin, lime juice, and lime oil), salt, spices (including cumin, chili pepper, black pepper), cornstarch, garlic granules, jalapeno pepper.', '', '0', '', '83.33', '0', '', '0', '20.46224', '8.056', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077109336', 'Meiji Hello Panda 260G', 'Per 26g serving 593kJ 141 kcal 8g 4.2g 15.5g 7.7g 1.8g 0. lg V .2014', '30.6', '16.2', '30.6', '29.7', '59.7', '7.1', '0.3', '0.118110236220472', '', '0');
+VALUES ('818827011869', 'Popcorn', 'Brown sugar, popcorn, sugar, clarified butter, dextrose, water, a blend of cinnamon, ginger and other natural spices, dried ginger, sea salt, soybean oil, soy lecithin, baking soda.', '', '10.71', '7.14', '75', '53.57', '3.6', '3.57', '1.63322', '0.643', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077109480', 'Hello Panda Galleta De Té Matcha(50gr)', 'Biscuit (56,0%) - Farine de blé 34.6%, Huile végétale (Huile de palme)11.3%, Sucre 7%, Cocoa poudre, Assaisonnement [Maltodextrine, Protéine végétale hydrolysée, Yaourt en poudre (Lait écrémé en poudre, lactosérum en poudre, matière grasse du lait), Exhausteurs de goût (E627, Ferments (E503(ii), E500(ii)), sel, Émulsifiant (E473), Extrait de malt (Orge), Levure en poudre, Colorant naturel (E150a), Arômes artificiels butter en lait, Crème au Matcha (44,0%) Huile végétale (Huile de palme) 18%, Sucre 12.2%, Lactose 5,7%, Lait entier en poudre, Lait écrémé en poudre, Matcha en poudre, Émulsifiant (Lécithine de soja E322), Arômes artificiels green tea. Allergènes Conseils: Pour les allergénes, y compris les cereales contenant du gluten, voir ingrédients en Gras. Conserver dans un endroit frais et à l\'abri de l\'humidité.', '28.6', '16.1', '59', '27', '2.1', '6.7', '0.7', '0.275590551181102', '', '0');
+VALUES ('8191079700044', 'Harissa', '', 'https://static.openfoodfacts.org/images/products/819/107/970/0044/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888077120232', 'Yan Yan Kids Dip Biscuit Snack, Creamy Strawberry', 'Whet flour, vegetables oils (palm, soya bean, hydrogenated rapeseed oils), sugar, whey powder, lactose, whole milk powder, salt, emulsifier (soya lecithin), strawberry powder, leavening agents (sodium bicarbonate, ammonium bicarbonate), cheese powder: [cheddar cheese: (microbial enzyme), whey powder, emulsifier (339 (ii)), lactic acid (e2700], yeast, natural colors (e162, e160a (ii)), artificial strawberry and yoghurt flavourings, enzyme (papain), citric acid, additive derived from plant and synthetic origin, vegetable oil (palm oil) is plant origin.', '30', '10', '63.33', '30', '0', '6.67', '0.762', '0.3', '', '0');
+VALUES ('8191181084605', 'Tartine croustillantes au seigle', '', 'https://static.openfoodfacts.org/images/products/819/118/108/4605/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888082117722', 'Nestle Milo', '', '10', '4.5', '64.6', '40', '', '11.3', '0.3', '0.118110236220472', '', '0');
+VALUES ('819128650464', 'Sierra Trail Mix', 'Raw almond, raw brazil nut, raw cashew, raw pumpkin seed, raw sunflower seed, cranberries, raisin, sugar and sunflower oil.', '', '30', '5', '40', '30', '10', '16.67', '0.04318', '0.017', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888082119375', 'Milo', '', '1.3', '0', '8.4', '5.9', '', '1.5', '0.026', '0.0102362204724409', '', '1');
+VALUES ('819128671306', 'Pumpkin Seeds Kernels', 'Pumpkin seeds, vegetable oil.', '', '42.86', '7.14', '14.29', '0', '3.6', '32.14', '0.04572', '0.018', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888082140706', 'Nestle Milo Choc', 'PROTOMALT Malt Extract (Malted Barley (16%), Tapioca Starch), Skimmed Milk Powder (22%), Sugar, Fat Reduced Cocoa Powder (12%), Palm Oil, Minerals (Dicalcium Phosphate, Disodium Phosphate, Ferric Pyrophosphate), Vitamins (Ç 83, B6, Riboflavin), Flavouring.', '1.5', '0.7', '9.7', '6.3', '0.7', '1.7', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8192882776356', 'Poke Bowl Thon', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888086776550', 'Beef stock cubes', 'Salt, Palm Fat, Monosodium Glutamate, Sugar, Maltodextrin, Hydrolysed Vegetable Protein, Corn Flour, Beef Fat, Soy Sauce ( Soy Bean, Wheat, Salt, Maltodextrin, El 500, E635), Onion, Permitted Flavourings, Colouring, Sodium Inosinate And Guanylatej Spices and Citric Acid. May contain traces of cereals containing gluten, egg, fish, crustacean, molluscs, milk, peanut and tree nuts.', '22', '16', '21.6', '9.4', '0.9', '8.8', '0.17', '0.0669291338582677', '', '1');
+VALUES ('81950801500', 'Pasta Chips, Baked Fresh Pasta Snack, Mediterranean Sea Salt', 'Enriched durum semolina (wheat flour, malted barley iron, thiamine, niacin, riboflavin, folic acid), olive oil, potato starch, canola oil, yeast (sorbitan monostearate, ascorbic acid), sea salt, parsley flakes, sunflower lecithin, salt, leavening (calcium acid pyrophosphate, monocalcium phosphate), farro flour, baking soda.', '', '14.29', '0', '67.86', '0', '3.6', '10.71', '1.36144', '0.536', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888101090401', 'Munchee Lemon Puffs 200Gr', 'IDT, K, IPT, (503ii,500ii), IDT, 5ru-liT INS Ingrédients Farine de blé, sucre, graisse végétale, farine de maïs, glucose, agents de levain (50011, 503ii), poudre de lait, sel, lécithine de soja, saveur identique de nature (citron) (couleurs permises (102, 110) (Les chiffres entre parenthèses selon (INS) le système international de numérotation)', '6.13', '5.09', '16.1', '6.53', '', '1.3', '0', '0', '', '1');
+VALUES ('819547010005', 'Oak Barrel Smoked Roasted & Salted Peanuts', 'Peanuts, cottonseed and peanut oils, maltodextrin, salt, soybean oil, yeast extract, hydrolyzed corn gluten, natural smoke flavor, natural flavors, mixed tocopherols, silicon dioxide (anticaking agent), bourbon whiskey.', '', '50', '6.94', '19.44', '2.78', '5.6', '25', '1.05918', '0.417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888101355203', 'Samaposha biscuit 5 nutri grains', '', '4.52', '2.03', '15.58', '5.43', '', '1.91', '0.4', '0.15748031496063', '', '1');
+VALUES ('819839022194', 'White Chocolate Lolli', 'White chocolate (sugar, cocoa butter, whole milk powder, soy lecithin, vanilla extract).', '', '35', '20', '55', '55', '', '5', '0.1905', '0.075', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888101430337', 'Munchee Cream Crackers 190G X4 + Cloth', 'Wheat Flour, Vegetable Fat, Malt, Salt, Yeast, Corn Flour, Leavening Agents (500ii, 503ii), Soya Lecithin, Vitamins and Plant Extract (Rosemary)', '13.1', '5.7', '70.5', '0.1', '2.1', '10.8', '0.8', '0.31496062992126', '', '1');
+VALUES ('81989302562', 'Gummy Bears', 'Corn syrup, sugar, water, gelatin, citric acid, natural and artificial flavors, pectin (derived from fruit), vegetable oil (palm) and carnauba leaf wax (to prevent sticking), fd&c blue 1, canola oil, soy lecithin, rosemary extract.', '', '0', '0', '76.92', '46.15', '0', '5.13', '0.16256', '0.064', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888107000060', 'Myojo Mee Poh Dry', 'NOODLES: Wheat flour (75%), palm oil (antioxidants 320, regulators (450, 451, 501, 500), stabilisers (412, 414), colour (160a), emulsifier (1450). A POWDER: Sugar, hydrolysed plant protein (soya, stabiliser [14001), salt, flavouring powde; extract, oyster, soya sauce powder [soya, wheatl, acidity regulator 13301), flavour enhancersh\\ 635), spices (gariic, chilii), colour (150c), anticaking agent (551). SEASONING OIL: (chilli, onion, paprika extract), sesame oil, rice oil, fish oil, shrimp oil. This product contains wheat, crustacean, fish, soya, sesame. FÉz»: (75%), [307b, 320, 3211), ûà, (4501 501, 500), (412, 414), (160a), (1450)0 [1400]), (330]), (621, 635), (fi, fi), 1500, (551)0', '18.3', '8.4', '46.2', '3.7', '', '7.8', '0.0011', '0.000433070866141732', '', '0');
+VALUES ('81989322095', 'Rooster Spoon Rest With Chili Soup Mix', 'Cooked whole pinto & black beans, spices, cornstarch, salt, modified food starch, dehydrated onion, sugar, dehydrated green bell pepper, dehydrated celery, yellow corn flour, dehydrated garlic, hydrolyzed soy protein, yeast extract, hydrolyzed corn protei', '', '4.55', '0', '63.64', '9.09', '15.2', '15.15', '7.38886', '2.909', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888107000275', 'Myojo Bowl Seafood', 'Open IId halfway. Add seasoning povif.\'f4 nd garnish. Pour boiling water to inter &quot;-z Il and serve. close IId for 3 minutes. Remove lida INGREDIENTS•. flour (63%), palm tioxidants [307b, 320, 321), tapiocas+v:r regulators (450, 500, 451, 501)/ ur (160a), stabilisers (412, 414), emufsfer- SEASONING POWDER•. sait, cose, palm fat, sodium caseinate, f\\avouring powder (milk, soya sauce r [soya, wheat, salt], shrimp, squid, fshc: enhancers (621 , 635), sugar, yeast exo corn starch, spices, hydrolysed plant* - (ISOC), sesame oil, stabilisers 400), anticaking agent (551). GARNISH: Cabbage (contains lactose}, tqtrot, fishcake (fish, corn starch, sugar, 1201, stabilisers [414, 4201), onion. product contains Wheat, , fish, soya, milk, sesame. Show on package (DL /YYYY) a cool, dry place', '12.8', '6.4', '66.4', '7.5', '0', '8.6', '0', '0', '', '1');
+VALUES ('8201057559356', 'Mortadelle pistachée', '', '', '28.8', '11.2', '2.9', '2', '', '14.4', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888112080149', 'Natural Baked Almonds', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8201280001837', 'Pain spécial de campagne', '', '', '2.7', '0.3', '45', '2.9', '', '7.5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888112080309', 'Camel Smoked Almonds', 'Almonds, Maltodextrin, soy sauce, cornstarch, onion, garlic, nutmeg, paprika, E414, E471, E627, E631, E330, E460i, E150c, palm oil, sugar, salt.', '53.3', '17.8', '10.2', '4.9', '9.8', '21.6', '0.36', '0.141732283464567', '', '0');
+VALUES ('8201280001844', 'Pain special au levein seigle', 'farine (30%), levain naturel (eau, farine de SEtGLE complet (7%), farine de (4%)), eau, farine deSElGlE levure, correcteur d\'acidité : acétate de sodiüm, -agent de traitement de la farine acide ascorbique', '', '1.5', '0.3', '42', '1.7', '5.2', '7.1', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888118140144', 'Oyster sauce', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8201288089455', 'Pain spécial au levain 5 céréales & graines', '', '', '4.9', '0.8', '38', '2.3', '', '7.7', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888118160708', 'Sauce Canard Laqué Peking', 'sucre, eau, soja, pâte de sésame, sel, amidon modifié, vinaigre, huile de soja, colorant E150c, ail, farine de blé, piment.', '5', '0.8', '45.5', '36.8', '0', '2.1', '3.5', '1.37795275590551', '', '0');
+VALUES ('8201340051062', 'Lait', '', '', '1.55', '1', '4.8', '4.8', '', '3.2', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888123600527', 'Feuille de pâte de blé pour Gyoza', '', '0.9', '0.3', '53', '1.6', '', '7', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8201479724301', 'Vinaigrette légère', '', '', '32', '3.6', '2.4', '1.4', '', '0.3', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888139101506', 'Pure Fragrant Sesame Oil', '_Sésame_ noir 100 %.', '92', '13.1', '0', '0', '', '0', '0.015', '0.00590551181102362', '', '0');
+VALUES ('8201577045599', 'Tarte aux Fraises 4/6 personnes', '', '', '5', '3.1', '48', '11', '', '1.9', '0.17', '0.0669291338582677', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888139203002', 'Huile De Sesame', '', '100', '14.2', '0', '0', '', '0', '0.016', '0.0062992125984252', '', '0');
+VALUES ('8201650015327', 'Fromage blanc p\'tit prix', '', '', '0.1', '0.1', '4.5', '4.5', '', '7.5', '0.15', '0.0590551181102362', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888139206003', 'Huile De Sesame', '', '4', '0.6', '0', '0', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8201830690610', 'La feuilletee', '', '', '24', '13', '38', '1', '', '6.3', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888166990104', 'Monde Fried Cookies', 'Wheat Flour, Eggs, Sugar, Butter, Vegetable Fat, Corn Starch, Milk Powder, Salt, Leavening Agents (Ammonium Bicarbonate and Sodium Bicarbonate), Butter Flavour', '4', '', '10', '4.5', '', '1', '', '', '', '1');
+VALUES ('82020156', 'Marinara Sauce', 'Tomato puree (tomatoes), onions, water, dried cherry tomatoes (tomatoes, salt), carrots, extra virgin olive oil, 2% or less of basil blend (genovese basil, sunflower oil, salt), garlic, sugar, salt, spices, parsley.', '', '3.6', '0.4', '5.6', '2.4', '0.8', '1.6', '1.09728', '0.432', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888167124980', 'Sis Raw Sugar Cubes 454G', 'Pure sugar cane', '0', '0', '99.9', '99.9', '0', '0', '1', '0.393700787401575', '', '0');
+VALUES ('820811922133', 'Chicago American Sweets & Snacks, Pumpkin Pie Candied Popcorn', 'Corn syrup, sucrose, popcorn, soybean oil, salt, soy lecithin, baking soda, natural & artificial flavors, caramel color.', '', '3.57', '0', '92.86', '50', '3.6', '3.57', '0.54356', '0.214', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196111326', 'Pulpy C', '', '0', '0', '12', '11', '', '0', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8208180001837', 'Pain special au levain Campagne', '', '', '2.7', '0.3', '45', '2.9', '', '7.5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196111821', 'Thé Glacé au Citron', 'Eau, thé noir fraîchement infusé (32%), jus de citron, acide ascorbique (E300), citrate de sodium (E331), colorant naturel, acide citrique (E330), saveur de citron', '0', '0', '8.8', '8.8', '0', '0', '0.02', '0.0078740157480315', '', '1');
+VALUES ('8208414509603', 'Buche de chevre', 'Lait pasteurisé de chèvre, sel, ferments (contient lait) présure etlou coagulant microbien, *Lait origine Fran?. Produit soumis à dessiccation. Fabriqué dans un atelier uülisant du lait de vache, Conservation : A ente +20C et +60C,', '', '23', '16', '1.4', '0', '0', '20', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196113221', 'Pokka Pulpy Lychee Jelly Drink', '', '0', '0', '13', '12.5', '', '0', '0.04', '0.015748031496063', '', '1');
+VALUES ('8209330002377', 'Tartinable de surimi &12% crabe tourteau', '', '', '31.8', '1.3', '5.7', '1.8', '', '6.4', '1.66', '0.653543307086614', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196115522', 'Melon Milk', 'FR Ingrédlents: Eau, lait, sucre, crème non laitière, melon, arôme melon, stabilisateur (E473, E339)I acide ascorbique, colorant (E141)', '0.7', '0.6', '11', '10.5', '', '0.8', '0.04', '0.015748031496063', '', '1');
+VALUES ('8210211675160', 'Lait de coco', '', 'https://static.openfoodfacts.org/images/products/821/021/167/5160/front.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196120427', 'Thé Glacé à la Pêche', 'Eau, thé noir fraîchement infusé (26%) jus de pêche, acide tartrique (E334), acide citrique (E330), acide ascorbique (E300), citrate de sodium (E331), saveur de pêche', '0', '0', '8.4', '8.4', '0', '0', '0.005', '0.00196850393700787', '', '1');
+VALUES ('82108772', 'Mentos fruits ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196120724', 'Oolong Tea', '', '0', '0', '0', '0', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8211004874937', 'Rice Krispies', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196121028', 'Milk Coffee', 'Water, freshly brewed coffee, milk, sucrose, emulsifier (e473), flavoring.', '0.2', '0.2', '7.7', '6.7', '', '0.3', '0.04', '0.015748031496063', '', '1');
+VALUES ('8212002406090', 'mayonnaise citron', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196123121', 'Thé glacé au Letchis', '', '0', '0', '', '9.8', '0', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8214960641261', 'Saucisse Sèche Courbe à l\'Ancienne', 'Viande de porc (174 g pour 100 g de produits), sel, _lactose_, épices et aromates, arômes naturels, dextrose, sucre, conservateur, nitrate de potassium. Ferments. Boyau naturel de porc. Poudre de fleurage : talc, carbonate de calcium.', 'https://static.openfoodfacts.org/images/products/821/496/064/1261/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196124128', 'Thé Vert Au Jasmin', '', '0', '0', '6', '6', '', '0', '0.2', '0.078740157480315', '', '1');
+VALUES ('8215440000776', 'Betterave rouge', '', '', '0.1', '0', '7.2', '6.7', '', '2.3', '0.14', '0.0551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196125323', 'Strawberry Milk Drink', '', '0.7', '0.6', '11', '10.5', '', '0.8', '0.04', '0.015748031496063', '', '1');
+VALUES ('8216931539485', 'Gnocchi à poiler extra fromage', '', '', '8.2', '3.9', '26', '1.1', '', '7.8', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196125514', 'Ice Peach Tea', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8217380008430', 'Cristalline Bleue Pétillante', 'Calcium 68mg/l - magnésium 7mg/l - potassium 4mg/l - sodium 11 mg/l - hydrogenocarbonate 234 mg/l - sulfate 5 mg/l - chlorure 19 mg/l - nitrate &lt; 1 mg/l Extrait sec à 180*C 274 mg/l pH 5,2', 'https://static.openfoodfacts.org/images/products/821/738/000/8430/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196128324', '?330', '%sonrafraîchissante aromatisée au thé et aux fruits &dein Singapore / Fabriqué à Singapour SAPPORO Food a anvfactured and distributed by / Fabriqué (S) Pte Ltd, 39 Quallty Road. Singapore 618810 water. treshly brewed black tea (20%), lice, citric acid (E330), ascorbic acid (E300), melon Eau, thé noir fraichement infuse (20%), acide citrique (E330), acide ascorbique (E300), SIN POKKA International Pte, Ltd., 4 Benoi 629970 PHL Benby Enterprises Inc• AUS ON INFOBMAf10', '0', '0', '10.5', '10.5', '0', '0', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8217413504571', 'Galettes de Riz Complet Saveur Choco-Noisette', 'Riz complet bio 50%, graisses de palme non hydrogénées bio, sucre de canne bio, sirop de riz en poudre bio, pâte de _noisette_ bio 9,9%, cacao maigre en poudre bio 3,75%, sel marin, arôme naturel de vanille bio.', 'https://static.openfoodfacts.org/images/products/821/741/350/4571/front.9.400.jpg', '18', '16', '67', '2.7', '3', '6', '0.16', '0.062992125984252', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196143013', 'Green Tea', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8217560804593', 'Cacahuetes geantes', 'éventuelles de gluten, sve3,', '', '49.5', '6.5', '12.8', '5.1', '0', '26.2', '0.91', '0.358267716535433', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196170613', 'Pokka Lemon Tea', 'Water, freshly brewed black tea, sucrose, lemon juice, ascorbic add E330, colouring E150a, tea and lemon flavouring, tartaric acid E334, sodium, citrate E331, citric acid E330', '0', '0', '10', '10', '0', '0', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8219036001116', 'Sirop Pamplemousse rose', '', '', '0', '0', '72', '72', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196170712', 'Oolong Tea In Plastic Bottle', 'Eau, thé Oolong fraîchement infusé (43%), antioxygène (E300) Zutatent Wasser fns.ch gebnJhtet (43%), Ascoôinsàure (E300) Ingredienti: . te macr,a\'o (43%), i±ossidante (E300) Ingredièntent Wate. tve, ven çeze2e (43%), anttcndant (030) Produit I Srça;ur I Pndotto a Singapore / A consommer de ptétérence avant le (votr sur l\'embatbge)\' I \',ondestens hâtbat bts (siehe out pociung) TTMMJJJJ I Oa consumarsj ptef?fiWmente entro il (vedere la data Sulta GG\',O.IA.AAA I A consumeren bij voorkeuf VOOfdat (zlo verpakkjng)l OOMMJJJJ Distribué en I Vertneb bei I Distnbulto n I Verdeeld in: F: SAS. 4 impasse des Carnères, 75016 Pans. France CH: Foodex Sàfl. Grande Rue 3EA. 1297 Fourtx Suisse\'ScheeSvtzzera IT: Foodex sri, 12114, 20875 Burago di Motgora (Mi). ttaEa B: Foodex Belgium SPRL, Rue \'Lilbran 1050 Ixelles. BelgiqueBeIsierËeçiè', '0', '0', '0.01', '0.01', '', '0.01', '0.06', '0.0236220472440945', '', '1');
+VALUES ('821908456065', 'Organic American Favorite, Granola Cereal Brand', 'Whole grain oats*, sugar*, rice*, sunflower oil*, molasses*, maltodextrin*, honey*, sea salt, malted barley extract*, vanilla extract*, vitamin e (mixed tocopherols) added to preserve freshness.', '', '10', '1.67', '75', '25', '5', '8.33', '0.4445', '0.175', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196172211', 'Thé à la pêche', 'Eau, thé noir infusé, fructose, sorbitol, jus de pêche, acide citrique, arôme pêche, acide ascorbique, citrate de sodium.', '0', '0', '8.8', '8.8', '', '0', '0.0127', '0.005', '', '1');
+VALUES ('8219220113601', 'Tonic zero', '', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196172419', 'Pokka Ice Peach Tea', 'sucrose, peach & tea flavours, peach juice, ascorb\\c (300), tartaric acid (EoJ4) FR Ingrédients: Eau, thé noir fraîchement infuse (25%), saccharose, saveur de pêche, jus de pêche, acide ascorbique (E300), acide tartrique (E334)', '0', '0', '8.8', '8.8', '0', '0', '0.003', '0.00118110236220472', '', '1');
+VALUES ('8219225426485', 'Thé vert citron', '', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196172624', 'Thé au lechti', 'Eau, thé noir fraîchement infusé (20%), saccharose, jus de litchi, saveur de litchi,acide citrique (E330), acide ascorbique (E300), citrate de sodium (E331)', '0', '0', '10', '10', '0', '0', '0', '0', '', '1');
+VALUES ('8221230006316', 'Brioche tranchée Bio', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196173225', 'Pokka Ice Mango Tea', '', '', '0.01', '', '9.8', '0.01', '0.01', '0.001', '0.000393700787401575', '', '1');
+VALUES ('8221813403303', 'June premium soy sauce', '', 'https://static.openfoodfacts.org/images/products/822/181/340/3303/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196173324', 'Thé Vert Au Jasmin En Bouteille', 'E300', '0', '0', '30', '30', '0', '0', '0.8', '0.31496062992126', '', '0');
+VALUES ('8221883420002', 'Knäckebröd flerkorn', '', '', '6.5', '1.5', '57', '2.3', '', '11', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196173423', 'Pokka green tea jasmine', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8224595548149', 'Moov!', '', '', '4.6', '1.4', '20.9', '7.9', '', '3.6', '0.36', '0.141732283464567', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196174611', 'Pokka Blueberry Tea', 'Water, freshiy brewed black tea (20%), sucrose, fructose, sorbitol (E420), blueberry juice, blueberry and tea flavours, citric acid (E330), ascorbic acid (E300), s?fiurn cmte (E331) FR Ingrédients: Eau, thé noir fraîchement infuse (20%), saccharose, fructose, le sorbitol (E420), jus de bleuets, thé saveur myrtille, acide citrique (E330), acide ascorbique (E300), citrate de sodium (E331)', '0', '0', '7.5', '6.8', '0.005', '0', '0', '0', '', '1');
+VALUES ('8225463075279', 'Sirop banane kiwi', 'Éamzuv Créateur de sirops depuis 1871, La Maison GUIOTperpdll un savoir-faire familial unique. Redécouvrez des sardif authentiques et gourmandes pour un plaisir intense Découvrez nos recettes sur www.lamaisongui0t•C01 de dilution : Een goede raad: Analyse nutritionnelle a diluer dans 8 à los op in 8 à 10 Voedingsgegevens voor 10 volumes d\'eau. volumes water. Valeur énergétique-EnergiewaardB l/ de fruits acidifiant : a Sucre, eau, jus concentré Dont acides gras saturés- Jus de de jus de kiwi de banane sel - nten: Suiker, water, geconcen- Dientna iou zie de datum vermeld op waarvan en 3% kiwisap. BP 25 - 18001 Bourges sur le col de la bouteille. PENSEZ AU TRI Prc 70 cl', '', '0', '0', '79.8', '79.5', '', '0', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196175113', 'Chrysanthemum with white tea', '', '0', '0', '5.6', '5.6', '', '0', '0.02', '0.0078740157480315', '', '1');
+VALUES ('8226766783595', 'Parmesan & Garlic Potatoes', 'Potatoes, red onion, parmesan cheese (parmesan cheese [pasteurized milk, cheese cultures, salt, enzymes], and powdered cellulose added to prevent caking), minced garlic in water (garlic, water, citric acid), parsley.', '', '1.82', '0.91', '14.55', '1.82', '1.8', '3.64', '0.21844', '0.086', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196178114', 'Thé glacé', 'Eau, thé noir fraîchement infuse (20%), saccharose, jus de melon, saveur de melon, acide ascorbique (E300), acide citrique (E330)', '0', '0', '10.5', '10.5', '0', '0', '0', '0', '', '1');
+VALUES ('82287573', 'Coco pops', '', '', '2.5', '1', '84', '30', '', '5.5', '0.75', '0.295275590551181', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196180414', 'POKKA Japanese Green Tea', 'Water, freshly brewed green tea 43%, ascorbic acid (E300), green tea flavour.', '0', '0', '0', '0', '0', '0', '0.02', '0.0078740157480315', '', '1');
+VALUES ('82290900', 'Gaufre Liégeoise', 'Farine de _blé_, sucre (25.5%), margarine (huile de palme et de colza, graisse de palme, eau, sel, émulsifiant : lécithine de _soja_, mono et diglycérides d\'acides gras, acidifiant : acide citrique, acide lactique, colorant : bêta-carotène, arôme, vitamine A, vitamine D3), _œufs_, levure, sirop de sucre inverti, farine de _soja_, stabilisant : sorbitol, sel, émulsifiant : lécithine de _soja_, arôme.', '', '22.2', '11.3', '55', '27.1', '11.6', '6', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196183514', 'Ice Melon Tea', 'Eau, thé noir fraîchement infusé (20%), saccharose, jus de melon, saveur melon, acide ascorbique (E300), acude citrique (E330)', '0', '0', '10.5', '10.5', '0', '0', '0.00762', '0.003', '', '1');
+VALUES ('8230475438967', 'Muesli croustillant', '', '', '21', '2.9', '58', '14', '', '11', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196183613', 'Pokka Ice Strawberry Tea', '', '0', '0', '9.5', '9.5', '', '0', '5', '1.96850393700787', '', '0');
+VALUES ('82310042', 'Metten Blockwurst', '', '', '21.5', '8.8', '1', '1', '', '13.2', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196184214', 'Pokka Ice Passion Fruit Tea', 'frest+/ tex', '0', '0', '9', '9', '0', '0', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8231431978008', 'BOUNTY ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196185013', 'Honey Lemon Drink', 'Ltd o 629970. BRN Catateya Company, Lot 20007 Taman Jin Gadong, Kg Ûeribi BEM18, Brunei Darussalam. CONSUME PROMPTLY UPON OPENING Minum Terus Salepas Dibuka NUTRITION INFORMATION / MAKLUMAT PEMAKANAN Servings per bottle / Jumlah hidangan setiap botol: 2 Serving size / Saiz hidangan: 250ml (1 glass / gelas) fbrservrg/', '0', '0', '9.5', '9', '0', '11', '0', '0', '', '1');
+VALUES ('8231734888738', 'galletas con chispas de chocolate', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196187413', 'Lifeplus vitamin', '', '0', '0', '6.8', '6.8', '', '0', '', '', '', '1');
+VALUES ('8231920035533', 'Creme fraiche epaisse', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196188113', 'Pokka kiyo', 'Eau, jus de raisin (rouge et kyoho), sucralose, vitamine C, acide citrique, colorant naturel, arômes, citrate de sodium, vitamines A,E,B3,D', '0', '0', '10.8', '10.7', '0', '0', '0', '0', '', '1');
+VALUES ('8232882888083', 'Saumon Rose du Pacifique au Naturel', 'Saumon rose du Pacifique (_poisson_), eau, sel.', '', '4.1', '1', '0.5', '0.5', '', '22', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888196405821', 'Aloev, Pai Aloe Vera Juice Drink With Pulp Bits, Peach', 'Water, aloe vera juice and aloe vera pulp bits (19.5%), soucrose, peach juice (5.5%), peach flavor, citric acid (e330), sodium citrate (e331), ascorbic acid (e300).', '0', '', '10.33', '10.33', '', '0', '0.0381', '0.015', '', '1');
+VALUES ('8232930613001', 'Tortellini Boeuf', '', '', '5.5', '2', '40', '1.7', '', '10', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888200708009', 'F &N 100 Plus Isotonic Drink', '', '0', '0', '6', '5', '', '0', '', '', '', '1');
+VALUES ('8232931542959', 'Tortellini à poeler jambon emmental', '', '', '3.8', '1.2', '27', '1.6', '', '7.4', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888207101186', 'Barbecued pork', '', '9', '3', '41', '30', '', '30', '0.8', '0.31496062992126', '', '0');
+VALUES ('8232984750929', 'Protéifine Palets Amandes 8 Galets De 25G', '', '', '17', '9.1', '12', '2', '', '37', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888209180011', 'Oyster Sauce', 'Water (49.3%), Sugar (21.2%), Oyster extract (9.5% : Oyster, Salt, Water), Soy Bean extract (5.8% : Water, Soy Beans, Salt, Wheat Flour), Salt (3.7%), Modified Starch E1422, Wheat Flour, Yeast extract, Colour E150c, Acidity regulator E270', '0.1', '', '26.9', '19', '', '2.6', '9.2', '3.62204724409449', '', '0');
+VALUES ('8233381047995', 'Cristaline Peche', '', '', '0.5', '0', '6.8', '6.8', '', '0.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888209181735', 'Hoisin Sauce', '', '2', '0.3', '31', '27.8', '', '', '3.0988', '1.22', '', '0');
+VALUES ('8233390068684', 'Brioche vendéenne I.G.P', 'Farine de blé 45 %, œufs frais 15,5 Yo, sucre, concentré 11,5 % (soit 14 % en beurre reconstitué), levain (faline de blé 29%, eau, sel marin gris, gluten de sirop de sucre inverti, rhum, arôme naturel de vanille (contient blé), levure, sel marin gris, arôme naturel de fleur d\'oranger, gluten de épaississant : farine de graines de cauube. conserver à température ambiante, à Cc aservation : l\'abri de rhumidité. Refermer le sachet après chaque utilisation. . avant la date', '', '14', '9.3', '52', '13', '1.8', '7.5', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888215600497', 'Jelly Joy Jelly Sticks Ass 20X', 'Ingredàents: Water, Sugar, Fructose, Seaweed Extracts Citric Acid, Natural Flavours (Grapey Strawberry, Orange, Peach, Pineapple and Mango), E 102, Colour E 124 and colour E 133', '0', '0', '16.2', '14.5', '0', '0', '0.11', '0.0433070866141732', '', '1');
+VALUES ('8234274000059', 'Salada et compagnie poulet roti', '', '', '8.5', '2', '15', '2.6', '', '7.9', '0.59', '0.232283464566929', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888215880103', 'Préparation de boisson aux céréales', '', '7.6', '2', '83.4', '37.4', '', '5.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8238011799909', 'Gallettes millet et boulgour aux champignons', 'Ing;tédients Boulghour de blé* dur précuit 47,7%, champignons* 1 5,7% (champignons de Paris* et champignons de Paris* déshydratés), millet précuit* 13,2%, oignons* , huiles* végétales (tournesol oléique* et tournesol*), flocons de blé* complet, flocons d\'avoine* complète, farine de riz* , sel marin, persil* , gluten de blé* , ail. *Ingrédients issus de l\'agriculture biologique. Fabriqué dans un atelier qui utilise soja, céleri, fruits à coque, sésame, poisson, œuf et produits laitiers.', '', '10', '1.2', '29', '2', '4.7', '6.4', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888232023804', 'Sauce au soja salée', 'soja, Eau, Sel, Farine de blé, sucre, E211.', '4.5', '0.7', '6.5', '6.5', '', '10.1', '5.84', '2.2992125984252', '', '0');
+VALUES ('823910002788', 'Glaser Organic Farms, Carob Pudding Pie', 'Fresh coconut meat, fresh coconut water, organic dates, organic pecans, organic walnuts, organic germinated almonds, organic avocado, raw organic agave, raw organic carob, organic raw virgin coconut oil, organic whole vanilla beans.', '', '16.81', '7.08', '46.9', '38.94', '7.1', '5.31', '0.18034', '0.071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888247101009', 'Enriched white bread', 'INGREDlENîC Wheat flour (unbleached), sucrose, vegetable oil (palm),skimmed milk powder, common sait, dextrose, Baker\'s yeast, emulsifiers, Yeast nutrients (ammonium sulphate, sodium chloride, calcium sulphate), thiamine (vitamin BI), riboflavin (vitamin B2), niacin (vitamin B3), iron (hydrogen reduced iron), calcium propionate.', '1.9', '0.9', '54.7', '0', '2.5', '9.9', '0.0438', '0.017244094488189', '', '0');
+VALUES ('8239390757603', 'Crotin de chèvre', '', '', '23', '18', '18', '1', '', '20', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888247111138', 'Gardenia Fine Grain Wholemeal Bread', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8239391402892', 'Pizza jambon fromage', '', '', '11', '7.2', '66', '5.1', '', '20.2', '2.72', '1.07086614173228', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888247111206', 'Super fine & soft wholemeal bread', 'Wholemeal Wheat flour, sucrose, Wheat gluten, skimmed milk powder, vegetable oil (palm), common sali, malt, emu!sifiers, Baker\'s yeast, inulin (prebiotic), honey, calcium propionate, yeast nutrients (ammonium sulphate, sodium chloride, calcium sulphate), calcium carbonate, edible gum, flavouring, thiamine (vitamin BI), riboflavin (vitamin B2), niacin (vitamin B3), iron (hydrogen reduced iron)', '2.7', '1.2', '31.4', '0', '9.6', '11.8', '0.031', '0.0122047244094488', '', '1');
+VALUES ('8239391855865', 'Nectar orange', '', '', '0.5', '0.1', '12.6', '12.4', '', '0.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888260000006', 'Singlong Palm Sugar', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8241322340005', 'Country Ladle Butternut pumpkin', '', 'https://static.openfoodfacts.org/images/products/824/132/234/0005/front_en.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888265000612', 'Apple Juice', '', '0', '0', '10.6', '10', '', '0', '', '', '', '1');
+VALUES ('8242801834688', 'Delichoc', '', 'https://static.openfoodfacts.org/images/products/824/280/183/4688/front.7.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888265000629', 'Orange Juice', '', '0.1', '0', '8.8', '8.3', '', '0.8', '0.005', '0.00196850393700787', '', '1');
+VALUES ('8244140057247', 'Raviolis à poêler', '', '', '11', '7', '26', '1', '', '10', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888265001039', 'Apple cranberry juice drink', 'EAU (51.66%), JUS DE POMME (30%) -i BAIE ROUGE (5%), SUCRE (13%), ACIDE CITRIQUE (0.3%), AROME (0.04%) !MPORTÉ PAR LA SCIE BP 98800 NOUMEA CEDEX', '0', '0', '12.1', '11.8', '0.1', '0.2', '5', '1.96850393700787', '', '0');
+VALUES ('8245560473099', 'Huile Fleur de Colza', '', '', '10', '0.7', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888265001084', 'Sunfresh Multi Fruits Juice', '', '0', '0', '10.8', '9.7', '', '0.3', '0.005', '0.00196850393700787', '', '1');
+VALUES ('8246759136528', 'Miel de palma', 'Informacién Nutricional Valor energético 10 cl 295 kcal', '', '0.95', '0', '75', '0', '', '1.34', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888265001398', 'Mango Nectar', '', '0.1', '0', '12.8', '12.1', '', '0.2', '', '', '', '1');
+VALUES ('8246759136559', 'Miel de Palma ', 'Miel de Palme (Guarapo cocido)', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888279103019', 'CUP NOODLES ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8248630000850', 'Mini Vanilla Cream Puffs', 'Water, whole eggs, wheat flour, sugar, high fructose corn syrup, partially hydrogenated oil (soybean, palm kernel, and cottonseed oils), soybean oil, modified food starch, contains 2% or less of: dextrose, palm oil, salt, natural and artificial flavor, le', '', '13.64', '4.55', '27.27', '13.64', '0', '4.55', '0.49022', '0.193', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019003', 'Infusion', '', '0', '0', '99', '91', '', '0', '', '', '', '0');
+VALUES ('8250230002318', 'Gache tranchée bio', 'Farine de blé*, sucre*, œufs*, beurre* 11,5%, eau, crème fizîche* 2,9%, levain* 2,9% (ea\', ievures, farines de et de blé malté), levure, sel, arôme naturel (confient alcool), épaississant gomme gum, arôme naturel de fleurs d\'oranger*, faire de Traces évenüjelles de soja. *Ingrédients d\'origine agricole obtenus selon le mode de production Biologque.', '', '13.3', '8.6', '52', '14.7', '', '6.7', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019010', 'Ginger tea', '', '0', '0', '99', '91', '0', '0', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8250643056878', 'Assaisonnement pour soupe au poulet', 'Sel, poudre arôme poulet artificiel, maltodextrine, sucre, monosodium glutamate, poudre sauce de soja (haricot de soja, sel, blé), poudre d’ail, huile de soja, colorants: paprika E160c ', 'https://static.openfoodfacts.org/images/products/825/064/305/6878/front.7.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019058', 'Ginget drink', '', '0', '0', '99', '91', '', '0', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8251079030708', 'Collon Matcha', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019317', 'Gold Kili Ginger Lemon Drink Instant - 0.63oz', '', '0', '0', '99', '91', '', '0', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8254390880489', '100% Pur Jus Pomme', '', '', '0.5', '0.1', '11.6', '10.7', '', '0.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019355', 'Ginger - Instant Ginger Lemon Drink', 'Neringsindhold / Ravintosisâltô Energy / Énergie / Brennwert / Energie / Energia / Energi / Energiaa Fat / Lipides / Fett / Vetten / Grasa / Fett / Fedt / Rasvaa Of which saturates / Dont acides gras saturés / Davon gesâttigte Fettsâuren / Waarvan verzadigde vetzuren / de los cualas saturado / varav mâttat fett / heraf mettede fedt / josta tyydyttyneitâ rasvoja Carbohydrate / Glucides / Kohlenhydrate / Koolhydraten / Hidratos Carbono / Kolhydrat / kulhydrat / hiilihygraattia Of which sugars / Dont sucres / Davon Zucker / Waarvan suikers / de los cualas Azücar / varav sockerarter / heraf sukker / josta sokereita Protein / Protéines / Eiweiss / Eiwitten / Proteina / Proteiinia Salt / Sel / Salz / Zout / Sal / Suola *', '0', '0', '99', '91', '0', '0', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8256476133083', 'Carotte rapees', '', '', '4.5', '0.3', '6.1', '5.4', '', '1', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019454', 'Ginger drink', '', '0', '0', '97', '91', '', '1.1', '', '', '', '0');
+VALUES ('8257420843058', 'Life', 'Natural Spring Water', 'https://static.openfoodfacts.org/images/products/825/742/084/3058/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019508', 'Gold Kili Ginger Latte, Ingwer', 'Succédané de Crème (42%) {Sirop de Glucose, Huile Végétale Hydrogénée (Huile de Coco, Huile de Palme), Lait écrémé en Poudre (5.4%), Stabilisateur - Phosphate Dipotassique (E340ii), Émulsifiant- Mono-et Di Glycéride (E471), Antimottants - Dioxyde de Silicium (E551), Colorant- Beta-Carotène (E160a)}, Poudre de Gingembre Instantanée (26%) {Gingembre (15.6%), Glucose, Sucre de Canne, Miel, Fructose}, Sucre, Poudre de Thé Vert, Matcha en Poudre (1.5%), Arôme. Contient du lait.', '13', '11', '79', '63', '0', '2.6', '0.26', '0.102362204724409', '', '0');
+VALUES ('8257440000622', 'Betterave rouge cuite sous vide', '', 'https://static.openfoodfacts.org/images/products/825/744/000/0622/front_en.3.400.jpg', '0.1', '0', '7.2', '6.7', '', '2.3', '0.14', '0.0551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296019584', 'Goldkili Instant Ginger Milk Tea 8 X 25 G', '', '14', '14', '75', '60', '', '3.2', '0.26', '0.102362204724409', '', '0');
+VALUES ('8259160050154', 'Oignons eminces', '/ INGREDIENTS : Oignon.', '', '0.2', '0.1', '7.9', '5.6', '1.4', '1.2', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296020214', 'Ginger natural lemon bag', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8259190191377', 'Petits pains grillés', '', '', '9', '1', '66', '3.5', '', '12', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296029019', 'Boisson Chrysanthemum Au Miel 180G', 'Ingrédients: Chrysanthème (60%), Glucose, Sucre c Canne, Miel (9%) et Fructose.', '0', '0', '98', '93', '0', '0.5', '0', '0', '', '0');
+VALUES ('82592630766', 'Naked ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296051102', 'Gold Kili Instant Matcha Latte', 'Succédané de Crème (49%) {Sirop de Glucose, Huile Végétale Hydrogénée (Huile de Coco, Huile de Palme), Lait écrémé en Poudre, Stabilisateur-Phosphate-Dipotassique (E340ii). Emulsifiant-Mono-et Di Glycéride (E471), Antimottants - Dioxyde de Silicium (E551), Colorant- Beta-Carotène (E160a)}, Sucre, Poudre de Thé Vert. Matcha en Poudre (2%), Sel, Arôme. Contient du lait', '2', '2', '10.5', '7.8', '', '0.3', '0.08', '0.031496062992126', '', '1');
+VALUES ('8259263375', 'Protein Juice Smoothie', 'Apple juice, mango puree, pineapple juice, kiwi puree, banana puree, soy protein isolate, whey protein concentrate, soy lecithin, natural flavors, spirulina, alfalfa, ascorbic acid (vitamin c), broccoli, spinach, barley grass, wheat grass, ginger root, pa', '', '0.67', '0.22', '13.56', '11.78', '0', '6.67', '0.16256', '0.064', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888296051119', 'Matcha Latte', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8259610120536', 'arachides coques grilles', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888311092271', 'Myanmar teamix', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8260101020051', 'GymQueen Queenella White', '', 'https://static.openfoodfacts.org/images/products/826/010/102/0051/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888351100011', 'Silken tofu', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8260101021881', 'GymQueen Mamma Mia White Wonder', '', 'https://static.openfoodfacts.org/images/products/826/010/102/1881/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888351100042', 'Silken Tofu Special', '', '3.5', '1', '2.3', '1.9', '', '7', '0.45', '0.177165354330709', '', '1');
+VALUES ('8260293055381', 'Mini biscottes', 'entier, sucre, gluten de blé, (Oines de ! hlJile de colza forine de moqt de blé It grill; graines d\'orge, extroit de molt di nine, graines de lin brun, farine deseigif lie, levain de seigle déshydroté, agent de acide ascorbique). Conserver où trois, ou ivumière. Conditionné atmosphère pro (1 2 Eeslnuiten/biscottes 10 g) Ten houdbaar tot: zie clip. Na beperkt A consommer de préférence avant le: voir clip. 0 urét conservation limitée après ouverture.', '', '12.8', '1.8', '56.6', '6.8', '', '18.9', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888383208648', 'Butter Chicken Biryani ', 'BUTTER CHICKEN BIRYANI (indien—style basmatl ricel  Ingredlents: Basmati Rice [Palm oil. Onion. Gnnger. Garlic. Lemongrass. Cinnamon sticks. Sîar anise. Pandan leaf, Cardamom seed, Ghee oil [Pure milk fat]. Chicken seasoning [Salt. Sugar, Corn starch. Chicken meat. Maltodextrin, Vegetable fat lpalm). Monosodium glutamate, Yeasî extract, Flavouring. Caramel lE15Ücl. Spices], Salt. Mint leaves, Colouring [E102, E110, E124], Rose extract, Sultanal. Butter Sauce lMilk. Cooking cream [Cream. Milk solids, Thickener [E1441 E466]. Emulsifiers lEA71. E460”. Stabilizer [E452iI]. Butter [Cream, Salt], Garam masala. Sugar, Curry powder [Corianden Chilli, Cumin, Fennël, Turmeric, Dhal, Pepper, Cinnamon, Cardamom, Star anise, Cloves, spices]. Colouring [E110, E124]. Salt, Coriander flake]. Chicken meat {Chicken seasoning (Sait, Sugar, Corn starch, Chicken meat, Maltodextrin, Vegetable fat lpalm]. Monosodium glutamate, Yeast extract, Flavouring. Caramel [E15Üc]. Spices]. Garam masala, Salt]. Allergen: This product contains milk and  their products.  ', '', '', '', '', '', '', '', '', '', '0');
+VALUES ('8261370374487', 'Small beads honey (p\'tites billes miel)', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888440000048', 'Pure milk', '', '3.4', '2.3', '5.1', '5.1', '', '3.3', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8261484888887', 'Nuit Tranquille ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888440000598', 'Roti span', 'FARINE DE BLE TENDRE, EAU, DE PALME, EMULSIFIANTS E482), LEVURE, AROME PANDAN 0,3%, COLORANT (E142), POUDRES A LEVER (E500, E541). PEUT CONTENIR DES TRACES DE : SESAME, ARACHIDE\' VALEURS NUTRITIONNELLES POUR 100 G : ENERGIE 1147 KJ / 273 KCAL ; MATIERES GRASSES 0,6 G - DONT ACIDES GRAS SATU RES G ; GLUCIDES 58,9 G - DONT SUCRES 9,3 G ; PROTEINES G ; SEL G. PREPARATION A LA VAPEUR : 5-6 MINUTES AU MICRO-ONDES : 1 MINUTE FRITURE : 20-25 SECONDES', '0.6', '0.4', '58.9', '9.3', '', '7.2', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8262757000654', 'Brioche tressé harrys', 'Farine de blé 51%, eau, oeufs frais 12.2%, huile de colza, sucre, sirop de glucose.fructose, sucre perlé 2,3% (sucre, graisse végétale : karité, arôme), émulsifiant : mono- et diglycérides diacides gras, arômes dont fleur d\'oranger (contient alcool), exfraits végétaux à pouvoir colorant (curcuma, paprika), selflevure, farine d\'orge fibre de blé, gluten de blé, antioxydant : acide ascorbique. Peut contenirdes races de lait, graines de *ame, fiviÉ à et soya Les ingrédienÉ en gras peuvent causer des réactions chez personnes allergiques ou intolérantes.', '', '14.5', '2.1', '50.4', '14.7', '2.1', '8', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888440001182', 'Roti Span Mantou', 'Wheat Flour 60%, Water, Sugar, Palm Vegetable Fat, Yeast, Powder (E500 & E541), Dough Improver (E481 & E482), Flavouring (E477), Permitted Colouring (E133 & E162).', '1', '0.5', '58.8', '9.4', '2.5', '7.5', '0.0253', '0.00996062992125984', '', '1');
+VALUES ('8262855774877', 'extra moelleux complet', '', 'https://static.openfoodfacts.org/images/products/826/285/577/4877/front.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888440001762', 'Premium Chocolate Milk', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8263859082234', 'Olives vertes dénoyautées', 'Olives, eau, sel Correcteur d\'acidite : Acide lactique, acide citrique Antioxydant : Acide ascorbique', '', '15.2', '2', '0', '0', '', '0.9', '3.8', '1.49606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888443110201', 'Mango drink', 'Eau, sucre, purée de mangue 7,5 %, correcteur d\'acidité : E330, stabilisants & épaississants E415, E466, arôme, colorants E102, E110.', '0', '', '10.9', '8.44', '', '0', '0', '0', '', '1');
+VALUES ('8265701867778', 'Pop’ Potes', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888443110256', 'Sagiko Pink Guava Drink', '', '0', '0', '12', '11', '', '0', '', '', '', '1');
+VALUES ('8265712805608', 'Tic tac banane', '', 'https://static.openfoodfacts.org/images/products/826/571/280/5608/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888443110287', 'Sagiko Lychee Drink', 'byedicnts: Water, (min.1C%), Sugar, CitrtA« Permitted Flavwr Xanthan gurn. Cartmymothyl collubse. Besundteilo: Wasset, Putoo (mirv 10%), Zucket, Zironensàure, Geeavnack und Zulàssige Speiso Eau, Putoo (min. 10%), Sim, Citrique, Parturn ct Climatiseurs do Nounture Perrmw Aguaq Po!me (m!n.l Aç(mr, Ca•servantes.', '0', '0', '11', '11', '', '0', '0', '0', '', '1');
+VALUES ('826638225008', 'Sliced Natural Provolone Cheese', 'Pasteurized milk, cultures, salt, kosher enzyme, natural smoke flavor.', '', '21.43', '12.5', '3.57', '0', '0', '25', '1.905', '0.75', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888443110454', 'Soursop Juice drink', 'Eau, sucre, purée de corossol 7 %, correcteur d\'acidité E330, E300, stabilisants & épaississants E415, E466, arôme.', '0', '0', '11.9', '10.9', '', '0', '0.00397', '0.00156', '', '1');
+VALUES ('8266820780986', 'Pur jys de grenade', '', '', '0', '0', '15', '13', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888522011788', 'Croustilles Sésame pavot', '', '36.8', '22.1', '44.09', '0.3', '', '10.2', '2.8', '1.10236220472441', '', '0');
+VALUES ('8266820794754', 'Galettes maïs amarante lin', '', '', '2.7', '0.2', '79', '0.7', '', '9.2', '0.28', '0.110236220472441', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888522012914', 'Assaisonnement Champignon ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8266848', 'Haagen-Dazs', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888522019524', 'Matcha Latte - Green Tea', '', '13.97', '13.97', '37.22', '37.22', '', '1.4', '12.8', '5.03937007874016', '', '0');
+VALUES ('826766055528', 'Great For You Fruit Blend', 'Cantaloupe, honeydew melon, pineapple, grapes, apples (apples, calcium ascorbate [a blend of calcium and vitamins to maintain color]),', '', '0', '0', '10.71', '8.57', '0.7', '0.71', '0.02794', '0.011', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888659807506', 'Delicious syrup', 'Sucre, eau, extrait de rose 0,45%, conservateur benzoate de sodium E211, colorant E122', '0', '0', '78', '78', '', '0.57', '0.004', '0.0015748031496063', '', '0');
+VALUES ('826766116910', 'Renaissance Food Group, Fresh Hatch Chile Guacamole', 'Guacamole (hass avocado, tomatillo, onion jalapeno pepper, sea salt, cilantro, garlic), tomatoes, yellow onion, hatch green chile, jalapeno pepper, lime juice, cilantro minced garlic in water (garlic water citric acid), salt', '', '7', '0', '8', '2', '4', '2', '1.1176', '0.44', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888659865322', 'Rose flavor syrup', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('826766781639', 'Hatch Chile Cheese Crimini Mushrooms', 'Crimini mushrooms, hatch green chile, monterey jack cheese (pasteurized milk, cheese culture, salt, enzymes, potato starch and powdered cellulose added to prevent caking), panko bread crumbs (wheat flour, contains 2% or less of the following: sugar, yeast', '', '3.33', '2.5', '5', '1.67', '0', '5', '0.21082', '0.083', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888773200016', 'Chinatown Glutinous Rice Balls Sesame 200G.', 'FARINE DE RIZ GLUANT 38%, EAU, SUCRE, SESAME NOIR HUILE VEGETALE (HUILE DE PALME, EMULSIFIANT (E471), ANTIOXYDANT (820)), HUILE RAFFINEE DE COLZA, AMIDON MODIFIE DE MAIS, FARINE DE BLE TENDRE EMULSIFIANT (E471). PEUT CONTENIR DES TRACES D\'ARACHIDES.', '15.9', '6.5', '53.8', '14', '3.2', '4.8', '0.02', '0.0078740157480315', '', '1');
+VALUES ('826868012113', 'Spinach & Asiago Chicken Sausage', 'Chicken, spinach, asiago cheese (pasteurized cow\'s milk, cheese cultures, salt, enzymes), mozzarella cheese (part skim cow\'s milk, cheese cultures, salt, enzymes), contains 2% or less of: onions, roasted garlic, green onions, vinegar, spinach flakes, pars', '', '10', '3.33', '2.22', '0', '1.1', '20', '1.83388', '0.722', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888773260027', 'Pancake Ciboule 260G - Surgeles', '', '17.6', '12.6', '39.8', '4.9', '', '6.3', '0.96', '0.377952755905512', '', '1');
+VALUES ('8271471448338', 'Yaourt au lait entier nature', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888773310012', 'Crêpe Blé Roti Prata', '', '13.2', '9.8', '42.7', '2.4', '', '6.7', '', '', '', '1');
+VALUES ('8271580409060', 'Vico la legere -30% de M.G.', 'Pomme de terre, huile de tournesol, sel Traces éventuelles de LAIT, MOUTARDE fabriqué en atelier qui utilise des ARACHIDES.', '', '23.9', '1.6', '54.2', '0.7', '', '6.8', '1.52', '0.598425196850394', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888919123186', 'young coconut juice', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8271771788677', 'Crème fraiche fluide', 'Crème de lait pasteurisé, ferments lactiques', 'https://static.openfoodfacts.org/images/products/827/177/178/8677/front.5.400.jpg', '30', '21', '3.5', '3.5', '0', '2.4', '0.762', '0.3', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888919320066', 'Kaya jam', '', '7.7', '0', '66.8', '44.3', '', '4.9', '0.091', '0.0358267716535433', '', '0');
+VALUES ('8271872085910', 'chocolat au lait', '', 'https://static.openfoodfacts.org/images/products/827/187/208/5910/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8888971000074', 'Rayan Natural Water', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8272280001844', 'Pain Spécial au Levain Seigle', 'Farine de FROMENT (30%), levain naturel (eau, farine de SEIGLE complet (7%), farine de SEIGLE (4%)), eau, farine de SEIGLE (21%), sel, levure. correcteur d\'acidité : acétate sodium, agent de traitement de la farine : acide ascorbique . Peut contenir des traces de Sésame.', '', '1.5', '0.3', '42', '1.7', '5.2', '7.1', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8889000619922', 'The lipton rich earl grey', '', '0', '0', '0.5', '0.5', '', '0.5', '', '', '', '1');
+VALUES ('8272472943556', 'Cola', '', '', '0.1', '0.1', '7.3', '7.3', '', '0.1', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88912003928', 'Cereal', 'Corn, whole grain wheat, sugar, whole grain rolled oats, brown sugar, rice, canola oil, wheat flour, malted barley flour, corn syrup, salt, whey (from milk), malted corn and barley syrup, wildflower honey, caramel color, natural and artificial flavor, ann', '5', '0', '83.33', '20', '6.7', '6.67', '1.143', '0.45', '', '0');
+VALUES ('8272475725838', 'Carrés Miel', '', 'https://static.openfoodfacts.org/images/products/827/247/572/5838/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88936000463', 'Mahi Burgers', 'Mahi-mahi, fire roasted green chiles, potato starch, citrus seasoning (organic dehydrated garlic and onion, sea salt, organic evaporated cane juice, organic spices, organic dehydrated citrus [lemon and orange], malic acid, citric acid, organic lime flavor', '0.88', '4.42', '5.31', '1.77', '0', '15.93', '0.89916', '0.354', '', '1');
+VALUES ('8272476117281', 'Jambon de Paris découenné dégraissé ', '', 'https://static.openfoodfacts.org/images/products/827/247/611/7281/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8900200025556', 'Venga Functional infusions Calorie Balance Citron citron vert', '', '0.1', '0.1', '0.1', '0.4', '', '0.4', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8272476415714', 'Mini galettes de maïs aux herbes de Provence', '', '', '3.2', '1.4', '76', '0.5', '', '9.2', '0.52', '0.204724409448819', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8900200025624', 'Wenga', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8272602809080', 'Tendre perles', '', 'https://static.openfoodfacts.org/images/products/827/260/280/9080/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('89006702', 'Nescafe Classic Pure Coffee Powder', '••Good to talk $ INfMMATlON powder CONSUMER CARE 363 225 4.4 9% ËP.0Bag2.NewDài.110001 WeCare@in.nestlecom a g 68,2 C 1800103 1947 39,4 13,8 15% @Reg.TrademarkofSociété des Produit Nestlé S.A. NUTRITIONALCOMPASS@ 53.2 2% CLOSE UDTIGHTLYAFTERUSE. Atwaysusead spoon. andhygienic place.', '0', '0', '68.2', '39.4', '23.8', '22.5', '0.0234', '0.00921259842519685', '', '0');
+VALUES ('8272782718707', 'Stick cannelle', '', '', '20.8', '13.7', '64.7', '32.3', '', '5.3', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('89006740', 'nescafe classic en poudre', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8273441937446', 'Crouton a l\'ail', '', '', '7.2', '0.8', '57', '3.9', '', '10', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901001555174', 'Papadums Green Chili', 'Farine de lentille, sel, farine de riz, piments, oxyde de calcium, huile végétale.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8274203433343', 'Bordeaux', '', 'https://static.openfoodfacts.org/images/products/827/420/343/3343/front.3.400.jpg', '', '', '', '', '', '', '', '', '12.5', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901001555549', 'Masala curry', '', '25', '5', '13', '2.5', '', '4.2', '3.3', '1.2992125984252', '', '0');
+VALUES ('8275350000501', 'Pulco Citron', '', '', '0', '0', '1.6', '0.8', '', '0.2', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901012113370', 'Johnson baby oil', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8278320193845', 'Sauce curry', '', '', '2.3', '1.7', '8.1', '4.8', '', '1', '0.39', '0.153543307086614', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('890103008303', 'Brooke Bond, Red Label Tea', 'Black tea.', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
+VALUES ('8279771088780', 'Pepito chocolat noir', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030083327', 'Lipton Chai Latte 3in1 Classic 25.7GR', '', '3', '2.5', '21', '16', '', '1', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8279774797610', 'Cheese cake', '', '', '18', '11', '32', '23', '1.7', '2.5', '0.22', '0.0866141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030154409', 'Darjeeling tea', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8279820129488', 'Muesli', '', '', '6.3', '1', '58', '13', '', '12', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030194160', 'Brooke Bond Three Roses Tea', 'CONTENTS: TEA BESTBEFORETWELVEMONTHSFROMPACKAGING. ,PREPAREWITHBOILINGWATER/MILK. MRP Rs. (incl. ofall taxes) PKI). CODE No.', '0', '0', '4', '0', '0', '20', '0', '0', '', '1');
+VALUES ('8279820181349', 'Soupe Miso Au tofu.60, 9g', '', '', '0.6', '0', '1.7', '1.2', '', '1.2', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030251504', 'Taj Mahal Exclusive Selection of finest teas', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8279820784939', 'Nocciolata sans lait', '', '', '31', '5.3', '55', '50', '', '5.9', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030373916', 'Bru Gold', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8279820787329', 'Riz, Soja Legumes printaniers', '', '', '4.6', '0.7', '15', '1.3', '', '4.6', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030450389', 'Redlable tea   500g', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8279820791845', 'Soja cuisine semi-épais Bio', '', '', '18', '1.5', '3', '2.5', '', '3.5', '0.18', '0.0708661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030461224', 'chinese manchurian', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8279820793818', 'Shirataki de konjac', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030515293', 'Green Tea- Honey Lemon', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('82809302691', 'Sun-Dried Tomatoes', 'Organic sundried tomatoes (salted with sea salt).', '', '3.7', '0', '55.56', '37.04', '13', '14.81', '5.31876', '2.094', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030516320', 'Knorr Cup-a-soup Tomate', 'légumes2 ; 39% (tomate : 3806 oignon), fécule de pomme de terref sucre, croûtons : (farine de BLEF huiles vég%es (palme, colza), sel, levure, antioxydant : extraits de -romarin)i pâtes (semoule de BLE durs sel/ extrait de levure, épice et aromates (aiP, persil* : poivre, livèche), graisse de palme, Jus de {légumes concentrés (CELERI, carotte±, poireau, oignon) Peut contenir : tait, moutarde, œuf, Zlngrédients issus de l\'agriculture durable', '0.6', '0.3', '7', '3.6', '', '1.2', '0.83', '0.326771653543307', '', '1');
+VALUES ('8281302705806', 'pâte à tartîner', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030518232', 'Cup-a-Soup Sweet Corn Veg', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8281764165392', 'Jambon seche de Dinde', '', '', '5.22', '0.39', '2.1', '1.75', '', '32.15', '4.82', '1.89763779527559', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030535048', 'Mixed Fruit Jam', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8281811002298', 'Jambon', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030553134', 'Green tea', 'FLAVOURED GREEN TEA TEA BAGS CONTAINS ADDED NATURAL FLAVOURS', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8282001654068', 'Malt Vinegar', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030614934', 'life buoy', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8282301620091', 'Son d\'avoine', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030618581', 'Classic thick tomato soup', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8282872683808', 'Eau minérale ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030638220', 'ponds', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8285270513470', 'Assortiment de confiserie à partager', 'Funny pop : sucre, glucose, acidifiant : E330, arômes, émulsifiant : E471, colorants : E100, E120, E133, E150d, E160a, E163. Candy boom : sucre, glucose, acidifiant E330, arôme, émulsifiant E471, bicarbonate de soude : E500(ii), gélifiant : E414, agent d\'enrobage : E903, E904, colorant : E163. Roll, bipop : dextrose, glucose, acidifiant : E330, émulsifiant E470b, arômes, colorants : E100, E120, E133, E160a, E163. Escalofrio : dextrose, acidifiant : E330, sucre, bicarbonate de soude : E500i(i), glucose, émulsifiant E470b, arômes. Draku : dextrose, sucre, acidifiant : E330, bicarbonate de soude : E500(ii), glucose, émulsifiant : E470b, arôme.', 'https://static.openfoodfacts.org/images/products/828/527/051/3470/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901030670930', 'Ketchup', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8289086009974', 'Banane bio+équitable ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901035053608', 'Tea Bags', 'Orange pekoe and cut black tea', '0', '', '0', '', '', '0', '0', '0', '', '1');
+VALUES ('8290162793878', 'cola', '', 'https://static.openfoodfacts.org/images/products/829/016/279/3878/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901035055619', 'the digestive', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8295100016286', 'Mini Sweet Peppers', 'Mini sweet peppers', '', '0', '0', '5.88', '3.53', '1.2', '1.18', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901041000313', 'salty', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8296140006', 'Wild Caught Sea Scallops', 'Sea scallops', '', '0.89', '0', '2.68', '0', '0', '16.96', '0.54356', '0.214', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042954516', 'Rava idli', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('829634001153', 'Starlight Mints', 'Corn syrup, sucrose, natural peppermint oil, and red # 40.', '', '0', '0', '100', '66.67', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042954622', 'Mtr Inst. Badam Drink', 'Sugar, Milk solids, Almond (8,5 %), Maltodextrin, Saffron, Cardamom and Antioxidant INS 306, CONTAINS PERMITTED NATURAL COLOURS (INS 100 & 160a)', '5', '0.5', '81', '75', '', '5', '0', '0', '', '0');
+VALUES ('8297590832186', 'Purée de céleri', '', '', '0', '0', '2.8', '2.1', '', '1.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042954639', 'Dhokla', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8297852664913', 'Madeleines longues aux oeufs', '', '', '18', '1.7', '60.1', '28.1', '', '5.2', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042954677', 'Drink Mix', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8300775485890', 'Weizenmehl Type 1050', 'Bio Weizenmehl Type 1050', 'https://static.openfoodfacts.org/images/products/830/077/548/5890/front.8.400.jpg', '1.8', '0.3', '68', '0.5', '5.5', '9.8', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042956008', 'MTR Chana Masala', 'Water, Chick Pea (25%), Tomato (14%), Onion, Edible Vegetable Oil, Coriander, Cumin, Ginger Ghee, Salt, Other Spices', '5', '1', '19', '0', '', '5', '0.49', '0.192913385826772', '', '1');
+VALUES ('8301011307914', 'Fenchel-Tee Babydream', '', 'https://static.openfoodfacts.org/images/products/830/101/130/7914/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042957005', 'Mtr Ready To Eat Shahi Paneer', 'Water, Cottage Cheese (19%), Onion, Toned Milk, Tomato Paste (6%), Cashew Nut, Refined Sunflower Oil, Spices, Salt, Ginger Paste, Sugar, Chilli Powder, Garlic Paste, Paprika Oleoresin (E 160c). ALLERGEN ADVICE: Contains milk, milk products, Cashew nut and may contain traces of Other nuts..', '6.8', '3', '11', '1', '', '5', '0.4', '0.15748031496063', '', '1');
+VALUES ('8302973386689', 'Woolworths Select 100% Pure Full Cream Australian Milk', '', 'https://static.openfoodfacts.org/images/products/830/297/338/6689/front_en.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042957098', 'Kadina Pakora', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8305680190433', 'Granola Avena C / Frutos Y Frutas Secas 500GR. Ulia', 'Ingredientes: Copos de avena•, miel*, aceite de girasol* , coco•, sésamo•t pipas de girasol\', dâtiles\', pasas•, almendras•t hanna de espeltah, sal marina y canela•. Procedente de agricultura ecolôgica. Puede contener trazas de huevos y leche.', '', '29', '7.4', '42.7', '22', '8.2', '11', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042957517', 'MTR Dal Makhani Black Lentil Curry', 'Water, Blackgram Splits, Tomato Puree, Onion, Red Kidney bean, Vegetable Oil (made from the combination of oils such as sunflower, rice bran, soybean, palm & sesame), Butter Milk, Bengalgram splits, salt, greenchilli, garlic paste, greengram, ginger paste, red chilli, cumin powder, coriander powder, fenusgreek leaves. Contains Milk, milk product, soybeans,sesame.', '11', '4', '22', '0', '', '8', '1.62052', '0.638', '', '0');
+VALUES ('8305680560120', 'Pan Molde Espelta C / Semillas 600GR. Tribal Trading', 'Ingredientes Harina de espelta agua, Ievadura madre*, aceite de girasol*, azücarpanela* huevos* sal marina artesanal, sésamo* lino marr6n*, pipas de girasol*, semillas de amapola*, levadura, vinagre de manzana*y zumo de lim6n*.', '', '11', '1.3', '48.6', '2.3', '0', '8.8', '0.66', '0.259842519685039', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901042958361', 'Idli/Dosa/Chilly Chutney Powder', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8308488211201', 'Grainé de courge', '', '', '41', '7', '7', '7', '', '35', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901047011368', 'Riz basmati', '', '0', '0', '79', '0', '', '0', '', '', '', '1');
+VALUES ('8311030000031', 'Crêpes Bretonnes faites mains', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901047012167', 'Basmati pirinač', '100% bela riža dugog zrna', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8311543753936', 'Sucre roux stevia', '', '', '0', '0', '99', '99', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901047064012', 'Pure Ghee', 'Milk fat.', '100', '65.33', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('8312380048438', 'Pain des fleurs ekibio', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901047816192', 'Bombay potatoes', '', '4.2', '0.6', '8.9', '0.6', '', '1.5', '2.18', '0.858267716535433', '', '0');
+VALUES ('8313765658365', 'M&M\'s Peanut Butter', 'ARE BASED A 2,000 CALORIE DIET To learn more visit www.marshealthyliving.com DV defined', '', '13', '8', '26', '22', '', '4', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901047912788', 'Masala Moong', '', '20', '3', '52', '11', '', '21', '2', '0.78740157480315', '', '0');
+VALUES ('8314380000614', 'Gressins nature', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901047912818', 'Plain bhujia', '', '33.3', '23.04', '42.86', '10.84', '', '18.31', '1.66', '0.653543307086614', '', '0');
+VALUES ('8314380077296', 'Tartines bio craquantes au maïs sans gluten', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901050095102', 'Peanut Butter', '', '10', '10', '10', '10', '', '10', '40', '15.748031496063', '', '0');
+VALUES ('8314390017268', 'pâtinettes', '', '', '1.4', '0.3', '73', '4', '', '11.1', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901052087426', 'Green tea', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8316996227331', 'Coktail multivita', 'A consommer de préférence avant/ Best beforeJConsumir preferentemente antesdel MindestenshaltbarFc1z!é Boisson rafraichissante de conservateurs Ingredff,ts de fruits et de banane, mangue, qoyave, vitamine B3,vitamine B5, secouer ouverture. Garder réfrigéré et consommer les 3', '', '0.007', '0', '9.688', '9.656', '0.033', '0.012', '0.00093', '0.000366141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901057510028', 'Staples', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8320410219727', 'Jambon blanc avec couenne BIO', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058817836', 'Nescafe Classic Coffee', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('832113003705', 'Handful Of Nature\'s Finest Eats', 'Cranberries (dried cranberries, sugar, sunflower oil). almonds, roasted cashews (cashews, cottonseed, peanut and/or canola oil).', '', '25.58', '3.49', '51.16', '37.21', '7', '11.63', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058824032', 'Noodle Masala Spicy Noodles', 'Maggi 2 Minute Noodles Masala ln Iredients: hloodles: Wheat Flour, Palm Oil, Salt, Wheat Gluten, Calcium Carbonate, Potassium Chloride, Stabilisers (Potassium Carbonate, Sodium Carbonate), Humectant (Pentasodium Triphosphate), Thickener (Guar Gum). Flavour Sachet: Ground Noodjest (Wheat), Salt, Sugar, MixedSpiccs (Coriander Seed, Red Chilli Pepper, Turmeric, Cumin, Aniseed, Fenugreek, Ginger, Black Pepper, Cardamom, Nutmog, Clovo), Hydrolysed Peanut Proteint Onion, corn Starch,l Garfic, Palm Oil, Acid (Citric Acid), Potassi n chloridq Flavour Enhancer (Disodium ctcotide)l %iour« (Sulphito Ammonia Caramel), nstabiliser (Sodium Bicarbonate). 4See Nood(es ingredients 12t.Mayctonta)ijHllkandSoyat Société des Produits NeseJK', '3.3', '1.5', '13.6', '0.8', '2.9', '2.1', '0.67', '0.263779527559055', '', '0');
+VALUES ('8322346529918', 'Chocolat Noisettes Entieres', 'Sucre, noisettes (17%), beurre de cacao, poudre de lait écrémé, pâte de cacao, lactosérum en poudre (de lait), beurre concentre, pâte de noisettes, émulsifiant (lécithine de soja), arôme. Cacao: 30% minimum dans le chocolat au lait du pays alpin. Peut contenir autres fruits à coque et blé. A conserver au sec et à Itabri de la chaleur.', '', '35', '15', '49.5', '48.5', '3.2', '8.1', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058844894', 'maggi rich tomato ketchup pichkoo', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8326033200074', 'Pain d\'epices', '', '', '1.7', '0.3', '70', '37', '', '3', '0.52', '0.204724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058851298', 'maggi', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8331622080159', 'Sardines', '', '', '32', '4.9', '0.5', '0.5', '', '19', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058851304', 'Maggi Masala Noodles', 'Noodles: Wheat flour, Palm oil, Salt, Wheat gluten, Mineral (Calcium carbonate), thickeners (508 & 412) , Acidity regUlators (501 (i) & 500(i)) and Humectant (451 (i)). TASTEMAKER@•. Hydrolysed groundnut (peanut) protein, Mixed spices {(23.6%) (Dehydrated onion, coriander powder, Red Chilli powder (3%), powder, Dried garlic Cumin powder, Aniseed powder, Fenuqreek powder, Ginger powder, Black pepper powder (0.4%), Clove powder (0.1%), Green cardamom powder (0.1%) & Nutmeg powder)}, Noodle powder{ Wheat flour, Palm oil, Salt, Wheat gluten, Mineral (Calcium carbonate), Thickeners (508 & 412), Acidity requlators (501(i) & 500(i)) Humectant (451 (i))}, Sugar, edible starch, Palm oil, Salt, regulators (330 & 500(ii)), Flavour enhancer (635), Colour(150d) and Mineral (ferric pyrophosphate).&quot; CONTAINS PERMITTED NATURAL COLOUR. MAY CONTAIN MILKSOLIDS, MUSTARD AND SOYA.', '15.7', '6.8', '63.5', '3.4', '3.9', '10.4', '12.32', '4.8503937007874', '', '0');
+VALUES ('83327200238', 'Vinegar', 'Concentrated grape must wine vinegar [acidity 6%], apple juice. flavors, natural chili pepper flavour.', '', '0', '0', '39.33', '37.33', '0', '0', '0.01778', '0.007', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058851311', 'Maggi noodles', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8333445070454', 'Fallafel', '', '', '3', '0.4', '61', '4.1', '', '13.1', '3.2', '1.25984251968504', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058856125', 'KIT KAT', '', '23', '0.04', '48', '38', '', '8', '12', '4.7244094488189', '', '0');
+VALUES ('83344979009013', 'Steak Haché Pur Bœuf Race Charolaise', 'Viande bovine race Charolaise.', '', '12', '4.1', '0.5', '0.5', '', '20', '0.14', '0.0551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058856293', 'Masala Magic', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8334639963354', 'Marinade', 'Soy sauce (water, salt, hydrolyzed soy protein, invert syrup, caramel color), water, lime juice (from concentrate), spice dried garlic citric acid, lime oil', '', '0', '0', '0', '', '0', '', '11.3792', '4.48', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901058857245', 'Kitkat', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8336322965300', 'Trésor gourmand', '', '', '2.9', '1.7', '17.31', '16.5', '', '3.4', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063004092', 'Good day (chocochip)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8336363563565', 'Eau minerale naturelle', '', '', '0', '0', '0', '0', '', '0', '24', '9.44881889763779', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063004122', 'GoodDay Choco Chip', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8336788856341', 'Crème chocolat banane', 'Lait entier, sucre, crème 9,2%, purée de banane 7,9%, chocolat (pâte de cacao, sucre, poudre de cacao maigre), chocolat en poudre (sucre, poudre de cacao), amidons modifiés, protéines de lait, épaississants : carraghenanes - gomme xanthane, arômes. Présence possible de soja, d\'œuf et de fruits à coques. valeurs nutritionnelles moyennes pour 100 g : Energie : 692 kJ / 165 kcal - Matières grasses : 6,9 g, dont gras saturés : 4,4 g - Glucides : 22 g, dont sucres : 20 g - Fibres : 1,5 g - Protéines : 3,0 g - Sel : 0,08 g.', '', '6.9', '4.4', '22', '20', '1.5', '3', '0.08', '0.031496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063026018', 'Cracker', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8337785007293', 'K Classic Frische Vollmilch 3,5% Fett', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063093287', 'Good Day Cashew Cookies', 'REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM), CASHEW BITS (4.5%), BUTTER (3%), INVERT SYRUP, MILK SOLIDS, RAISING AGENTS [503(ii),500(ii)], EDIBLE COMMON SALT AND EMULSIFIERS (322,471,472e)', '24', '11', '65', '22', '0', '7', '0', '0', '0', '1');
+VALUES ('8339033313699', 'La salade façon thaï - nouilles de riz, boeuf, sésame', '', '', '5.8', '1.2', '12', '3.1', '', '3.7', '0.62', '0.244094488188976', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063136465', 'Milk Rusk', 'Wheat flour (70%), sugar, vegetable fat, milk and skimmed milk powder (4.1%), butter, yeast, salt, enzyme (amylase), emulsifier [sodium stearoyl-2-lactylate] and antioxidant (ascorbic acid)', '12.5', '7', '78', '23', '3', '11', '1.1684', '0.46', '', '0');
+VALUES ('833949002547', 'Flocons d\'érable • Decacer', 'Sirop d\'érable biologique pur à 100 %', '', '0', '0', '85.7', '85.7', '0', '0', '0.363', '0.143', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063136489', 'Cookies', 'Wheat flour (55%), sugar, palm oil, butter, skim milk powder (2%), almond (1.7%), cashew (2.1%) and pistachio (1.7%), ammonium bicarbonate & sodium bicarbonate (leavening), salt, soya lecithin and mono & diglycerides of fatty acids (emulsifiers), artifici', '25', '10.71', '64.29', '21.43', '0', '7.14', '0.81534', '0.321', '', '0');
+VALUES ('8339931904340', 'Penne Au Ble Integral', '', '', '', '0.5', '', '3.1', '9.3', '13', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063136700', '50-50 Crackers', 'Wheat flour (56%), vegetable oil (palm oil, palm kernel oil), sugar (17%), sodium bicarbonate, ammonium bicarbonate (leavening), calcium phosphate (preservative), invert sugar, salt (1%), yeast, sodium metabisulphite (dough conditioner), artificial flavou', '22.58', '11.29', '64.52', '16.13', '0', '6.45', '1.92532', '0.758', '', '0');
+VALUES ('8342700035022', 'Moutarde Fine Mi-Forte', '', '', '27', '0.3', '9.3', '4.5', '', '3.9', '4.3', '1.69291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063142015', 'Digestive', 'çGREDIENTS: FLOUR. V, )uGH CON AOOtO', '21', '10', '68', '14.5', '6', '8', '0', '0', '', '1');
+VALUES ('8342700047506', 'Moutarde', 'énergétique / 0,3/ Glucides 1 / % dont / (et emballage contient 14 portions.', '', '26', '2.5', '0', '0', '0', '6', '4.9', '1.92913385826772', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063151017', 'Digestive Biscuit', 'Wheat flour (33%), whole wheat flour (28%), palm oil, sugar, wheat bran (5%), ammonium bicarbonate & sodium bicarbonate (leavening), high maltose syrup, salt, whole milk powder, invert syrup, malt extract, soya lecithin, sodium stearoyl 2-lactylate & mono', '23.33', '13.33', '66.67', '16.67', '6.7', '6.67', '1.69418', '0.667', '', '0');
+VALUES ('8342700065302', 'Flan pâtissier aux oeufs', '', '', '1.5', '0.9', '23', '15', '', '3.1', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('890106315137', 'Good Day, Pista-Almond Cookies', 'Wheat flour (55%), sugar, palm oil, butter (4%), skim milk powder (2%), cashew (2%), almond (2%), pistachio (1%), salt, ammonium bicarbonate & sodium bicarbonate (leavening), mono & diglycerides of fatty acids & soya lecithin (emulsifiers), tartrazine (fd', '23.53', '11.76', '64.71', '23.53', '', '8.82', '0.78486', '0.309', '', '0');
+VALUES ('8342700081029', 'Têtes brûlées', '', '', '6.1', '5', '80.4', '50.4', '', '0', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063154025', 'Ragi cookies', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8342700113348', 'Tomato Ketchup', '', '', '0.5', '0.1', '23', '22', '', '1.2', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901063164017', 'Sharma', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8342700119883', 'Moutarde vinaigrette légère', '', '', '26', '3', '3', '2', '', '0.5', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901071301022', 'Sofit SoyaMilk', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8342700162667', 'Ketchup plaisir +', 'de référence pour un adulte-type (8400 kJ/2000 kcal). Cet emballage confient 31p0ftv$ Osuctes en moins que la plupart des Tomato Ketchup classiques. 2avec arôme naturel ketchup teneur réduite en sucres, avec sucre et édulcorant diorigine naturelle (170 g de tomates pour 100 g de ketchup), vinaigre dialcool 12%, fibres de citron, épices, arôme naturel, extrait d\'oignon, édulcorant : glycosu?S . ••romates issues de l\'agriculture durable. Relation Consommatews', '', '0.5', '0.1', '12', '12', '', '1.2', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901071706834', 'Chocolate Flavoured Syrup', 'Sugar, Water, Invert Sugar, Liquid Glucose, Cocoa Solids (5%), Malt Extract, Thickening Agent (415), Class-Il Preservative (202) and Salt CONTAINS PERMITTED NATURAL COLOUR (150 a) AND ADDED FLAVOR-NATURE IDENTICAL FLAVORING SUBSTANCES', '0.56', '0.5', '66.6', '63.6', '0', '1.27', '0', '0', '0', '0');
+VALUES ('8342700202325', 'Mini cornichon petit croquant', 'cornichons (dont SULFITES), vinaigre sucre, oignon 5,5%, sel, graines de MOUTARDE 0,5%, graines de coriandre, arôme naturel.', '', '0.5', '0.5', '6.4', '5.3', '', '1.5', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901086040213', 'Доктор МОМ лимонные растительные пастилки от кашля', 'активные вещества (сухой экстракт солодки голой корней 15 mg, сухой экстракт имбиря лекарственного корневищ 10 mg, сухой экстракт эмблики лекарственной плодов 10 mg, левоментол 7 mg) вспомогательные вещества (сахароза, декстроза жидкая, глицерол, лимонной кислоты моногидрат, метилпарагидроксибензоат, пропилпарагидроксибензоат, лимона масло, ароматизатор мятный (мятная эссенция), краситель (хинолин жёлтый))', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8342700277477', 'Marmite de bouillon de boeuf', '', '', '7', '3.5', '4', '2.8', '', '2.9', '21.4', '8.4251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901088047142', 'parachute oil', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8342700430889', 'Mini cornichons petits croquants', 'cornichons (dont SULFITES), vinaigred\'d( graines de MOUTARDE0,6%1 graines de coriandre, arôme naturelde; POIDS 19 kJ/5 kcal kcal', '', '0.5', '0.1', '1.3', '0.5', '', '1', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901088068734', 'Saffola masala oats', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8342700431237', 'Boule coco', '. noix de coco 527%, sucre, blanc d\'œuf, sirop de glucose (contient sulfites), dextrose, farine de riz, arôme, conservateur : E200 Fabrique dans un atelier utilisant . amande, arachide, blé, lait, noisette, pistache, sesame, soja', '', '37', '33', '36', '31', '', '5.7', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901090212323', 'CAFE ROMA', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8343841472479', 'Citron Vert À Diluer', '', '', '0.5', '0.1', '1', '1', '', '0.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901123005397', 'Choco Pie', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('83456343', 'Sirop sucré de canne citron', '', '', '0', '0', '74', '74', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901138507091', 'Himalaya Herbals Chyavanaprasha 500g', '', '0', '0', '75', '65', '', '4', '', '', '', '0');
+VALUES ('83465635', 'Plain Nonfat Yogurt', 'Cultured grade a non fat milk, pectin. contains active yogurt cultures including l. acidophilus', '', '0', '0', '6.67', '6.67', '0', '4.89', '0.17018', '0.067', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901138713874', 'Himalaya herbal intensive moisturing crezm', '', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
+VALUES ('8350570988034', 'Petit beurre', '', '', '12', '7.5', '72', '23', '', '7.9', '1.38', '0.543307086614173', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901138831523', 'Triphala Bowel Wellness', '', '0.0001', '0.0001', '0.0001', '0.0001', '', '0.0001', '0.0001', '3.93700787401575e-05', '', '1');
+VALUES ('8357790039393', 'Purethe grenade', '', '', '0', '0', '4.8', '4.6', '', '0.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901138834234', 'Karela ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('83611000259', 'Barre de Chocolat au Citron Vert NewTree', 'Pur beurre de cacao, sucre de canne, fibres d\'agave (inuline), lait écrémé en poudre, pâte de cacao, muesli (pétales d\'avoine, sucre, noix de coco séchée, huile végétale non-hydrogénée, sirop de glucose, graines de tournesol, miel), pépites de citron vert, arôme de citron vert, extrait de thé vert, émulsifiant: lécithine de soja sans OGM, arôme de vanille. Cacao : minimum 50 %. Contient du gluten.', 'https://static.openfoodfacts.org/images/products/836/110/002/59/front.4.400.jpg', '33.3', '20', '40', '33.3', '16.7', '6.67', '0.144', '0.0567', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901155101111', 'Gulab Jamun', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('83611000353', 'gaufre caramel', '', 'https://static.openfoodfacts.org/images/products/836/110/003/53/front.8.400.jpg', '4.8', '1.4', '19.9', '13.2', '1', '1.1', '0.254', '0.1', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901155101210', 'Gits Gulab Jamun Mix 200G', '', '13.6', '8', '57', '18.2', '', '17', '', '', '', '1');
+VALUES ('8363366354654', 'Galette chocolat au lait et coco', '', '', '4', '2.4', '9.8', '4.4', '', '1.2', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901155102217', 'Gits Rice Idli Mix - 200G', '', '0.7', '0', '67', '0', '', '11', '2.8', '1.10236220472441', '', '0');
+VALUES ('8363635659343', 'Premium 100% Apple Juice', 'Apple juice, calcium lactate, ascorbic acid (vitamin c).', '', '0', '0', '12.08', '11.67', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901155102323', 'Gits Idli Mix', 'Farine de riz, farine de lentilles, sel, agents levants : bicarbonate de soude et acide citrique, fenugrec en poudre, conservateur : acétate de sodium.', '0.7', '0', '67', '0', '6', '11', '2.8', '1.10236220472441', '', '0');
+VALUES ('836426300493', 'Premium Tropical Nectar, Pineapple', 'Water, pineapple pulp, sugar, citric acid, ascorbic acid, natural flavor', '', '0', '0', '9', '8.5', '0', '0.5', '0.00508', '0.002', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901155103320', 'Dosai Mix', 'Farine de riz (69%), farine de lentilles, sel, agents levants: bicarbonate de soude et acide citrique, fenugrec en poudre, conservateur: acétate de sodium', '0.7', '0', '68.4', '0', '0.4', '10.6', '1.47', '0.578740157480315', '', '0');
+VALUES ('8365414174221', 'Madeleines longues', '', '', '25', '2.2', '55', '29', '', '5.1', '0.69', '0.271653543307087', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901155410312', 'Gits Ready Meals Palak Paneer 285G', 'ngredients : Spinach (46%), Cottage cheese (16%), Onion, Tomato, Water, 3rèam, Sunflower oil, Garlic, Green chillies, Salt, Bay leaves, Black salt, Dorn flour, Cumin, Okra powder, Turmeric powder, Coriander seeds, Fennel ;eeds, Black cardamom, Black pepper, Staranise, Ginger, Cinnamon, qutmeg, Green cardamom, Mace & Clove.', '13.4', '4.9', '0', '0', '', '4.5', '0.25', '0.0984251968503937', '', '1');
+VALUES ('83660221', 'Parmigiano reggiano bio', 'PARMIGIANO-RECGIANO BIOLOHIQUE :lait, sel, presure biologique - Conditionné en atmosphère protégée, Conserver au froid a +4/+8', '', '28', '19', '0', '0', '', '33', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901161105127', 'Arròs Basmati Qilla Premium', 'BASMATI Amount Per Scrving Calories from fat O \'Percent Daily Value % Dally value • based on a 2,030 calot ? d,et. Your daily value De nigher or Icwer deve,ndr: Totai Carbohydrate 35g 6% Thiamine 13 % Niacin &gt;ENEIICAI I Y MoolFlED', '0', '0', '35', '0', '', '3', '0', '0', '', '1');
+VALUES ('83660368', 'Mayonnaise', '', '', '71', '5.4', '2.1', '1.3', '', '1.2', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901161120205', 'Lal Qilla Basmati Rice Suitable For Diabetes & Obesity', '', '', '0.6', '', '0', '7.99', '8.59', '0', '0', '', '1');
+VALUES ('8366379058793', 'Perle de lait', '', '', '8.7', '6', '9.3', '7.9', '', '2.8', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901190107024', 'Organic peanut butter', '', '51', '7.8', '18.5', '2', '', '27.3', '1', '0.393700787401575', '', '0');
+VALUES ('8366380007001', 'Truite fumée', '', '', '7.9', '1.3', '0.4', '0.4', '', '22', '2.8', '1.10236220472441', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901207002724', 'Trifla Churn', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366630903503', 'Lasagne bolognaise 1kg fraiche', 'Eau, viande de boeuf crue origine France (15%), semoule de blé dur, sauce tomate (eau, concentré de tomate), tomates concassées (tomates, jus de tomate, acidifiant: acide citrique, affermissant: chlorure de calcium), emmental (8%), oignons, carottes, huile de colza, vin rouge (1.6%), farine de blé, amidon modifié, lait écrémé en poudre, huile d\'olive vierge extra, sel, basilic (0.5%), purée de carotte, crème ( crème, stabilisant :carraghénanes), ail, poudre de poireau, gélifiants : gomme xanthane et farine de graines de caroube, poivre, fenouil poudre, muscade. Viande bovine : origine France. Présence éventuelle de traces d\'oeuf, de soja et de poisson.', '', '8.1', '3.6', '14.1', '0.6', '', '6.3', '0.81', '0.318897637795276', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901207013973', 'Dabur Ratnaprash', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366750092507', 'cankao', '', '', '7.9', '3.7', '5.3', '0.4', '', '12.1', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901207018268', 'Meswak', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366757003728', 'Pure Via', '', '', '0.15', '0.15', '99', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901207035364', 'Honey', 'Honey (100 %)', '0', '0', '80', '80', '0', '0', '0.04318', '0.017', '', '0');
+VALUES ('8366770006829', 'Creme fleurette', '', '', '20.8', '14.3', '3.8', '3.8', '', '2.6', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901207872624', 'Dabur Honey', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770053465', 'Yop chocolat', '', '', '2.2', '1.4', '14', '12.6', '', '4', '0.21', '0.0826771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901207900631', 'chyawanprash', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770053496', 'Yop', '', '', '1.3', '0.9', '11.2', '11', '0.1', '2.8', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233011202', 'Oreo', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770055094', 'Silhouette', 'VRIIURS / 174KJ/41KCA1 • GRkSStS / G GRAS SATURÉS/ WAARVAN G 1 G oour WAARVAN G / 4.5 G • / G : IAG e. APPORTS / HtTZU', '', '0.1', '0.1', '4.6', '4.6', '', '4.5', '0.17', '0.0669291338582677', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233018362', 'bournvita', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770057258', 'Danoninos', '', '', '2.9', '2', '12.7', '12.1', '', '6.4', '0.08', '0.031496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233020341', 'BournVita', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770058781', 'Ravioli artichauts', '', '', '7.8', '2.3', '37', '2.9', '', '7.7', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233020624', 'Dairy Milk - Home Treats', 'Energy kcal 523 Protein  g 8.1 Carbohydrate g 60.5 (of which sugar) g 57.4 Fat g 29.0 (of which Saturated Fat) g 17.6 Trans Fat g 0.1 Sodium mg 152 Fibre g 2.1', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770058897', 'Petits Filous Fruits Mixés', '', '', '2.4', '1.6', '10.4', '9.9', '', '5.3', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233021492', 'Nutties', '           \' ‘ mmelm- Per 1009‘     V \'Hﬂﬂﬁﬁiﬁl‘ 3N, _ . \' l. $753135;                           sag” ‘ ; V. Eliergv kEaI 514 77 Protein 9 5.7 ¥ 7 \' Carbohydrate 51 \' 64] j (ofwhich Sugars) g 585 Path? &quot;7 \' 25.4”, [of which Samrated Fat)g 13.8 Rah? F515“ \'7 7 0” ’              Sodium mg ﬁbre g‘ \' \'         PackagingMuterialhﬂdj ~ Packaging India Pvt. LNL . ,, Foadlchcn)~21211PPCCIPVI’IJSN2MZ {  azsrszmmouonms mu ms ormmmn 0°“  Nat Wt. 309  ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8366770059337', 'Champs de fruits', '', '', '5.6', '3.8', '15.7', '14.9', '', '2.6', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233023687', 'FUSE', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8368460481671', 'Grany noisettes 5 céréales', 'Céréales 38,5 % (farine de riz 9,8 %, flocons cc d\'avoine 9,5 grains de mais 9,3 farine de blé 6 %, flocons de seigle malté farine de blé malté 0,7 %), sirop de lucose, noisettes 14,9 stabilisant (sirop de sorbitol), uile de palme, sucre, arômes (contient noisette), ? sel, gluten (de blé), dextrose, émulsifiants (E473, E471, lécithine de tournesol), extrait d\'orge malté, correcteur d\'acidité (acide citrique). Peut contenir lait et autres fruits à coque.', '', '21', '6', '61', '19', '3.4', '6.7', '0.63', '0.248031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901233028361', 'Dairy Milk', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8368900087', 'Pureau ', '', 'https://static.openfoodfacts.org/images/products/836/890/008/7/front_en.3.400.jpg', '0', '0', '0', '0', '0', '10', '0', '0', '0', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901242107514', 'Roasted Premium Vermicelli', 'Hard wheat semolina.', '1.25', '0.21', '82.14', '0', '2.1', '10.71', '0.00508', '0.002', '', '1');
+VALUES ('8381854737284', 'Chocolat noir 70%', '', '', '39.2', '24.1', '35.3', '27.4', '', '10.3', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901246002075', 'Tomato Ketchup', 'Water, Tomato Paste 29%, Sugar, Iodized Salt, Acidity Regulator (INS 260), Thickeners (INS 1422, INS 415), Spices and Condiments (Onion Powder, Garlic Powder, and Mixed Spices) and Preservative (INS 211)', '0', '0', '37', '25', '', '2', '', '', '', '1');
+VALUES ('8381854945375', 'Nouilles chinoises saveur crevette', 'Préparation alimentaire à base de blé tendre et sachet d\'assaisonnement à la crevette Ingrédients.\' Nouilles (60,5 g): farine de blé tendre 78,5%, huile de palme, eau, sel, antioxydant: E306. Assaisonnement (4,5 g): sel, sucre, poudre de crevette (crustacés) 16%, exhausteurs de goût: 621, E627, farine de blé tendre, colorant: El 50a, huile de palme, anti-agglomérant: E551, ciboulette, ail en poudre.', '', '17.8', '9.4', '62.7', '1.7', '', '10.8', '3.66', '1.44094488188976', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901248701105', 'none', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8381854985654', 'Sauce caesar au parmesan', '', '', '43.6', '3.9', '8.2', '6.6', '', '1.5', '2.06', '0.811023622047244', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901262010023', 'Amul Butter', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8383854009309', 'Melange plaisir', '', '', '27', '2.4', '45', '43', '', '9.8', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901262070676', 'Dark chocolate', 'SUGAR, COCOA SOLIDS, COCOA BUTTER PERMITTED EMULSIFIERS (E322. E476). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES COCOA & VANILLA)', '33.7', '20.4', '57.3', '43', '', '6', '', '', '', '0');
+VALUES ('8383857009474', 'Coquillettes pâtes d\'alsace', '', '', '5', '1.3', '64', '2.6', '', '15', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901262150064', 'Amul Taaza', '', '3', '2', '0', '0', '', '3', '4.8', '1.88976377952756', '', '0');
+VALUES ('8383857100492', 'Noix De Coco Rapee', '', '', '', '59.5', '', '7.7', '0', '7.6', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901262151375', 'Cool Kesar', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8383857638971', 'Salade de thon Niçoise', '', '', '2.2', '0.4', '3.5', '1.5', '', '7.9', '0.97', '0.381889763779528', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901262151429', 'Kool Cafe', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8387568062339', 'Gambas aux mandarines', 'Crevettes cuites décortiquées 16,5% (crustacés), surimi 15% [eau, chair de poisson 4,5%, huile de colza, blanc d’œuf réhydraté, fécule de pomme de terre, amidon de blé, sucre, sel, stabilisants : sorbitol -diphosphates - triphosphates, extrait de crabe (dont crustacés), arôme (dont crustacés), colorant : extrait de paprika), courgettes 14%, huile de colza, carottes 11,5%, mandarines au sirop 10% (mandarines, eau, sucre, acidifiant : acide citrique), poivrons rouges 5,7%, eau, raisins secs (dont huile de colza), vinaigre d’alcool, jaune d’œuf, plantes aromatiques, sel, moutarde de Dijon (eau, graines de moutarde, vinaigre d’alcool, sel), acidifiant : acide citrique, conservateur : sorbate de potassium, amidon modifié de pomme de terre, épaississant : gomme xanthane, poivre blanc', '', '11', '0.9', '5.9', '5.9', '2.4', '5.7', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901262260121', 'Milk', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('83876618031', 'All in one', 'Complete blend of organic proteins (whole grain brown rice protein, pea protein), organic brown rice syrup, organic cane sugar, organic tapioca syrup, palm kernel oil, organic peanut butter, organic dates, rice Vegetable mixture (vitamins and minerals: potassium phosphate, calcium phosphate, magnesium oxide, potassium phosphate, calcium carbonate, calcium carbonate, iron pyrophosphate, calcium ascorbate, zinc citrate, potassium iodide, molybdenum lecitrate, vitamin A palmitate, niacin, vitamin E, copper citrate, selenium citrate, manganese citrate, biotin, calcium pantothenate, riboflavin, vitamin B6, vitamin B12, chrome citrate, vitamin D2, folate Green vegetables: alfalfa herb, spinach, broccoli, kale. Acai, pomegranate seeds, mangosteen. Oil, unsweetened chocolate, inulin (chicory root), contains 2% or less of: buckwheat , chia seeds, hemp seeds, organic groundnut flour, organic vanilla extract, organic peanut extract, natural coconut flavor, natural vanilla flavor, sea salt, sunflower lecithin.', 'https://static.openfoodfacts.org/images/products/838/766/180/31/front_en.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901296200674', 'Chericof syrup - Cherry flavour', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8388728346528', 'TROPICO exotique', '', '', '0', '0', '12.1', '12.1', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901393005493', 'Happydent Complete', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8388765551343', 'Birra sarda', '', 'https://static.openfoodfacts.org/images/products/838/876/555/1343/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901393012156', 'Alpenliebe just jelly-strawberry flavour', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8388765575097', 'Vino', '', '', '', '', '', '', '', '', '', '', '14.5', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901393016147', 'Centre Fruit', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8388765703711', 'Affettatoveg', '', '', '12', '1.4', '9.9', '1', '', '24', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901393017045', 'Bonibon', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8389480028202', 'Sweet Box', '', '', '0.5', '0.18', '75', '61', '', '5.9', '0.029', '0.0114173228346457', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901393017205', 'Alpenliebe', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8389480085182', 'Black box', '', '', '2.4', '1.11', '78', '59', '', '4.6', '0.545', '0.214566929133858', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901396313106', 'Dettol', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8389531251184', 'Pain au levain traditionnel complet', '', '', '0.9', '0.2', '45', '1.3', '', '7.9', '1.34', '0.52755905511811', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901414000056', 'Aloo bhujia', '', '47.1', '12', '41.4', '0', '', '8.7', '2', '0.78740157480315', '', '0');
+VALUES ('8389714084363', 'Sauce panzani bolognaise', '', '', '3.1', '1', '6.5', '5.6', '', '4.9', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901414000117', 'bhujia', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8390700007440', 'Fromage Blanc', '', '', '7.6', '5', '4.2', '4.2', '', '5.7', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901414001619', 'Kesar Rasbari Barfi', 'Sugar syrup [(water (48.25%), sugar (46.7%) and sodium bisulphite (E223) (0.0025%)], cottage cheese (chena) (4.5%), cardamon (0.08%) and saffron (0.001%). Contains permitted synthetic food colour (IE102)/ FD & C Yellow No.5) and [(E110) / FD & C Yellow No.6]', '0.7', '0.4', '46.4', '46.4', '', '1.8', '0.1016', '0.04', '', '0');
+VALUES ('839138002501', 'Fit Crunch, Whey Protein Baked Bar, Peanut Butter', 'Proprietary fortifx protein blend (whey protein isolate, whey protein concentrate), soy protein isolate, peanuts, vegetable glycerin, vegetable oils (palm and palm kernel), sugar, sorbitol, gelatin, plm oil, brown rice flour, maltitol, and water. contains', '', '18.18', '9.09', '30.68', '6.82', '2.3', '34.09', '1.41478', '0.557', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901414004467', 'Bikaneri Bhujia', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('83914607637', 'Games of thrones Red Wine', '', 'https://static.openfoodfacts.org/images/products/839/146/076/37/front_en.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901414015609', 'Bikano All In One Namkeen', 'QUANTITY PER 100 q 497.20 kcal / 159326 kJ PROTEIN 11.30 FAT 35.20 q SATURED 15.90 g TRANS FAT O.OO q CHOLESTEROL 0.00 mg CARBOHYDRATES 40.70 g SUGARS 8.40 g SALT 1.50g SODIUM 699 mq', '35.2', '15.9', '40.7', '8.4', '', '11.3', '1.52', '0.598425196850394', '', '0');
+VALUES ('8397460510050', 'Grany Pommes riche en fruit', 'Céréales 43,5% (flocons d\'avoine 14,7%, grains de maïs 9,9%, flocons et farine de blé 8,6%, farine de riz 5,2%, flocons de seigle 4,8%, farine de blé malté 0,3%), sirop de glucose, stabilisant (sorbitol), pommes vertes déshydratées séchées 12,2% (équivalent pommes vertes 73 %), huiles végétales (colza, palme), sucrer self arôme, gluten (de blé), dextrose, extrait dlorge malté, émulsifiants (E473, lécithine de tournesol), correcteur d\'acidité (acide citrique), Peut contenir soja, lait, fruits à coque.', '', '12', '3.3', '72', '26', '3.7', '5', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901440013044', 'Sambar powder', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400000223201', 'Oranges Lane-Late', '', 'https://static.openfoodfacts.org/images/products/840/000/022/3201/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901441010011', 'Papadam au cumin', 'Ingr9die9ts il', '0.9', '0.3', '56.3', '0.2', '1.22', '21.4', '1.79', '0.704724409448819', '', '0');
+VALUES ('8400001000047', 'Vermicelle de riz', 'Vermicel{es poids 400g amidon de maïs, de riz, de l’eau.', '', '1', '1', '0', '0', '', '6.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901441010912', 'Galette de farine de le lentille nature', '', '1', '0.8', '52', '0.1', '', '20.2', '1', '0.393700787401575', '', '1');
+VALUES ('8400001044591', 'Melon', 'Melon', '', '9', '3', '8', '8', '', '0.8', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901441011117', 'Papadam Neutral Ohne Fett Geröstet', '', '0.7', '0.5', '59.02', '0', '', '20.9', '3.5', '1.37795275590551', '', '0');
+VALUES ('8400011036746', 'oranges bio navel', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901441013012', 'Pappadum Rote Chili 200 g Lijjat Indien', '', '0.7', '0.5', '59.02', '0', '', '20.9', '3.5', '1.37795275590551', '', '0');
+VALUES ('8400016470026', 'Fideos de arroz', 'Harina de arroz y almidón de maíz  ', 'https://static.openfoodfacts.org/images/products/840/001/647/0026/front.7.400.jpg', '1', '', '79', '', '', '5.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901441017010', 'Punjabi Masala Papads', '', '0.66', '0.5', '59.02', '0', '1.22', '20.94', '1.39', '0.547244094488189', '', '0');
+VALUES ('8400020239794', 'Mandarine ', '', 'https://static.openfoodfacts.org/images/products/840/002/023/9794/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901453000024', 'rooh afza', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400026000824', 'Filet Citron Jaune 1Kg,', '', '', '0', '0', '0', '0', '', '1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901483010512', 'Корнишоны маринованные', '', '0.1', '', '1.4', '', '', '0.2', '', '', '', '1');
+VALUES ('8400034000793', 'Citrons Verna', 'Citrons Verna Calibre : 4/5 (53/67mm). Sans traitement après récolte', 'https://static.openfoodfacts.org/images/products/840/003/400/0793/front.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491100519', 'Masala Munch', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400034000823', 'Citrons Fanny', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491101813', 'Lays', 'Potato,Edible Vegitables Oil,Palmolein Oil,Rice Bran Oil,Suger,Salt,Milk Solids,Cheese Powder,Onion Powder,Parsley Powder,Edible Starch', '34', '13.5', '51.6', '2', '', '7.8', '1.88468', '0.742', '', '0');
+VALUES ('8400034009895', 'Orange Sanguinelli cat 1 Origine ESPAGNE', 'Valeur énergétique moyenne pur 700 g: Valeurs g: Protéines Glucides dont su Lipides dont acides g. satur • Fibres alimentaires Sodium soit sel Vitamine C', '', '10', '0.05', '8.3', '8.3', '1.8', '1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491101844', 'India\'s Magic Masala (buddy pack)', 'Potato, Edible Vegetable Oil (Sunflower Oil, Corn oil, and/or Canola Oil), Spices and Condiments (Onion Powder, Chilli Powder, Dry Mango Powder, Coriander Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Turmeric Powder, Cumin Powder, Salt, Black Salt, Sugar, Tomato Powder, Citric Acid, Tartaric Acid, Natural Flavors (E160b)', '33.3', '6.67', '53.3', '3.33', '6.67', '6.67', '1.45', '0.57', '', '0');
+VALUES ('8400035008873', 'Orange', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491103282', 'Cheetos', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400035034285', 'Oranges à jus', 'Oranges à jus, variété Valencia. Traitement avec Thiabendazol, Imazalil. Cire : E904.', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491103787', 'Flocon d\'avoine pour poridg', '', '9.5', '2', '68.5', '0', '', '11.8', '9.5', '3.74015748031496', '', '0');
+VALUES ('8400045004520', 'Lechuga baby', '', 'https://static.openfoodfacts.org/images/products/840/004/500/4520/front.4.400.jpg', '0.1', '', '4.2', '2.7', '', '1.6', '0.254', '0.1', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491208291', 'Bikaneri Bhujia', 'Edible Vegetable Oil Rice Brand Besan, Salt, Spices & Moth Da Condiments(hll Powder, Gara. Masala Powder, Black Pepper Seeds a Powder Seeds and Powder, Awn eeds and Powder Seeds and Powde Fo', '49.5', '11.7', '33.5', '1', '', '11.8', '2.59588', '1.022', '', '0');
+VALUES ('8400047004429', 'Fraises', 'Fraises', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491503020', 'Lay\'s Magic Masala', 'Potato, Edible Vegetable Oil, Spices & Condiments (Onion Powder, Chilli Powder, Dry Mango Powder, Coriander Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder), Salt, Black Salt, Sugar, Tomato Powder, Citric Acid, Tartaric Acid. Contains permitted natural colour (160b) and added flavour (natural and nature identical flavouring substances)', '35.7', '14.1', '47.6', '4.1', '', '8.9', '2.39268', '0.942', '', '0');
+VALUES ('8400047033504', 'Fraise', 'Fraises', 'https://static.openfoodfacts.org/images/products/840/004/703/3504/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491503037', 'Lays', 'Potato,Palmolein Oil,Rice bran oils,Suger,Salt,Milk Solids,Cheese Powder,Onion powder,Parsley Powder,Pepper Powder,Edible Starch', '34', '13.5', '51.6', '2', '', '7.8', '1884.68', '742', '', '0');
+VALUES ('8400047033535', 'Framboises', 'Framboises', 'https://static.openfoodfacts.org/images/products/840/004/703/3535/front.4.400.jpg', '0.7', '0.001', '12', '4.4', '', '1.2', '0.001', '0.000393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491503051', 'West Indies\' Hot \'n\' Sweet Chilli', 'Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Sugar (5.5%), Starch, Salt, Spices & Condiments (Garlic Powder, Onion Powder, Chill), Cocoa Solids, Milk Solids.', '33', '13', '54.7', '6', '', '7', '1.71704', '0.676', '', '0');
+VALUES ('8400048004428', 'Fraise, Catégorie 1', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491702409', 'Quaker Oats', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400048026802', 'Poivrons Tricolores', 'POIVRONS TRICOLORES CRT:I CRL:G (70/30mm) 3 Pces 500 NET ORIGINE ESPRGNE', '', '0', '0', '21', '0', '9', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901491981552', 'Chile limon', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400048033503', 'Fresones &quot;Fresón de Palos&quot;', 'Fresas. Calibre: 25', 'https://static.openfoodfacts.org/images/products/840/004/803/3503/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901499007704', 'Oats', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400050033508', 'Fresones', 'Fresas. Categoría I. Calibre: 25 mm +', 'https://static.openfoodfacts.org/images/products/840/005/003/3508/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901499009623', 'kellogg\'s chocos fills', 'Ingredients: Multi Grain Flour Mix (Rice Flour, Whole Oats Flour, Whole Wheat Flour), Choco Cream (Sugar, Edible Vegetable Oil (Sunflower Oil, Palm Oil), Cocoa Solids (63%), Milk Solids, Emulsifier (INS 322(i))). Sugar, Cocoa Powder (5.6%), Iodized Salt, Vitamins CONTAINS ADDED NATURAL FLAVOURING SUBSTANCES Contains Gluten, Soy and Milk. BREAKFAST CEREAL (PROPRIETARY FOOD)', '15.3', '6.67', '89.3', '30', '5', '17', '1.19', '0.467', '', '0');
+VALUES ('8400050335084', 'Fraises', 'Fraises', 'https://static.openfoodfacts.org/images/products/840/005/033/5084/front.5.400.jpg', '0', '0', '7', '0.2', '', '0.4', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901512881106', 'Sundrop Peanut Butter', '', '52', '10', '19', '10', '5', '25', '0.8763', '0.345', '', '0');
+VALUES ('8400054037199', 'Asperges Fraîches', 'Asperges', 'https://static.openfoodfacts.org/images/products/840/005/403/7199/front.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901526205561', 'test product', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400065033500', 'Imaginarium', '', '', '0.5', '0', '0', '0', '', '0.7', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901537006027', 'Riz Daawat', '', '', '0', '', '78', '2', '8', '0', '0', '', '0');
+VALUES ('8400085040014', 'Clémentines bio', 'Clémentines, calibre 1 (63/74 mm)', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901537006164', 'Rozana Rice', 'Informations nutritionnelles Énergie Matières grasses / Lipides dont Acides gras saturés Glucides dont Sucres Fibres alimentaires Protéines Sel Sodium', '0.8', '0.3', '76.6', '0.1', '1.4', '8.4', '0', '0', '', '1');
+VALUES ('8400097064718', 'Classic Branches', 'sucre, beurre de cacao, éclats de noisettes et NOISETTES moulues 10 0%, LAIT entier en poudre, pâte de cacao, LAIT écrémé en poudre, huile de palme, cacao en poudre, huile de coco, émulsifiant lécithine de SOJA, AMANDES mou- lues, arômes, NOIX, PISTACHES. Peut contenir du gluten, des œufs et des traces dlautres fruits à coque (noix). Cacao: 33 % minimum dans le chocolat', '', '32', '16', '55', '53', '3', '7', '0.16', '0.062992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901537025127', 'Daawat Super Basmati Rice', 'riz', '0.47', '0.1', '78', '0', '1.6', '8.8', '0.0017', '0.000669291338582677', '', '1');
+VALUES ('8400171251188', 'Coco', 'Coco. Variedad Gigante.  Categoría: I', 'https://static.openfoodfacts.org/images/products/840/017/125/1188/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901537025134', 'Daawat Indian Basmati Rice White', 'RIZ BASMATI SUPER R/ZBASMATI NATURELLEMENT PARFUMÉ RIZ LONG Dosage : 60 g de riz pour une personne Mode de : Amenez à ébullition 1 tasse de riz (200 g) avec 6-8 tasses deau. Retrœz de temps en temps. Réduisez le feu et laissez wire à fable nm prdant 12 à 14 minutes. Egouttez soigneusement et servez A consommer de préférence avantle/Numém de Lc!: yoirsurl\'emtallage, A conserver dans un endroit frais et sec Informations nutritionnelles noyennes', '0.47', '0.1', '78', '0', '', '8.8', '0', '0', '', '1');
+VALUES ('8400241000821', 'Citrons 500g. Non Traité Après Récolte.', 'Typical values per 100g Energy 120K]. 29KcaI: Fat 0,3g, of Wich saturatcs O, lg, Carbohydrate 3,2g, of Wich sugars 3,2gt Fibre 4,7g, Protcin 1 ,0g, Salt trace. CAT 500 GRS. FERRER, S.Ç.tx oaaoo gigastro', '', '0.3', '0.1', '3.2', '3.2', '4.7', '1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901537075146', 'Dawat', 'Cèrb0hYdrate Vitamin A Og : Sella 1121 Bùsmati Rice processed Packeot by : ssat • LT Foods Ltd. Village-Varpal, Toren•Taran Road, Amritsar•143022, Punjab, India, ssaÜ:• LT Foods Ltd t No. 134, First Floor, Rectangle.ls Sùkùt District Centre. New Delhi-110017, tndiò. r F *91-11-29563099 ISO 9001:2008 certified company', '0.5', '0', '0', '0', '2.5', '8.5', '0', '0', '', '1');
+VALUES ('8400360023459', 'Barre crunch fraise', '', '', '13.8', '7.7', '11.1', '4.4', '', '34.1', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901542001857', 'Glucon-d', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400507035116', 'lomo de cebo iberico media pieza', 'échine de porc ibérique, sel, piment, épices, dextrose, lactose, dextrine, protéines de soja, protéines de lait, E301, E300,E252, E250', 'https://static.openfoodfacts.org/images/products/840/050/703/5116/front.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901542013157', 'Heinz tomato ketchup', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8400507036397', 'Lomo de cebo iberico media pieza', 'Echine de porc ibérique, sel, piment, épices, dextrose, LACTOSE, dextrine, protéine de SOJA, protéines du LA\\T, antioxydants ’ (E301, E300, conservateurs E252, E250).  ', 'https://static.openfoodfacts.org/images/products/840/050/703/6397/front.3.400.jpg', '19', '8', '0', '0', '', '38', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552000680', 'Ashoka Mixed Pickle 500G', '', '20', '5.5', '0.5', '0', '', '2.1', '8.8', '3.46456692913386', '', '0');
+VALUES ('8401382608266', 'Pavé multicéréales', 'Farine de blé, eau, graines de tournesol 7 %, levain, gluten de blé, graines de lin brun 1,7 %, flocons d\'avoine 1,7 %, graines de millet 1,7 %, sel, malt de blé torréfié, farine de maïs, levain de seigle dévitalisé, levure, farine de blé malté, lavure désactivée, agent de traitement de la farine : E300.', 'https://static.openfoodfacts.org/images/products/840/138/260/8266/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552000741', 'Ashoka Garlic Pickle 500G', 'Al (67%), Huile de tournesol, sel, Poudre de piment, Moutarde, Acide acétique, Fenugrec, Poudre de safran des Indes, Poudre de coriandre, Poudre de cumin, Ase fétide', '16', '1.5', '23', '0.5', '', '5.6', '9.1', '3.58267716535433', '', '0');
+VALUES ('840222020133', 'Roasted Unsalted Peanuts', 'Peanuts and cottonseed oil.', '', '52.78', '8.33', '13.89', '5.56', '8.3', '27.78', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552000833', 'Ashoka Brinjal Pickle 575G', 'Sucre, Aubergine 39%, Vvinaigre de canne à sucre, De Moutarde, Sel, Piment En Poudre, Huile De Tournesol, Coriandre, Fenugrec, Poudre de cumin, Poudre de curcuma, Ase fétide, Acide: acide citrique Aubergine Salzlake Zutaten: Zucker, Aubergine 39%, Zuckerrohr, Senfsamen, Salz, Chilipulver, Sonnenblumenôl, Koriander, Bockshornklee, Kreïmmelpulver, Kurkumapulver, Asant, S/\\uerungsmittel: litronensâure Sottaceto Melanzana Ingredienti: Zucchero, Brinjal 39%, canna ria Âtcchero Aceto, semi dl senape, sale, Peperoncino in Polvere, Olio -Emi di Girasole, semi Zdolo, Fieno greco, Cumino in Polvere]io i,urcuma in Polvere, hafoetida, Acido: acido citrico. Encurtido Berenjena k y hgredientes: Azücar, Berenjena 39%, Vinagre de Cafta de azücar, : deMostaza, Sal, Chile en Polvo, Aceite de girasol. ciiantro, Fenogreco, Comino en Polvo, Cürcuma en Polvo, Asafétida, Acido: acido citrico. store in the refrigerat0L of India / Produkt aus Indien / Produit de L\'inde Producto de la india / Prodotto di india', '1', '1', '1', '1', '1', '1', '1', '0.393700787401575', '', '1');
+VALUES ('8402389324579', 'fósforos de madera', '', 'https://static.openfoodfacts.org/images/products/840/238/932/4579/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552006613', 'Garlic Paste', 'Fresh garlic, salt, acetic acid, sodium benzoate.', '0', '', '20', '0', '', '0', '11.684', '4.6', '', '0');
+VALUES ('84037900396', 'Almond Butter', 'Dry roasted almonds, honey powder (sugar, honey), palm oil, sea salt.', '', '50', '9.38', '25', '12.5', '9.4', '18.75', '0.51562', '0.203', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552006620', 'Ginger Garlic Paste', 'Fresh ginger, fresh garlic, salt, acetic acid, sodium benzoate.', '0', '', '0', '0', '', '0', '11.684', '4.6', '', '0');
+VALUES ('8404328877122', 'Serovence', 'gredientes: Proteinas vegetales [soja, trigo (contiene gluten)), fibras [fibras de citricos, fibra de trigol, mantequilla, protejnas de chea jarabe de maltitol, aromas, clara de huevo, levadura quimica [pirofosfato de acido sédico (E450i), bicarbonato de sodio almid6n de maizl, espesante (goma de guar (E412)], aminoacidos (péptidos de tript6fano, L-treoninat L-valina), eritritol -968), corrector de acidez (écido citrico (E330)), edulcorantes tcliclamato de sodio (E952), sucralosa (E955)I, antioxidante (vitamina l. Contiene: 520 mg de Tript6fano por racién. - Un consumo excesivo puede ocasionar un efecto laxante, ngrédients : Protéines végétales [soja, blé (contient gluten)), fibres [fibres d\'agrumes, fibres de blé], beurre, protéine de lait, sirop de naltitol, arômes, blanc d\'oeuf, levure chimique [pyrophosphate d\'acide de sodium (E450i), bicarbonate de sodium (E500), amidon de maïs], épaississant [gomme de guar (E412 acides aminés (peptides tryptophane, L-thréonine, L-valine), érythritol (E968), correcteur dacidité [acide citrique (E330)J, édulcorants [cliclamato de sodium (E952), sucra/ose (E955)1, antioxydant (vitamine E). - Contient:520 mg de Tryptophane par portion. - Une consommation excessive peut provoquer un effet laxatif. Ingredientes: Proteinas vegetais [soja, trigo (contém glüten)], fibras (fibras de citrinos, fibra de trigol, manteiga, proteinas de leite, xarope de maltitoi, aromas, claras de ovo, levedura quimica [pirofosfato acido de s6dio (E450i), bicarbonato de s6dio (E500), amido de milhol, espessante [goma guar (E41 aminoacidos (peptideos de triptofano, L-treonina, L-valina), eritritol (E968), corrector de acidez fécido citricc (E33G)i, edu(corantes [cticlamato de sédio (E952), sucratose (E955)l, antioxidante (vitamina E). Contém: 520 mg de Triptofano porçào- O consumo excessivo pode causar um efeito laxante. Ingrediëten: Plantoardige terwe {bevat gluten)}, vezels [citrusvezels, tarwevezels], boter, melkeiwitten, maltito/ stroop, oromo, eiwit, bakpoeder (E450i)F natriumbicarbonaat (E500), maïszetmee/], verdikkingsmidde/ [guargom (E412)J, aminozuren (tryptoïactrj peptiden, L-threonine, L-valine), erythritol (E968)r zuurterege/aar [citroenzuur (E330)l, zoetstoffen (natriumcyclamaat (E952), sucralose (E955)j, antioxidant (vitamine E). Bevat: 520 mg Tryptofaan perportie - Overmatig gebruik kan een laxerend effect veroorzaken. Informaciôn NutricionalU Déclaration Nutritionelle / Informaçâo nutricional / Voedingswaardevermelding', '', '14.4', '9.2', '11.5', '1.3', '22.3', '35.9', '5', '1.96850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552006637', 'Ashoka, Peeled Ginger Paste', 'Ginger, water, salt, acetic acid, xanthan gum, sodium benzoate (e 211).', '0', '0', '0', '0', '0', '0', '9.652', '3.8', '', '0');
+VALUES ('840465', 'Micro Kale Mix', 'Micro kale mix', '', '0', '', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552006644', 'Garlic Paste', 'Fresh garlic, salt, acetic acid, sodium benzoate.', '0', '', '20', '0', '', '0', '11.684', '4.6', '', '0');
+VALUES ('8407014834898', 'Bio gas', 'Gaspacho. Soupe de légumes Biolbgique, Elaborée avec le 3.7 % !Vd\'olive extra vierge. Produit pasteurisé.\' frais, huile d\'olive vierge extra* (31 I)INGHÉDIENTS. Tomates* fraîches, poivrons* frais, I eau, vinaigre de vin*, ail* et sel. *Issues de l\'Agriculture A consommer de préférence avant l\'emballage. \'Aconserver au frais. Une fois ouvert, à conserver au frigo et à consommer dans les 5 jours. DÉCLARATION NUTRITIONNELLE pour Énergie 237 Matières Grasses dontacides gras saturés Gluci s dont sucres Fibres alimentaires Protéines Conditionné par RSI 26.09089/MU pourf BIOSABOR NATURE SBL.', '', '4', '0.7', '3.9', '3.4', '1.3', '0.9', '0.82', '0.322834645669291', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552006651', 'Peeled Ginger Garlic Paste', 'Ginger, garlic, water, salt, acetic acid, xanthan gun, sodium benzoate (e 211).', '0', '0', '20', '0', '0', '0', '9.652', '3.8', '', '0');
+VALUES ('8407014834911', 'Jus de tomate cerise', '', '', '0.2', '0', '7.2', '5.3', '', '0.9', '0.21', '0.0826771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552011594', 'Baigan Bharta', '', '6.6', '0.7', '8.6', '0.2', '', '2', '0.423', '0.166535433070866', '', '1');
+VALUES ('8407263021742', 'Petits pois mijotés au quinoa', '', '', '1', '0.1', '12.1', '4.7', '', '5.4', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552011600', 'Bombay Biryani', 'Basmati Bien Cuire, Légumes (Pommes De Terre, Carottes, Chou-Fleur, Haricots Verts, Petits Pois), L\'oignon, Eau, L\'huile De Tournesol, Sel, Ail, Feuilles De Menthe, De Pâte De Tomate, Gingembre, Le Piment Vert, Cumin, Piment Rouge Entier, La Coriandre En Poudre, Piment En Poudre, Poudre De Curcuma, Épices (Poivre Noir, Cardamome Noire, Cardamome Verte, Mace, Cumin En Poudre, Poudre De Clou De Girofle, Laurier, Cannelle En Poudre), Anis Étoilé, La Cardamome Noire, Clou De Girofle, Cannelle. Zutaten: Gekochten Basmati Reis, Gemüse (Kartoffel, Karotte, Blumenkohl, Franzôsische Bohnen, Grüne Erbsen), Zwiebel, Wasser, Sonnenblumenôl, Salz, Knoblauch, Minze-Blatter, Tomatenpaste, Ingwer, Grün Chilli, Kreuzkümmel, Rote Chilli Ganzes, Korianderpulver, Chilli Pulver, Gelbwurz Pulver, Gewürze (Schwarzer Pfeffer, Schwarzen Kardamom, Grün Kardamom, Muskatblüte, Kreuzkümmelpulver, Gewürznelkenpulver, Lorbeerblatt, Zimtpulver), Stern Anis, Schwarzer Kardamom, Lorbeerblatt, Gewürznelke, Zimt. Ingredienti: Riso di Basmati cucinato, Verdura (Patata, Carota, Cavolfiore, Fagioli francesi, Piselli Verdi), Cipolla, Acqua, Olio di Girasole, Sale, Aglio, Foglie di menta, Concentrato di pomodoro, Zenzero, Peperoncino verde, Cumino, Peperoncino Rossi Intero, Polvere di Coriandolo, Polvere di peperoncino, Polvere di Curcuma, Spezie (Pepe Nero, Cardamomo Nero, Cardamomo Verde, Macis, Polvere di Cumino, Polvere di Spicchio, Foglia di baia, Polvere di Cannella), Anice stellato, Cardamomo Nero, Foglia di Baia, Spicchio, Cannella. Ingredientes: Arroz Basmati Cocido, Verduras (Patata, Zanahoria, Coliflor, Judias Verdes, Guisantes), Cebolla, Agua, Aceite De Girasol, Sal, Ajo, Hojas De Menta, Pasta De Tomate, Jengibre, Aji Verde, Comino, Ajo Rojo Entero, Cilantro En Polvo, Aji En Polvo, Cürcuma en Polvo, Especias (Pimienta Negra, Cardamomo Negro, Cardamomo Verde, Nuez Moscada, Comino En Polvo, De Clavo en Polvo, Laurel, Canela En Polvo), Anis Estrellado, Cardamomo Negro, Hoja De Laurel, Clavo De Olor, Canela.', '3.6', '0.4', '0', '0', '', '2.7', '1.1', '0.433070866141732', '', '0');
+VALUES ('8407510151857', 'Mozza', '', 'https://static.openfoodfacts.org/images/products/840/751/015/1857/front.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552012546', 'Chilli Pickle', 'Piment vert 66 %, huile de tournesol, sel, graines de _moutarde_, fenugrec, piment rouge en poudre, curcuma en poudre, ase fétide, acide : acide acétique.', '20', '5.4', '4', '0.5', '', '3.3', '8.5', '3.34645669291339', '', '0');
+VALUES ('8408500010000', 'Laben', '', '', '3.5', '2.2', '4.6', '3.7', '', '3', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552015363', 'Madras Curry Paste Mild', 'Wasser, Salz, Korianderpulver, Sonnenblumenöl, Kreuzkümmelpulver, Knoblauch, Ingwer, Kurkumapulver, rotes Linsenmehl, Säuerungsmittel: Essigsäure; rotes Chilipulver 2%, Anissamen, Bockshornklee, Nelken, Zimt, Lorbeer.', '13', '1.5', '9.4', '0.5', '', '3.8', '12.2', '4.80314960629921', '', '0');
+VALUES ('8408502010008', 'Laben fraise', '', '', '2.5', '1.7', '13.6', '11.2', '', '2.4', '0.11', '0.0433070866141732', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552016407', 'Saag Aloo', '', '5.2', '0.9', '10.7', '0.1', '', '5.2', '5.86', '2.30708661417323', '', '0');
+VALUES ('8410000000030', 'Chips Ahoy! Extra Pepitas XL', 'Trozos de chocolate 37,1 % [azúcar, pasta y manteca de cacao, emulgente (lecitina de _soja_), aroma (vainillina)], harina de _trigo_, grasa de palma, azúcar, gasificantes (carbonato ácido de amonio, difosfato disódico, carbonato ácido de sodio), sal, aroma, colorante (E-160a(i)).', 'https://static.openfoodfacts.org/images/products/841/000/000/0030/front.5.400.jpg', '26', '14', '61', '37', '2.9', '4.5', '1.05', '0.413385826771654', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552016414', 'Ashoka Aloo Chole', 'Pomme de terre (26%), Eau, Pois chiches (22%), Oignon, Huile de tournesol, tomate, Ail, Gingembre, Sel, Poudre de coriandre, Poudre de piment, Amidon de maïs, Epices(Poudre de coriandre, Poivre Noir, Cumin, Anis, Cannelle, Muscade, Graines de Sésame, Cardamome, Clous de Girofle, Feuilles de Laurier, Anis Étoilé, Cumin, Graines de carambole, Mace, Fleur de Pierre) Cumin, Poudre de curcuma, Poudre de cardamome, Feuilles de laurier, Poudre de mangue sèche, Thé, Bicarbonate de sodium.', '5.2', '0.5', '0', '0', '2', '2.8', '0', '0', '', '1');
+VALUES ('8410000000108', 'Galletas Chiquilín', 'Farine de blé 68 %, sucre, huile de tournesol haut oléique 13 %, noix de coco râpée, _lactosérum_ en poudre, amidon de _blé_, miel 0,7 %, sirop de glucose-fructose, _œufs_ en poudre (équivalent à 2,3% d’œuf), poudres à lever (bicarbonates d\'ammonium et de sodium), sel, arômes, antioxydants (E 304, E306), extrait de malt d\'_orge_, vitamine e carbonate de calcium et fer.', 'https://static.openfoodfacts.org/images/products/841/000/000/0108/front.3.400.jpg', '17', '3.4', '75', '21', '3.2', '7', '0.28', '0.110236220472441', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552019316', 'Indian Mango purée', '', '0.1', '0.1', '22', '21', '', '6', '0.08', '0.031496062992126', '', '1');
+VALUES ('8410000000184', 'Filipinos chocolate negro', '', 'https://static.openfoodfacts.org/images/products/841/000/000/0184/front_en.3.400.jpg', '26', '15', '60', '29', '', '6.8', '0.28', '0.110236220472441', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021265', 'Peeled Garlic Paste', 'Garlic, water, salt, acetic acid, xanthan gum, sodium benzoate (e 211).', '0', '0', '20', '0', '0', '0', '10.16', '4', '', '0');
+VALUES ('8410000000214', 'Princesa', '', '', '18', '3.7', '72', '28', '', '5.2', '0.62', '0.244094488188976', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021272', 'Peeled Ginger Garlic Paste', 'Ginger, garlic, water, salt, acetic acid, xanthan gum, sodium benzoate (e211).', '0', '0', '20', '0', '0', '0', '9.652', '3.8', '', '0');
+VALUES ('8410000001013', 'Chips Ahoy ! Original', '', '', '24', '12', '64', '34', '', '5.5', '0.75', '0.295275590551181', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021364', 'Ashoka Matar Paneer (tofu)', '.\' Eau, Pois Verts, Soja Paneer (Tofu (les graines de soja, Eau, acide citrique, Sel)), Oignon, lait de coco, Huile De Tournesol, Noix De Cajou, L\'ail, Pâte De Tomates, Gingembre, Sel, Poudre De Piment Rouge, Amidon de maïs, Piment Vert, Cumin, Piment Rouge Entier, Coriandre, Curcuma, Feuilles De Fenugrec Séchées.', '8', '2.2', '8.4', '0', '', '5.4', '0.8', '0.31496062992126', '', '1');
+VALUES ('8410000001440', 'Artinata', 'FARiNHAOETRlGO,GOROURA valor ia/frer EMUlSlONANTEWlUbESOJA) at Matières Grosses de hs OJales Ecdas/dos quais Saturod WHEATSIARŒ (REAM /GW&lt;id6 E306) of whkhSU Œ *Sucres 210ge Protein Protein Protéi', '', '25', '23', '69', '41', '', '3', '0.33', '0.12992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021371', 'Ashoka Palak Paneer (Tofu)', '', '6.2', '1.1', '5.9', '0.9', '', '3.8', '0.7', '0.275590551181102', '', '1');
+VALUES ('8410000001464', 'Galleta Art.artichoco 175GR', '', '', '26', '24', '61', '35', '', '7', '0.33', '0.12992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021388', 'Paneer (tofu) Makhani', '', '5.6', '1.8', '6.2', '0.5', '', '3.6', '0.7', '0.275590551181102', '', '1');
+VALUES ('8410000002010', 'Galetes Daurada Marbãº', '', '', '17', '6', '73', '19', '', '6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021432', 'Ashoka Delhi Dal Makhani (vegan) (280G)', 'Eau, Gramme Noir, Oignon, Lait de Coco, Haricots Nains Rouges, Huile De Tournesol, Colle De Tomate, Noix De Cajou, Gingembre, Sel, Feuilles De Coriandre, L\'ail, Piment En Poudre, Épices (Anistar, Noir Cardamome, Poivre Noir, Cumin, Cassia, Piment, Clou De Girofle, Sel, Coriandre, Cumin, Gingembre Sec, Graines De Fenouil), Piment Vert, Curcuma Poudre, Cardamome, Cannelle, Clou De Girofle', '9.4', '2.2', '0', '0', '4', '6', '0', '0', '', '1');
+VALUES ('8410000002027', 'Marbù Dorada', 'agent (sodium metabi\'ù+±\'ii&quot;. tegetaies de palme etftournesol haut oleìque. siroo de glubose les (E 304, E 306), agent de traitemen\'.ü; \'qciona\\ r,nedia I Intormaçao nutricional média ( por/per/', '', '17', '6.3', '73', '19', '', '6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021456', 'Bombay Pav Bhaji', '', '3.9', '0.4', '0', '0', '', '2.8', '5.8', '2.28346456692913', '', '0');
+VALUES ('8410000002089', 'Marbú Galleta Dorada', '', '', '17', '6.3', '73', '19', '', '6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021470', 'Dal tadka', '', '4.6', '0.5', '6.2', '0', '', '2', '3.95', '1.55511811023622', '', '0');
+VALUES ('8410000002904', 'Chips Ahoy Original (128 G)', 'Farine de blé, sucre, graisse de palme, pâte de cacao, beurre de cacao, poudre à lever (carbonate acide d\'ammonium, carbonate acide de sodiumt, phosphate monocalcique), dextrose, sirop de glucose-fructose, sel, lactosérum en poudre Ide LAIT), émulsifiants (léclthlne de SOJA& lécithine de tournesol), arôme.', '', '24', '12.5', '64.5', '34', '2.8', '5.3', '0.73', '0.28740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552021487', 'Ashoka Shahi Navratan Korma (vegan) 280G', '', '10.9', '3.3', '10', '1.6', '', '2', '0.8', '0.31496062992126', '', '1');
+VALUES ('8410000005202', 'Crema Catalana', '', '', '1.4', '0.9', '17.5', '14', '0', '2.6', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552022040', 'Ashoka Dal Palak (280G)', 'Eau, pois chiche, épinards, oignons, tomates, soja vert coupé, ail, huile de tournesol, gingembre, piment vert, sel, poudre de curcuma, rumin, épices (anis étoilé, cardamome noire, poivre noir, carvi, cassia, piment, clous de girofle, coriandre, cumin, gingembre en poudre, graines de fenouil), coriandre en poudre, piment rouge en poudre, poudre de poivre noir Asafoetida (blé), cannelle en poudre. Zutaten: Wasser, Kichererbsen, Spinat, Zwiebeln, Tomaten, Gespalten Mungbohnen, Knoblauch, Sonnenblumenôl, Ingwer, grüner Chili, Salz, i{urkuma, kreuzkümmel, Gewürze (Sternanis, schwarzer Kardamom, schv;arzer Pfeffer, Kümmel, Kassia, Chili, Nelken, Nelken, Koriander, Kreuzkümmel, Ingwer-Pulver, Fenchelsamen), Korianderpulver, rote Paprika-Pulver, schwarzes Pfeffer-Pulver, Asafoetida (Weizen), Zimtpulver. Ingredienti: acqua, ceci grammo del bengala, spinaci, cipolle, pomodori, fagioli indiani verdi, aglio, olio di semi di girasole, zenzero, peperoncini verdi, sale, polvere di curcuma, cumino, spezie (anice stellato, cardamomo nero, Pepe nero, carum carvi, cassia, peperoncino, chiodi di garofano, coriandolo, cumino, zenzero in polvere, semi di finocchio), coriandolo in polvere, peperoncino rosso macinato, pepe nero macinato, Assa fetida (grano), cannalla macinata', '2.4', '0.2', '8.7', '0', '2', '3', '1.6', '0.62992125984252', '', '0');
+VALUES ('8410000005332', 'Natillas caseras', 'Almidón de maíz, sal, E-407, E-100, E-160b, aromas, E-339', 'https://static.openfoodfacts.org/images/products/841/000/000/5332/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901552022057', 'Achari Aloo', '', '3.6', '0.4', '12.8', '0.5', '', '1.1', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410000005349', 'Flan Royal', '', 'https://static.openfoodfacts.org/images/products/841/000/000/5349/front_en.3.400.jpg', '1.4', '0.9', '18.5', '17', '', '2.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901560100273', 'Fusilli Pasta', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000005387', 'Caramelo líquido', 'Jarabe de glucosa, azúcar y conservadores: sorbato de potasio (E-202) y _dióxido de azufre_ (E-220).', 'https://static.openfoodfacts.org/images/products/841/000/000/5387/front.4.400.jpg', '0.1', '', '78', '', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901571000098', 'Horlicks Original Jar', 'ln 1999-2CC0 n Ce b3sed cn a seve cf 2 cups (54 g).', '2', '1.4', '13.5', '13.5', '', '11', '0.4', '0.15748031496063', '', '1');
+VALUES ('8410000005608', 'Pastel De Queso Frío Royal', 'Preparado un pastel de queso (preparado en polvo para base de galleta, preparado en polvo para crema con queso, preparado en polvo para Sirope con sabora fresa). INGREDiENTES:Preparado en polvo para crema conu queso: desrtëtada en polùo, almidén modificado, manteca de coco totalmente hidrogenada, emulgentes (E-471, E-472a, #50), suero de LECHE en polvo, QUESO en polvo (2%), gelatina, estabilizantes (E-341, E-466, E-340),jarabe de glucosa, se citri(û), colorantes (E-161b, E-100), aromas, Preparado en polvo para base de galleta: Harina deTRIG0, azücarflnanteca de palma, jarabe de glucosa y fructosa, suero de LECHE en polvo, gasificantes (bicarbonato aménicor bicarbonato de sal de SCIA, lecitina de girasol), agente de tratamiento da la harina (METABISULFITO sédico), aroma. Preparado en polvo para Sirope con sabor a fresa: Azücar, estabilizante (E-407), acidulante (icido (E-163, (E-450). PUEPJE Una vez preparado, conservarrefrigerado. em pé para base de preparado em pé para recheio com queijo, preparado em pé para cobertura com sabora morango). INGREDlENTES:Preparado em pé pararecheio com pé amido motificado, gordüra de tctalmente hidrogenaday emulsionantes (E-471, E-472a, E-450), soro de LEITE em pb, QUEIJO em pé (2%), gelatina, estabilizadores (E-341, E-466, E-340), xarope de glicose,acidificante (icido pé de bolacha: Farinha de TR:GO, açücar, gordura de palmat xarope de glucose-frutose, soro de LEITE em Pô, levedantes (bicarbonato de aménio, bicarbonato de sédio), sal, emulsionantes de sédio)l aroma, Preparado em pô para cobertura com sabor a morango: Açücar, estabilizador (E-407), acidificante (icido citrico), aromas, corantes (E-163, E-150d),', '', '8.4', '5.9', '31.5', '23.5', '0.5', '4.7', '0.65', '0.255905511811024', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901571001354', 'horlicks', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000005684', 'Flan', 'Préparation en poudre pour faire un flan : sucre, E407, colorants (E100, E160), arômes (contient du _lait_), stabilisant (E339). Caramel liquide : sirop de glucose (contient des _sulfates_), sucre, eau, conservateur (E202).', '', '1.4', '0.9', '18.5', '17', '0.1', '2.5', '0.11', '0.0433070866141732', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901595963409', 'Ching\'s Secret Singapore Curry Instant Noodles', 'Noodles (_Wheat_ Flour, Palmolein Oil, Salt, Potassium Chloride (E508), _Wheat_ _Gluten_, Sodium Polyphosphate (E452i), Guar Gum (E412), Potassium Carbonate (E501i), Sodium Hydrogen Carbonate (E500ii)); Seasoning Mix (Mixed Spices 22% (Coriander, Turmeric, Chili Powder, Fennel, Cumin, Asafoetida, Fenugreek, Ginger, _Mustard_, Star Anise), Sugar, Mixed Vegetables 20% (Carrot, French Beans, Cabbage), Salt, Noodle Powder (_Wheat_ Flour, Palmolein Oil, Salt, Potassium Chloride (E508), _Wheat_ _Gluten_, Sodium Polyphosphate (E452i), Guar Gum (E412), Potassium Carbonate (E501i), Sodium Hydrogen Carbonate (E500ii)), Tomato Powder, Onion, _Soy_ Sauce Powder (_soybean_, _wheat_, salt), Disodium 5\'Guanylate (E627), Disodium 5\'Inosinate (E631), Garlic, Silicon Dioxide(E551), Citric Acid (E330), Sodium Bicarbonate(E500ii), Dehydrated Curry Leaves, Parsley, Sunflower Oil)', '16.5', '8', '58.9', '0', '4', '10.4', '3.86', '1.52', '', '0');
+VALUES ('8410000005967', 'Preparado el polvo para hacer una tarta de almendras', '', '', '0', '0', '97', '97', '', '2.3', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901595963461', 'Manchow Instant Noodles', 'Noodles: Wheat Flour, Refined Palm Oil, Salt, Potassium Chloride (Gelling Agent, E508), Wheat Gluten, Sodium Polyphosphate (Emulsifying Agent, E452(i)), Potassium Carbonate (Acidity Regulator, E501(i)), Sodium Hydrogen Carbonate (Raising Agent, E500(ii)), Tertiary Butylhydroquinone (Antioxidant, E319) Seasoning Mix: Garlic Powder, lodised Salt, Mixed Spices 12.6% (chilli, ginger, black pepper), Corn Starch, Hydrolysed Soy Protein, Sugar, Onion Powder, Disodium 5\' - Guanylate, Disodium 5\' Inosinate (Flavour Enhancers, E627, E631), Edible Palm Oil, Soy Sauce Powder, Caramel (Natural Colour E150d), Citric Acid (Acidity Regulator, E330), CONTAINS PERMITTED NATURAL COLOUR (CARAMEL, E150d) AND ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)', '10.3', '5.1', '33.2', '0.3', '0', '7.4', '2.39268', '0.942', '0', '0');
+VALUES ('8410000041903', 'Makro Flan (800g Packung)', '', '', '1.4', '1', '15.5', '15.5', '', '2.7', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901595971220', 'Manchow instant soup', '', '0', '', '10.8', '', '', '0.6', '2.97688', '1.172', '', '0');
+VALUES ('8410000042108', 'Crema Catalana Pot .800G', '', '', '1.4', '0.9', '14', '7', '', '2.6', '0.18', '0.0708661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901595972234', 'Chicken chilli masala', '', '0.72', '0.2', '67.2', '0.74', '', '1.14', '12', '4.7244094488189', '', '0');
+VALUES ('8410000802771', 'Mini Chips Ahoy !', 'Farine de _blé_, sucre, huiles végétales (palm_ et karité dans des proportions variables), pâte de cacao, agents de levage (hydrogénocarbonate de sodium, hydrogénocarbonate d\'ammonium), dextrose, sirop de glucose-fructose, beurre de cacao, sel, poudre de lactosérum (de _lait_) émulsifiants (lécithine de _soja_, lécithine de tournesol), arôme, ', '', '24', '13', '64', '31', '3.5', '5.8', '1.04', '0.409448818897638', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901652140583', 'Puff choco vanilla flavoired sandwich biscuits', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000803792', 'Galletas Ositos Sabor Chocolate Artiach Chiquilín', '', '', '15', '2', '69', '26', '', '7.5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719100277', 'Eclairs', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000803891', 'Oreo Kuchen', '', '', '12', '8.3', '33', '18.5', '', '5.2', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719100826', 'Hide & Seek', '', '18', '10', '74', '32', '0', '6', '0', '0', '', '0');
+VALUES ('8410000806953', 'Marbu Dorada', '', '', '18', '5.8', '67', '19', '', '6.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719100956', 'Biscuits', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000807363', 'Galleta Fontaneda 2OOGRS Maria', 'Campos de flores para cercaoos a nuestras la biodiversidad g PNcticas dcagicu/tura sostenible mas Û Verificaciones:con respctuosas con el medio ambiente, controles externos. El sello Harmony garantiza que més del 70% de nuestro trigo ha $ido cultivado curnpliendo con este compromiso, Galleta Maria. Ingredientes: Harina de TRIGO 74,3%, azücar, grasa palmaüarabe@e glycosa ructosa, suero de LECHE en polvo, rAo, bicarbonato de sodio), sal, in ecitina de girasol), agente de tratamiento de la harina OIETABISULFITO de sodio), aroma.', '', '10.5', '5.1', '77', '24', '2.1', '7.6', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719100963', 'Milano', 'WHEAT FLOUR, CHOCOLATE ( 26 % ) t SUGAR, COCOA SOLiDS, COCOA BUTTER,DEXTROSE, EMULSIFIER ( LECITHIN OF SOYA ORIGIN ) AND ADDED FLAVOUR ( ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA, EDIBLE VEGETABLE OIL (PALM OIL), SUGAR INVERT SUGAR, LIQUID GLUCOSE,BUTTER, RAISING AGENTS (503(II), 500(II)), MILK SOLIDS, COCOA SOLIDS, EDIBLE COMMON SALT AND EMULSIFIER (di-acetyl tartaric acid esters of mono and di-glycerides of edible vegetable oils)', '25.7', '25.7', '66.3', '30.3', '', '5', '0', '0', '', '0');
+VALUES ('8410000808940', 'Galetes Fontaneda Digestive Xocolata Amb Llet', 'TRIGO 39%, harina integral de TRIGO 10%), chocolate con LECHE 29 % (azücar, manteca de cacao, pasta de cacao, LECHE desnatada en polvo, lactosa (de LECHE), grasa de LECHE, emulgente (lecitjna de SOJA), aroma), azücar, aceite de girasol atto oleico 9,7%, grasas vegetales (palma, palmiste), gasificantes (carbonato âcido de sodio, âcido mâlico, carbonato âcido de amonjo), jarabe de azücar, jarabe de fructootigosacaridos, sal, emulgentes (lecitjna de SOJA, lecitina de girasol). PUEDE CONTENER HUEVO, FRUTOS DE CASCARA, GRANOS DE SÉSAMO.', '', '24', '9', '0.1', '0.1', '3.7', '6.5', '1.23', '0.484251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719103520', 'Cheeselings - Classic', '', '20', '9.5', '69', '3.3', '', '8.2', '2.8', '1.10236220472441', '', '0');
+VALUES ('8410000809114', 'Galleta Fontaneda Digestive Paquete De 400 G 41167', 'Galleta. Ingredientes: Cereales 68,8 % (harina de TRIGO 54,7 %, harina integral de TRIGO 14,1 %) azücar,aceite de girasol alto oleico 12,7 %, grasa de palma, jarabe de azücar, gasificantes (carbonato acido de sodio, âcido mâlico, carbonato âcido de amonio), jarabe de fructooligosacaridos, sal, emulgentes (lecitina de SOJA, lecitina de girasol). PUEDE CONTENER LECHE-', '', '20.5', '4.6', '64', '18', '4.4', '7.1', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719103667', 'Magix Elaichi', '', '15.6', '1.1', '76', '34.5', '', '5.6', '', '', '', '0');
+VALUES ('8410000810004', 'Biscuits Oreo', 'Farine de _blé_, sucre, huiles végétales (palme, palmiste), cacao maigre en poudre 4.6%, amidon de _blé_, sirop de glucose-fructose, poudre à lever (carbonate acide de potassium, carbonate acide d\'ammonium, carbonate acide de sodium), sel, émulsifiants (lécithine de _soja_, lécithine de tournesol), arôme vanille.', 'https://static.openfoodfacts.org/images/products/841/000/081/0004/front.41.400.jpg', '20', '9.8', '69', '38', '2.5', '5', '0.9', '0.354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719104640', 'Parle-G', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000812268', 'Gelatina sabor morango', 'Sucre, gélatine (11%), régulateurs d\'acidité (acide fumarique, cirate de sodium), arômes, colorants (E-120, E-100), vitamine C.', 'https://static.openfoodfacts.org/images/products/841/000/081/2268/front.3.400.jpg', '0.1', '0.1', '12.5', '12.5', '0.1', '1.4', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719106828', 'Parle Namkeen &quot;Moong Dal&quot; 400GM', '• PARLE BISCUITS PV T LTD NORThLL CROSSING, VILE PARLE EAST MANUFACTURED (DJ). SNAx LTD, KANTIVITA PHANSJDEVA WB - 734434 LIC. No.• 10015031001613 (15)- INDUSTRIEs 7%3 A, SEC -E *AIVWER ROAD RREA, INDORE, MP — 452015 No.: 10012026000049 & FLAVOURS LTD, B -52 SHYAMJ( AREA, SIKAR, m -332404 Lic No.« 10012013000216 HOUSE PVT LTD, NH 06, JALA SANKRAIL, - 711302 • 10014031001136 unrVQ \'&quot;rua DUT', '21', '1', '54.5', '0', '', '21.5', '0', '0', '', '1');
+VALUES ('8410000812275', 'Gelatina Sabor Naranja', '', 'https://static.openfoodfacts.org/images/products/841/000/081/2275/front.3.400.jpg', '0.1', '0.1', '12.5', '12.5', '', '1.4', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719107092', 'Cheeslings Classic', 'Wheat Flour, Edible Vegetable Oils (Palmolein Oil, Palm Oil), Sugar, Edible Common Salt, Cheese 1.8%, Yeast, Raising Agents, Invert Sugar Syrup, Spices and Condiments (Mustard Powder), Acidity Regulators, Emuslifier, Dough Conditioner, Added Flavours (Artificial Flavouring Substances -Black Pepper, Capsicum and Cheese)', '23.6', '', '65.2', '3.3', '', '8.4', '', '', '', '1');
+VALUES ('8410000812282', 'Gelatina Royal Llimona', 'Preparado em pé para fazer gelatina com sabor a limâo. INGREDiENTES: Açücar, gelatina (11 reguladores de acidez (EQ97, E-331), aromas, (orante (E-100), vitamina C. PODE CONTER TRIGO, OVO E LEITE. em e seco. Preparado en polvo para hacer gelatina con sabor a limòn. INGREDIENTES: Azücar, gelatina (11 %), correctores de (EQ97, E-331 aromas, colorante (E-100), vitamina C. PU EDE CONTENER TRIGO, HU Y LECHE. en lugar fresco y seco.', 'https://static.openfoodfacts.org/images/products/841/000/081/2282/front_en.3.400.jpg', '0.1', '0.1', '12.5', '12.5', '0.1', '1.4', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719255144', 'Parle g', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000812299', 'Gélatine saveur Ananas', 'Sucre, gélatine (11 %), régulateurs d\'acidité (acide fumarique, citrate de sodium), arômes, colorant (E100), vitamine C.', 'https://static.openfoodfacts.org/images/products/841/000/081/2299/front.5.400.jpg', '0.1', '0.1', '12.5', '12.5', '0.1', '1.4', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719255151', 'Parle-G Original Gluco Biscuits', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000812305', 'Gelatina Frambruesa Royal', '', '', '0.1', '0.1', '12.5', '12.5', '', '1.4', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719301018', 'Parle G', 'FARRE DE BLÉ. SUCRE. HUiles végétales Comestibles Sirop invertiSEL BICARBONATE d ammonium (E503) LAit écrémé en poudre bicarbonate de soude (E500) Lecithine de soja E 322 | OU ESTERS De mon Et diglycerides et sodium stearoyl-2lactylate E471 et E481 saveur vanille et metabisulfite de sodium E223', '13', '9', '77.5', '50', '0.6', '6.5', '0', '0', '', '0');
+VALUES ('8410000812343', 'Papel Cozinha Nick Mega Compacto', 'Ene ia/Valorene ético Li idos/Grasas os uaissatura os e ascuaessatura as - Hi ratos ea ono . dos uaisa \'cares/deloscualesazücares ira i raaimentana rotenas', '', '0.1', '0.1', '12.5', '12.5', '', '1.4', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719404115', 'Happy-happy Chico-chips cookies', '', '19', '0', '72', '3.3', '', '5.4', '', '', '', '1');
+VALUES ('8410000814941', 'Smashed tomatoes', '', 'https://static.openfoodfacts.org/images/products/841/000/081/4941/front_en.5.400.jpg', '0.1', '0', '3.5', '3.5', '1', '1', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719404412', 'Hide &seek', '', '17.7', '9.8', '74', '31.6', '', '5.8', '0.3', '0.118110236220472', '', '0');
+VALUES ('8410000816464', 'Buena Maria', '', '', '10.5', '5.1', '77', '24', '', '7.6', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901719703034', 'Krack jack', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000816990', 'Maria', '', '', '17', '6.3', '73', '19', '', '6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725131128', 'Farmlite', '', '19', '9.6', '65', '22', '', '10.9', '2', '0.78740157480315', '', '0');
+VALUES ('8410000817911', 'Digestive', 'cereais (68.8%) (farinha de trigo (54.7%), farinha integral de trigo (14.1%)), açúcar, óleo de girassol alto oleico (12.7%), gordura de palma, xarope de açúcar, levedantes (bicarbonato de sódio, ácido málico, bicarbonato de amónio), xarope de fructooligossacáridos, sal, emulsionantes (lecitina de soja, lecitina de girassol).', 'https://static.openfoodfacts.org/images/products/841/000/081/7911/front.3.400.jpg', '21', '4.7', '64', '18', '4.3', '7.1', '1.67894', '0.661', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725132767', 'sunfeat biscuits', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000822984', 'Galletas Chips Ahoy Vasito Min', 'rna dry med choktadbitat/stykker af choko!ade (25,6ïtk Ukaomassa, bakpulverfhavemidier (natriumvâte,\'hydr dextros glukos-fruktossirap, i (mjôlVmelk), atom. F6rvatas torrt, skyddat mot tartî beskyttet mot varme. (Z fon) antes del: ver base /', '', '24', '13', '64', '31', '3.5', '5.8', '1.04', '0.409448818897638', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725132859', 'Dark Fantasy Choco Fills', 'INGREDIENTS: CHOCO CREME (38%) [SUGAR, REFINED PALM OIL, REFINED PALMOLEIN, COCOA SOLIDS, ANTIOXIDANT (INS 322(i)). CONTAINS ADDED FLAVOUR(S) (NATURE IDENTICAL FLAVOURING SUBSTANCES CHOCOLATE AND ARTIFICIAL FLAVOURING SUBSTANCES ETHYL VANILLIN)], WHEAT FLOUR, HYDROGENATED VEGETABLE OIL, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS (INS 503(0),INS 500(ii), INS 450(i), COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, EDIBLE COMMON SALT AND EMULSIFIERS (INS 3220), INS 471) CONTAINS PERMITTED NATURAL COLOUR(S) (INS 150c, INS 150d) AND ADDED FLAVOUR(S) (NATURE IDENTICAL FLAVOURING SUBSTANCES-CHOCOLATE AND ARTIFICIAL FLAVOURING SUBSTANCES VANILLA, MILK) ', '25', '11.4', '63.9', '37.6', '', '5.7', '', '', '', '0');
+VALUES ('8410000825220', 'Digestive Noir con Naranja', 'Cereales 48,8 % (harin de TRIGO 39,8 0%, harina integral de TRIGO 9,0 %), chocolate negro 29 % (azücar, pasta cacao, manteca de cacao, grasa de LECHE, lactosa (de LECHE), emulgente (lecitina de SOJA aroma), aceite de girasol alto oleico 11 %, azücar, grasas vegetales (palma, palmiste), puré d naranja 0%, jarabe de glucosa-fructosa, gasificantes (carbonato âcido de sodio, âcido mâlicc carbonato acido de amonio), sal, emulgentes (lecitina de SOJA, lecitina de girasol), aroma.', 'https://static.openfoodfacts.org/images/products/841/000/082/5220/front.3.400.jpg', '26', '9.2', '61.5', '27', '4.3', '6.4', '0.95', '0.374015748031496', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725133511', 'Bounce', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000825299', 'Chips Ahoy', '', '', '24', '12.5', '64.5', '12.5', '', '5.3', '0.73', '0.28740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725136031', 'Delishus gourmet cookies nuts & raisins', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000826531', 'Magro, Paleta de Cerdo cocida', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725136048', 'Mom\'s magic nut biscotti', '', '21.8', '11', '65.8', '23.2', '', '8', '1', '0.393700787401575', '', '1');
+VALUES ('8410000826869', 'Geltina', '', '', '0', '0', '0', '0', '', '14', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725170325', 'Rajma Masala Red Kidney Beans Curry ', ' Water,tomatoes,onions,red Kidney Beans (25%),sunflower Oil,garlic, Spices, Salt and Ginger. Allergy Information: Manufactured In A Facility That Processes Milk, Peanuts and Tree Nuts.', '6.2', '0.7', '12.5', '2.5', '', '5.9', '6.35', '2.5', '', '0');
+VALUES ('8410000826937', 'Galletas', '* Ingesta de referencia de un adulto medio (8400 kJ / 2000 kcal). { z 131 galletas/pack Galleta maria. Ingredientes: Harina de TRIGO 74,3%, azücar, grasa de palma, jarabe de glucosa y fructosa, suero de LECHE en polvo, gasificantes (bicarbonato de amonio, bicarbonato de sodio), sal, emulgentes (lecitina de SOJA, lecitina de girasol), agente de tratamiento de la harina (METABISULFITO de sodio), aroma. e 800 a (4 envases)', '', '10.5', '5.1', '77', '24', '2.1', '7.6', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725181420', 'Sunfeast Yippee Noodles', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000827446', 'Original Family Format', '', 'https://static.openfoodfacts.org/images/products/841/000/082/7446/front.3.400.jpg', '20', '9.8', '69', '38', '2.5', '5', '0.9', '0.354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725181529', 'Yippe noodles', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410000828511', 'La Buena Maria', '', '', '11.5', '2.2', '74.5', '23', '', '8.8', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725198237', 'Mad Angles Tomato Madness', 'RICE GRITS, SEASONING MIX [REFINED PALMOLEIN, REFINED SUGAR IODISED SALT, TOMATO POWDER (0.7%), SPICES & CONDIMENTS, MALTODEXTRİN,ONION POWDER, GARLIC POWDER, ACIDITY REGULATORS (INS 330, INS 296),MILK SOLIDS\\, ANTICAKING AGENT (INS 551),YEAST EXTRACT & FLAVOUR ENHANCER (INS 627) REFINED PALMOLEİN, CORN GRITS, GRAM GRITS AND ACIDITY REGULATOR (INS 500(ii). USED AS NATURAL FLAVOURING AGENT. CONTAINS ADDED FLAVOUR(S) (NATURAL FLAVOURS & NATURAL FLAVOURING SUBSTANCES AND NATURE IDENTICAL FLAVOURING SUBSTANCES)', '31.9', '14.5', '55.4', '5.3', '', '8', '', '', '', '1');
+VALUES ('84100016', 'Royal Flan 65 GR.', '', '', '1.4', '0.9', '18.5', '17', '', '2.5', '0.11', '0.0433070866141732', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725198442', 'Mad Angles Chaat Masti', 'RICE GRITS,SEASONING MIX (REFINED PALMOLEIN, REFINED SUGAR CONDIMENTS, IODISED SALT, WHEAT FLOUR, BLACK SALT, TOMATO POWDER (0.3 POWDER (0.2%), ACIDITY REGULATORS (INS 296, INS 334, INS 330), HYDROLYZED PROTEIN, ANTICAKING AGENT (INS 551) & FLAVOUR ENHANCERS (INS 627) REFINED PALMOLEIN, CORN GRITS, GRAM GRITS AND ACIDITY REGULATOR (INS 500[ii]) USED AS NATURAL FLAVOURING AGENT CONTAINS ADDED FLAVOUR(S) (NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND NATURE IDENTICAL FLAVOURING SUBSTANCES)', '30.8', '14.2', '58.8', '5.3', '', '7.3', '', '', '', '1');
+VALUES ('84100054', 'Royal Levadura en Polvo', 'Gasificantes (bicarbonato de sodio E-500ii, difosfato disódico E-450i, harina de arroz, estabilizante (fosfato monocálcico E-341i).', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901725198558', 'Mad Angles - Achaari masti', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('84100061', 'Galleta Art.filipino Chocolate Negro 75GRS', 'peae itcoseetrutose, ovos (EN) BISCUIT (0friED IN DAìK{i6C01ATElnareffents Wheat flour (hodate (sugor, cocoa Uttert lactose milkfat,emo [fier.\'i;ûl\'c wheatstarch, lucose•frudose soyq eggs. (FR) BISCUIT RECOUVERT DE CHOCOIAIT NOIX IngrédtenË FŒine de blé chŒolat (sucre, pâte cacao, \'ladose, twrnesol arome), hutledepolrnqsuqndonde blét laitenpoudre, 304LE 366), oegfs. (CZ)SVSENKY5 poŒvouz Sloieni: Dieniiné', '', '26', '15', '60', '29', '6.1', '6.8', '0.28', '0.110236220472441', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901745115009', 'Agmark ghee', '', '9', '3', '16', '12', '', '10', '0.2', '0.078740157480315', '', '1');
+VALUES ('8410010000181', 'Huile d\'Olive', 'Huile d\'olive', 'https://static.openfoodfacts.org/images/products/841/001/000/0181/front.6.400.jpg', '100', '15', '1', '1', '0', '1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901747002840', 'Green Tea Mint Tea Bags Special International Blend', 'Green tea and natural mint flavour', '0', '0', '0', '0', '', '', '0.0779', '0.0307', '', '1');
+VALUES ('8410010000341', 'Carbonell Pure Olive Oil (5 Litres)', '', '', '100', '13', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901763080013', 'Symphony', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010001416', 'Aceitunas negras enteras &quot;Carbonell&quot; Variedad Cacereña', 'Aceitunas cacereña, agua, sal, estabilizador: gluconato ferroso (E-579).  Categoría: I.  Calibre: 240/260.', 'https://static.openfoodfacts.org/images/products/841/001/000/1416/front.6.400.jpg', '17.5', '2.7', '0.1', '0.1', '', '0.5', '2.2225', '0.875', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901764022807', 'Fanta', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010001584', 'Aceitunas negras deshuesadas &quot;Carbonell&quot; Variedad Cacereña', 'Aceitunas cacereña, agua, sal, estabilizador: gluconato ferroso (E-579).  Categoría: I.  Calibre: 240/260.', 'https://static.openfoodfacts.org/images/products/841/001/000/1584/front.3.400.jpg', '16.3', '2.6', '0', '0', '', '0.5', '2.2225', '0.875', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901764052408', 'Limca', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010001904', 'Salsa de mostaza al estragón', 'Vinagre de vino, granos de _mostaza_, aceite refinado de girasol, sal, especias, azúcar, colorante caramelo (E-150) (_sulfitos_), emulgente: mono- y diglicéridos de ácidos grasos (E-471), esencia de estragón.', 'https://static.openfoodfacts.org/images/products/841/001/000/1904/front.7.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901764092206', 'Maaza', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010004400', 'Carbonell Virgen Garrafa', '', '', '100', '15', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901764239809', 'Mixed Fruit', 'Water, Sugar, Mango Pulp (10,7 %), Guava Pulp (2,9 %), Banana Puree (2,9 %), Papaya Puree (0,3 %), acidity regulator (E330), antioxydant (E300), colorant (161g).', '0', '', '14', '12', '', '0', '', '', '', '1');
+VALUES ('8410010006206', 'Aceite de oliva virgen extra &quot;Carbonell', 'Aceite de oliva virgen extra.', 'https://static.openfoodfacts.org/images/products/841/001/000/6206/front.5.400.jpg', '100', '15', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901777425749', 'Vadilal Hariyali Naan', '', '', '2', '', '1', '3', '8', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410010006220', 'Aceite De Oliva Virgen Extra Arbequina Carbonell 750ML', 'Conservar en un lugar fresco y protegido de la luz. Consumir preferentemente antes del fin de/Lote no IFecha de envasado•. d ecoleo Descubre mas en deoleo. SA ctra. N.IV, Km 388. carboneu.esy f 14610 Aicolea. (COrdobò) Espaòa. 902 202 x 0 7 ion ( òdeoleo corn \\ Il I I I I il Il I', '', '100', '15', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901777445129', 'Paratha Malabar', '', '', '3', '', '6', '3', '7', '1.39', '0.547244094488189', '', '0');
+VALUES ('8410010006381', 'Aceite de Oliva Virgen Extra', 'Huile d\'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.', 'https://static.openfoodfacts.org/images/products/841/001/000/6381/front.5.400.jpg', '100', '13', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901777525128', 'Veggie fingers', '', '6', '3', '30', '0', '', '3', '0.4', '0.15748031496063', '', '1');
+VALUES ('8410010015864', 'Carbonell FARC.ANX.150', 'ACEITUNASVERDES RELIERAS CATEGORfA EXTRA INGREDIÜ(TES: de anchoa (pescado) (anchoa (pescado)ty espesante E-401)t sal, potenciador de Sabon E-621, acidulante: E-330, antioxidante E-300.* Puede contener trazasde: cacahuete, teche;, tutos de cascara, anhidrido sulfuroso,sulfitôs Y o deìvados . IFORMAC( N NUTRICIONAL porloog 641 kJ/ 156E -Ilor energético de las cuales: saturadas Hidratos de Carbono de.los cuales: azucares Proteinas 0/100 g.', '', '16', '3', '0', '0', '', '1.3', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901786165001', 'Everest Chicken Masala', 'Percent DailyVaIues are based on a 2000 calorie diet. Your daity values may be higher or Iower depending on your calorie needs,', '13.12', '1.71', '36.66', '3.61', '33.66', '11.85', '1.79', '0.704724409448819', '', '0');
+VALUES ('8410010173199', 'Aceite De Oliva Virgen Extra Carbonell Lata 5L', 'Con propiedades antioxidantes(l) Carbonell GRAN SELECCIÔN es un aceite que nace de una iusta combinaciôn de cuatro variedades de olivas: Hojiblanca, Arbequina, Picual v Cornicabrat logrando un aceite que va bien para todos los platos. Carbonell GRAN SELECCIÔN es un aceite de oWa virgen con actividad antioxidante, gracias a que es fuente de vitamina E. Carbonell recomienda una alimentacién equilibrada y un estilo de vida saludable. ACEITE DE OLIVA VIRGEN EXTRA Aceite de Oliva de categoria superior obtenido directamen• te de aceitunas y silo mediante procedimientos mecénicos, Porcién* 14 Por 100 INFORMACION NUTRICIONAL 5Le', '', '100', '13', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901786171002', 'Tandoori Chicken Masala', '', '2', '1', '40', '', '', '9', '', '', '', '1');
+VALUES ('8410010173502', 'Louit Mostaza', '', '', '4', '0.3', '8.3', '3.5', '', '3.3', '3.3', '1.2992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901792003359', 'Roasted Curry Powder', '', '', '2.7', '', '1.3', '38.5', '16.6', '0.3', '0.118110236220472', '', '1');
+VALUES ('8410010226017', 'Aceite De Oliva Virgen Extra Hojiblanca Carbonell 750ML', '', '', '100', '13', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('890180001984', 'Organic Baby Food, Just Prunes', 'Water, organic prunes.', '0', '', '15.15', '13.13', '1', '1.01', '0.0127', '0.005', '', '1');
+VALUES ('8410010260042', 'Oli Carbonell Verge Extra', '(O Valor de roforencia del nutriente: Vitamina Ex • r fewrentemente antes dei findel', '', '78', '15', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901803001190', 'Amrutanjan', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010260127', 'Aceite Oliva Virgen Extra Carbonell', '', '', '100', '13', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901874104691', 'Bikaneri sev', '', '44.12', '21.1', '37.75', '2.8', '', '13.15', '', '', '', '0');
+VALUES ('8410010260226', 'Aceite de oliva 0,4', 'DE OLIVA - CONTIENE EXCLUSIVAMENTE ACEITES DE OLIVA REFINADOS YACEITES DE OLIVA vjRGENES • Aceite que contiene exclusivamente aceites de Oliva que se Epnsometido a un tratamiento de refinado y de aceites obtenidos directamente de aceitunas, Ingredientes: aceite de Oliva refinado y aceite de Oliva virgen.', '', '100', '15', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901888040183', 'Dabur Real Juice Orange', '', '0', '0', '13.5', '6.8', '', '0.4', '', '', '', '1');
+VALUES ('8410010261834', 'Carbonell Aceite De Oliva Virgen Extra Picual', 'arbonelt', '', '100', '13', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901940990753', 'Cooked Peeled & Deveined Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '1.79', '0', '0', '0', '0', '25', '1.41478', '0.557', '', '0');
+VALUES ('8410010262343', 'Aceite de oliva virgen Selección almazara', 'Aceite de oliva virgen.', 'https://static.openfoodfacts.org/images/products/841/001/026/2343/front.5.400.jpg', '100', '15', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901958001069', 'Fresh Eggs', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010262688', 'Aceite Oliva Carbonell Ensalada Pastas Y Ensalada Spray 200ML', 'INGREDIENTES: aceite • de Oliva refinado, aceite de Oliva virgen. *Unaraci6nequivateauna pulsacién media 51 g). 183 pulsaciones envase. exclusivamente aceites de Oliva quesehayansometido aun ratamientoderefinado y de aceites obtenidos directamentedeaceitunas', '', '100', '13', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8901972066105', 'Pirulitos', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010262718', 'Aceite En Spray De Oliva Carbonell X 200ML Para Ensaladas', '', '', '79', '13', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902080011261', 'guava delight', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410010264224', 'Olive Oil Extra Virgin - Salads & Pasta - By Carbonell', 'Ârbone para \\NSALA', '', '100', '13', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902080011513', 'Mixed fruit juice', 'Water, Concentrated Mixed fruit, Juice 12.2%(from Banana, Apricot, Pineapple, Mango, Orange, Apple, Lime and Strawberry), Sugar, Acidity Regulator (330), Stabilizer(440)', '0', '0', '13.7', '13.7', '0', '0.2', '0.01016', '0.004', '0', '1');
+VALUES ('8410010403005', 'Aceitunas verdes rellenas de pimiento &quot;Carbonell&quot;', 'Aceitunas, pasta de pimiento 18% [agua, pimiento, estabilizadores: alginato sódico (E-401), goma guar (E-412), endurecedor: cloruro cálcico (E-509)], sal, acidulante: ácido cítrico (E-330), antioxidante: ácido ascórbico (E-300).  ', 'https://static.openfoodfacts.org/images/products/841/001/040/3005/front.7.400.jpg', '15', '3', '0', '0', '', '0.9', '4.064', '1.6', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902080364596', 'Mountain Dew', 'Carbonated water, sugar, acidity regulators, preservatives, caffiene', '0', '0', '12.3', '12.3', '0', '0', '0.04064', '0.016', '0', '1');
+VALUES ('8410010811749', 'Aceite de Oliva', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902167000065', 'Chunky Chat Masala', '', '5', '0', '25', '0', '', '5', '46', '18.1102362204724', '', '0');
+VALUES ('8410010813729', 'Azeite de oliva extra virgem', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902167000386', 'MDH Chutney Podina Masala 100 Gramm', 'PRÉPARATION POUR SAUCE À LA MENTHE Ingrédients: Coriandre, feuilles de menthe, sel, mangue déshydratée, poudre d\'oignon séché, piment jaune, graines de grenade, poudre de melon brodé séché, noix de muscade, poivre noir Allergènes : voir/a liste d\'ingrédients en gras Mfd, by: Mahashian Di Hatti Pvt. Ltd. 139, UDYOG VIHAR, PHASE-l, GURGAON-122016 HR. (INDIA) Visit us : www.mdhspices.com', '4', '0', '28', '0', '10', '12', '29', '11.4173228346457', '', '0');
+VALUES ('8410010861096', 'Carbonell Crema De Vinagre Balsamico', '', '', '0', '0', '36', '30', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902268002326', 'Dream LITE', 'REFINED WHEAT FLOUR, EDIBLE VEGETABLE OILS (PALMI, SUGAR, RAISING AGENTS [INS 503(), INS 500ti). LIQUID GLUCOSE, EDIBLE COMMON SALT, BESAN, INVERT SYRUP, MALT EXTRACT, MILK SOLIDS, DEHYDRATED & POWDERED VEGETABLES CABBAGE, CARROT & CORIANDER LEAVES) 0.9%, PERMITTED EMULSIFIERS INS 322 INS 471 . SPICES & CONDIMENTS AJOWAN, GREEN CHILLI 0.12%, lMPROVE R (INS 1101 1 CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, INS 124] AND ADDED FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCE MIXED SPICE & ARTIFICIAL FLAVOURING SUBSTANCE, BUTTER!', '24', '11.5', '64', '8', '', '7.7', '', '', '', '1');
+VALUES ('8410010861119', 'Crema De Vinagre Al Pedro Ximénez Louit 275ML', '', '', '0', '0', '49', '42', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902301820764', 'Concentré de saveurs aux épices pour Butter Chicken', 'Oignons déshydratés, huile de tournesol (contient antioxydant E320), aïl, épices (9%) (piment chili rouge en poudre, graines de coriandre, graines de fenouil, curcuma, cannelle, cardamome, cumin, gingembre, clous de girofle, noix de muscade, poivre noir), herbes (8%) (feuilles de coriandre, feuilles de laurier, feuilles de fénugrec déshydratés), tomates en poudre (7%), sucre, gingembre, sel, maltodextrine, correcteurs d\'acidité: acide acétique, acide citrique) -  ', '20.5', '2.5', '', '37', '', '', '5.25', '2.07', '', '0');
+VALUES ('8410013383014', 'Codorníu Cava Clasico', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902301820771', 'Concentré de saveurs aux épices pour Poulet Shahi Korma', 'Huile de tournesol (contient antioxydant E320), _noix de cajou_ (17%), oignons déshydratés, ail, mélange d\'herbes et d\'épices (11%) (poudre de piment rouge, curcuma, poivre noir, cumin (0,2%), cannelle, cardamome, feuilles de fenugrec séchées, clou de girofle), tomates en poudre, sel, maltodextrine, eau, sucre, régulateur d\'acidité : acide citrique.', '28.4', '2', '40.1', '14.1', '10.9', '7.4', '6.66999999999999', '2.6259842519685', '', '0');
+VALUES ('8410013432019', 'Raimat Cabernet Sauvignon 2012', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902301820788', 'Concentré de saveurs aux épices pour agneau rogan josh', 'Les conseils du chef : Remplacez l\'agneau par des blancs de poulet émincés : réduisez la quantité d\'eau de moitié et le temps de cuisson à 20mn. élange au gingembre (6%) et à la coriandre (6%) pour agneau Rogan Josh. oignons déshydratés, huile de tournesol (contient antioxydant: E320)/ ail, tomates en poudre, herbes (7%) (feuilles de coriandre, feuilles de laurier, feuilles de IUgrec déshydratées), gingembre, sel, épices (5%) (poudre de piment rouge, graines de coriandre, graines de fenouil, curcuma, cannelle, cardamome, cumin, gingembre, clous girofle, noix de muscade), maltodextrine, piment vert, régulateurs d\'acidité: acide acétique, acide citrique. A consommer de préférence avant fin : Peut contenir des ingrédients à base de lait, moutarde et noix de cajou.', '22.5', '2.2', '38.6', '16.8', '14.8', '5.9', '6.81', '2.68110236220472', '', '0');
+VALUES ('8410013562013', 'RAIMAT Castell de Raimat 2012', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902301820801', 'Epices pour biryani', 'Mélange à la coriandre, à la menthe et aux épices pour poulet Biryani. i ngredier;ts: oignons déshydratés, huile de tournesol (contient antioxydant: E320), herbes (12%) (feuilles de menthe (9%), feuilles de coriandre (2%), feuilles de laurier), ail, gingembre, épices (7%) (poudre de piment rouge, coriandre (1 0%), curcuma, cardamome, graines de fenouil/ cumin, cannelle, poivre noir, clous de girofle, anis étoilé, noix de muscade), pomme de terre déshydratée, sel, tomates en poudre, sucre, maltodextrine, correcteurs d\'acidité : acide acétique, acide citrique.', '23.1', '2.3', '37.5', '15.4', '13', '5.4', '5.35', '2.10629921259843', '', '0');
+VALUES ('8410013990571', 'CODORNIU', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902351111119', 'Mini Snak Salted Cracker', 'Wheat flour, vegetable palm oil with tbhq, sugar, ammonium bicarbonate (leavening agents), salt, glucose and fructose syrup, glucose syrup (liquid glucose), sodium bicarbonate (leavening agent), yeast, lactic acid, flavor, soy lecithin (emulsifier), veget', '20.89', '10.71', '75', '', '0', '', '1.74244', '0.686', '', '0');
+VALUES ('8410014020017', 'Colacao', 'Ingredientes: Micar. Cacao desgrasado en polvo. Crema de cereat kola-matteado (Harina de trigo. Extracto de malta de cebada. Aroma natural: Extracto de nuez de cola). Sales minerales (calcio yfôsforo). Aromas. Sal Puede contener leche', 'https://static.openfoodfacts.org/images/products/841/001/402/0017/front.5.400.jpg', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902351111430', 'Biscuits, Petit Beurre', 'Wheat flour, sugar, vegetable oil, glucose syrup, fructose syrup, skimmed milk powder, sodium bicarbonate and ammonium bicarbonate (as raising agents), salt, artificial flavor (ethyl vanillin), coconut flavor, sodium metabisulphite (as preservative).', '9.09', '4.55', '77.27', '13.64', '0', '4.55', '0.381', '0.15', '', '1');
+VALUES ('8410014020277', 'Cola Cao Estuche 6 Sobres', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902456505424', 'Insulin tablets 12X', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014030320', 'Colacao Instant Choco Drink 750G', 'Sucre, cacao maigre en poudre, farine de froment, émulsifiants (lécithine de soja), arômes, sel. Peut contenir lait.', '', '3.8', '2.4', '22', '21', '', '7.6', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902519002211', 'Note', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014040046', 'Paladin Minuto Chocolat en poudre', '', '', '1.8', '1.1', '85', '66', '', '4', '0.4', '0.15748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902519310248', 'register', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014040053', 'Paladín Minuto', 'Sucre, épaississants (E1442, tara), poudre de cacao dégraissée, arômes, sel.', 'https://static.openfoodfacts.org/images/products/841/001/404/0053/front.3.400.jpg', '1.8', '1.1', '85', '66', '', '4', '0.379999999999999', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902579100025', 'Frooti, Mango Drink', 'Water, mango pulp [16.2%], sugar, acidity regulator [citric acid], antioxidant [ascorbic acid], artificial mango flavor and colour fd & c yellow no. 6', '0', '0', '16', '16', '0.5', '0', '0.07112', '0.028', '', '1');
+VALUES ('8410014040114', 'Cacao Paladin Sobre 33G 5U', '', '', '1.8', '1.1', '85', '66', '', '4', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902579103880', 'Frooti', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014141200', 'Phoskitos original', '', '', '18', '13', '58', '39', '', '5', '0.23', '0.0905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902579131029', 'Appy Fizz', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014200433', 'Cola Cao Cacao Soluble Original', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902610240048', 'Чабрец (тимьян)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014201898', 'Cola Cao 0%', '', 'https://static.openfoodfacts.org/images/products/841/001/420/1898/front.3.400.jpg', '5.8', '3.5', '44', '3.5', '', '12', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902611010169', 'Rosół z kury', '', '3.1', '1.6', '57.7', '13.5', '5.1', '11.2', '15.5956', '6.14', '', '0');
+VALUES ('8410014201935', 'Colacao', 'PREPARADO CACAO Ingredientes: Azücar. Cacao desgrasado en polvo. Crema de cereal kola-malteado (Harina de trigo. Extracto de malta de cebada. Aroma natural: Extracto de nuez de cola). Sales minerales (calcio y fésforo). Aromas Sal. Puede contener leche Mantener en lugar fresco y seco.', '', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('890288002876', 'Pound Cake', 'Cake: sugar, bleached enriched wheat flour (flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), eggs, soybean and/or canola oil, water, modified cornstarch, nonfat milk, unsalted butter (milk), baking soda, wheat starch, salt, dext', '17.54', '1.75', '52.63', '33.33', '0', '3.51', '0.62484', '0.246', '', '0');
+VALUES ('8410014210364', 'Miel Pur d\'Abeille', '', 'https://static.openfoodfacts.org/images/products/841/001/421/0364/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902979052382', 'Vanilla milkshake', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014228321', 'Cola Cao', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8902979052405', 'Cavins butterscotch milkshake', 'Standardised Milk (89%) Sugar, Stabilizers (INS 415, INS 412, INS 407), Sequestering Agent (INS 452(i) Edible Common Salt, Cashew Powder (0.05%), and Emulsifier (INS 436). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 1101 AND ADDED FLAVOUR NATURE IDENTICAL AND ARTIFICIAL (BUTTERSCOTCH FLAVOURING SUBSTANCES)', '4', '', '15', '10.6', '', '3.2', '', '', '', '1');
+VALUES ('8410014232335', 'CACAU COLA CAO', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8903520014866', 'Premium Jasmine Rice', 'Jasmine rice', '0', '0', '81.63', '0', '0', '6.12', '0', '0', '', '1');
+VALUES ('8410014238450', 'ColaCao 0%', 'ALIMEUTICIO AL CACAO ALUCARES AflAOlDOS, coti MODO DE una cucharada (7,5 g) de Cola Cûû Bilade leche desnatada 1150 Cacao desgrasedo en polyo .(4îfSl de cerealkola-rnalteado (Harina de triga cebada. homa natural: Extracto de nuez de co!al 3:15 minerales (calcio y fdsforo). Emulgente (Lecitina Antiaglomerante frosiato tricélcicoj. Aromas. (Aspartamo. Acesulfanol. Sal. Contiene fuente de Puede contener leche. Mantener en lugar fresco y seco. Consumir preferentemente antes dell au', '', '5.8', '3.5', '44', '3.5', '24', '12', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('89036000808', 'Coffee Yogurt', 'Cultured pasteurized grade a skim milk, nonfat milk solids, fructose, modified food starch, coffee, natural flavor, pectin, gellan gum (removed for passover), sucralose (splenda), caremel color, citric acid, potassium sorbate (for freshness).', '0', '0', '10', '8.24', '0', '4.12', '0.14986', '0.059', '', '1');
+VALUES ('8410014238474', 'Paladin - Trinkschokolade &#47; Paladin - 500 g', 'PREPARADO ALIMENTICIO AL CACAO \\ngredientes: Azùcar. espesanteuE 1442,. goma tara), cacao desgrasado en pôllo, aromas, sal. Puede contener lechey triga', '', '1.8', '1.1', '85', '66', '', '4', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8903662001519', 'Brown Basmati Rice', 'Basmati Rice ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014244482', 'Colacao', '', '', '3.2', '1.6', '82', '77', '', '5.5', '0.34', '0.133858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8903662010368', 'Elonga Extra Long Basmati Rice', 'Basmati rice', '0', '', '77.78', '', '2.2', '8.89', '0', '0', '', '1');
+VALUES ('8410014303417', 'Tosta Rica', 'INGREDIENTES: farinha de trigo 67%, açûcar, Cuétara Oleoequilibre 15% [ôleo vegetal e emulsionante: lecitina), Soro de leite em po, xarope de glucose e frutose, sal, levedantes quimicos [bicarbonato de sôdio e amôniol, emulsionante (lecitinal, corante lE150dl, aromas, vitaminas [A, iîamina (B1), Riboflavina [B2], Niacina (B3], B6, D], sais minerais [ferro elemental e carbonato de càlciol e agente de tratamento da farinha lmetabissulfrto de sôdiol. PODE CONTER ovo, soja.  ', 'https://static.openfoodfacts.org/images/products/841/001/430/3417/front.15.400.jpg', '16', '3.2', '72', '24', '2', '6', '0.678', '0.266929133858268', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904001800220', 'Idhayam Sesame Oil', '', '14', '2', '5.4', '4.4', '', '0', '', '', '', '1');
+VALUES ('8410014303523', 'Galleta Cue.chocoguay 168G', 'SANDWICH RELLENA DE CREMA DE LECHE (13%) Y DE CACAO (18%). INGREDIE TES: Harina de trigo 45%, aceite de girasol alto oleico. grasa vegetal (palma), cacao desgrasado en polvo, suero de leche en polvo, leche en polvo, jarabe de glucosa y fructosa, lactosa, gasificantes (carbonatos de sodio y de amonio), emulgentes: lecitina de soja, lecitina de girasol (contiene trigo), sal, colorante: E15Ûd (contiene sulfitos), aromas (contiene leche), vitaminas (A, tiamina (BI), riboflavina (B2), niacina (B3), B6, D), sales minerales (hierro elemental y carbonato de calcio). agente de tratamiento de la harina (metabisulfito sédico). Contiene huevos. Puede contener frutos de céscara. CREME DE LEITE (13%) E CREME DE CACAO (18%). INGREDIENTES: de trigo 45%, de alto oleico, cacau magro em soro de leite em PÔ, leite em PÔ, xarope de glicose e frutose, lactose, levedantes (carbonatos de sôdio de etm.utls:cnun.ntes: lecitina de soja, lecitina de girassol (contém trigo), sal, corante: E150d (contém sulfitos), aromas (contém leite), (A. (BI), ribcflavina (B2). niacina (B3), B6, D), sais minerais (ferro elemental e carbonato de célcio), agente de tratamento da farinha [metabissulfito Ccntém ovos. Pode conter frutos de casca rija.', '', '20', '9', '68', '33', '2.4', '5.9', '0.49', '0.192913385826772', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904001800237', 'Idhayam Sesame Oil', '', '2', '0', '2', '0', '', '0', '', '', '', '1');
+VALUES ('8410014304193', 'Cocktail Snack', '', '', '23', '11', '63', '10', '2', '7', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004400076', 'Bhujia Sev ', 'apaty Beans (Moth dal) Flour, Refined Cotton Seed &quot;‘1, Bengal Gram Flour (Besan). lodised Salt. Red Chilli Powder. CIove Powder, Black Pepper, Dried  powder, Cardamom. Bay LeaVes- Nutmeg & Cinnamon  - II-.-&quot; I duhuu  ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014304216', 'Galletas saladas Auchan', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004401134', 'Haldiram Khatta Meetha Mix 400 GM', 'Refined Rice Flakes (22%), Bengal Gram Flour (Besan) (21%/ Split Pulse Bengal Gram (Chana Dal) (7%), Groundnut (Peanuts) (5%), Sago (4%), Refined Sugar (4%), Red Lentils (Masur Whole) (2.5%), Green Peas (2%), Iodised Salt, Blac Red Chilli, Acidity Regulator & Antioxidant (E 330) and Turmeric. Allergy Advice : Contains Peanut May Contain Tree nuts, Gluten, Sesame Seed, Milk, Soya & Mustard Seed', '29.25', '12.48', '57.38', '4.26', '0.53', '9.26', '0.36', '0.141732283464567', '', '1');
+VALUES ('8410014304803', 'Nocilla', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004401189', 'Haldiram\'s Khatta Meetha', '', '29.25', '12.48', '57.38', '4.26', '', '9.26', '0.368', '0.14488188976378', '', '1');
+VALUES ('8410014305169', 'Galletas Maria Oro Cuetara', '  Harina de trigo 66%, oleoequilibre 19% (aceites vegetales de girasol alto oleico y palma), azúcar, sueros de leche en polvo, jarabe de glucosa y fructosa, gasificante (carmonatos de amonio e sodio), sal, emulgente (lecitina), aromas y agentes de tratamiento de la harina (metabisulfito sódico)', 'https://static.openfoodfacts.org/images/products/841/001/430/5169/front_en.3.400.jpg', '20', '4.2', '68', '21', '', '6.4', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004403749', 'Haldiram\'s Moong Dal', '', '20.93', '5.64', '50.66', '0', '', '21.31', '0.39', '0.153543307086614', '', '1');
+VALUES ('8410014305176', 'Galleta Cue.maria Oro P-4 800GR', 'farine de blé 66%, huiles végétales (tournesol haut oléique, palme), sucre, lactosérum en poudre, sirop de glucose-fruaose, poudres à lever (carbonates d\'ammonium et sodium), sel, émulsifiant (lécifine), aromes et agent de traitement de la farine (disulfite de sodium). PEUT CONTENIR soja, oeuf.', '', '20', '4.2', '68', '21', '', '6.4', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004405910', 'Gulab Jamun', '', '12.36', '5.9', '68.1', '52.01', '', '6.58', '', '', '', '0');
+VALUES ('8410014305251', 'Hojaldrada', 'harina de _trigo_, azúcar, jarabe de glucosa y fructosa, Cuétara Oleoequilibre 7,6% (aceites vegetales de girasol alto oleico y palma), sal, gasificantes (carbonatos de sodio y de amonio), emulgente (lecitina), aromas y agente de tratamiento de la harina (_metabisulfito sódico_).', '', '8', '1.6', '77', '24', '', '7', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004405934', 'Gulab Jamun', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014305275', 'Tostada', 'Harina de _trigo_, azúcar, jarabe de glucosa y fructosa, Cuétara Oleoequilibre 7,4% (aceites vegetales de girasol alto oleico, palma), colorantes (caramelo natural, E150d (_sulfitos_), sal, gasificantes (carbonato de sodio, carbonato de amonio), emulgente (lecitina), aromas y agente de tratamiento de la harina (_metabisulfito sódico_).', '', '8', '1.6', '80', '25', '', '7', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904004439854', 'Aloo Paratha Stuffed Indian Bread', 'Potato (35%), wheat flour (32%), vegetable oil (contains one or more of the following: refined palmolein oil & corn oil), ginger, lemon juice, salt, edible vegetable fat, mixed spices (salt, dried mango powder, black salt, cumin, coriander seeds, black pe', '9', '1.5', '35', '0', '3', '5', '1.2446', '0.49', '', '0');
+VALUES ('8410014305398', 'Bolacha Maria Oro Cuetara', '• saturadas por insaturadas, ajuda a manter os niveis de colestero\\ denxro da recdmenda seguir uma dieta varià aeequilib -como marco de um esti\\o de vida saUdévei2 BoLachas MARIA OROCUÉ Ingredientes: farinha de trigo 66%Âuétara Oleoequtlibreylaï$ vegetais de girassol alto oleico e palma), açûcar, soro de Leite er xarope de glicose e frutose, levedanteS (carbonatos de amônio e s sal, emulsionante (lecitina), aromas e agente de tratamento da fe (metabissutfito de sédio). PODE CONTER soja, ovo- Gatietas MARiA ORO CUÉTARA Ingredientes: harina de trigo 66%, Cuétara Oleoequilibre 19% (ac de girasol alto oteico y palma), azücar, suero de Lech de gtUCOSa Y gasificantes (carbonatos de sal\' emutgente (lecitina), aromasy agente de tratamiento s6dico). PUEDE CONTENERsoja, hueVO• d-- botachas (50g) /Una raci6n: — 8 gattetaS (50g) dosez', '', '20', '4.2', '68', '21', '', '6.4', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904006291016', 'Minees Rich & Creamy', '', '15.4', '7', '76', '36.4', '', '5.4', '0.55', '0.216535433070866', '', '0');
+VALUES ('8410014307682', 'Napolitanas', 'harina de _trigo_, aceite vegetal (palma), azúcar, jarabe de glucosa y fructosa, dextrosa, sal, emulgente (lecitina), gasificantes (carbonatos de amonio y sodio), canela 0,2%, aroma y agente de tratamiento de la harina (_metabisulfito sódico_).', '', '21', '9.7', '68', '26', '', '6', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904037203873', 'Noni juice', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014308351', 'Campurrianas', 'Harina de _trigo_, azúcar, aceite vegetal (palma), jarabe de glucosa y fructosa, sal, gasificantes (carbonatos de amonio y sodio).', 'https://static.openfoodfacts.org/images/products/841/001/430/8351/front.5.400.jpg', '15', '7.2', '74', '26', '', '5', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200013', 'Aloo Bhijia 200g(kartoffelsnack Scharf) Haldirams', '', '51', '10', '40', '0', '', '6', '1.64', '0.645669291338583', '', '0');
+VALUES ('8410014308603', 'Nocilla 1 Sabor 400GR Vaso Cristal Decorado', 'Al AVELLANAS Inaredientes: Azücar, aceites vegetales de palma, girasol y girasol alto olelC0, cacao en olvo 8,5%) teche desnatada en olvo(4 5010 , avel anas (4%), sélidos \\ er{ulgente (lecitina de soja), aroma. otrosfrutos de céscara.', '', '32', '11', '58', '56', '3', '5', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200020', 'Haldiram Chips All In One', 'Farine de pois chicìte (19%), hurle v#ae (arachide, maÂs, de graine de coton), farine de haricots tépari (6%), chiche cassé décoriqué (5%), pois vert cassé (5%), lenü!les (3%), pomrne de terre (3%), péble de maïs (3%), riz soufflé (2.8%), sagou, raisin (2.7%), de cajou (2.6%), cacahuète (2.5%), épinards, sel, poudre de piment rouge, poudre de mangue, de poivre noir, poudre de poudre de clou de girofle, poudre de macis, poudre de muscade, sucre en poudre, poudre Coignon, poudre d\'ail, poudre de cardamme, poudre de coriandre, poudre de feuilles de mentie, poudre de cumin, poudre dase acidifiant acide citriaue.', '40', '10', '40', '0', '3', '4', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410014308610', 'Nocilla Chocoleche', 'Sucre, graisse végétale de palme, tournesol et tournesol oléique, _lait_ écrémé en poudre (6,9 %), protéines de _lait_, cacao maigre en poudre (4,3 %), _noisettes_ (3,9 %), émulsifiant (lécithine de _soja_), arômes.', '', '32', '10', '60', '58', '', '4.5', '0.18', '0.0708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200105', 'Haldiram Cornflakes Mixture', 'Cornflakes (Derived from Corn) (26%), Vegetable Oil (Cotton Seed, Corn & Palm), Potatoes (8%), Chickpeas Pulse Flour (8%), Cashew Nuts (7%), Raisins (7%), Spinach, Sesame Seeds, Sugar Powder, Salt, Mango Powder, Black Pepper Powder, Mace Powder, Nutmeg Powder, Cinnamon Powder, Cardamom Powder, Ginger Powder, Cumin Powder, Fennel, Asafoetida Powderand Citric Acid Powder(E 330). (PRODUCTOFINDIA Suess-wuerzige Mischung aus Cornflakes, Kartoffelstueckchen, Nuessen und Rosinen (UTATEN: Cornflakes (26%), Pflanzenoel (Baumwollsaatgut, Mais und Palmoel), (8%), Kichererbsenmehl (8%), Cashew Nuesse (7%), Rosinen (7%), Spinat, esamsamerte Puderzucker, Speisesalz, Mangopulver, schwarzer Pfeffer, Muskatbluete, Limi, Kardamom, Ingwer, Kreuzkuemmel, Fenchel, Asant, Saeuerungsmittel: &quot;trcnensaeure(E 330).. INDIEN HERGESTELLTFUER élange apéritif à base de flocons de maïs, de noix de cajous et raisins secs ngrédients: Ficcon de maïs (26%), huile végétale (graine de coton, mdis et oléine de palme), omme de terre, farine de pois chiche, noix de cajou (7%), raisins secs (7%), épinards, sésame, sucre, self poudre de mangue, poudre de poivre noir, poudre de macis, poudre de nuscade, poudre de cannelle, poudre de cardamome, poudre de gingembre, poudre de cumin, enouil, ase fétide, acidifiant: acide citrique. tiention: Ce produit contient de l\'arachide, des noix de cajous, des graines de sésame. Ce produit a té emballé dans une usine traitant des fruits à coques, des arachides, des produits laitiers, des vaines de moutarde, et du blé. broduit de l\'Inde conserver dans un endroit frais et sec. Garder à l\'abri de la lumière. Une fois ouvert, cottser;ez ans un récipient hermétique. )oids Net 200g 10 de Lot:B consommer de préférence avant le: 10/4/2018 -a photo sur le devant du paquet est une suggestion de présentation. MPORTÉ PAR: ANJU ENTERPRISES I o AVENUE MARCELLIN BERTHELOT VILLENEUVE-LA-GARENNE FRANCE rEL.: +331 4121 4040, FAX.?. +331 4121 4041 )olce e piccantefiocchi di mais: noci anacardie uvetta NGREDIENTI : fiocchi di mais (26%), Olio vegetale (cotone, mais e palma), Farinadiceci(8%), Inacardi (7%), Uva Secca (7%), Spinaci, Semi di sesamq Zucchero a velo, }ale, Mango in polvere, Pepe nero in polvere, Chiodi di garofano in polvere, Macis inTolvere, Noce noscata in polvere, Cannella in polvere, Cardamomo in polvere, Zenzero in polvere, Cumino in )01vere, finocchio, Asafoetida in polvere e acidificante Acido citrico in polvere(E 330) PRODOTTO IN INDIA', '29', '8.7', '58.6', '15.1', '17.14', '7.5', '0.97', '0.381889763779528', '', '1');
+VALUES ('8410014311108', 'Miel pop\'s', 'NOTRE RECETTE .osrnECEPT Sirop de malt d orge, Vitamines Glucosesiroop, (féiò(ine, \\1001 Bcvat mogeiijk: 1 portie 1 portion fonction des Cette de 25 ,ottiexzn25gÉznpyEràndeirŒ/iduele vit,.. (l CONTACTEZ-NOUS. CONTACTEERONS', '', '1.1', '0.2', '85', '28', '4', '5.4', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200136', 'Moong Dal', 'Split Green Garm (74%), Edile il (Cotton Seed, Cor Palmolein Oil) and Edible Common Salt Powder', '15.4', '4.9', '53.2', '2.2', '', '22.8', '', '', '', '1');
+VALUES ('8410014311115', 'Cuétara Krit Krititas', '', '', '26', '9.9', '62', '9', '', '6', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200143', 'Haldirams Masala Moong Dal 200G', '', '20', '3', '51', '0', '', '20', '1.5', '0.590551181102362', '', '0');
+VALUES ('8410014311122', 'Fish', '', '', '25', '10', '58', '7', '', '8', '2.75', '1.08267716535433', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200150', 'Hara Chiwda', '', '36.1', '8.6', '45.7', '13', '', '11.4', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410014311139', 'Cuétara Krit Pub Mix', '', '', '23', '8.5', '63', '10', '', '7', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200167', 'Haldiram Dry Fruit Kaju Mixture', '', '28.7', '7.6', '48.2', '2.5', '', '16.9', '0.87', '0.34251968503937', '', '1');
+VALUES ('8410014311146', 'Krit krititas', 'xwuum-pnospnate , (sodium me{abisulphite). Contains soya, eggs. Biscuits sa es, Ingrédienb: farine de céréales (blé et riz), huiles végétales (palme, tournâ haut oléique), lactosétum en poudre, graine de sésame, sel, sucre, lever (bicarbonates de sodium et d\'ammonium), eŒt de malt corecteur d\'addité (phosphates de calcium), levure, a en de traitement dela nacksuiienky, farine', '', '25', '8.8', '58', '7', '3', '8', '2.8', '1.10236220472441', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200174', 'Kashmiri Mixture 200G (bohnen &nuss) Haldirams', '', '34.2', '8.8', '41.9', '3.4', '', '17.2', '1.7', '0.669291338582677', '', '0');
+VALUES ('8410014311924', 'Cuetara - Krit - Pub-mix', 'Farine de blé huiles végétales sirop de glucose et fructose sucre extrait de malt d’orge sel', '', '23', '8.5', '63', '1', '', '7', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200204', 'Navrattan 200G (snack Scharf) TRS', 'Haldiratn\'s BATTA5a of Split Chick Sood(iod Potato Chips NET WT. 200g e', '31', '10', '40', '0', '6', '20', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410014311955', 'Krit Krititas', 'Harina de trigo, aceites vegetales (girasol alto oleico, palma), jarabe de glucosa y fructosa, azúcar, extracto de malta de cebada, sal, emulgente (lecitina), gasificantes (carbonato de sodio y amonio), corrector de acidez (fosfato de calcio), levadura, agente de tratamiento de la harina (metasulfito sódico), huevo.', 'https://static.openfoodfacts.org/images/products/841/001/431/1955/front.4.400.jpg', '26', '9.9', '62', '9', '', '6', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200341', 'Haldiram Bhel Puri', 'Mélange apéritif Bhelpuri à base de riz soufflé et de cacahuètes, beignets croquants, et vermicelles de farine de pois chiche avec une préparation pour chutney Ingrédients mélange apéritif Bhelpuri : Pois vert cassé, huile végétale huile végétale (graine de coton, mais et oléine de palme) riz soufflé (11 25%), farine de pois chiche (11%), cacahuète (8%), pomme de terre, épices (piment rouge en poudre, poudre de curcuma), sel. Ingrédients Préparation pour Chutney . Sucre, tomate en poudre, poudre de mangue, poudre de datte, épices (piment rouge en poudre, poudre de gingembre, poudre de tamarin, poudre de curcuma), sels acidifiant : E330. Ingrédients Vermicelles de farine de pois chiche : Farine de pois chiche (50%), huile végétale (arachides maïs, oléine de palmes graines de coton), eau. Ingrédients Beignets croquants: Farine de blé, huile végétale (arachide, maïs), sel. Attention: Ce produit contient des arachides et du blé, Ce produit a été emballé dans une usine traitant des arachides, des fruits à coques, des graines de sésame, des graines de moutarde, des produits laitiers, et du blé. Produit de I’lnde', '40', '10', '31', '9', '6', '20', '0.9', '0.354330708661417', '', '0');
+VALUES ('8410014312211', 'Maria', 'farinha de _trigo_, açúcar, Cuétara Oleoequilibre 8% (óleos vegetais de girassol alto oleico e palma), xarope de glicose e frutose, levedantes (carbonatos de amónio e sódio), emulsionante (lecitina), sal, agente de tratamento da farinha (_metabissulfito_ de sódio), corante E150d (_sulfitos_).', '', '8', '1.8', '80', '24', '', '7', '0.93', '0.366141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200365', 'Haldirams Bombay Mix 200G', 'Mélange apéritif épicé à base de pois chiches cassés etde cacahuètes l:arédients : Pois chiche cassé décortiqué (33%) cacahuète, (19%), huile végétale (graine de coton, maïs, oleine de palme) (en protr jable), farine de pois chiche (17%), petit pois (8%), sel, m ange d\'épices (2%) (piment rouge en poudre, poudre de mangue,ase fétide). Attention : Ce produit contient des arachides. Ce dans une usine qui traite du blé, des produits laitiers,e coque. A conserver dans un endroit frais et sec. Une fois ouvert, conservez le dans un récipient La photo sur le devant du paquet est une suggestion de/', '40', '9', '32', '0', '3', '20', '1.4', '0.551181102362205', '', '0');
+VALUES ('8410014312440', 'Tastets Limon', 'wheat Flour, vegetable 011 (palm, high olelc sunflow sugar, dextrose, glucose-fructose syrup, barley malt extract, raistng agents (ammonium and sodlum bicarbonates), acidity regulator (monocalcium phospha maltodextrin, stabiliser (sorbitol), salt, emulsifter (lecithln), yeast, flavourlng, flour treatment agent (sodlum metabisulphite) , colour (curcumin). CONTAINS MAY CONTAIN milk, soy. O Biscuits fourrage parfum citron. Ingrédients: farlne de blé, huiles végétales (palme, tournesol haut oléique), sucre, dextrose, slroc glucose et fructose, extrait de malt d\'orge, poudres à lever (bicarbonates d\'ammonium et de sodlum), correcteur d\'acidité (phosphate monocalclq maltodextrine, stabilisant (sorbitol), sel, émulsifiant (lécithine), levure, arômatisant, agent de traitement de la Farine (disulfite de sodium), colorant (curcumi CONTENTS de lioeuf. PEUTCONTENIR du lait, soja.', '', '23', '12', '67', '32', '', '5', '0.58', '0.228346456692913', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200402', 'Mung Bean & Nut Stuffed Triangle Samosa', 'Refined wheat flour (57%), vegetable oil (palmolein), split mung bean (4%), cashew nuts (2%), raisins (2%), sugar powder, salt, red chili powder, aniseed, black pepper powder, coriander, cardamom powder, mango powder, cumin, black cumin', '33.33', '6.67', '46.67', '0', '0', '6.67', '2.20218', '0.867', '', '0');
+VALUES ('8410014312495', 'Galleta Cue.bocadito Limon 150GRS', '', '', '23', '12', '32', '0', '', '5', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200419', 'Haldiram\'s Murukku - 200 GM', 'Farine de riz (33%), farine de huile végétale (oleinede de lentilles (5%), farine de pois chiche (2%), sel, sésame (0,5%), cumin (0,5%). Attention: Ce produit contient du blé et des graines de sésame. Ce produit a été emballé dans une usine traitant des fruits à coques, des graines de moutarde et des produits laitiers. Produit de l\'Inde I A conserver dans un endroit frais et sec. I Garder a llabri de la lumière. Une fois ouvert, le dans un récipient hermétique. Bastoni di farina di riso INGREDIENTI: Farina di riso (33%), Farina di grano (20%)} 0110 vegetale (Palma), Farina di legurno grarnrno nero (5%), Farina di legume \\ Sesame seme', '40', '9', '40', '0', '6', '10', '1.9', '0.748031496062992', '', '0');
+VALUES ('8410014313041', 'Cuétara Barquillo Rollitos', '', '', '2.5', '1.2', '86', '43', '', '7', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200556', 'Gujarati Mixture', '', '40', '10', '40', '6', '', '11', '2', '0.78740157480315', '', '0');
+VALUES ('8410014317070', 'Bocadito Limon', 'Biscuits fourrage parfum malt', '', '23', '12', '67', '32', '', '5', '0.58', '0.228346456692913', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200587', 'Haldirams Mini Bhakhar Badi 200 GM', '', '30', '14', '50', '13', '', '12', '3', '1.18110236220472', '', '0');
+VALUES ('8410014320810', 'Galetes Tosta Rica Mini Cuetara', 'Cuetara) de 8mittiqallelctS', '', '0', '0', '24', '16', '', '6', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200624', 'Madrasi Mixture 200G (pikanter Snack) Haldirams', '', '20.7', '7.5', '52.1', '2.9', '', '13.9', '0.89', '0.350393700787402', '', '1');
+VALUES ('8410014320834', 'Choco Flakes Callejeros', 'Galleta 72% (harina de _trigo_, azúcar, Oleoequilibre: aceites vegetales de girasol alto oleico y palma; jarabe de glucosa y fructosa, emulgente (lecitina), sal, gasificantes: carbonato de sodio y carbonato de calcio, vitaminas y sales minerales: A, D, E, Tiamina (B1), Riboflavina (B2), Niacina (B3), B6, ácido pantoténico, carbonato de calcio y hierro elemental; aroma, colorante: E150d (_sulfitos_), agente de tratamiento de la harina (_metabisulfito sódico_)), chips de chocolate 18% (azúcar, pasta de cacao 48%, manteca de cacao 3%, emulgente (lecitina de _soja_) y aroma), arroz inflado chocolateado 10% (arroz, maíz, azúcar, cacao desgrasado en polvo 5%, jarabe de glucosa y fructosa, extracto de malta de _cebada_, aceite de palma, sal, emulgente (lecitina de _soja_) y aroma).', '', '13', '4.6', '75', '29', '', '6', '0.63', '0.248031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200662', 'Haldiram\'s Mathri', '', '', '7', '', '0', '0', '4', '2', '0.78740157480315', '', '0');
+VALUES ('8410014329158', 'Achocolatado Po Cola Cao Energy 350+30GR', 'ln rcdientes: Açùcar Cacau rnaqro om pb. Faranha de trigo Emutstonante (lecitina de soja). Aromatizantefii Sal, Pode conter teite. Mant@r em lugar fresco e sec 0.', '', '3.2', '0', '82', '1.6', '0', '5.5', '0.34', '0.133858267716535', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200945', 'Haldirams Bhujia', 'Tepary Beans Flour, Edible Vegetable Oil (Cotton Seed, Corn & Palmolein Oil), Gram Pulse Flour, Edible Common Salt Powder, Spices & Condiments (Red Chilli Powder, Black Pepper  Powder, Ginger Powder, Clove Powder, Mace Powder, Nutmeg Powder and Cardamom Powder).', '40.8', '10.4', '39.5', '3.9', '', '13.9', '', '', '', '0');
+VALUES ('8410014334848', 'Colacao Original', 'Ingredientes: Azücar, cacao desgrasado en polvo, crerna de cereal kola-malteado (harina de trigo, extracto de malta de cebada, aroma natural: extract0 de nuez de sales (calcio y f6sforo), aromas, sal. COntener', '', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063200976', 'Navrattan', '', '30.1', '7.9', '45.7', '2.7', '', '16.9', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8410014336545', 'Biscuits P\'tit Copain', 'Farine de _blé_, sucre, huile de palme (Antioxydant E306, sérum de _lait_ en poudre, sirop de glucose-fructose, poudres à lever bicarbonates d\'ammonium et sodium), sel, émulsifiant (lécithine), arôme, agent de traitement de la farine (_disulfite_ de sodium).', '', '18', '8.3', '71', '23', '', '6', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063205001', 'Haldirams Soan Papdi(desi Ghee) 500 GM', '', '29', '21', '62.5', '46', '', '5.4', '', '', '', '0');
+VALUES ('8410014336811', 'CREMA DE CACAO IDEAL PARA CREPES NOCILLA', 'CREMA AL CACAO CON AVELLANAS Ingredientes: Azücar, aceites vegetales de palma, girasol y girasol alto oleico, cacao desgrasado en polvo (8,5%), leche desnatada en polvo (4,5%), avellanas (4%), sélidos lâcteos, emulgentes (lecitina de soja, E 476) y aroma. Puede contener otros frutos de câscara. Mantener fuera del frigorifico, en lugar fresco y seco. Consumir preferenEmenE anEs de la infftcada en la', '', '33', '11', '57', '55', '', '5', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063210029', 'Haldiram Rasgulla', 'Sugar, Water, Cottage Cheese Solids(Milk ) (4%), vegetable Oil (soyabean) Flour, Rose Water.', '2', '1', '50', '44', '0.3', '6', '0', '0', '', '0');
+VALUES ('8410014344403', 'Ricanela', 'farinha de trigo, óleo vegetal, açúcar, xarope de glucose-frutose, dextrose, sal, emulsionante (lecitina), levedantes químicos (bicarbonato de sódio, bicarbonato de amónio), canela, aroma, agente de tratamento da farinha (metabissulfito sódico).', 'https://static.openfoodfacts.org/images/products/841/001/434/4403/front.8.400.jpg', '21', '9.7', '68', '26', '', '6', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063230065', 'Moong Dal', 'Split mung bean (70%), vegetable oil (peanut, corn & cotton seed), salt, coriander powder, cumin powder, dry ginger powder, black pepper powder, mace powder, nutmeg powder, red chilli powder, cardamom powder, pomegranate powder and citric acid powder.', '20', '3', '50', '0', '5', '20', '1.4986', '0.59', '', '0');
+VALUES ('8410014345479', 'Chocoleche', 'DOBIE CACAO Y LECHE CON AVEIIANAS Ingredientes: Ance ageites vegeta}es d palma, girasol y Qi(ascl alto oteico, reche desnatedò er olvo (6,92 d), sclid acteos, cacao desgrasado en 4,32: , avellanas , emulgënte (lecitina de soja) aromas. Puede entener otros frutos de cascara.', '', '32', '10', '60', '58', '1.8', '4.5', '0.17', '0.0669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063230096', 'Haldiram\'s Moongdal (400G)', '', '15', '5', '53', '2', '', '23', '', '', '', '1');
+VALUES ('8410014351142', 'Nocilla', '', '', '32', '11', '58', '56', '', '5', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063230171', 'Plain Bhujia Namkeen', 'Tepary beans flour (43%), vegetable oil (peanut, corn & cotton seed), chickpeas flour (12%), salt, black pepper powder, ginger powder, mace powder, nutmeg powder and cardamom powder.', '40', '10', '31.43', '0', '5.7', '20', '1.45034', '0.571', '', '0');
+VALUES ('8410014351159', 'Nocilla la autentica', '(2%VRN0 : Vê!cres de Referencia de Nutrientes fecomendada: 15 g iR: Ingesta de Referencia DOBLE CREMA AL CACAO Y LECHE CON AVELLANAS redientes: Azücar, acejtes vegetales girasol y girasol alto oleico, desnatada en polvo (6,9%), sélidos cacno desgrasado en polvo tçellanas (3,9%), emu!gente riti(lcq (te soja) y aromas. c ccntener otros frutos de céscarao envase ponderad3 dc las ((emas', '', '32', '10', '59', '58', '', '4.5', '0.18', '0.0708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063230546', 'Haldiram Snacks Pvt. Ltd., Haldiram\'s, Fried Ladies Finger Cooked', 'Okra (45%), onion, sunflower oil, tomato, butter, cashew nut, ginger, garlic, salt, green chilli, coriander powder, cumin powder, red chilli powder, milk, cream, sugar, turmeric powder, dried fenugreek leaves, mango powder.', '20', '4', '12', '0', '2.7', '2.67', '1.15062', '0.453', '', '0');
+VALUES ('8410014359841', 'Napolitanas', 'harina de _trigo_, aceite vegetal (palma), azúcar, jarabe de glucosa y fructosa, dextrosa, sal, emulgente (lecitina), gasificantes (carbonatos de amonio y sodio), canela 0,2%, aroma y agente de tratamiento de la harina (_metabisulfito sódico_).', '', '21', '9.7', '68', '26', '', '6', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063230553', 'Haldiram\'s, Minute Khana', 'Mustard leaves (50%), butter, sunflower oil, spinach leaves (5%), milk cream, onions, maize flour, salt, green chilli, ginger, garlic, cumin and red chilli whole.', '13.33', '6', '3.33', '0', '0.7', '1.67', '0.79502', '0.313', '', '1');
+VALUES ('8410014364197', 'TostaRica Oceanix', 'Farine de _blé_ 54%, sucre, huile de tournesol à haute teneur en acide oléique, chocolat 6.5% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de _soja_), sirop de glucose-fructose, cacao maigre en poudre, son de _blé_ 3%, émulsifiant (lécithine), poudres à lever (carbonate d\'acide de sodium, et d\'ammonium), sel, blanc d\'_œuf_, amidon, arômes, vitamines (A, B1, B2, B3, B6, D), sels minéraux (fer élémentaire, carbonate de calcium).', '', '18', '2.5', '67', '27', '4', '7', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063230959', 'Haldiram\'s, Minute Khana Hyderabadi Biryani', 'Rice (28%), tomato (19%), onion (15%), sunflower oil (8%), beans (5%), cauliflower(5%), butter (4%), yogurt (4%), carrot(3%), frozen peas (3%), coconut, salt, green chilly, clarified butter, coriander powder, garlic, ginger, turmeric powder, mint, red chilly, cinnamon, cardamom, mace, cumin', '9', '3', '28', '0', '3', '3', '1.397', '0.55', '', '0');
+VALUES ('8410014364203', 'Tosta Rica Galetes Oceanix Xoco', '', '', '18', '2.5', '67', '27', '0', '7', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063231253', 'Minute Khana, Dilli Style Dal Makhani', 'Water, butter (13.28 %), milk, whole black lentils (8.31 %), tomato, cream, red kidney beans, sunflower oil, onion, ginger, green chili, split gram grains, salt, garlic, red chilli powder, dried fenugreek leaves, coriander powder, nutmeg, cardamom, cinnamon, cumin and mace.', '16.67', '9.33', '10', '0', '1.3', '3.33', '0.94742', '0.373', '', '1');
+VALUES ('8410014371379', 'Cachobarra Cereal Bar', '', '', '16', '4.2', '74', '33', '', '5', '0.44', '0.173228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063232250', 'Lentilles corail épicées en sauce', '', '7.1', '1.4', '12.2', '0', '', '4.3', '1.15', '0.452755905511811', '', '0');
+VALUES ('8410014384010', 'Mini Campurrianas', '', 'https://static.openfoodfacts.org/images/products/841/001/438/4010/front.3.400.jpg', '15', '7.2', '74', '27', '', '5', '0.59944', '0.236', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063235251', 'Dilli Style Rajma Raseela', 'Water, tomato, red kidney beans (15.34%), clarified butter, onion, butter, yogurt, salt, garlic, ginger, cinnamon, large cardamon, small cardamom, red chilli powder, nutmeg and mace.', '10', '3.33', '13.33', '0', '2', '4.67', '1.016', '0.4', '', '0');
+VALUES ('8410014396556', 'Choco Flakes de Cuétara', 'Galleta 73% (harina de trigo, azúcar, aceite vegetal, lecitina, jarabe de glucosa y fructosa, sal, carbonato de sodio y de calcio, hierro, aroma, colorante E150d, agente de tratamiento de la harina: metabisulfito sódico), chips de chocolate 16% (azúcar, pasta de cacao 48%, manteca de cacao 3%, lecitina de soja y aroma), arroz inflado chocolateado 11% (arroz, trigo, azúcar, cacao desgrasado en polvo 4%, extracto de malta de cebada, jarabe de glucosa y fructosa, aceite vegetal, sal, lecitina de soja y aroma).', 'https://static.openfoodfacts.org/images/products/841/001/439/6556/front.6.400.jpg', '13', '4.6', '75', '29', '2', '6', '0.635', '0.25', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063236258', 'Minute Khana Choley 300G', 'Pois chicbos cn sauce Inotbdicnts: Eau, ctiict;o (IGS), tornato (1570), da raffinée, atèle piment Vorte méjanag (140079) (cardamomg (02%). (02%), macla (0.2%), cumin (02%), coriandre (02%). crc;u do (02*4), curry (02%)), se}. yac,urt (tait), coriandro, piment rouoo cn poudre. curcuma cn poudre, feu2e% de fer*GfJrec. de jaunet. Attontion: Co produit conttcnt dea produits Ce produit a ete etnba.&quot;-e dans une usine traitant des aracj1jdotJ$ dog truit5 a coques. des orainc% do st:samo. des de rrÌ$Attarde, des ct du Produit do l\'Indo Contit\'tvnr 10 form/f dana un ttndfOit trai-, et', '7.8', '0.8', '13.2', '0', '1.3', '3.6', '1.33', '0.523622047244095', '', '0');
+VALUES ('8410014396983', 'Maria Supreme Cookies', 'Wheat flour, palm oil, sugar, glucose-fructose syrup, sodium and ammonium bicarbonates, salt, lecithin, whey powder, sodium metabisulphite, artificial flavor.', '', '19.05', '7.94', '73.02', '22.22', '3.2', '6.35', '0.80518', '0.317', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063237255', 'Haldiram\'s, Kadhi Pakoda', 'Water, yogurt (20%) bengal gram fleur (6.3%), sunflower oil, butter, onion, salt, green chilli, coriander, red chilli, fenugreek seeds, asafoetida extract, garlic, turmeric powder, mustard seeds and curry leaves.', '8', '3.33', '7.33', '0', '1.3', '3.33', '1.13538', '0.447', '', '0');
+VALUES ('8410014398963', 'Mini Crackers Cocktail', 'Farine de _blé_, huile de palme (antioxydant: E306), sirop de glucose-fructose, sucre, sel 3 %, extrait de malt d\'_orge_, poudres à lever, (bicarbonates de sodium et d\'ammonium), correcteur d\'acidité (phosphate monocalcique), levure, agent de traitement de la farine (_disulfite de sodium_).', 'https://static.openfoodfacts.org/images/products/841/001/439/8963/front.3.400.jpg', '23', '11', '63', '10', '', '7', '2.99999999999999', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063238252', 'Haldiram\'s, Dilli Style Palak Paneer', 'Spinach paste (33.95 % water, indian cottage cheese (12.5%), butter sunflower oil, onion, tomato cream, cram chill, garlic, salt, ginger, cordmom, red chilli water, red chilli powder, cumin (whole), nutmeg, cinnamon, cardamom and mace.', '15.33', '6.67', '4.67', '0', '0.7', '4', '1.08458', '0.427', '', '0');
+VALUES ('8410014398994', 'Krit original', 'Whertflour, vegetable oils (palm and sunflower) glu Sugar, sait, agents (ammonium and sodium acidit -&quot;ment agent (sodium mddbisu/phite). soya, saiati. di regulator (calcium phosphate), yea?.l, ay ,odioarbonato di ammomo), regolatore diacidità (fosfato di calao), agerref y), kyselosti (fosforetnan vapenatY), glukozo-fruktézovysirup,cukr, vytaiekz jetného sladu,jedlé je (palmovya olej), sirup, sodnY). Müie obsahovat stopy mléka, séji , vajec, sezamu. gSlané krekerovéP? (fosforetnan vàpenatY), droiCie, müku upravujü jeûnenného sladu, sot, kypriace làtky (uhlititan amônny, uhlititan sodnY), vajcia,sezam. Stani krekeri. Sastojci: Pieniino braino, biljna ulja (palmin0i amonilev kiseiosti (kalcijev fosfat), kvasac, tvar za tretiranjebtasn 36, Hrvatska.ZemljapodrijetIa:Spanjolska.BSiani krekerji.S6tòoeç J dada. sol, sredstva za in amonijev karbonat), sredstvo za uravnaNò laica, sezam. data ond Best before date (88) : see on pack. Dota di produzione: ? enr?tehone. &quot;roby (PRO) a Minjmd/ni trvanlivost obaiu daturr? ,t-.v-.r. Z (RR)', '', '25', '5.3', '61', '10', '', '6', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063239259', 'Pao bhaji', '', '10.3', '4', '10.6', '0', '', '2.8', '1.46', '0.574803149606299', '', '0');
+VALUES ('8410014405449', 'Cuétara Galletas Con Cereales Choco Flakes', '', '', '', '5', '', '29', '2', '6', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063251077', 'Haldirams Soan Papdi 250g', '', '29', '19', '60', '52', '', '10', '', '', '', '0');
+VALUES ('8410014405845', 'Cola Cao Ecobolsa', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063252975', 'Saag Paneer', 'Spinach (60%), indian cottage cheese (25%), onions, refined sunflower oil, milk cream, butter, fresh ginger, fresh garlic, green chili, salt, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), red chili, turmeric powd', '17.61', '7.04', '7.75', '0', '1.4', '6.34', '1.01854', '0.401', '', '0');
+VALUES ('8410014408068', 'Avenacol', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063253248', 'Boondi', 'Chickpeas flour (50%), vegetable oil (peanuts, corn & cotton seed), starch (sago), salt.', '40', '8.57', '40', '0', '8.6', '8.57', '2.17678', '0.857', '', '0');
+VALUES ('8410014411785', 'Cuetara Flakes Nocilla', '', '', '16', '4.2', '74', '34', '', '5', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063257581', 'Diet Mixture', 'Flaked Rice,Edible Vegetable Oil,Plamolein Oil,Cotton Seed Oil,Edible Common Salt,Corn Flakes,Black Salt Powder,Cumin Seed Powder,Turmeic Powder,Pomegranate Seed Powder,Dry Mango Powder,Ginger Powder,Cinnamon Powder,Celery,Mint Leaves Powder,Cardamom Powder,Black Cumin,Red Chilli Powder,Clove Powder,Acidity Regulator', '28', '15', '50', '2', '', '13', '', '', '', '1');
+VALUES ('8410014413604', 'Tostarica', '', '', '16', '1.9', '72', '24', '', '6', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063259141', 'Snac lite', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014413611', 'Tosta Rica', '', 'https://static.openfoodfacts.org/images/products/841/001/441/3611/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063260253', 'Cookie heaven kaju pista', '', '21', '0.0001', '63', '21', '', '7', '0.286', '0.11259842519685', '', '1');
+VALUES ('8410014414588', 'Fibra Linea - 3 cereais', '', '', '18', '3.6', '62', '20', '', '7.9', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063281135', 'Aloo Paratha', 'Potatoes (45%), whole wheat flour (38%), refined sunflower oil, water, salt, coriander leaves, ginger, green chili, red chili powder and spices (coriander, cumin, mango powder, dried fenugreek leaves, black pepper powder).', '7', '1', '37', '0', '3', '5', '1.3208', '0.52', '', '0');
+VALUES ('8410014414595', 'Galletas Fibra línea Integral Soja', 'Harina de cereales 68% (_trigo_ integral 46%. _trigo_, salvado de _trigo_ 15%, _centeno_ 3%, maíz, arroz, _cebada_ 0,4%), Oleoequilibre 17% (aceites vegetales de girasol alto oleico y palma), azúcar, jarabe de glucosa y fructosa, _soja_ 2,3%, gasificantes (bicarbonatos amónico y sódico), sal, emulgente (lecitina), extracto de malta de _cebada_, aroma.', '', '18', '3.6', '62', '20', '8.7', '7.9', '0.730000000000001', '0.28740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063281562', 'Punjabi Choley', 'Water, chickpeas (16%), tomatoes, onions, refined sunflower oil, fresh ginger, fresh garlic, green chili, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), salt, yogurt, coriander leaves, red chilli powder, dried fen', '9.86', '1.06', '14.08', '0', '1.4', '3.52', '1.16332', '0.458', '', '0');
+VALUES ('8410014421906', 'Digesta 183G Wheatmeal Soy Cookies', '', '', '18', '3.6', '62', '20', '', '7.9', '0.73', '0.28740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063281579', 'Palak Paneer', 'Spinach (47%), indian cottage cheese (18%), butter, refined sunflower oil, onions, milk cream, tomatoes, green chilli, salt, ginger, garlic, coriander powder, cumin, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves),', '23.24', '9.15', '5.63', '0', '1.4', '4.93', '1.01854', '0.401', '', '0');
+VALUES ('8410014424730', 'TostaRica Original', 'Farine de _blé_ 67%, sucre, huile de tournesol haute teneur oléique, lactosérum en poudre (_lait_), sirop de glucose-fructose, émulsifiant (lécithine), sel, poudres à lever (carbonates d\'ammonium et de sodium), colorant E-150d (_sulfites_), arômes, vitamines (A, B1, B2, B3, B6, D), sels minéraux (fer élémentaire, carbonate de calcium), agent de traitement de farine (_disulfite_ de sodium).', '', '16', '1.9', '72', '24', '2', '6', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904063281616', 'Paneer Makhani', 'Tomatoes, onions, indian cottage cheese (22%), milk cream, refined sunflower oil, yogurt, fresh ginger, fresh garlic, cashew nut, salt, sugar, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), red chilli powder, drie', '16.2', '4.23', '9.15', '0.7', '0.7', '4.93', '1.12776', '0.444', '', '0');
+VALUES ('8410014430588', 'Galetes Avenacol Cuetara', 'Galletas CON SALVADO DE AVENA CUÉTARA Ingredientes: copos de avena 39%, harina de trigo, azücar, Oleoequilibre 1 1 % (aceites vegetales de girasol alto oleico y palma), Avenacol 9% (salvado de avena alto en betaglucano), oligofructosa, salvado de trigo, jarabe de glucosa y fructosa, gasificantes (carbonatos de sodio y de amonio)t sal, emulgente (E472e), aroma. PUEDE CONTENER leche, soja, sulfitos, Bolachas FARELO DE AVEIA CUÉTARA. Ingredientes: flocos de aveia 39%, farinha de trigo, açücar, Oleoequilibre 11 % (éleos vegetais de girassol alto oleico e palma), Avenacol 9% (farelo de aveia com alto teor de beta•glucano), oligofructoset farelo de trigo, xarope de glicose e frutose. levedantes (carbonatos de sédio e de aménio), sal, emulsionante (E472e), aroma. PODE CONTER leite, soja, sulfitos, ovos.', '', '14', '2.8', '64', '18', '9', '9', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904064625891', 'Kodo Millet « Millet Indigène »', 'Little Millet', '2.2', '0', '86', '0', '0', '12.5', '0', '0', '', '1');
+VALUES ('8410014430793', 'Cacao Soluble Original Cola-cao', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904064640122', 'Murukku', 'Wheatlour, Sesome, Salt, (umiî/Pepper. red (ïiììÈlIentil fitbiì\' Ingrédients: Farine deffé, sésame, sel, cumin, iërtitiEi Zutaten: Weizenmehl, Sesam, Selz, kümmelt Pfeffet, rote, (Ïiù}linkenmeit! Ingredienti: farina di grano, di sesamot salet cumino\\ïëi$peperonctni li Ingredienser : Yetemiôl, sesam, solt, spisKummifl,ïëìïîtrrid chili} Ingrediënten : torwebloem, sesome, lout', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014431462', 'TOSTA RICA', 'Chez BN, nous particulière au bon goût ct à la qualité de nos produits en sélectionnant rigourcuscmcnt nos ingrédients. BN goût (hocolat\' au loft : V des céréales comp.e.ies V (IU blé 100% français V pas de colorants V pas de conservateurs aïou:és V pas d\'arômes artificiels V sons matières grasses h\'Àogé11ées', '', '16', '1.9', '72', '0.24', '2', '6', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904067700762', 'Khakhra roasted wheat crisps', '', '21', '9', '65', '3', '', '10', '2', '0.78740157480315', '', '0');
+VALUES ('8410014436757', 'Paladín a La Taza', 'GRATIS AUMEUTtCtO AL ciïA0 Inotedientcs: Alucar. escesantes (Ek1442, en polvo. leclte trigo. por 1000 tacti)n• IR\' •', '', '1.8', '1.1', '85', '66', '', '4', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904067709529', 'Banana chips', '', '40.5', '18.3', '0', '0', '', '8.7', '2', '0.78740157480315', '', '0');
+VALUES ('8410014440716', 'Cola Cao 0% 750G', 'PREPARACION Pcn una cuchûrûda 17i5 g) de Cota Cao en una taza Afiade leche desnatadû (150 ml) y remueve PREPARADO ALIMENTICIO ALCACAOS!NAZÜCARESANADIOOS • coti EDULCOiUUTES Ingredientes: Cacao desgrasado en polvo (42%), maltodextrtna, crema de cereal kota-malteado (harina de trigo, extracto de malta de cebada, aroma natural. extracto de nuez de cola), fibra, sales minerales (calcio y fésforo), emulgente (leciti- na de soja), antiagtomerante (fosfato tricélcico), aromas, edulcorantes (aspartamo, acesutfamo), sal. Puede contener teche. Contiene una fuente de fenilalanina. Mantener en lugar fresco y seco. 700g Consumir preferentemerice antes det;', '', '5.8', '3.5', '44', '3.5', '24', '12', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904071700031', 'Masala Banana Chips', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014441836', 'Colacao', '', '', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073310047', 'Raw Shrimp', 'Shrimp, salt sodium tripolyphosphate (to retain moisture)', '1.79', '0', '0.89', '0', '0', '20.54', '0.4318', '0.17', '', '1');
+VALUES ('8410014442291', 'Cola Cao 0%', '', '', '5.8', '3.5', '44', '3.5', '24', '12', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073310085', 'Raw Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '1.79', '0', '0.89', '0', '0', '20.54', '0.4318', '0.17', '', '1');
+VALUES ('8410014442581', 'Cola Cao 0% Con Fibra', 'E322, 341iii, e950, e951,', '', '5.8', '3.5', '18', '3.6', '50', '12', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073310306', 'Raw Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '1.79', '0', '0.89', '0', '0', '20.54', '0.4318', '0.17', '', '1');
+VALUES ('8410014443571', 'Nocilla', 'ébqoe / 139/1 I I de / 599/1 fibra/FibQ 2*29/1 2.tj/é', '', '33', '13', '62', '59', '2.2', '2.8', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073310498', 'Cooked Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '1.19', '0', '0', '0', '0', '21.43', '0.57404', '0.226', '', '1');
+VALUES ('8410014448170', 'Nocilla 0%', 'AL AVELIAUAS.', '', '28.5', '8.8', '52', '5.6', '13', '4.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073310511', 'Cooked Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '1.19', '0', '0', '0', '0', '21.43', '0.57404', '0.226', '', '1');
+VALUES ('8410014449733', 'Cola Cao Llauna Vintage 1,4 KG', 'EL ALL tllro DE LA JUI/EIVTI/D', '', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073311747', 'Cooked Shrimp', 'Shrimp, salt, sodium tripolyphosphate (to retain moisture)', '0.88', '0', '0', '0', '0', '15.93', '0.42672', '0.168', '', '1');
+VALUES ('8410014449900', 'Avenacol', '', '', '5.5', '2.2', '57', '4', '12', '11', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904073701043', 'CRISPY ET TASTY BUTTERFLY', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014452184', 'Nocilla Chocaleche', '', '', '32', '10', '60', '58', '', '4.5', '0.17', '0.0669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904083300854', 'Pomegranate', '', '0', '0', '16', '14', '', '0.3', '', '', '', '1');
+VALUES ('8410014473677', 'Tosta Rica', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904083502128', 'Organic Wheat Grass Powder,100G', '7 day Old sprouted Wheat Grass', '0.28', '0', '43.6', '0', '29', '28', '0.26', '0.102362204724409', '', '1');
+VALUES ('8410014510525', 'Caramelos Pez', '', 'https://static.openfoodfacts.org/images/products/841/001/451/0525/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904083512035', '24 Mantra Organic Ginger Garlic / Adrak / Lahasun Paste', '*Garlic(28%), ginger (50%), Water,salt, Groundnt Oil, Acidulent citric acid', '1.23', '0.1', '0.35', '0.35', '2.81', '2.72', '5', '1.96850393700787', '', '0');
+VALUES ('8410014820938', 'Cola Cao Turbo', 'Ingredientes: Azücar. Cacao desgrasado en polvo. Harina de trigo. Emulgente (Lecitina de soja). Aromas. Sal. Puede contener leche.', '', '3.2', '1.6', '82', '77', '0', '5.5', '0.34', '0.133858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904084100729', 'Amla Juice 750ML (amla Supplement)', 'ta Juice 100%. Contains Permitted Il Preservatives (E-211, E-202) Rich I Vitamin C 1 Effective For Obesity Flushes Out Toxins Effective For Rejuvenation Tridosha Nashak Brings A Healthy Shine to Skin, Eyes 8 Purifies Blood Increase Vitality, Strength & Vico', '0.593', '0.058', '4.83', '4.5', '3.93', '0.893', '0', '0', '', '1');
+VALUES ('8410014837561', 'Cola Cao Original', 'PREPARACIÔN Pon dos cucharadas de Cola Cao en un vaso o taza y vierte sélo un poco de leche, iRemueve con energia! A continuacién... afiade mas leche y ya tendràs IMO y bien disuelto tu Cola Caa PREPARADOALIMENTICIOALCACAO Ingredientes: Azücar. Cacao desgrasado en polvo. Crema de cereal kola-malteado (Harina de trigo. Extracto de malta de cebada. Aroma natural: Extracto de nuez de cola). Sales minerales (calcio y fésforo). Aromas. Sal. Puede contener leche.', 'https://static.openfoodfacts.org/images/products/841/001/483/7561/front.3.400.jpg', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904084100736', 'Aloe Vera Juice 750ML (aloe Supplement)', '100% NATURAL Albe vera (Barbadensis) Gel (ITL), Stabilizer QS fœtaidspermitted Class Il Preservatives (E-202, E-211). Net Contents : 750 ml. Batch No. Date of Expiry : Dictary Supplement Not For Medicinal Cse- Juice Contains Nutritious Fibers settled at bottom- Shake Well Before Use.', '0', '0', '5', '0', '0', '2', '5', '1.96850393700787', '', '0');
+VALUES ('8410014837578', 'ColaCao', '', 'https://static.openfoodfacts.org/images/products/841/001/483/7578/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904084100750', 'KARELA JUICE', 'Kar à Fruit and Leaves Juice 90%. Jamun Seed extract 10%, Acidity.regulatbr. (E-330) Contains Permitted Class Il Preservatives (E-211, E-202) Net Contents : 750 ml. Batch No. Date of Expiry . Dietary Supplemcnt Not ForMedicinal Use. *Juice Cohtains NutritiòusFiberssettled at bottom. Shake Well Before Use.', '0.43', '0', '7', '1', '1.9', '3.6', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410014837585', 'Chocolate en polvo Original', 'Azúcar, cacao desgrasado en polvo, crema de cereal kolamalteado [Harina de _trigo_, extracto de _malta_, aroma natural: extracto de nuez de cola), fibra, sales minerales (calcio y fósforo), aromas y sal', 'https://static.openfoodfacts.org/images/products/841/001/483/7585/front.4.400.jpg', '2.4', '1.5', '78', '70', '8.4', '6.8', '0.254', '0.1', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904084900138', 'Green Ice Tea', '', '0', '0', '4.6', '4.5', '', '0', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8410014837592', 'Colacao', 'PREPARADO AL CACAO Ingredientes: Azücar. Cacao desgrasado cn potvo. Cremo de cereat kota-malteado (Harina de trigo. Extracto de malta de cebada. Aroma natural: Extracto de nuez de cola). Sales minerales (calcio y fôsforo). Aromas. Sal. Puede contener leche. Mantener en lugar fresco y seco.', '', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904113900177', 'Egless chocochip Cake', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014856340', 'CREMA CACAO NOCISTICKS NOCILLA', '', '', '23', '8', '63', '40', '', '6.8', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904132907829', 'PURE GRADE HONEY', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014871909', 'Paladin un minuto', 'PREPARADO ALIMENTICIO AL CACAO Ingredientes: Azücar, espesantes (E 1442, goma tara), cacao desgrasado en polvo, sal. Puede contener leche y trigo', '', '1.8', '1.1', '85', '66', '', '4', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904150200155', 'Almonds', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014894052', 'Cola Cao 250G Chocolate Drink', '', '', '3.2', '1.6', '82', '77', '', '5.5', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904158903140', 'AMLA OWDER (groseilles indiennes) Ayurvedic & Herbal)', '', '0.2', '0.2', '83', '0.6', '', '0.1', '0.8', '0.31496062992126', '', '1');
+VALUES ('8410014915009', 'ColaCao Original', '', 'https://static.openfoodfacts.org/images/products/841/001/491/5009/front_en.3.400.jpg', '2.4', '1.5', '78', '70', '7.8', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904158903218', 'JAMUN  KARELA POWDER Bittermelone-Rosenapfel', '', '0.1', '0.1', '8.8', '8.8', '', '1', '', '', '', '1');
+VALUES ('8410014918611', 'Cacao', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904220000005', 'Kernlose Tafeltrauben', 'Thompson Seedless', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014926241', 'Colacao Cola Cao Turbo (easy-mix) 400', 'voicold instantané. ;ucre ,cacaorna de émulsifiant Ilécithjne de Peut contenir lait Mode d\'emploi: Ajoutez curées café de Cola Cao à un verre ou une tasse delà et remuez.', '', '3.2', '1.6', '82', '77', '', '5.5', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904232500869', 'Lait demi-écrémé', '_Lait_ demi-écrémé', '1.55', '1', '4.8', '4.8', '', '3.2', '0.127', '0.05', '', '1');
+VALUES ('8410014929150', 'Nocilla Almendras - Crema Al Cacao Con Almendras Sin Gluten - Nocilla', 'Azúcar, aceites vegetales de palma y girasol alto oleico, almendras (10%), sólidos lácteos, leche desnatada en polvo, emulgente (lecitina de soja), aromas. Contiene otros frutos de cáscara.', '', '33', '10', '57', '57', '', '6', '0.23', '0.0905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904256700320', 'Bb royal Honey', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014929976', 'Crema de cacao y avellanas con leche &quot;Nocilla&quot;', '', 'https://static.openfoodfacts.org/images/products/841/001/492/9976/front.5.400.jpg', '32', '11', '58', '53', '3', '5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8904258700533', 'Guava Fruit Juice', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410014929983', 'Nocilla', 'Sucre huile végétale de palme lait dénaturalisé en poudre solides lactiques cacao dégraissé en poudre noisettes émulsifiants arômes', '', '32', '10', '60', '58', '1.8', '4.5', '0.17', '0.0669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('89058947', 'Riz Rond du Sud', '', '1.1', '0.3', '80', '0.1', '', '6.4', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8410014930026', 'Nocilla 1 / SB. Plastico 425GR', '', '', '32', '11', '58', '56', '', '5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906000610701', 'Smiles', 'Potato 62.84%, Potato Flakes (13.76%), Palmolein Oil, Corn Flour, Edile Common Salt', '7.73', '3.54', '27.58', '0.4', '', '2.97', '', '', '', '1');
+VALUES ('8410014930033', 'Nocilla 2S / Tarrina Plastico 425G.', '', '', '32', '10', '60', '58', '', '4.5', '0.19', '0.0748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906000610909', 'Potato Cheese Shotz', 'Potatoes (40.80%), Proessed Cheese(30.42%) (Cheddar cheese, Milk Solids, Emulsifier [INS 331],  Edible Common Salt, Permitted Class II Preservative [INS 200]), Bread Crumbs (Wheat Flour, Yeast, Edible Common Salt), Permitted Class II Preservative [INS 200], Antioxidant [INS 300]), Palmolein Oil, Batter (Wheat Flour, Corn Starch, Corn Flour, Edible Common Salt, Thickner [INS 466]), Seasoning (Acidity Regulators [INS 330, INS 270],  Flavour Emhancer [INS 627], Anticaking Agent [INS 551]), Corn Flour, Onion Powder, Edible Common Salt, Red Chilli Flakes, Parsley.  CONTAINS ADDED FLAVOURS: NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES CONTAINS WHEAT, SOYA AND MILK DERIVATIVES', '11.3', '6.97', '24.26', '4.65', '0', '8.09', '', '', '0', '1');
+VALUES ('8410014930064', 'Crema Nocilla Cacau 1 Sabor', 'Infomacion nutli(ional media: Pcv100g 2271 k 544 kca de las cuales satJfìdas Monoinsòtliàdas FolliasatŒadas 58 g las (Cèles Ilicates fibmlimentafiò g Proteinas 141 mg 20 Magnesio 69 mg 18 10f4mg 15 g/ IR: Ingesta de Referencia de Referenda de Nftentes Al AVEIIANAS Ingredientes: Azücar, aceites vegetales de palma, girasol y girasol alto oleico, cacao desgtasado en potvo (8,5%), leche desnatada en polvo (4,5%), avellanas (400, sélidos licteos, emulgente (lecitina de soja), aromat Puede contener otros frutos de ascara, 43 raciones por envase', '', '32', '11', '58', '56', '3', '5', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001051367', 'Red stuffed chilli', '', '8', '0', '27', '18', '', '2', '', '', '', '1');
+VALUES ('8410014930071', 'Crema Nocilla Cacau 2 Sabors', '', '', '32', '10', '60', '58', '', '4.5', '0.17', '0.0669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001052944', 'Mothers Rec Pastes Ginger Garlic', 'Ginger, Garlic Edible Common Salt. Actdr Regulator (260),Stabiliser(401', '1', '0', '22', '22', '0', '4', '2', '0.78740157480315', '', '0');
+VALUES ('8410014948618', 'Nocilla', 'OE LECHE coti AVELLANAS Azucar, acc;tcs frutos dc ciscara 12 raciones 190g envase', '', '31', '9.9', '61', '60', '', '4', '0.23', '0.0905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001054597', 'Mothers Recipe Butter Chicken Mix - 100G', '', '4', '1', '14', '7', '', '2.5', '0.7', '0.275590551181102', '', '1');
+VALUES ('8410014960085', 'Colacao (original),', '', '', '2.4', '1.5', '78', '70', '', '6.8', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001056379', 'Mothers Recipe Ginger &garlic', 'INGRÉDIENTS : Gingembre (47%), l\'ail (45%),sel, eau,acide (acétique en tant que régulateur d\'acidité), d\'alginate de sodium (en tant que stabilisant) et poudre de curcuma. Produit a été traité dans une usine qui traite également contenant du lait, du soja, des graines de sésame, des noix, des arachides, des glutens et des sulfites', '0', '0', '18', '1', '2', '3', '13.3', '5.23622047244095', '', '0');
+VALUES ('8410015701007', 'Real Sangria', '', '', '0', '0', '0', '0', '', '0', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001056874', 'Palak Paneer Cottage Cheese in Spinach Sauce - Just Heat and Eat', ' Spinach (62 %), Paneer (Indian Cottage Cheese) (20 %), Onion, Cottonseed Oil, Garlic, Fresh Creami. Ginger, Tomato, Salt, Maize Starch, Green Chili and Spices (Cumin, Coriander Turmeric, Black Pepper).  Allergen Information: Contains Milk. ', '5', '1', '6', '2', '2', '5', '0.93218', '0.367', '', '1');
+VALUES ('8410016001090', 'ALISA Olives noires entières', '', '', '16.5', '2.6', '0.1', '0.1', '', '0.5', '2.25', '0.885826771653543', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001057949', 'Mutter Paneer', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410016083799', 'Alisa Olives noires dénoyautées', '', '', '13.6', '2.2', '0', '0', '', '0.5', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001141006', 'Mysore Royal', '', '17', '5', '40', '', '', '15', '0.05842', '0.023', '', '1');
+VALUES ('8410017800623', 'Sirop de grenadine', 'sirop de glucose-fructose, jus de fruits à base de concentrés 13.5% (citron 9%, fruits rouges 4.5% (sureau, framboise, cassis, raisin)), eau, acidifiant (E330), arômes ', '', '0.1', '0', '84.5', '84.5', '', '0.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906001386032', 'Sandwich cookies', '(FFI) Bistutts eu saveurs. ii de bié, sucre, nuiie ae pane, sucre Inverti, colorants (caramel, rouge de betterave, aniato). poudep lever (F50C, FfTJ0). pœ\'dre de cacao, amidon de maïs, lait écrémé en poudre, extrait de mait d\'orge, sel, émulsifiants [E471 , E322 (soja)], arôrrœs, sirop de agent de traitement de la tarine: E223 (sulphite); correcteur d acidité\'. E330, E450;antioxygène: E319. Peut contenir des traces de fruits à coque. À consommer avant le: voir impression.', '16.9', '9', '67.2', '33.8', '', '5.5', '0.288', '0.113385826771654', '', '0');
+VALUES ('8410017800678', 'Sirop Menthe Verte', '', '', '', '0', '', '74', '0', '0.06', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906002000104', 'Sandwiche Spread', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410019001004', 'Acras de morue', '', '', '8.8', '1.6', '27.9', '1.8', '', '5.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906002001156', 'Peanut butter creamy ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410021010568', 'Olives La Sevillana Pitted Green In Can 370ML 1 / 24', '', '', '16', '3', '0', '0', '', '1.1', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906002005284', 'Pizza topping', 'Water, Tomato Paste (26%), Sugar, Reﬁned Soybean oil, Milk, Onions, Spices & Condiments, Iodized Salt, Vegetables, Permitted Acids (INS 260, INS 330), Herbs, Permitted Antioxidant (INS 319   Contains Permitted Class II Preservative (INS 210).', '9.9', '2.3', '23', '21.3', '', '4.4', '', '', '', '1');
+VALUES ('8410021050014', 'Olives La Sevillana Stuffed W Anchovies In Can 370ML 1 / 24', '', '', '15', '3', '0', '0', '', '1.3', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906002080410', 'Poudre Curry', '', '18.59', '1', '5.67', '1', '', '14.27', '53.61', '21.1062992125984', '', '0');
+VALUES ('8410021051028', 'Olives La Sevillana Pitted Black In Can 370ML 1 / 24', '', '', '13.2', '2.2', '0', '0', '', '0', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906002348169', 'Poha Mota', '', '1', '0', '88', '0', '3', '7', '0.03048', '0.012', '0', '1');
+VALUES ('8410021542236', 'Olives vertes à la farce d’Anchois', 'Olives Vertes, Eau, Farce d’Anchois 6% (Eau, Anchois, Stabilisant: Alginate de Sodium), Sel, Exhausteur de goût: Glutamate monosodique, Acidifiant: Acide Lactique, Acide Critique. Peut contenir des noyaux. Meilleur avant: Voir couvercle. Pasteurisé. Produit de l’Espagne.', '', '15', '3', '0', '0', '', '1.3', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906004560682', 'Plain salted potato chips', 'Handpicked Potatoes, Edible Vegetable (Palmolein) & Salt (1.2%) Oil', '33.94', '15.56', '52.4', '1', '', '8.46', '0.5186426', '0.20419', '', '1');
+VALUES ('8410021542434', 'Aceitunas Verdes Rellenas De Pimiento La Sevillana', '', '', '15', '3', '0', '0', '', '0.9', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906004982514', 'Veetee, Supreme Basmati Rice', 'Riz basmati rice.', '0', '0', '80', '4.44', '4.4', '8.89', '0', '0', '', '1');
+VALUES ('8410021542670', 'Olives denoyautées fourrées aux poivrons', 'stabiflzatNl Aq}kunuolauuGeriausiasikldaWanf \'RS12f140f/Sk \'lento, water, stabilizer, sodium alginate, guar gurn)t salta a dant etdüungsmifel E401 E412), Salz, Sâuerungsrrfttel: Zitronene', '', '15', '3', '0', '0', '', '0.9', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005501059', 'Bikaji Goldy 200GM', 'Lendlle de Moong , Sel, Acide Huile Végétale Comesdble (Huile et/ca de Palmolein et/ou Huile de Mats). Zutaten: Gruengrammreste , Sal.z, ZiÙoaeasSx?e, Pflanzen61 (Erdnussòl und taber Palmoleizbl Ingredientes:la lenteja verde rajada , la sal, el âcido, el aceite vegetal comesdble, (el aceite de y/o el aceite de palmolein y/o el aceite de Due to production methods this product may nas STORAGE INSTRUCIIONS Once opened keep ln an alrtiòt Nutrition Facts/ Valeur nutritive Serving Slzo 1 oz (289) I pat portk\'n de Sotvln Por Container 7 Catorlos 130 Fat I Fat', '28', '8', '14', '0', '5', '6', '0.6', '0.236220472440945', '', '1');
+VALUES ('8410022000032', 'Donuts Berlinas Glacé', '', '', '23', '12', '47', '24', '', '5.2', '0.53', '0.208661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005501080', 'Bikaji &quot;Goldy&quot; (moong Dal) 400GM', '?. split Green Gram (78%), Edibke Vegetable Oit (Palmolein Oil and/or Cottonseed Oil), Edible Common Salt, Acidity Regulator (INS 330)', '6', '2', '14', '0.6', '3', '6', '0', '0', '', '1');
+VALUES ('8410022000278', 'Donuts', '', '', '23', '12', '47', '24', '', '5.2', '0.53', '0.208661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005502575', 'Papad', '', '1', '0.7', '52', '0', '', '23', '0.84', '0.330708661417323', '', '1');
+VALUES ('8410022008472', 'Panrico Pan De Molde Integral', 'INGREDIENTES: Harina integral de trigo (66%), agua, levadura, aceite vegetal (girasol), azûcar harna de cebada malteada, sal, inulina (fibra a[mentaria), emu!gentes (E 471 Itrigoh E 481 (trigo), E472e frigo conservadores (E 200 frigo), E 282 frigo , g}Uten de trigo, aroma, estabi!izante {goma guar itrigo agente de tratamiento de la harina (àcido ascôrbico (trigo\\). Puede contener sésamo, leche', '', '5.6', '1.1', '43', '4.3', '7.2', '9.4', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005720269', 'Kitchen King Masala', 'Coriander, cumin, turmeric, black pepper, garlic, dry ginger, mace, cardamom, cardamom seed, bengal gram, black gram, nutmeg, fenugreek, poppy seed, chilli, cassia, clove, caraway, anistar, dry fenugreek leaf, common salt, asafoetida, mustard & black card', '2', '0', '25', '0', '1', '12.4', '1.6256', '0.64', '', '0');
+VALUES ('8410022010888', 'Panrico Bollycao Mini', 'BOLO COM RECHEIO (34%) DE CREME DE CACAU E AVELÂS INGREDIENTES: Farinha de trigo, açücar, âgua, levedura, xarope de glucose-frutose, oleo vegetat (girassol), ovo liquido pasteurizado, cacau magro em po (2,9%), maltodextrina, gordura vegetal (palma), estabilizadores (E 422, E 412), emulsionantes (lecitina de girassol E 471, E 492, E 481), pasta de avelâs (1%), sal, conservantes (E 282, E 202, E 270), aromas, antioxidantes (E 306, E 304i), minerais (ferro) e agente de tratamento da farinha (E 300). Pode conter lelte.', '', '14', '3.5', '51', '16', '3.9', '8.1', '0.63', '0.248031496062992', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005720467', 'Chat Masala', 'Mango powder, black-pepper, iodised salt, chilli, ginger, cumin, black salt, turmeric, asafoetida.', '1', '0', '7', '0', '0', '9', '3.2004', '1.26', '', '0');
+VALUES ('8410022011267', 'American donuts®', 'farinhas (trigo, soja), matérias gordas e óleos vegetais (palma, girassol, coco) em proporções variáveis, água, açúcar, dextrose, cacau magro em pó (3%), levedura, gordura vegetal totalmente hidrogenada (palmiste), ovo líquido pasteurizado, amidos, emulsionantes (lecitina de girassol, E471, E472e, E492), sal, pasta de avelãs, leite em pó magro, glúten de trigo, soro de leite em pó, aromas, estabilizador (E341i), corante (beta-caroteno), conservantes (E200, E202), acidificante (E330).', 'https://static.openfoodfacts.org/images/products/841/002/201/1267/front.3.400.jpg', '33', '18', '40', '14', '2.3', '6', '0.49022', '0.193', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005720535', 'Nylon Khaman Mix', 'Fine besan, sugar, iodised salt, turmeric, citric acid and sodium bicarbonate. (in powder form).', '4', '0', '72', '14', '6', '14', '2.5908', '1.02', '', '0');
+VALUES ('8410022011823', 'Croissants Horno De Oro', '', '', '22', '11', '46', '12', '', '8.7', '0.53', '0.208661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005720573', 'Dalwada Mix', 'Mung dal, sodium bicarbonate, iodised salt, citric acid, & hing (in powder form).', '0', '0', '62', '0', '8', '22', '4.7752', '1.88', '', '0');
+VALUES ('8410022013087', 'Choco Chips 8 Uds.', 'BOLO COM\\PEPITAS DE CHOCOLATE Ingredientes: Farinha de gr.igg (43%), égua, pepitas de chocolate (12%) (açücar, pasta de cacau, manteiga de cacau, emulsionante (lecitina de girassol), aroma), gorduras vegetais (palma, coco), açücar, xarope deaçücarinvertido, xarope de glucose-frutose, levedura, éleo vegetal (girassol), glüten de gr_jgg, proteinas do leite, sauovoliquido pasteurizado, aromas, emutsionantes NE 471, E481, lecitina de girassol), conservantes IE 202, E200j, farinha de malte de cevada, estabilizador (E 4121, acidificante (E 330) e corante (beta-caroteno). Pode contervestigi0S de e avelâs•', '', '13', '7', '49', '16', '2.6', '8.2', '0.77', '0.303149606299213', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005721655', 'Biryani Pulav Masala', 'Cumin, cassia, caraway, black pepper, cardamom, nutmeg, mace, chilli, cassia leaf, dry fenugreek leaf, turmeric, clove, coriander and black cardamom.', '2', '0', '25', '0', '1', '12.4', '1.6256', '0.64', '', '0');
+VALUES ('8410022040205', 'Bollycao cacao', ')roducto de bollefia. INGREDIENTES: Harina de agua, azûcar, aceite legetal (girasol), grasa vegetal (palma), levadura,j be cacao desgrasado en polvo (1,5%), pasta de AVE , gfuten de TRIGO, emulgentes (lecitina de girasol, E 471 (TRIGO), E 475, E 481 (TRIGO)), sal, proteina de la LECHE, 50ero de LECHE en polvo, conservadores (E 200, E 202È E 282), arorhÇ, establlizantes (goma guar (TRIGO), E 401), corrector de acidez (E 334), sales àlineiales (hierro) (TRIGO) y agente de tratamiento de la harina (âcido ascôrbico) (TRIGO). Puede contener HUEVO Y SÉSAMO.', '', '14', '4.7', '52', '24', '2.4', '7.2', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005722171', 'Vadapav Masala', 'Chilli powder, garlic, iodised salt, citric acid, edible oil', '14', '2', '24', '0', '0', '12', '17.78', '7', '', '0');
+VALUES ('8410022100015', 'Bastonets Dip Dip', '', '', '21', '8', '64', '36', '', '7.7', '0.54', '0.21259842519685', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005723192', 'Sandwich Masala', 'Cumin seeds, black salt, black pepper, cinamon, clove, iodised salt, mango powder', '7', '3', '30', '0', '3', '14', '7.112', '2.8', '', '0');
+VALUES ('8410022105379', 'Pain de mie complet panrico', 'farine complet 66%-eau- levure- huile  tournesol- ', '', '3.56', '0.889', '36.9', '4.44', '6.22', '8.89', '0.8', '0.315', '0', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906005728777', 'Dabeli Masala', 'Mango powder, coconut powder, sugar, iodised salt, coriander seeds, clove, black pepper, cinamon, chilli powder, turmeric powder, black salt, bay leaves, fennel seeds, edible oil', '2', '1', '40', '45', '3', '6', '8.128', '3.2', '', '0');
+VALUES ('8410022105539', 'Donuts glacé', '', '', '23', '12', '47', '24', '', '5.2', '0.53', '0.208661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906007950015', 'Raisin blanc Thompson', 'Kernlose Trauben Thompson', '0', '0', '16.1', '16.1', '', '0.6', '', '', '', '1');
+VALUES ('8410022106215', 'Donettes', 'Producto de pasteleria. Donettes@clésicos. Ingredientes; Harina de TRIGO, azücar, grasa vegetal de palma, agua, grasa vegetal totalmente Ndrogenada desgrasado en polvo (3,5%), estabilizante (E 422), aceite vegetal de girasol, LECHE desnatada en polvo, pasteurizado, LACTOSA, yema de HUEVO en polvo, gasificantes (E 500ii, E 450i, E 341i), dextrosa, emulgentes (lecii\\na de E 492, E 471, E 491), sal, conservadores (E 202, E 200), aromas y gluten de TRIGO. Puede contener AVELLANA y SOJA. Consumir preferentemente antes del: ver fecha impresa en envase. Conservar en lugar fresco y seco.', '', '26', '16', '49', '28', '2', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906009070902', 'Unibic Honey Oatmeal Cookies', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022106239', 'Donettes Rayados 7+2 Udes', '', '', '30', '22', '49', '36', '', '5.1', '0.75', '0.295275590551181', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906009800820', 'Strawberry roll', 'Sucre, farine de _blé_, huile végétale  (palme), poudre de lactosérum, _lait_ entier en poudre, _lait_ écrémé en poudre, dextrose, amidon de maïs, émulsifiant: E322 (lécithine  de _soja_); agent  colorant: extrait de Betterave (E162); sel,  arôme: fraises.', '17.3', '13.2', '75.2', '54.8', '0', '4.5', '0.31', '0.122047244094488', '', '0');
+VALUES ('8410022107250', 'Donettes', '', '', '23', '11', '50', '26', '', '5.4', '0.95', '0.374015748031496', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906010500559', 'Mung Dal', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022108219', 'Donuts', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906010554118', 'Best Select Rice', 'Riz', '0.4', '0', '78.1', '0.9', '', '8', '0.004', '0.0015748031496063', '', '1');
+VALUES ('8410022109100', 'Donettes', 'Prodrctc de Pastele D nettes w Nevados. Ingredientes: Harina de TRI(.O, dextrosa, grasa vegelal de palma, agua, azücar, estabilizante (E 422), almidén de maiz, aceite vegetal de girasol, LECHE desnatada en polvo, HUEVO liquido pasteurizado (155%), yema de HUEVO en polvo, gasificantes (E 500ii, E 450i, E 341i), sal, emulgentes (lecitina de girasol, E 471, E 491), conservadores (E 202, E 200), aromas Y gluten de TRIGO.', '', '23', '11', '50', '26', '2.5', '5.4', '0.95', '0.374015748031496', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906012240088', 'Heeng ki tikiya', 'Ingredients ( fra 0.9% ida (Ferula Narthex Boiss) Asafoe 2% 0.10% 0.9% 0.9% 0.2% 18.4% 0.06% elackPepper-(Piper Nigrum Linn.) rLong long Piper Longum Linn.) Pepper Cumin Dry Ginger Pepper Dry Mango Peeplamool (Piper Longum Linn.) Neembusat (Citrus Medica Extract) Black Sa (Black Salt) Salt Sugar (Cuminum Cyminum Linn.) (Zingiber Officinale Rosc.) Capsicum Annum Linn.) (Mangifera indica Linn.) 0.010% (Salt) Sugar) 0.3% 68% Q.S.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022109124', 'Pan de molde Estilo artesano', 'Harina de trigo, agua, harina de centeno, levadura, aceite de girasol, sal, azúcar, conservadores: ácido sórbico (E-200) y propionato cálcico (E-282) y vinagre.', 'https://static.openfoodfacts.org/images/products/841/002/210/9124/front.8.400.jpg', '3', '0.4', '45', '3.1', '4', '9', '1.2954', '0.51', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906012510143', 'Huile de riz', '', '91', '0', '0', '0', '', '0', '', '', '', '0');
+VALUES ('8410022109643', 'Donuts x4', '', '', '23', '12', '47', '24', '', '5', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906013030015', 'WAI WAI instant noodles', '', '21', '9.4', '61', '1.8', '', '10', '3.2', '1.25984251968504', '', '0');
+VALUES ('8410022109674', 'Donuts Bombó', '', '', '31', '21', '40', '19', '', '6.5', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906014421065', 'Chicken Tikka Masala Spice Mix', 'Spices (cumin crushed, coriander powder), onion, vegetable oil (cotton seed oil), tomato powder, cashewnuts, whey powder, salt, ginger, garlic, melon seeds, milk powder, paprika oleoresin, citric acid ( e 330).', '40', '0', '20', '0', '8', '8', '11.0744', '4.36', '', '0');
+VALUES ('8410022110465', 'Donuts Panrico Glace Pack', '', '', '23', '12', '47', '24', '', '5.2', '0.53', '0.208661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906017290125', 'Vedica', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022110472', 'Donuts Panrico Bombo Pack 4', '', '', '31', '21', '40', '19', '', '6.5', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906019561186', 'Apéritif indien', '', '6.76', '2.85', '2.1', '2.1', '', '2.62', '0.157', '0.0618110236220472', '', '1');
+VALUES ('8410022110960', 'Donettes Packasa', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906020580015', 'Idly & Dosa Batter', 'Rice, Urad Dal, Fenugreek, RO-Purified Water, Edible Common Salt', '1.6', '0.68', '26.3', '0', '', '5.5', '0.23368', '0.092', '', '1');
+VALUES ('8410022111004', 'Donut Dálmata', '', '', '35', '23', '35', '35', '', '5.5', '0.48', '0.188976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906020730472', 'Dalia', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022111028', 'Donuts Dálmata', '', '', '35', '23', '42', '35', '', '5.5', '0.48', '0.188976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906021120432', 'Aachi Chicken 65 Masala', 'Red Chilli Powder, Cinnamon, Ctovest Gariict Ginger, Salt and Cardamom. Ingrédients: Poudre de piment rouge, Cannelle, Clous de girofle, Ail, Gingembre, Sel et Cardamome. Allergen Advice: May contain Gulten, Soya. Sesamet Milk Products, l/ustard,', '12', '0', '16', '0', '', '24', '0', '0', '', '1');
+VALUES ('8410022111059', 'Pa Cereals I Llavors Panrico Cerealia', '', '', '5.3', '1.2', '43', '5', '', '9.9', '1.03', '0.405511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906021120487', 'Aachi Chicken Curry Masala', 'Coriander, Chilli, Turmeric, Pepper, Cumin, Salt, Cloves, Cinnamon, Cardamom, Garlic, Dry Ginger, Onion, Methi, _Mustard_', '12.8', '0', '43.2', '0', '11.8', '14.2', '0.163', '0.064', '', '1');
+VALUES ('8410022111066', 'Bollycao', '', '', '14', '4.7', '52', '24', '', '7.2', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906021122023', 'Aachi Lime Pickle 300Gm', 'lime en morceaux, huile végétale raffinée, sel, piment en poudre, moutarde, fénugrec en poudret ase-fétide et régulateur de l\'acidité E260. Allergen Advice?. Contain Mustard. Klay Contain TreeNts, Peanutst G!uten, Soya, Sesame, Milk Products and Sulpt\'ilte. CONTAY PERMITTED CLASS 11 PRESERVATIVE ssat Lic. No. 2415023000259 OPENING IF BOTTLE ts PUFFED 1 LEAKING ORY spooN', '7', '1', '0', '0', '1', '1.3', '0.586', '0.230708661417323', '', '1');
+VALUES ('8410022111127', 'Qé Caña', '', '', '22', '14', '51', '20', '', '4.9', '0.63', '0.248031496062992', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906025201786', 'Roasted Dalia', 'M.P. Wheat', '0', '', '78', '', '', '10', '', '', '', '1');
+VALUES ('8410022111288', 'vap\'s ', '', 'https://static.openfoodfacts.org/images/products/841/002/211/1288/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906026911110', 'Huile De Coco Bio - 250 G - Khadi', 'Ingredient: Cocos Nucifera (Coconut *certifié biologique A consommer de préférence avant I Charge: voire ci-dessus', '99.4', '93.9', '0', '0', '0', '0.6', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8410022111646', 'Donuts Avellana', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906028723629', 'Raw Shrimps', 'Shrimp, water, salt, sodium tripolyphosphate (to retain moisture)', '0.59', '0', '0', '0', '0', '21.18', '0.56896', '0.224', '', '1');
+VALUES ('8410022111844', 'Donuts Relleno Choco Pack 2 Uds', '(318 0%), HUEVO liquido pastéÙtizalo ë léMàdÙtài maltodextrinal aceite vegetal de girasol, emulgentes (E 3221 az0car invertid01 LACTOSA/ pasta de cacao (0/4 0%) sall estabilizantes (E 341i, E 412), dextrosa/ gluten de TRIGOI de (E 270/ E 2021 E 200)/ LECHE desnatada en polyol almidén, LECHE entera en polyol aromas, suero de LECHE en polvo, colorante (E 171)/ agente de recubrimiento (E 904)/ espesantes (E 414/ E 440) y agente de tratamiento de la harina (E 300), Puede contener AVELLANk Consumir preferentemente antes del; ver fecha impresa en envase, Conservar en lugar fresco y seco, Donuts@ es una marca re istrada de IAS.A.U Carretera de Sabadell a Mollet/ Km 4/3 08130 Santa Perpetua de Mogoda, Barcelona', '', '28', '16', '44', '17', '', '5.6', '0.45', '0.177165354330709', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906028801020', 'Corn flour', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022112322', 'Donuts Glacé 2 Unidades', '???', '', '23', '12', '47', '24', '1.9', '5.2', '0.53', '0.208661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906030680422', 'Fryrums Masala', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022112421', 'Donuts  Relleno Pantera Rosa', '', '', '26', '18', '45', '23', '', '5.2', '0.45', '0.177165354330709', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906033261031', 'Premium Cardamom Tea', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410022112612', 'Donettes', '', '', '26', '16', '49', '28', '', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906033745111', 'Mcvitie\'s Tea Biscuits (100 G)', '', '15.2', '7', '71.5', '19.5', '', '7.8', '0.303', '0.119291338582677', '', '1');
+VALUES ('8410022112704', 'Donuts Shake', '', '', '25', '16', '49', '28', '', '4.9', '0.45', '0.177165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906033745357', 'Rich tea biscuits', 'Typical number of per pack: 120 PAR: BISCUITS PVT. LTD. VILLAGE OGLI, YAMUNA (HIMACHAL PRADESH), INDIA. OUR', '15.2', '7', '19.5', '1', '1.9', '7.8', '0.303', '0.119291338582677', '', '1');
+VALUES ('8410023000031', 'Tio Pepe Palomino Fino Xérès Vin', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906040371631', 'Riz basmati', '', '0', '0', '35', '0', '', '3', '', '', '', '1');
+VALUES ('8410023006941', 'Licor de Manzana Verde', '', '', '', '', '', '', '', '', '', '', '15', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906042351877', 'Veg. Gelatin', 'CARRAGHENANE DU PEROU (E-417). CHLORIDE DE POTASSIUVè(E.508), CITRATE DE SODIUM', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
+VALUES ('8410023023719', 'THE LONDON No! No1 ORIGINAL BLUE GIN', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906044469020', 'Asafoetida', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410024700015', 'Malibu Caribbean rum with coconut flavour ', 'EAU, RHUM BLANC DES CARAÏBES (98% DE L\'ALCOOL TOTAL) SUCRE, ARÔME NOIX DE COCO, EXTRAITS NATURELS DE NOIX DE COCO ', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906047521558', 'Disano Olive Oil', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410024710328', 'Liqueur de rhum blanc aromatisée à la noix de coco 18%Vol.', '', '', '', '0', '', '50', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906048500651', 'Protinex', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410024710335', 'Malibu', 'Eau, rhum blanc des caraïbes (98% de l\'alcool total), sucre, arôme noix de coco.', 'https://static.openfoodfacts.org/images/products/841/002/471/0335/front.8.400.jpg', '', '', '', '', '', '', '', '', '18', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906050450470', 'Premium gur rewari ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410024710342', 'Caribbean rum flavoured Passion fruit', 'Eau, rhum blanc des cara¨bes (99% de l\'alcool total), sucre, arôme, fruit de la passion, correcteur d\'acidité (citrate de sodium), acidifiant (acide citrique)', 'https://static.openfoodfacts.org/images/products/841/002/471/0342/front.3.400.jpg', '', '', '', '', '', '', '', '', '18', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906052374033', 'Moya', '', '10', '10', '10', '10', '', '10', '30', '11.8110236220472', '', '0');
+VALUES ('8410031132519', 'Chupa Chups Lollipops The Best', '(for strawberry and apple flavours): sugar, glucose syrup, fruit puree (3%) (apple, cherry ,raspberry, pineapple, lime, lemon, strawberry, peach, banana, orange, blueberry, blackberry, mango, watermelon, kiwi), acids (lactic acid, malic acid, citric acid), flavourings, colour (E150d). (for strawberry-cream flavour): sugar, glucose syrup, whey powder, fruit puree (3%) (apple, cherry, raspberry, pineapple, lime, lemon, strawberry, peach, banana, orange, blueberry, blackberry, mango, watermelon, kiwi), whole milk powder (2%), cocoa butter, colour (E162), flavourings.', '', '0.3', '0.2', '95', '78', '0', '0', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906058610159', 'Stevia', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031135022', 'Tubo Sucettes fruit', 'sucre, sirop de glucose, purée de fruit (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E160c, E162)', '', '0', '0', '96', '78', '0', '0', '0.0699999999999999', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906059635021', 'epigamia Greek Yogurt strawberry ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031912470', 'Best of Tubo', 'Ingrédients (pour sucettes goûts fraise, cerise, orange et pomme): sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E160c, E162).  Ingrédients (pour sucettes goût cola): sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (E150d). Ingrédients (pour sucettes goûts lait-fraise et framboise-vanille): sucre, sirop de glucose, _lactosérum_ en poudre, purée de fruits (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), _lait_ entier en poudre (1,6%), acidifiants (acide lactique, acide malique, acide citrique), beurre de cacao, arômes, colorants (E100, E162, E163).', '', '0.2', '0.1', '95', '78', '', '0', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906059701467', 'Naan', 'Refined wheat flour (57%), water, salt, sugar, yeast, acetic acid, garlic (0.6%), raising agent (sodium bicarbonate), preservatives (calcium propionate, potassium sorbate), coriander leaves (0.2%).', '3.75', '0', '55', '0', '0', '8.75', '1.27', '0.5', '', '0');
+VALUES ('8410031915990', ' SMINT', 'édulcolorants (xylitol 87 %, aspartame), arômes, huile de coton totalement hydrogénée.  ', '', '1.1', '1.1', '95', '0', '', '0', '0.34', '0.133858267716535', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906062121610', 'Purée de Poire Williams', 'AGRICULTURE Caen Val 05300 LACR bob&quot;te Irçédents : Brée Vdetrs mstrttim•Elksrr : énerge : y•asses : 0, q, Œides FŒsaturés : Ong, : 12,49, dont sucres : 10,19, Fotéines : 05 sel : ong A de préférence avant la date indiçée sir la cQ9Jle -em', '0.8', '0', '12.4', '10.7', '0', '0.5', '0', '0', '', '1');
+VALUES ('8410031918700', 'Chupa Chups Wheel The Best Of', '', '', '0.1', '0.1', '95', '78', '', '0', '0.11', '0.0433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906065790004', 'Potato cracker', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031920093', 'Chupa Chups Tin The Best Of', '', '', '1', '1', '95', '83', '', '1', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906066202438', 'Mathura chaat masala', '', '2', '2', '2', '2', '', '3', '29', '11.4173228346457', '', '0');
+VALUES ('8410031922615', 'Chupa Chups Tin Fruit', '', '', '0', '0', '96', '78', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906066202476', 'Keya Piri Piri', 'Iodised salt, dehydrated vegetable powder (tamarind, garlic, onion), mixed spices & herbs (chilli, pepper, parsley, oregano), sugar', '6', '1', '49', '26', '', '7', '0', '0', '', '0');
+VALUES ('8410031922721', 'Le Meilleur De Sucettes Chupa Chups, 100 Sucettes', 'GRAMELOS DE SABORtS SURTiDOS: FRESA, NARANJA, COLA, Y FRESA.NATA. SIN GLUTEN. (Para pure de fruta(manzana, cereza, frambuesa, pifia, lirnàï limon, mora, aràndòno, mango, sandia, kiwi) (390), mélìcc ecido citrico), aromas, coiorantes (rojo de remotacha, extracto de Agredientes (para sabor cola): azücar, jarabe de glucosat élide màticot écido citrico), aromas, colorante (carame!o de sutf\' fg:edientes (para sabor fresa-nata): jarabe de glucosa, azücar, permeedo da i puré de fruta (manzana, cereza, frambuesa, piôa, lima, Ijmôn, fres,à, ms putano, -naranja, morat aràndano, mango, sandia, kiwi) (3%), manteca de cecao, colorante (rojo de remolacha), aromas. CHUPAS DE SABORES SORTIDOS: MORANGOr LARANJA; CEREJA E NATA MORANGO, SEM GLUTEN. Ingrediente; açùtar, xarope de glicose, polpa de fruta (maçâ, cereja, ananâst framboesa, morengo, pèssego, banana, laranja, mirtilo, jamora, manga, melânc)ì acicficantes (écido léctico, écido mélico, écido citrico), aromas, -corantes beterraba, extracto de pimentâo, curcumina). Ingrediente; (para sabor xarcoe de glicose, acidificantes (écido léctico, écido mélico, {cido citrico)t (Grenelo suifitico de amônia). Ingredientes (para sabor nata morango): xarcpe àçücàf,permeado de soro de!tzÏÇ, polpa de fruta (maçâ, cereja, ananas, lima noiango, péssego, banana, laranja, mirtilo, amora, manga, melànciat k, sem pô gordo (2%), manteiga de cacau, corante (vermelho de beteraby INFCR,MAC16N NUTRICIONAL PORI INFORMAÇÂO NUTRICIONAL POR Valorenetgético/ Energia', '', '0', '0', '95', '83', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906067080530', 'Gripex', 'Direction for use: Dissolve the contents of sachet in a mug of hot (250 ml) water before drinking. INDICATIONS: GRtPEX Powder. provides rapid and effective relief from the maior cold symptoms in a great tasting hot drink, Take at the first sign of a cold for rapid relief from: Fever; Headache; Aching Limbs; Blocked Nose; Sore throat pain; Painfut Sinuses; Shivers', '0', '0', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
+VALUES ('8410031930658', 'Sucettes Milky', 'Ingrédients (pour sucettes goûts cacao-vanille et caramel): sucre, sirop de glucose, _lactosérum_ en poudre, pâte de cacao, _lait_ entier en poudre (2%), beurre de cacao, sel, colorants (E100, E150c). Ingrédients (pour sucettes goût lait fraise): sucre, sirop de glucose, _lactosérum_ en poudre, purée de fruits (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), _lait_ entier en poudre (2%), beurre de cacao, colorant (E162), arômes.', '', '1.7', '1.1', '93', '76', '', '1.2', '0.330000000000001', '0.12992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906070441106', 'Sukha Lemon Bhel', '', '12', '6', '65.4', '0', '', '6.4', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410031932362', 'Mini sucettes', 'Ingrédients (pour sucettes goûts fraise et orange): suce, sirop de glucose, purée de fruits (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), acidifiants (acide lactique, acide malique, acide citrique) arômes, colorants (E160c, E162). Ingrédients (pour sucettes goût cola) : sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (E150d).', '', '0', '0', '97', '79', '', '0', '0.0699999999999999', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906080600982', 'Paper boat mango', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031934892', 'Melody pops', '', '', '0', '0', '94', '73', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8906088280025', 'wagga wagga', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031936469', 'Sucettes fruit', 'sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E160c, E162, E163).', '', '0', '0', '96', '78', '0', '0', '0.0699999999999999', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8907316000606', 'Kolhapuri Murmura, Puffed Rice', 'Rice & salt.', '0', '0', '88', '0', '0', '8', '1.016', '0.4', '', '0');
+VALUES ('8410031936506', 'Sucettes Lolly pops', 'Ingrédients (pour les parfums fruits): sucre, sirop de glucose, purée de fruits (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (rouge de betterave, curcumine). Ingrédients (sucettes goût cola): sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (caramel au sulfite d\'ammonium). ingrédients (sucettes goût lait-fraise): sirop de glucose, sucre, perméat de _lactosérum_, purée de fruits (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), _lait_ entier en poudre (2%), beurre de cacao, colorants (rouge de betterave), arôme.', '', '0.3', '0.2', '96', '78', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8907392002549', 'Curcumine complément alimentaire', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031936520', 'Fresh Cola', 'Ingrédients (pour sucettes goût cola-citron): sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E150d). Ingrédients (pour sucettes goût cola): sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (E150d).', 'https://static.openfoodfacts.org/images/products/841/003/193/6520/front.8.400.jpg', '0', '0', '97', '79', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000008748', 'Assam Tea Premium', '', '0', '0', '0.01', '0', '', '0.01', '', '', '', '1');
+VALUES ('8410031936988', 'Chupa Chups mini sucettes 2010g', 'Ingrédients (pour sucettes goûts fraise, pomme, orange et cerise).:sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants: (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E160c, E162). Ingrédients (pour sucettes goût cola): sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (E150d).', '', '0', '0', '96', '79', '', '0', '0.0699999999999999', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000080157', 'Mr. Fresh Mixed Fruit', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031939668', 'Lot de 15 lolipops', '', '', '0', '0', '96', '83', '', '0', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000080201', 'Mr. Fresh Guava', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031943382', 'Sucette', '', '', '0', '0', '97', '79', '', '0', '0.007', '0.00275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000106055', 'Ragi Huri Hittu', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031944839', 'Chupa Chups Sin Azucar Bolsa', '', '', '0', '0', '96', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000116924', 'Cure Masala', '', '12', '0', '50', '0', '', '37', '11', '4.33070866141732', '', '0');
+VALUES ('8410031944846', 'Chupa chups the best of', 'hssortedflavor lollipops: strawberry, apple, cola and strawberry-cream Ingredients (for fruit flavors): sugar, glucose syrup, fruit puree from concentrate (applet cherry, raspberry, pineapp(e, lime, lemon, strawberry, peach, banana, orange, blueberry, blackberry, mango, watermelon, kiwi) (3%), lactic acid, malic acid, citric acid, artifldò\\ flavors, colored with: vegetable juice, turmeric. Ingredients (for cola flavor): sugar, glucose syrup, lactic acid, malic acid, citric acd, natural and artificial flavors, colored with•. calamel.', '', '0', '0', '95.4', '78.1', '0', '0', '0.052', '0.0204724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000315136', 'Chai Tea Mix, Ginger', 'Partially skimmed dry milk, sugar, black tea extract, natural spices.', '6.82', '4.55', '81.82', '45.45', '0', '9.09', '0.635', '0.25', '', '0');
+VALUES ('8410031945737', 'Smint Mint Peppermint Metalldose', '', '', '0.3', '0.3', '98', '0', '', '0', '0.15', '0.0590551181102362', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000315150', 'Chai Tea Mix, Cardamom', 'Partially skimmed dry milk, sugar, black tea extract, natural spices.', '6.82', '4.55', '81.82', '45.45', '0', '9.09', '0.635', '0.25', '', '0');
+VALUES ('8410031946734', 'Frisk Menthe forte', 'Édulcorants (sorbitol, aspartame, acésulfame K), arômes, antiagglomérants (dioxyde de silicium, sel de magnésium d\'acides gras)', '', '0.5', '0.4', '95', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000315167', 'Jaipur Avenue, Chai Tea Mix, Vanilla', 'Partially skimmed dry milk, sugar, black tea extract, ground spices, vanilla-vanilla powder.', '6.82', '4.55', '81.82', '45.45', '0', '9.09', '0.69342', '0.273', '', '0');
+VALUES ('8410031947748', 'Chupa Chups Best of Lollipops', 'NUTRITION i PRO', '', '0.3', '0.2', '95', '78', '0', '0', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000440098', 'Sunflower oil ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031948745', 'Smint Sugarfree, Fraise', '', '', '0.7', '0.7', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000640931', 'Frozen Shrimps-Pd Tail Off - Cooked Iqf', 'Shrimps, water, salt, sodium tripoly phosphate (to retain moisture) and paprica', '1.19', '0', '0', '0', '0', '21.43', '0.57404', '0.226', '', '1');
+VALUES ('8410031949094', 'Mentos fruit', '', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000695009', 'Thompson Seedless', 'Thompson Seedless', '1', '0', '80.5', '0', '', '3', '', '', '', '1');
+VALUES ('8410031949148', 'Chupa Chups sucettes sans sucres', '', '', '0', '', '98', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908000998827', 'Danone Sweet Lassi', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031952919', 'Chupa chups', '', '', '5', '0.5', '2.3', '2.3', '', '0', '10', '3.93700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908001705752', 'Aamras Juice', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031953558', 'The Best Of', 'Sucettes goûts fraise et pomme : Sucre, sirop de glucose, purée de fruits (3 %) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E162). Sucettes goût cola : sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (E150d). Sucettes goût lait-fraise : sucre, sirop de glucose, _lactosérum_ en poudre, purée de fruits (3 %) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), _lait_ entier en poudre (2 %), beurre de cacao, colorants (E162), arôme.', '', '0.3', '0.2', '95', '78', '', '0', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908002206364', 'Mineral water', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031953893', 'Chupa Chups Crazy Dips Strawberry X24', 'sucre, sirop de glucose, acidifiants (acide citrique, acide lactique, acide malique), arômes, dioxide de carbone, correcteur d\'acidité (carbonates de sodium), colorants (E120, El 62).', '', '0', '0', '95', '77', '0', '0', '0.06', '0.0236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908002485042', 'Khova', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031953909', 'Crazy Dips Cola Flavour', 'Sucre, sirop de glucose, _lactose_, acidifiant : acide citrique, dioxyde de carbone, arômes, colorant (E150d)', 'https://static.openfoodfacts.org/images/products/841/003/195/3909/front.5.400.jpg', '0', '0', '95', '77', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908002717204', 'Kandhe Poe', 'Rice Flakes Onion,Groundnut Refined Oil, Green Tempering Masala, Salt, Sugar,', '12', '6', '67', '30', '', '10', '1', '0.393700787401575', '', '0');
+VALUES ('8410031954708', 'Sucettes mixmania', 'Sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), arômes, acidifiants (acide lactique, acide malique, acide citrique), colorants (E100, E120, E140, E150d, E160c).', '', '0', '0', '96', '78', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908003545004', 'Diabliss Sucre De Canne - 500 G - Diabliss', 'Xvec les bienfaits des herbes et des antioxydants NGREDIENTS : sucre de canne, fenugrec, curcuma, poivre noir, gingembre séché, cannelle, amla, grenade', '0', '0', '99.6', '99.6', '0', '0', '0.57', '0.224409448818898', '', '0');
+VALUES ('8410031954821', 'Chupa Chups Kolormania X10', '', '', '0', '0', '96', '78', '', '0', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908003799025', 'Eau', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8410031955873', 'Maxi Pack Mini Chupa Chups', '', '', '0', '0', '96', '79', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908004280003', 'Egg Noodles', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031956566', 'Smint citron', 'kv\\umina C), color, me (riboflavina). Un consumo puede produ com sabir efectOS a limâo, contêm do\\oorarftes (sorbitol, acessulfan citriC0, aaC. Ingredc•nEs: antiag\\omerante (sais V ac-,dos 61eo totalmente Consumo excessiV,fia Tu sector w\\asïes, Poligoo Esteve (BARCELONA)', '', '1.2', '1.2', '94', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908004415054', 'Crunchy Nutty Peanut Butter', 'Roasted _Peanuts_, Sugar, Salt, Fully hydrogenated _Soya_ Oil.', '53.45', '11.47', '18.23', '9.46', '4.75', '24.47', '610.1842', '240.23', '', '0');
+VALUES ('8410031957402', 'Jelly Extra Doux', 'Sirop de glucose, sucre, gélatine, jus de citron, stabilisant (sorbitol), dextrose, acidifiant (acide citrique), arômes naturels, gélifiant (pectines), huiles végétales (noix de coco, palme, palmiste), colorants (curcumin, carmins), concentré de fruits et plantes (carotte, cassis), correcteur d\'acidité (citrates de sodium), agent d\'enrobage (cire d\'abeille)', 'https://static.openfoodfacts.org/images/products/841/003/195/7402/front.6.400.jpg', '0.1', '0.1', '74', '44', '', '5.9', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908004415641', 'Peanut butter', 'Rôti diarachide, sucre, sel, Huile de soja hydrogénée.', '17', '2', '6', '2', '', '8', '0.43', '0.169291338582677', '', '1');
+VALUES ('8410031959185', 'Sucettes glow in the dark', 'sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E120, E150d).', '', '0', '0', '98', '80', '', '0', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908008772009', 'Coconut crunchees biscuits', '', '16', '0', '75', '0', '', '8.5', '', '', '', '1');
+VALUES ('8410031959512', 'mini Chupa Chups Menthe', 'sucre, sirop de glucose, acidifiants (acide citrique, acide lactique, acide malique) arôme naturel de menthe, concentré-couleur de spiruline', 'https://static.openfoodfacts.org/images/products/841/003/195/9512/front.6.400.jpg', '0', '0', '99', '82', '', '0', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908008820007', 'Banana Chips', '', '0', '0', '0', '0', '', '1.7', '', '', '', '1');
+VALUES ('8410031960082', 'Lata Chupa Chups Star Wars', '', '', '0.3', '0.2', '95', '78', '', '0', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908009670014', 'OMG! Oh My Ganna Ginger Groove', 'REAL SUGARCANE, SALT, ANTIOXIDANT (INS 300), ACIDITY REGULATOR (INS 334), STABILIZER (INS 440, INS 337), WATER (FOR MAINTAINING DESIRED BRIX), CONTAINS PERMITTED NATURAL FLAVOUR & NATURAL IDENTICAL COLOURING SUBSTANCES (INS 141[i])', '0', '0', '9.14', '9.14', '', '0', '', '', '0', '1');
+VALUES ('8410031960266', 'Sucettes Mini Mega Star Wars', 'sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E160c, E162).', 'https://static.openfoodfacts.org/images/products/841/003/196/0266/front.7.400.jpg', '0', '0', '96', '78', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8908009670021', 'OMG! Oh My Ganna Cumin Crush', 'REAL SUGARCANE, SALT, ANTIOXIDANT (INS 300), ACIDITY REGULATOR (INS 334), STABILIZER (INS 440, INS 337), WATER (FOR MAINTAINING DESIRED BRIX), CONTAINS PERMITTED NATURAL FLAVOUR & NATURAL IDENTICAL COLOURING SUBSTANCES (INS 141[i])', '0', '0', '9.14', '9.14', '', '0', '', '', '0', '1');
+VALUES ('8410031961478', 'Chupa. Min. suc. ment / Regl180g', 'MINI glucose, extrait de réglisse (0496), arôme naturel de menthe, arôr naturel, colorant (El 53).', '', '0', '0', '99', '81', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8909500061646', 'Kinder chocolat', 'chocolat supérieur au LAIT 40% (Sucre, a LAIT en poudre, beurre de cacao, pâte de cacao, : lécithines [SOJA], vanilline), sucre, émulsifiants LAIT écrémé en poudre, huile de palme, BEURRE concentré, émulsifiants : lécithines [SOJA], vanilline. Sur le total : produits laitiers 33 % (lait écrémé en poudre, lait en poudre : 27,5 %, beurre concentré 5,5 %) - cacao 13 %. Le chocolat utilisé est un chocolat pur beurre de cacao', '35', '22.6', '53.5', '53.3', '0', '8.7', '0.313', '0.123228346456693', '', '0');
+VALUES ('8410031961522', 'Chupa chups Bubble Gum', 'sucre, sirop de glucose, gomme base, acidifiants (acide citrique, acide malique), arômes, huile végétale (noix de coco), émulsifiant : lécithines (_soja_), colorant (E120).', '', '0', '0', '92', '75', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8909509283339', 'Kinder CereAlé', 'da forno lievitato naturalmente con farcitura a\' latte e al cioccolato. Ingredienti: zucchero, di FRUMENTO (13%), cioccolato extra 12% [zucchero, pasta di cacao, burro di cacao, emulsionanti: lecitine (SOIA); aromi), LATTE fresco pastorizzato (9%), farina di FRUMENTO integrale 7,5% (farina di FRUMENTO, cruschello di FRUMENTO), tuorlo d\'UOVO, olio di palma non idrogenato, olio di girasole non idrogenato, fiocchi macinati 3,3% di: riso, ORZO, SEGALE, AVENA, FRUMENTO; glutine di FRUMENTO, MANDORLE (2,5%), sciroppo di glucosio-fruttosio, LATTE scremato in polvere 2%, lievito di birra, LATTOSIO, proteine del LATTE, aromi, emulsionanti (mono e digliceridi degli acidi grassD, PANNA fresca pastorizzata, germe di GRANO 0,6%, BURRO anidro, cacao magro, sale, albume d\'UOV0 in poivere. Pub contenere ALTRA A GUSCIO. 10 pezzi - 275 g e Ferrero P. Ferrero I - 12051 Alba (CN) Italia, stabilimento Balvano (PO località San Potito - 85050 283332', '20', '8.2', '43.9', '23.8', '', '10.9', '0.238', '0.0937007874015748', '', '1');
+VALUES ('8410031962772', 'Doyou?me?, Lollipops', '', '', '0', '0', '96', '83', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8909876543746', 'Special Mukhwas', 'SUGAR COATED FENNEL. GREEN HARI PATI, ROSE PETALS & MENTHOL  ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031963106', 'Sucette', '', '', '0', '0', '95', '83', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('891008001234', 'Energy Water', 'Purified water, sucrose, citric acid, sodium citrate, potassium phosphate, caffeine, potassium benzoate (preservative), potassium sorbate (preservative), taurine, sucralose, l-carnitine, natural flavors, niacinamide (vitamin b3), calcium pantothenate (vit', '0', '', '1.31', '1.31', '', '0', '0.06858', '0.027', '', '1');
+VALUES ('8410031963458', 'Chupa Chups Do You Love Me', 'Sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (rouge de betterave, extrait de paprika, curcumine).', '', '0', '0', '96', '83', '', '0', '0.0699999999999999', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8910550025984', 'Beurre', '', '82', '59', '0.5', '0.5', '', '0.7', '0.08', '0.031496062992126', '', '0');
+VALUES ('8410031964219', 'Chupa chups sans sucres', '', '', '0', '0', '96', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('89107100498', 'Authentic French Brioche Hot Dog Buns', 'Wheat flour, eggs, sugar, water, canola oil, wheat gluten, yeast, skimmed milk powder, concentrated butter, salt, natural flavor, emulsifier, mono-and diglycerides of fatty acids, milk proteins, deactivated yeast, rye flour, color: beta carotene.', '6.67', '2.22', '51.11', '11.11', '2.2', '8.89', '1.18618', '0.467', '', '0');
+VALUES ('8410031964608', 'Do you me', '', '', '0', '0', '96', '83', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8916390036692', 'Pain de mie', '', '2.7', '0.4', '49.7', '7.3', '', '9', '1.45', '0.570866141732283', '', '0');
+VALUES ('8410031965674', 'Chupa chups', '', '', '0.2', '0.1', '95', '83', '', '0', '0.11', '0.0433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8916390292760', 'Fiorini torti 3 min', 'Semoule de blé dur de qualité supérieur trace éventuelle d’œuf', '1.8', '0.3', '72.5', '6.3', '', '10.8', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410031965711', 'Sucettes', '', '', '0.2', '0.1', '95', '83', '', '0', '0.11', '0.0433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8916391435463', 'Cranberries sechées', '', '0.7', '0.1', '77.4', '72.2', '', '0.5', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8410031990546', 'Tubo 100 Sucettes / Lait Chupa Chups', '', '', '1.7', '1.1', '93', '76', '', '1.2', '0.33', '0.12992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8916391649280', 'Grand mie nature', 'Farine de blé 165* 55%, eau, huile de colza* gluten de blet sucre de canné roux, levure, Vinaigre de cidre*, sel, malt dtorge*. *Issus de l\'agriculture bioloaique. Traces éventuelles de : seigle, avoine épeautre, oeufs, soja et lait. INFORMATIONS : A consommer de Préférence avant le : voir sur le dessous du sachet. A conserver à l\'abri de la chaleur et de l\'humidité. Bien refermer le sachet après utilisation à l\'aide du clip d\'orimno', '5.8', '0.5', '50.4', '5.9', '', '7.9', '1.431', '0.563385826771654', '', '0');
+VALUES ('8410031991314', 'The best of', 'Ingrédients (pour sucettes goûts fraise, cerise, orange et pomme): sucre, sirop de glucose, purée de fruits (3%) (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi), acidifiants (acide lactique, acide malique, acide citrique), arômes, colorants (E100, E162).  Ingrédients (pour sucettes goût cola): sucre, sirop de glucose, acidifiants (acide lactique, acide malique, acide citrique), arômes, colorant (E150d). Ingrédients (pour sucettes goûts lait-fraise et framboise-vanille): sucre, sirop de glucose, _lactosérum_ en poudre, purée de fruits (pomme, cerise, framboise, ananas, citron vert, citron, fraise, pêche, banane, orange, myrtille, mûre, mangue, pastèque, kiwi) (3%), _lait_ entier en poudre (1,6%), acidifiants (acide lactique, acide malique, acide citrique), beurre de cacao, arômes, colorants (E100, E162, E163).', '', '0.2', '0.1', '95', '78', '', '0', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8921182995965', 'Pesta teratai kroepoek', 'Farine de tapioca, épices, sel, sucre, colorants E101, E124, E140', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410031996852', 'Chupa Chups Fruit', '', 'https://static.openfoodfacts.org/images/products/841/003/199/6852/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('892300001001', 'Chai Concentrate, Original', 'Brewed tea (filtered water, organic fair trade black tea), organic ginger juice, organic evaporated cane juice, cardamom and other spices.', '0', '0', '11.76', '9.56', '0.7', '0', '0.01016', '0.004', '', '1');
+VALUES ('8410032002200', 'ALBA THON BLANC ENTIER', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8923853739564', 'Muesli superfruits (raisin, cassis, cranberry, myrtille9', '', '6', '1', '59', '17', '', '11', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8410032002248', 'Thon Blanc Entier', '_Thon Blanc (Germon)_, Huile D\'Olive, Sel de Cuisine.', '', '32', '4.6', '0', '0', '', '20', '0.650000000000001', '0.255905511811024', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8927122880322', 'Ketjap sambal', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410032002255', 'Albo Bonito del Norte', '', '', '32', '4.6', '0', '0', '', '20', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('89272412225441', 'Awesome product', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410032002279', 'BONITOL ALBO OLI OLIVA', 'WHITE TUNA, OLIVE OIL, SALT.', '', '9.5', '1.5', '0', '0', '', '13', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8932282840567', 'Petite aubergine', 'Petite aubergine.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410032002309', 'Thon Blanc Entier à l\'Huile d\'Olive', '_Thon_ blanc, huile d\'olive, sel de cuisine.', '', '32', '4', '0', '0', '0', '20', '1.01', '0.397637795275591', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8932514138059', 'Pâtes de riz en rouleaux', 'Ricc Flour. Water.', '0', '0', '87', '2', '0', '1.4', '0.573', '0.225590551181102', '', '1');
+VALUES ('8410032002361', 'Filets de Thon blanc (Germon) à l\'huile d\'olive', 'THON BLANC, HUILE D\'OLIVE ET SEL DE CUISINE', '', '37', '6.3', '0', '0', '', '18', '0.8', '0.31496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8933939997955', 'Huile vierge de noix de coco', '', '100', '91', '0', '0', '', '0', '', '', '', '0');
+VALUES ('8410032002705', 'ALBO THON KRUMEN IN TOMATENSAUCE', '', '', '7.5', '1.2', '14', '1', '2.4', '14', '1.75', '0.688976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561000235', 'Vifon Krevetova', 'nouilles (93%): farine de blé, huile de set amidon, sucre, stabilisant: triphosphaü caòonates de potassium, carbonates de sodium; base de soupe (7%): sel, huile de palme, sucre, exhaustelR de goût: glutamate monosodique, quanyiate discrfique, inosinate disodique; maltodextrine, arôme (crusta(\'f39), Oirnent (1,2%), ail 11%), poivre, protéine de soja ?reau séché (0,8 h), colorants: caramel ordinatre, antiagglomérant: E 551 ; antioxydant: E 306. Valeurs nutritionelles par 100 g de produit réparé.\' Enerqie: 250 kJ / 60 kcal,\' Graisses: 2,7 g; dc;t acides ras satures: 1,0 g; Glucides: 7,7 g; dont suc:es: g; Protéines: 1,1 g; Sel: 0,6 g. Pré ration et cuisson: 1) *freles nouilles dans un bol. Aouter les épi?s et verser 400 ml d\'eau bouillante dans le bol, PoiGs net\'. 2 Couvir le bol pendant 3 minutes. 3 Mélanger et déguster les nouilles. Produit fabriqué au Vietnam et exc(usivement réservé à: TAN-VIET International ul. Mam Polo 9 83-0311 Pol ne tel. 6é2 9010 fax +4858 692 9001 ww.tan-viet.wn.pl Distributeur. CAP 2000 18 Rue Henri Fanan 93290 Trembla en France FPANCE, 0031148681295', '2.7', '1', '7.7', '0.2', '', '1.1', '0', '0', '', '1');
+VALUES ('8410032002835', 'Atun claro', '', '', '33', '4.8', '0', '0', '', '20', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561000266', 'Vifon Kari - Kuracia', 'Nouilieu saveur poulet au cu„; vantes) IngrédienÉ: nouilles (90,8%): farine de blé, huile de palme, tapioca, sel, amidon, sucre, stabilisât: triphosphates, carbonates de potassium, carbonates de sodium; curwma; base de soupe (9,2%): sel, huile de palme, sucre, exhausteurs de gout: glutamate monosodique, guanylate disodique, inosinate disodique; légumes sechés dans en proporion variable (9%): carottes, oignon vert, coriander, cumy en poudre (4,4 %): curcuma, anis, dou de girofle, graine de cannelle; piment (1 %), dtronnelle, ail, poivre, arôme (arachides), colorant: aroténoïdes; antoxydant: Ë 306. 3 Valeurs nutritionelles par 100 g de produit préparé: Enerqie: 250 kJ / 60 kcal; Graisses: 2,7 g; dont acides aras satures: 1,0 g; Glucides: 7,7 g; dont sucres: 02 g; Protéines: 1,1 g; Sel: 0,6 g. Pré ration et cuisson: 1) leatte les nouilles dans un bol. Poids net: Aouter les épices et verser 400 ml d\'eau bouillante dans le bol. 60 g 2 Couw le bol pendant 3 minutes. 3 Mélanger et déguster les nouilles. Produit fabriqué au Vietnam et exclusivement réservé à: TAN-VIET Intemational SA ul. Marco Polo 9 83-031 owo, Poloane tel. 692 9000 fax +48 58 692 90 01 wwtan-viet.com.pl Distributeur: CAP 2000', '2.7', '1', '7.7', '0.2', '0', '1.1', '0.6', '0.236220472440945', '', '1');
+VALUES ('8410032002859', 'Albo Atún Clara en aceite de oliva 82 G)', '', '', '33', '4.8', '0', '0', '', '20', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561000297', 'Beed flavour instant', 'nouilles (93%): farine de blé, huile de palme, tapioca, sel, amidon, sucre, stabilisant: triphosphates, ?rbonates de potassium, de sodium; curcuma; base de soupe (7%): sel, huile de palme, sucre, exhausteurs de goût: glutamate monoscxiique, guanylate disodique, inosinate maltadextfine, arôme, Piment (1 ,2%), ail (1%), poivre, protéine de sa hydrolysé, caramel ordinaire; anüagglomérant ESI ; antioxydant.\' E 306.', '2.7', '1', '7.7', '0.2', '', '1.1', '0.6', '0.236220472440945', '', '1');
+VALUES ('8410032003344', 'Albo Tonyina Oli Verge', '', '', '33', '4.8', '0', '0', '', '20', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561000549', 'Soupe Nouille Boeuf Bol Ngon Ngon Vifon Carton 24X60G Vietnam', 'Farine de blé huile végétale tapioca amidon modifié sel sucre stabilisant E451 e412 poudre à lever e501i e500i poudre de curcuma e621 disodium5 e627 e631 chou carotte mais saveur artificielle bœuf tocophérols', '20.7', '8', '0', '0', '1.7', '9.5', '2.08', '0.818897637795276', '', '0');
+VALUES ('8410032004327', 'Calamars à l\'huile d\'olives', '', '', '35', '5.7', '0', '0', '', '14', '0.8', '0.31496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561010043', 'Soupe Vermicelle Bun Rieu Cua Vifon 80G Vietnam', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8410032004334', 'Calmars Entiers Farcis Albo 115 GR, 6 Boîtes', '_calamares_ , aceite de girasol, tomate cebolla, ?', '', '30', '3.4', '0', '0', '1.8', '13', '1.11', '0.437007874015748', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561010081', 'Phō Thit Gà', '', '4', '0.5', '1', '1', '', '7.5', '1', '0.393700787401575', '', '1');
+VALUES ('8410032004440', 'Calmars En Morceaux Albo 112 GR, 6 Boîtes', '', '', '36', '4.1', '1.4', '0', '', '13', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561020004', 'Vifon Pho Ga Instant Nudelsuppe, Huhn', 'vERMlCELLES DE RIZ INSIANTANEE ARÔME POULET Ingrédients vermicelles: farine de riz, amidon modifié sucre, sel, glutamate, gomme de guar. Ingrédients d\'assaisonnement: sel; sucre, glutamate, disodium 5\'-guanylate, disodium 5 -inosinate, arôme poulet artificiel, échalote, gingembre, cannelle, clou de girofle, anis, poivre, colorant naturel caramel. Ingrédients de l\'huile: huile de palme, arôme poulet artificiel, piment, cannelle, clou de girofle, anis, colorant naturel carotène, E306. Ingrédients de légumes : gluten, ciboulette séchée, coriandre longue séché. Conseils de I allergie : pour allergènes, voir ingredients en gras. Poids net: 60g', '3.6', '1.8', '72.2', '3', '', '6.3', '6.8', '2.67716535433071', '', '0');
+VALUES ('8410032004488', 'Calmars En Sauce Américaine Albo 112 GR, 6 Boîtes', 'CALAMARES (TROZOS) EN SALSA AMERICANA ACEITE DE TOMATE, CœCUA PESO NETO 112 g - PESO ESCURRDO 72 Ç', '', '13', '2', '0', '0', '0', '21', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561020011', 'Soupe Pho Boeuf Vifon 60G', '-VERMICELLES DE RIZ INSTANTANEES ARÔME ts vermicelles: farine de riz, amidon modifié glutamate, gomme de guar. ents dassaisonnement: sel, sucre, glutamate, 3-auanylate, disodium 5-inosinate, arôme échalote, poivre, cannelle clou de anis* colorant naturel caramel, Ed51. de Ithuile: huile de palme, échalote, arômc artificiel, piment, cannelle, clou de girofle, anis, cclorant naturel carotène, E306. Incrédients de légumes : gluten, ciboulette séchée,coriandre  longue Séché. conseils  de l\'allergie : pour allergènes, voir ingrédients en gras Peut contenir des traces de cacahouetes. Poids net: 60g Produit de Vietnam A conspmmer de.préférence avant fin: 02/2019', '3.6', '1.8', '72.2', '3', '', '6.3', '6.8', '2.67716535433071', '', '0');
+VALUES ('8410032004600', 'Moules Sauce Marinade Albo 115 Gr, 6 Boîtes', '', '', '20', '2.4', '2.5', '0', '', '15', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561020301', 'dried rice noodle', '', '0', '0', '80.6', '0', '', '5.6', '1.8', '0.708661417322835', '', '0');
+VALUES ('8410032004631', 'Mejillones en salsa gallega', 'EN SALSA GALLEGA INGREDIENTES: ACEITE DE GIRASOL, TOMATE, CEBOLLA, VINO BLANCO, ESPECIAS Y SAL. Cf PESO S', '', '35', '4.8', '1.2', '0', '', '14', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561080015', 'Soupe Vermicelle Phnom Penh Vifon 60G', 'VERMICELLES DE RIZ INSTANTANEES (Nam Ingrédients vermicelles: amidon de riz, sucre, sel, glutamate, gomme de guar. Ingrédients d\'assaisonnement: sel, sucre, glutamate, disodium 5\'-guanylate, disodium 5\'- Inosinate, échalote, ail, poivre, piment, arôme ail artificiel, colorant naturel caramel. ln rédients de l\'huile: huile de palme, échalote, E306. Ingrédients de légumes : gluten, ciboulette sechée, céleri séché, échalote frit, ail frit, huile de palme. Conseils de l\'allergie : pour allergènes, voir ingrédients en gras. Poids net: 60g Produit de Vietnam A consommer de préférence avant fin: 06/2019 Importé par: Paris Store Senia 712, 94320 THIAIS, France', '9.7', '3.5', '69', '3.6', '', '3.3', '6.8', '2.67716535433071', '', '0');
+VALUES ('8410032004761', 'Poulpe a l Huile d Olive', '', '', '8', '1', '0', '0', '', '21', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241072', 'Soupe Nouille Boeuf Vifon 70G Vietnam', '(02%): Wheat (El 00]), stabilizcrs: (E501i), sodium pack (5%): Salt, sugar, disodium 5\'- guanylatg (E627), (E631), pepper, garlic, dried green onicn, (3%): Refined palm oil, chilli, artificial beef ASRÉDIENTS: (92%): Farine de blé, tapioca, hui!e de palme, sel (E100ii), stabiliseurs: carbonate de sodium (E5CC *ite de potassium (E501i), tripo!yphosphate de scd?: gaiscnnements (5%): Sel, sucre, exhausteur de goût (E621), disodium 5\'- guanylate (E627), discdl\'-rr =inate (E631), poivre, ail, ciboule séchés, caramel (Elit d\'huile (3%): Hulie de palme raffiné, piment, arôme etiel de boeuf. PHÂN: lit mi (92%): Bêt m), bêt khoal ml, diu thVc vat, mufl màu tl/ nhiên: nghë, ch{t dn dinh: sodium carb:z carbonate, sodium tripolyphcsphate. gia vl (5%): Mthi an, duüng, chit tang ht!tng v 5\'. guanylate, disodjum 5i- incslnate, tiêu, th{t tao màu tt/ nhiên: caramel, (3\'%): Dâu CQ tinh luyen, 6t, hr,g bà', '13', '8', '37', '3', '', '6', '1.2', '0.47244094488189', '', '0');
+VALUES ('8410032004778', 'Poulpe', '', 'https://static.openfoodfacts.org/images/products/841/003/200/4778/front.3.400.jpg', '23', '2.6', '0.6', '0', '', '16', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241089', 'Soupe Nouille Poulet Curry Vifon 70G Vietnam', 'Nouilles (91%) : farine de blé, tapioca. huile de palme, sel, sucre, curcuma (E100ii), stabiliseurs : carbonate de sodium (E500i), carbonate de potassium (E501i), tripolyphosphate de sodium (E451i). Assaisonnement (5%) : sel, sucre, exhausteur de goût :glutamate de sodium (E621), disodium 5\'-guanylate (E627), disodium 5\'-inosinate (E631), poivre, ail, ciboule sèches, caramel (E150a). sachet d\'huile (3%): huile de palme raffinée, piment, arôme artificiel de poulet. Sachet de légumes (1%) : carotte, ciboule, panichaut', '18', '10', '53', '20', '', '8.5', '0', '0', '', '1');
+VALUES ('8410032004907', 'Sardinas en aceite de oliva', 'Sardines, huile d\'olive et sel.', 'https://static.openfoodfacts.org/images/products/841/003/200/4907/front.5.400.jpg', '8', '1.9', '0', '0', '', '11', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241096', 'Nouille Ã L\'arôme De Légumes', 'tapioca, aemp i Iceer zetmee (92} m ed%gnde grognlén{kel #001 Bevat allergènen:rarwe (E412) E 00i), (éèbli), kurkuma. Base de .de palme, sel\', sucre exhaus maltodextrine, poivre, ail, sop hydrolysée en acide, coule', '13', '8', '37', '3', '', '6', '0', '0', '', '1');
+VALUES ('8410032004938', 'Sardines à l\'huile d\'olive', '', '', '24', '4.5', '0', '0', '', '19', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241102', 'Soupe Nouille Poulet Vifon 70G Vietnam', '(HK06.010.130) Instaqt Noodles Schnellkochnudeln (Hühner (Kip Aroma) I Nouilles Instantanées rôme de Poulet) I Instant Nudler Kylling Sma (GB) Ingredien s: Noodles 9 palm fat, tapioca, modified raising E501), (E50 )) turmeric.. Soup base(7.2 /o): Palm oil,.salt, su ar, flavour NL Ingrediènten: Noede(s 92,8/1 :Tarwemeel 8,45%), almvet ta ioca, gemodificeerd zetmeeflE1420) zout, suiker stabilisatoren: ((E45i), i I (Ehl))\' Nutrition facts / Nâhrwerte / Voedingswaarde / Valeurs Nutritionnelles / Ernering Verdier per 100g de Per 100g Per serving 70g &quot;orgie [Energi: 468 kcal/1962kJ 327', '14.6', '6', '42.9', '8', '', '6', '3.3', '1.2992125984252', '', '0');
+VALUES ('8410032004952', 'Sardinillas', 'SMALv------ SARDINES IN OLIVE OIL rREDIENTS: SARDINES, OLIVE OIL AND SALT. 8 41003 105g DRAINED WEIGHT 82 g', '', '24', '4.5', '0', '0', '0', '19', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241119', 'Soupe Nouille Tom Yum Vifon 70G Vietnam', 'pack (5%): Salt, sugar, flavour enhancers: monosodium (E621), disodium 5\'- guanylate (E627), sinate (E631), chilli, citric acid, artificial tomyum flavour powder. \'pack (3%): Refined palm oil, chilli, artificial tomyum flavour. IGRÉDIENTS•. luillcs (92%): Farine de blé, tapioca, huile de palme, sel, sucre, rma (E100ii), stabiliseurs: carbonate de sodium (E500i), ürbonate de potassium (E501 i), tripolyphosphate de sodium (Yébii). Isaisonnements (5%): Sel, sucre, exhausteur de goût: gluta ite sodium (E621), disodium 5\'- guanylate (E627), disodium 5\'- • JSi \\631), piment, acide citrique, arôme artificiel de tomyu pt) P lichet d\'huile (3%): Hulie de palme raffiné, piment, J ICiel tomyum. pHÂN: it tnì (92%): Bêt ml, bêt khoai mi, dâu thqc ns duÙng, tao màu nhiên: nghë, chit dn dinh: sudibm carbonate, ota;sium carbonate, sodium tripolyphosphate• Sii gia vl (5%): Mudi in. difòng, châ\'t tang vi: bêt ngot, ilum 5\'- guanylate. diSOdium 5,- inosinate, dt, axit citric, bêt tinh luyën, dt, htrdng tomyum tdng hop. tomyum.', '13', '8', '37', '3', '0', '6', '0', '0', '', '1');
+VALUES ('8410032004983', 'Sardinillas', '', '', '17', '1.8', '2', '0', '', '17', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241126', 'Soupe Nouille Canard Vifon 70G Vietnam', '', '13', '8', '37', '3', '', '6', '12', '4.7244094488189', '', '0');
+VALUES ('8410032006000', 'Sardines à la tomate', '', 'https://static.openfoodfacts.org/images/products/841/003/200/6000/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241553', 'Soupe Nouille Crevette Vifon 70G Vietnam', 'IVGRÉOIENTS: Nuilles (92%): Farine de blé, tapioca, huile palme, sel, stnre, x:eut naturel: (E100ii), stabiliseur: carbQnate de sodium (E500ì), carbonate (E501i). de (E45ti)s Assaisonnements (5%): Sel, sucre, exhausteur de glutamate .s«ìttm (E621)s disodìum guanylatQŒ627), disqdiljm (EG3t). poivre, ail, ciboulette sectiée,cwleur na reY de palme raftitl me', '13', '0', '0', '0', '', '6', '0', '0', '', '1');
+VALUES ('8410032006055', 'Sardinas en aceite de oliva virgen extra', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241973', 'Vifon Golden Chicken', 'nouilles (91,7%): farine de huile de palme, tapioca, amidon, sel, sucre, stabilisant: triphosphates, gomme guar; poudre à lever: carbonates de potassium, carbonates de sodium; curcumas, base de soupe (8,3% : huile de palme, sel, sucre, exhausteurs de goüt: glu amate monosodlqUe, guanylate dlsodique, inosinate disodi ue; poireau séché 3% poivre, ail (1 pxtrait de vianae de poulet (0,46%} 4 protéine de sua hydrolysée, colorant: caramel ordinaire; antiagglomérant: E 551 ; antioxydant: E 306. Valeurs nutriti0nelles Par 100 g de produit préparé: Energie: 250 kJ / 60 kcal; Graisses : g; dont acides ras satur,és: 1,0 g; GIUcides: 7,7 g; dont sucres: Préparation et c_uisson: 1)', '2.7', '1', '7.7', '0.2', '', '1.1', '0.7', '0.275590551181102', '', '1');
+VALUES ('8410032006062', 'Sardinas Picantonas', 'SARDINES 70%, HUILE DE TOURNESOL, TOMATES, PIMENTS ROUGES 2%, CAROTTES, CONCOMBRES, OIGNONS, ÉPICES, ARÔME NATUREL, SEL DE CUISINE ', '', '23', '5.3', '1.7', '0', '', '16', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561241980', 'Vifon Curry Chicken ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410032006567', 'Lentejas con chorizo', '', '', '3.4', '0.8', '9.4', '0', '', '5.4', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561242918', 'Soupe Nouille Poulet 5 épices Tu Quy Vifon 62G Vietnam', '', '24.2', '6.8', '59.5', '2.6', '', '9.5', '3', '1.18110236220472', '', '0');
+VALUES ('8410032007809', 'Tentacules de poulpe à l\'huile de tournesol', '', '', '26', '3.7', '0', '0', '', '18', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561243618', 'Vifon Beef', 'Nouilles (89,3%) : farine de blé, huile de palme, tapioca, amidon, sel, sucre, stabilisant: triphosphates, gomme guar; poudre à lever: carbonates de potassium, carbonates de sodium; curcuma; base de soupe (10,7%): huile de palme, sel, sucre, exhausteurs de goût: glutamate monosodique, guanylate disodique, inosinate disodique; légumes séchés dans en proportion variable (12%): choux, carottes, maïs, poireau; ail (2%), poivre, échalote (1%), piment, arôme, colorant: caramel ordinaire, curcumine, caroténoïdes, extrait de paprika; extrait de viande de bœuf (0,36%), antioxydant: E 306.', '2.9', '1', '8.7', '0.2', '', '1.3', '0.7', '0.275590551181102', '', '1');
+VALUES ('8410032007830', 'Calamares en salsa americana', '', '', '35', '3.9', '2.9', '0', '', '13', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561243878', 'Vifon Chicken Flavour Hot', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410034075011', 'Huesitos Original', '100g BARRITA(20g) 100 kcal 421 kJ 23,8 g 13,0 g 65,2 g 495 ——99 0,08 g 0,38 g', '', '23.8', '17.2', '65.5', '49.5', '', '3', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561244622', 'Chicken Flavour Instant Noodle Soup', '3•Ar IngrédienÉ: nouilles (91,7%): farine de blé, huile de palme, vc tapioca, sel, amidon, sucre, stabilisant: triphosphates, cabonates de potassium, carbonates de sodium; curwma; base de soupe (8,3%): sel, huile de palme, sucre, exhausteurs de gout: glutamate monosodique, guanylate disodique, inosinate disodique; maltodextrine, aromp arachides, piment, ail {1%), poivre, protéine de. ga aniagglomérant: E 551 ; antioxydant: E 306. Valeurs nutritionelles par 100 g de produit préparé: Enerqie: 250 kJ / 60 kcal; Graisses: 2,7 g; dont acides ras satures: 1,0 g; Glucides: 7,7 g; dont sucres: 0, g; Protéines: 1,1 g; Sel: 0,6 g. Pré aration et cuisson: 400 ml deau bouillante dans le bol. Poids net: 2 Couvrir le bol pendant 3 minutes. 3 Mélanger et déguster les nouilles. Produit fabriqué au Vietnam et exclUSivement réservé à: TAN-VIET International SA Made in ul. Marco Polo 9 83-031 owo Pol ne tel. f48Ë8k 642 900%0 01', '2.7', '1', '7.7', '0.2', '', '1.1', '0.59', '0.232283464566929', '', '1');
+VALUES ('8410034075509', 'Huesitos Original', '', '', '23.8', '17.2', '65.2', '49.5', '', '6', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561246176', 'Pho bo', 'PHO BO - Nouilles de riz instantanées saveur bœuf style vietnamien (non piquantes) IngrédienÉ: nouilles de riz (85,8%): riz (90%), amidon, sucre, sel, exhausteur de gout: glutamate monosodique; stabilisant gomme quar, base de soupe (9 7%): sel, sucre e)dnausteurs de gout: glutamate monodique, guanvlaté disodique, inosnate disqdique; arôme arachides , maltodeùne, échalote, poivre, épices de annelle, anis, dou de grote• caramel ordihaire; aniagglomérant: E 551; sachet d\'huile (3,7%): huile de palme, édnalote, arôme arachides , piment, epiœs de PHO (3%): annelle, anis, ou ce atroje; anioxydant E 306; colorant aroténdides•t sa€; et legumes séchés (0,8%): gluten de blé texturé, vert, coriandre.', '0.5', '0.2', '9.4', '0.4', '0', '0.8', '0.9', '0.354330708661417', '', '1');
+VALUES ('8410034076018', 'Valor Chocolate Tokke47g', '', '', '23.8', '17.1', '65.2', '49.5', '', '6.2', '0.43', '0.169291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561246213', 'Nouilles de riz', 'riz (79%), amidon de riz, sel, épaississant : gomme guar.', '0', '0', '80.6', '0', '', '5.6', '1.8', '0.708661417322835', '', '0');
+VALUES ('8410034504191', 'Caramelos Respiral Eucaliptus Mentol', '', '', '0.1', '0.1', '96', '76', '', '0.1', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561260066', 'Carton 30 Soupes Vermicelles De Riz Vifon Pho B. ..', 'VERMICELLES DE RIZ INSTANTANEES ARÔME BOEUF Ingrédients vermicelles: farine de riz, amidon modifié, sucre, sel, glutamate, gomme de guar. Ingrédients d\'assaisonnement: sel, sucre, glutamate, disodium 5\'-guanylate, disodium 5\'-inosinate, arôme bœuf artificiel, écnalote, poivre, cannelle, clou de girofle, anis, colorant naturel caramel, E551. Ingrédients de l\'huile: huile de palme, échalote, arôme bœuf artificiel, piment, cannelle, clou de girofle, anis, a colorant naturel carotène, E306. Ingrédients de légumes : gluten, ciboulette séchée, coriandre longue séché. Conseils de I aller ie : pour allergènes, voir ingrédients en gras. Peut con enir des traces de cacahouetes. Poids net: 60g Produit de Vietnam A consommer de préférencçp , ,porté ar: Pesais Store 7/2 94520', '3.6', '1.8', '72.2', '3', '', '6.3', '6.8', '2.67716535433071', '', '0');
+VALUES ('8410034545354', 'Eucaliptus menthol', 'Sucre, sirop de glucose, menthol, arôme.', '', '0', '0', '96', '76', '0', '0.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561260967', 'Pho Vietnamesische Reis Instantnudelsuppe, Mild', 'rice noodlo (85%): rice (90%), tapioca, sugar, salt, flavour enhancer: monosodium glutamate; stabilizer guar gum; soup baso (15%): salt, palm oil, sugar, flavour enhancers: monosodium glutamate, disod\\um suanydate, disodium inosinate; textured (3%), dhed look (3%), flavouring, PHO spices in vaoing (1%): Cinnamon, clovo, aniso; dried long (1%), chilli, colours:p/ain caramel, carotencs\'', '0.5', '0.2', '9.5', '0.5', '', '0.8', '0.8', '0.31496062992126', '', '1');
+VALUES ('8410034546153', 'Caramelos Respiral Limón Mentol', '/ Energia I Gags/lip\\dos Ulam!esgturèdas/dos 75,5 g', '', '0', '0', '75.5', '75.5', '', '0.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561261018', 'Vermicelle Riz Pho Bong Lua Vang Vifon 500G Vietnam', 'riz, amidon de riz, sel, epaississant : gomme de guar', '0', '0', '80.6', '0', '0', '5.5', '1.78', '0.700787401574803', '', '0');
+VALUES ('8410036002022', 'Freixenet', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561261155', 'Soupe Vermicelle Poulet Phu Gia Vifon 50G Vietnam', '', '3.4', '0.6', '15', '5.2', '', '2.6', '4.1', '1.61417322834646', '', '0');
+VALUES ('8410036006297', 'Freixenet Semi Secco', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561261162', 'Soupe Vermicelle Crabe Phu Gia Vifon 50G Vietnam', '', '1.7', '0.3', '40', '3', '', '1.3', '1.24', '0.488188976377953', '', '0');
+VALUES ('8410036006624', 'Freixenet Secco', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561261179', 'Soupe Vermicelle Porc Phu Gia Vifon 50G Vietnam', '', '3.2', '0.6', '78.4', '3.2', '', '2.4', '8', '3.1496062992126', '', '0');
+VALUES ('8410036009021', 'Freixenet Cordon Negro', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934561261704', 'Vermicelle De Riz Pho Frais Vifon 400G Vietnam', '', '0.4', '0', '72.4', '0.8', '', '5.8', '0.78', '0.307086614173228', '', '1');
+VALUES ('8410036009090', 'Cordon negro', '40% parellada, 35% macebeo, 35% xarel-bo', 'https://static.openfoodfacts.org/images/products/841/003/600/9090/front.5.400.jpg', '0', '0', '3', '1', '', '0', '0', '0', '12', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563107161', 'Hao Hao Instantnudeln, Huhn', '', '16.7', '9.6', '63.5', '5.3', '', '8.7', '6.2', '2.44094488188976', '', '0');
+VALUES ('8410036009991', 'Freixenet - Cordon Negro Spanish Cava Magnum Magnum 1.5lt', '16-800 Cordon Negro derives its superior quaiifrhandégant sparkle long period of maturation and the of second in the bottle, Cordon Negro est élaboré selon la Mé tonnelle de fermentation en bouteille \'Période de Ce cava révèle ainsi des belles no \'dues fruitées grande fraîcheur. Cava ist von herausragender Qualitât. •DasÀ• llftsverfahren Methode, der Flaschengà* ihm sein und efegantes Perlent sulfitos - Conté sulfits - Conçinesulfi!i - Obsahuje siiiëitany suffitter - Enthâlt Sulfite - Sisaldab sulfitid - Contains sulphites - Contient sulfites - Contiene solfiti: Satur sulfiti ttyje yra sulfitai -Tartalmaz szulfitok - Fih sulfit - Bevat sulfieten siarczyny Contém sulfitos - Obsahuje Vsebuje sulfit - Sisiltü sulfiiue - Innehàller sulfiter', '', '0', '0', '10', '3', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563108168', 'Vina Acecook Háo Háo Saté Onion Flavour', '(HYOROXYAMSCL kVDCN, SEL SIFE. EXTRAIT CE C.OJeT ASSAISONNEMENT SUCRE. DISTQIJE INOS!RATE (331). OSOOOJE GIJAËLATE ÉPCES, OIGNONS DE PR.NTE.VPS (2.3%): HULE IÉGÈTALE (MULE OE PA.ME. HYOROXYmUÈNE (EXTRAIT CE ÉPICES. INFORMATIONS ALLERGO{ES FARNE OE BLÉ. POISSON %Daly Wue I Am•ntl Teneur', '17.4', '10', '65.3', '4.7', '2.8', '8.4', '6.61', '2.60236220472441', '', '0');
+VALUES ('8410036802080', 'Freixenet Elyssia Gran Cuvée Brut Cava', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563122164', 'Va Mi Lau Thai Instant Nudeln Mit Garnelen Geschmack', '', '15.8', '8.9', '62.7', '9.4', '', '9.5', '7', '2.75590551181102', '', '0');
+VALUES ('8410036805807', 'Freixenet Ice', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563136161', 'Mi Lau Thai, Meeresfrüchte', 'nus (V/ 1', '17.4', '9.6', '59.8', '10.3', '3.1', '9.5', '6.2', '2.44094488188976', '', '0');
+VALUES ('8410037002212', 'Piña en su jugo', '', '', '0.1', '0', '13.2', '11', '', '0.4', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563138165', 'Hao Hao Mi Tom Chua Cay (hot Sour Shrimp Flavor Noodle)', 'Nouilles Saveur de Crevette Nouilles (87,5%): farine de blé, huile de palme (antioxydants (E320, E321)), amidon, sel, sucre, liquide extrait du poisson (Stolephorus spp), exhausteur de goût (E621 ), régulateurs dacidité (E451, E500). Assaisonnement sucre, sel, exhausteurs de goût (E621, E640, E631, E627)), Épices, régulateur d\'acidité (E330), poudre de crevette 0,3% (Acetes), ciboulette séchée. Huile-LO%I: huile de palme (antioxydants (E320, E321 Épices, liquide extrait du poisson (Stolephorus spp), sel, arôme d\'ail, colorant (E160c). Art. code : LMT-PRS-I', '17', '9.4', '66.8', '6.9', '2.9', '8.6', '6.1', '2.40157480314961', '', '0');
+VALUES ('8410037002274', 'Pina', '', '', '0.1', '0', '13.2', '11', '', '0.4', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563152147', 'Nouilles chinoises arôme de porc', 'Nouilles (87.7%), farine de _blé_, huile de palme, amidon de tapioca, sel, stabilisants (triphosphates pentasodique (E451), carbonates de potassium (E501), carbonates de sodium (E500)), antioxydants (butylated hydroxyanisole (E320), butylated hydroxytoluène (E321)). Assaisonnement (10,8%): sel, sucre, _sésame_, crème non laitier (_caséine_, _soja_), exhausteur de goût (glutamate monosodique (E621), disodique nosinate (E631), disodique guanylate (E627)), épices (ail, oignon), huile végétale, beurre (_crème_), ciboulette séchée, gomme de guar (E412), poudre d\'arôme de fumée, agents antimottants (E551), poudre artificielle d\'arôme de porc, antioxydants (butylated hydroxyanisole (E320), butylated hydroxytoluène (E321)), huile (1,5%): huile de palme), colorant (extrait de paprika (E160C)), antioxydants (butylated hydroxyanisole (E320), butylaetd hydroxytoluène (E321)).', '17.8', '10.2', '63.4', '4.1', '3.4', '9.5', '6', '2.36220472440945', '', '0');
+VALUES ('8410037002557', 'PERA en zumo de uva', '', '', '0.1', '0', '14', '11', '', '0.3', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563155148', 'Nouilles instantanées arôme de végétable', 'Nouilles (67.7%), farine de _blé_, huile de palme, amidon de tapioca, sel, stabilisants (triphosphates pentasodique (E451), carbonates de potassium (E501), carbonates de sodium (E500)), antioxydants (butylated hydroxyanisole (E320), butylated hydroxytoluène (E321)),. Assaisonnement (10%): sel, sucre, crème non laitière (_caséine_, _soja_), exhausteur de goût (glutamate monosodique (E621), disodique inosinate (E631), disodique guanylate (E627)), poudre de carorre, épices (poivre, ail, piment, oignon, cumin), huile de palme, beurre (_crème_), _céleri_ déshydraté, ciboulette séchée, poudre d\'arôme de champignon, gomme de guar (E412), agents antimottants (E551), antioxydants (butylated hydroxyanisole (E320), butylated hydroxytoluène (E321)), huile (2,3%): huile de palme, arôme artificiel de poulet, colorants (extrait de paprika (E160C)), antioxydants (butylated hydroxyanisole (E320), butylated hydroxytoluène (E321))', '18.6', '10.5', '61.2', '3.7', '3.4', '9.1', '6.5', '2.55905511811024', '', '0');
+VALUES ('8410037010620', 'Macedoine de fruits', '', '', '0.4', '0.1', '15', '13', '', '0.3', '0.009', '0.00354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563158163', 'Instant Nudeln, Hühnerfleisch', '', '17.5', '9.9', '63.5', '7.5', '', '8.8', '7.8', '3.07086614173228', '', '0');
+VALUES ('8410037141003', 'Spanish Mandarin Oranges Whole Segments', 'Mandarin orange segments, white grape juice concentrate, water (to reconstitute).', '', '0', '0', '11.2', '10.4', '0.8', '0.8', '0.00508', '0.002', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563163150', 'Mi Chay (hao Hao Instant Noodles Vegetarian Flavor)', 'DE BLÉ, HJLE DE (HYOROXYANSCL SEL VACOTÉ al)). ASSASONNEMENT SEL SUCRE (GLUTN$ATE GI-YCNE (SLI M NOSNATE ÉpcES pWlJ S LÉGUMES (CE1.Em ANETH) (CARAM RÉGULATEURS GIL', '17.3', '10.7', '68', '5.3', '2.7', '9.3', '5.8', '2.28346456692913', '', '0');
+VALUES ('8410037203008', 'Mezcla de frutas rojas en zumo de uva &quot;Videca&quot;', 'Zumo de uva, fruta en proporción variable: cereza ácida, fresa, grosella negra y roja, y moras; endurecedor: cloruro cálcico (E-509).', 'https://static.openfoodfacts.org/images/products/841/003/720/3008/front.6.400.jpg', '0.2', '0', '14.5', '12', '2.1', '0.4', '0.0100076', '0.00394', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563168162', 'Mì không chiên ăn liền Mikochi', 'E621, E631', '5.1', '', '52.1', '', '', '8.7', '', '', '', '1');
+VALUES ('8410037203015', 'Videca Weintrauben Kernlos Geschält, 4er Pack &#40;4 x 425 g&#41;', 'RAI\'!NS, EAU, SUCRE, ACIDE CITRIQUE, ANTIOXYGÈNE: ACIDE', '', '0.1', '0', '15', '13.91', '', '0.3', '0.004', '0.0015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563207014', 'Oh! Ricey Rice Noodles', '', '0.6', '0.2', '67.6', '3', '', '6.4', '1', '0.393700787401575', '', '1');
+VALUES ('8410037611117', 'Bigarreaux sans noyaux au sirop léger', 'Bigarreaux, eau, sucre, colorant : E127, affermissant : E509', '', '0.1', '0.1', '15', '12.8', '', '0.5', '0.008', '0.0031496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563207403', 'Oh! Ricey - Reisnudeln', '- &quot;mY%TS. RZ (952470, ÉPA;SSSSANT OXYDÉ(E1404)) (CARBOXYYËTHYLCELLULOSE SOD)QUE LÉCITHINE DE SOJA (022)). i ALLERGÈNES CONTIENT SOJA OPTION.I: LETTRE LES NW.LLES DE RZ DANS CASSEROLE D ET LES FAIRE CURE PENDANT 2-3 VJTES. RETIRER LES NOUILLES DE RIZ RINCER LES AVEC DE LEAU pc:s IASSER LES SÉCHER SAVOURER LES AVEC UN BOUILLON, OU UN DE LÉCU\',ES, DE FRUITS DE DE ET DÉPICES. CPT,ON.2: LES NOUILLES DE RIZ DANS 400 ÙEAU CHAUDE, TREMPER 10 ET RETIRER . F. RE IAV\'AOE, AJOUTER LES ET LES FARE REVENiR 1-2 DE PLUS.', '0.3', '0.1', '33.8', '1.5', '0.9', '3.2', '0.5', '0.196850393700787', '', '1');
+VALUES ('8410038026125', 'Churros lazo', 'Agua, harina de _trigo_, sal.', '', '1', '0.55', '34', '10.94', '2.4', '4.3', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563210144', 'OhRicey Instant Reisbandnudeln Rindfleischgeschmack', 'Vtxan C 0 % * aai4y a \'ct. pxdallyvalue needs I artrœntaire Vas peuvent 2.500', '7', '3', '42', '3', '0', '4', '1.73', '0.681102362204724', '', '0');
+VALUES ('8410040111413', 'JOSÉ SERRATS', '', '', '13.9', '24', '0', '0', '', '26.9', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563211141', 'Oh Ricey Rice Noodles Instant Pho, Chicken Flavour', 'NOUILLES DE RIZ (76.3%): RIZ 63.4%, ÉPAISSISSANT (AMIDON OXYDÉ(E1404)), AMIDON, SEL, ÉMULSIFIANTS (LÉCITHINE DE SOJA (E322), CARBOXYMÉTHYL CELLULOSE SODIQUE (E466)). ASSAISONNEMENT (13.2%): SEL, SUCRE, EXHAUSTEURS DE GOÛT (GLYCINE (E640), GLUTAMATE MONOSODIQUE (E621), DISODIQUE INOSINATE (E631), DISODIQUE GUANYLATE (E627)), ÉPICES, AMIDON, ARÔME POULET 0.7% (ORGE, LAIT), EXTRAIT DE LEVURE, SAUCE DE SOJA EN POUDRE (BLÉ, SOJA), ANTIAGGLOMÉRANT (DIOXYDE DE SILICIUM (E551)), RÉGULATEUR D\'ACIDITÉ (ACIDE CITRIQUE (E330)), HUILE VÉGÉTALE (HUILE DE PALME, ANTIOXYDANTS (HYDROXYANISOL BUTYLÉ (E320), HYDROXYTOLUÈNE BUTYLÉ (E321))). HUILE (8.8%): HUILE VÉGÉTALE (HUILE DE PALME, ANTIOXYDANTS (HYDROXYANISOL BUTYLÉ (E320), HYDROXYTOLUÈNE BUTYLÉ (E321))), ÉPICES, ARÔME POULET 0.05%, COLORANT (CURCUMA (El 00)). LÉGUMES (1.7%): PROTÉINE DE BLÉ (COLORANT (CARAMEL AMMONIACAL (El 50C)), OIGNONS DE PRINTEMPS SÉCHÉS, CORIANDRE CHINOISE SÉCHÉE. INFORMATIONS ALLERGÈNES: CONTIEN DU BLÉ, SOJA, ORGE, LAIT.', '8.6', '4.3', '60', '8.6', '0', '5.7', '6.8', '2.67716535433071', '', '0');
+VALUES ('8410040112267', 'Ventresca (Filets) Thon Blanco À L\'Huile D\'Olive', '', '', '24.5', '4.2', '0', '0', '', '22.3', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563217129', 'Oh!Ricey  pho', 'SOUPE PHO - AROME POULET Nouille de riz (80,6%): riz 67%, Épaississan (amidon modifié (E1404)), amidon, sel, émulsifiants (lécithine de soja (E322), E46€ Assaisonnement (19,4%): sel, huile de palme (antioxydants (E320, E321 )), sucre, exhausteurs de goût (E621, E640, E631, E627), épices, arôme poulet 0,6% (orge, la extrait de levure, protéine de blé, sauce do soja en poudre (blé, soja), coriandre amidon, colorant (El 00), coriandre vietnamienne.', '4.3', '2.1', '71.9', '4.2', '1.2', '7.2', '6.8', '2.67716535433071', '', '0');
+VALUES ('8410040163269', 'josé serrats Briciole tonno bianco all Pomodoro', 'Thon blanc 45 %, Tomate 40 %, Huile D\'olive, Sel, Piment', '', '13.9', '2.4', '0', '0', '', '26.9', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563220143', 'Oh Ricey Rice Noodles Instant, Beef Flavour', 'Cholesterol 0 mg 0 % Protein2g Sodium 880 mg VitaminA 0 % • VitaminC 0 % Calcium 0% Percent Daily Values are based on a 2,000 calorie diet', '4', '1.5', '23', '2', '1', '2', '0.88', '0.346456692913386', '', '1');
+VALUES ('8410040181393', 'SERRATS Thon blanc entier au piment', 'Thon blanc(Germon), huile d\'olive, piment (3%) sel', '', '13.9', '2.4', '0', '0', '', '26.9', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563282110', 'Soupe phó poulet', 'RIZ INSTANTANÉES SAVEUR DE RIZ (71,4%): RIZ 59,3%, ÉPAISSISSANT AMIDON OXYDÉ, AMIDON DE POMME DE TERRE, SEL, ÉMULSIFIANTS: LÉCITHINE DE SOJA, CARBOXYMÉTHYL -CELLULOSE. ASSAISONNEMENT (17,0%): SEL, SUCRE, EXHAUSTEURS DE G00T: GLUTAMATE MONOSODIQUE, GLYCINE INOSINATE DISODIQUE, GUANYLATE DISODIQUE ÉPICES, AMIDON DE TAPIOCA, EXTRAIT DE LEVURE CIBOULETTE SÉCHÉE, CORIANDRE CORRECTEUR D\'ACIDITÉ: ACIDE CITRIQUE, CARAMEL ORDINAIRE, HUILE VÉGÉTALE (HUILE DE PALME, ANTIOXYDANTS: BUTYLHYDROXY-ANISOL, BUTYLHYDROXY-TOLUÈNE), ANTIAGGLOMÉRANT DIOXYDEDESILICIUM. HUILE PARFUMÉE (11,6%): HUILE VÉGÉTALE (HUILEDE PALME, ANTIOXYDANTS: BUTYLHYDROXY-ANISOL BUTYLHYDROXY-TOLUÈNE), ARÔME BOEUF ÉPICES. DU SOJA S LE BOL REMPLI D\'EAU CHAUDE, FAIRE POUR EVITER TOUT RISQUE DE FRI)LF A cecooK', '12', '5.4', '67.6', '4.7', '7.5', '6.8', '7.5', '2.95275590551181', '', '0');
+VALUES ('8410042102259', 'Almejones (Palourdes)', '', '', '2.7', '0.9', '4.6', '0', '', '12', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563283117', 'Pho saveur poulet', '(NOUILLES DE , NOUILLE DE RIZ (73,5%): RIZ 61,1%, ÉPAISSISSANT: AMIDON OXYDÉ, AMIDON DE POMME DE TERRE, ÉMULSIFIANTS: LÉCITHINE DE SOJA, CARBOXYMÉTHYL -CELLULOSE. ASSAISONNEMENT (16,4%): SEL, SUCRE, EXHAUSTEURS DE GOÙT•. GLUTAMATEINONOSODIQUE, GLYCINE, INOSINATE DISODIQUE; GUANYLATE DISODIQE; ÉPICES, EXTRAIT DE LEVURE, AMIDON DE TAPIOCA POULET 0,4%, CIBOULETTE SÉCHÉE, CORIANDRE SÉCHÉE, ANTAGGLOMÉRANT.• DIOXYDE DE SILICIUM, HUILE VÉGÉTALE (HUILE DE PALME, ANTIOXYDANTS: BUTYLHY)ROXY-ANISOL, BUTYLHYDROXY-TOLUÈNE). HUILE PARFUMÉE (10,1%)} HUILE VÉGÉTALE (HUILE DE PALME, ANTIOXYDANTS; BUTYLHYDROXY.ANISOI, BUTYLHYDROXY-TOLUÈNE), ARÔME POULET COLORANTS: CURCUMINE, EXTRAIT DE ÉPICES. ALLERGÈNES:CONTIENTDUSOJA', '12', '3.7', '67.3', '10.6', '1.3', '6', '5.8', '2.28346456692913', '', '0');
+VALUES ('8410042103102', 'Almejas Pay Pay Natural Ol', '', '', '2.7', '0.9', '4.6', '0', '', '12', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563453145', 'Soupe Phnom Penh Nam Vang Oh Ricey', '', '', '5.2', '', '5', '1.5', '5.8', '6.1', '2.40157480314961', '', '0');
+VALUES ('8410042118007', 'Bonito Pay Pay Aceite Oliva Ol', 'to/ivevi/(so/idpack) 7:70/7 b/anc', '', '16.1', '2.71', '0', '0', '', '25', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563706166', 'nouilles instantanées', '(QYCERNE, LÉaTHNES DE g, Z ÏA&RNDP0dD9sAdDfiY DE CREVETTE %ValeurQ I 3.5 0 Fat I 1 634)', '4.4', '1.9', '70.8', '10.4', '3.9', '11.2', '7', '2.75590551181102', '', '0');
+VALUES ('8410042118151', 'Bonito del Norte', '', '', '17', '2.1', '8.3', '0', '', '13', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563706180', 'Instant Noodles Beef Ball Flavor', 'Noodles: _Wheat_ flour, Shortening (Palm Oil), Salt, Sugar, Natural Color (Turmeric Extract E100), Antioxidants (Butylated hydroxyanisole E320, Butylated hydroxytoluene E321); Soup: Vegetable oil (palm oil), salt, sugar, flavor enhancer (Monosodium glutamate E621, Disodium 5\'-inosinate E631, Disodium 5\'-guanylate E627), spices (pepper, garlic, chili), _Wheat_ protein (_Wheatex_), dried carrot, dried leek chip leaf, artificial beef flavor, caramel powder, citric acid, Antioxidant (Butylated hydroxyanisole E320, Butylated hydroxytoluene E321)', '17.3', '13.9', '65.9', '5.67', '0', '9.67', '4.83', '1.9', '', '0');
+VALUES ('8410042122011', 'Atun Claro', 'Thon claiR huile de tournesol et sel.', '', '20.3', '3.1', '0.1', '0.1', '', '24', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563787165', 'De Nhat Beef Ball Instant Noodle 80GM', '', '21', '11.6', '59.5', '9.6', '', '8.6', '5.4', '2.1259842519685', '', '0');
+VALUES ('8410042122103', 'Atún claro', '', '', '14', '2.3', '1', '0.01', '', '24', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563788162', 'De Nhat Minced Pork Noodle 80GM', '', '16.5', '9.3', '47.7', '6.7', '', '7', '4.2', '1.65354330708661', '', '0');
+VALUES ('8410042122516', 'Atun claro', '', '', '1.4', '0.4', '0.9', '0', '', '20', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563789169', 'Soupe Thaïlande,saveur crevette aigre et légèrement épicés', 'NOUILLES DE BLÉ, HUILE O ANTS(HYVROXYANISOL OEP HYDROXYTOUJENE 1), TWNGOO TES(E451 , JACIDITÉ ES CRBONA SDEPOTASSU\',1 1, CARBONATES IWE(E621 21)) ASSAISONNEMENT SUCRE, SEL EXHAUSTEURS DE (EBI), GUANYLA M PabREDECREVETTEOSh PARAPENAEOPSlS)tmnRE POISSON STOLEPHORUSSP IDE CITRIQUE ORANT( G MES', '14.3', '8', '51.9', '11.7', '2.6', '6.4', '4.8', '1.88976377952756', '', '0');
+VALUES ('8410042145300', 'Berberechos Al Natural', 'I inqredientestpefberechos, aguaysals Irjgreclientsï Cookies waterand saltu Ingrédient\'* Coquesë .eau', '', '1.2', '0.3', '4.5', '0', '0', '12', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563957155', 'Oh Ricey Imperial Spicy Beef Rice Vermicelli 75G', 'VERMICELLES DE RIZ (73.1%): RIZ 64.7%, AMIDON, SEL ÉMULSIFIAN DE SOJA (E322), MONO ET DIGLYCÉRIDES D\'ACIDES GRAS (E471)). ASSAISONNEMENT (26.9%): HUILE VÉGÉTALE (HUILE DE PALME, ANTIOXYDANTS (BUTYLHYDROXY-ANISOL (E320), BUTYLHYDROXY-TOLUÈNE (E321))), SEL, SUCRE, AIL, ECHALOTTE, CITRONNELLE, TOMATE, PROTÉINE DE BLÉ (COLORANT CARAMEL AMMONIACAL (E150C) , ÉPICES, EXHAUSTEURS DE GOÛT (E621), GLUTAMATE MONOSODIQUE (E621) INOSINATE DISODIQUE (E631), GUANYLATE DISODIQUE (E627), CREVETTE (PARAPENAEOPSIS. ACETES), OIGNONS SÉCHÉS, MALTODEXTRINE, CIBOULETTE SÉCHÉE, CORIANDRE CHINOISE SÉCHÉE, AMIDON, PATTE DE CREVETTES, POUDRE DE CALAMAR (LOLIGO EDULIS), ARÔME ARTIFICIEL DE BOEUF, COLORANT (EXTRAIT DE PAPRIKA (E160C)), CONSERVATEUR (SORBATE DE POTASSIUM (E202)), CORRECTEUR D\'ACIDITE (ACIDE CITRIQUE (E330))', '6.6', '3', '66.6', '7.8', '1.3', '7', '5.3', '2.08661417322835', '', '0');
+VALUES ('8410042155002', 'Xipirons Oli Pay Pay', '', '', '9.8', '1.3', '0', '0', '', '12', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563958404', 'Vermicelles de Riz (Bun Gao)', 'Riz, Fécule de petits pois, Amidon de tapioca, Sel.', '0.2', '0', '76.9', '0', '0', '6', '0.1016', '0.04', '', '1');
+VALUES ('8410042155101', 'Chipiron Pay Pay Rell Tint', 'Calmars 63%, huile de tournesol, oignon, riz, tomate, encre (E-153, E-300), épices et sel.', '', '9.5', '1.3', '0', '0', '', '14', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934563958800', 'Rice Vermicelli Feinreisnudeln, Nudeln', 'BROTH (CHI-CKENi DIJCK PORK. FOR 2 • 3 ïiliÜTEVANÔ ENJôY, Re $.6%, ÉPAISSISSANT (AViDON OXYDÉ SEL ALLERGÈNES:AUCUN 1. PLATS SAUTÉS: TRE)FER LES DE RIZ DANS LEAU BOJUANTE i-ïo MINUTES, VERSER IES PASSO:RE ET RINCER À LEA) FROE FARE SAUTÉAVEC DES LÉGUMES DES FRUITS DE OU LA ROJTER DES ÊPiCES SELON VOTRE 2 VERYNCELLES FRAICHES: NETTRE LES VERNtCEILES DE RIZ DANS BOULLANTE, LASSÉR cJlRE PENDAüÎ 5 N\'.NUTES, LES REI/UER RINCER À LEAIJ FROE LES ÉGOJTTER PENDANT 10 MNUTES VOUS LES DÉGUSTERAEC DES NEMS, UNE FONDUE OJ DES ROULEAUX DE TREMPER LES DE RIZ DANS LEALj FROIDE 15 VERSER LES DANS UNE PASSOIR , LES EGOUTTER 10 VERSER LES VERMICELLES DANS DE LEAU BOUILLANTE ACCON\'PAGNÊ DUN DE BŒUF. DE DE PORC OU DE LÉGUMES PUS LASSER CURE PENDANT 2 3 MNJTES ET ZUTATEN: STARKE,', '0.2', '0', '77', '0', '0', '6', '0.21', '0.0826771653543307', '', '1');
+VALUES ('8410042155118', 'Xipirons Salsa Pay Pay', 'Ntaloresmedïos port oog 7/saAmedcana cionados en Ga/ia;a oyseco.Una•qert friP!fiqo horas', '', '9.5', '1.3', '7.5', '0', '', '14', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934566000322', 'Vermicelle Riz 350G Banh Hoi', 'CHÂT LUÇNG CHI] YEU 1 50g: 3g s lg béO. caoohYdrate 35g 150 kcal/50g Id4ng pHÂN: Gao (100%) I INGREDIENTS.• Rice (100%) IICOMPOSITION:', '1.04', '0.72', '84', '0', '0', '7.6', '0', '0', '', '1');
+VALUES ('8410042155644', 'Chipirone', '', '', '9.8', '1.3', '10', '0', '', '12', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934572260499', 'Lạp xưởng', 'Pork, fat, sugar, salt, wine, casing, ponceau 4R color (E124)', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410042156306', 'Morceaux de calmars en sauce américaine', '', '', '7.7', '1', '4.3', '0', '', '11.8', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934572372871', 'Nems apéritifs aux crevettes', 'Galette de _blé_, crevette, oignon, sucre, sel, piment, glutamate monosodique (E621), huiles végétales.  ', '21.3', '9.55', '61.7', '7.89', '2.45', '12.6', '2.2225', '0.875', '', '0');
+VALUES ('8410042156405', 'Calamars', '', 'https://static.openfoodfacts.org/images/products/841/004/215/6405/front.4.400.jpg', '7.7', '1', '1', '0', '', '11.8', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934572396877', 'Nems apéritifs aux crevettes piquantes', 'Galette de _blé_, _crevette_, oignon, sucre, sel, piment, glutamate monosodique (E621), huiles végétales', '21.3', '9.55', '61.7', '7.89', '2.45', '12.6', '2.2225', '0.875', '', '0');
+VALUES ('8410042156412', 'Trozos De Calamares Seleccionados En Galiciaven Su Tinta', '', '', '7.7', '1', '4.3', '0', '', '11.8', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934572400871', 'Nems apéritifs aux crevettes & à l\'ail', 'Galette de _blé_, _crevette_, ail, sucre, sel, piment, gIutamate mono-sodique (E621), huiles végétales.', '21.3', '0', '61.7', '7.89', '2.45', '12.6', '2.2225', '0.875', '', '0');
+VALUES ('8410042164004', 'Delicias De Mar Al Ajillo Picante Paypay 115 GR', '', '', '15', '2.1', '0', '0', '', '6.7', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934588223051', 'Lipton Tra Dren', '', '0', '0', '9.6', '9.6', '', '0', '', '', '', '1');
+VALUES ('8410042173150', 'Moules', 'Ingrédicnts: Moules, huile do tournesol, ail (2%) ot sel.', '', '14.5', '2.3', '4.6', '1.26', '', '15.2', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934588233074', 'Sting', '', '0', '0', '62.4', '62.4', '', '0', '', '', '', '0');
+VALUES ('8410042173303', 'Moules à l\'Escabèche', 'Mussels, sunflower oil, wine vinegar, spices and salt. Ingrédients.- Moules, huile de tournesol, vinaigre de vin,épices et sel,', '', '9.2', '1.4', '3.9', '0', '', '18', '0.899999999999999', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934602001078', 'Artichaud', 'Feuilles d\' artichaut 80% Tiges d\' artichaut 10% Fleurs d\' artichaut 10% INDICATIONS: Aide au fonctionnehent du foie. Contre la constipation et les ballonnements.', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('8410042173402', 'Moules', '', '', '14.1', '0', '4.7', '0', '', '15.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934602001085', 'Thé vert à la pêche', 'thé vert de java, thé noir, pêche', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('8410042173426', 'Moules galiciennes en sauce marinade', 'moules - huile végétale - vinaigre - épices - sel.', 'https://static.openfoodfacts.org/images/products/841/004/217/3426/front.4.400.jpg', '14.1', '9.2', '4.7', '3.9', '0', '18', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934602001115', 'Thé vietnamien au jasmin', 'Thai Nguyen green tea and natural Jasmine scent Key quatity indicators: - Content of water extract: 32% - Content of Cafein: 2,5%', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('8410042173501', 'Mejillones de las Rias Gallegas', '', '', '9.2', '1.4', '3.9', '0', '', '18', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934602003621', 'Hibiscus', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8410042173556', 'Mejillones Pay-pay Escabeche Picante (8-12 Pzas)', 'Moules, huile de tournesol, vinaigre devin, épices et sel.', '', '9.2', '1.4', '0', '0', '0', '18', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637011523', 'tuong ot', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410042173754', 'Mejillones Pay Pay Natural', '', '', '2.4', '0.7', '3.5', '0', '', '12', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637042510', 'Túóng ót Xí Muôi Plum Chili Sauce', '', '0.04', '0', '25.1', '21.1', '', '0.23', '1.18', '0.464566929133858', '', '0');
+VALUES ('8410042184002', 'Pulpo Pay Pay Aceite', 'Cephalopod tentacles (Dosidicus spp), sunflower oil and salti Ingrédients: Tentacule de céphalopode (Dosidicus spp), l\'huile de tournesol et sel.', '', '8.3', '1', '0', '0', '', '23', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637261515', 'Nuoc Châm Chay, sauce nems & rouleaux de printemps', '_Soja_, _piment_, ail, eau, sucre, acide citrique, carotte, _glutamate_ de sodium, Conservateur E202  ', '0.1', '0', '27', '27', '0', '0', '8', '3.1496062992126', '', '0');
+VALUES ('8410042184200', 'Pay Pay Octopus In Garlic Sauce', 'Csepha!opoci spp) sunfìoweroìl*garlic. sail* de huite de toutnesol. ails Sels E452*', '', '8.3', '1', '0', '0', '', '23', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637261614', 'Sauce Gimgembre Pimentée', '', '0', '0', '22', '21', '', '0', '1.29', '0.507874015748031', '', '0');
+VALUES ('8410042184309', 'Pattes d\'encornet à la marinière', '', 'https://static.openfoodfacts.org/images/products/841/004/218/4309/front.4.400.jpg', '6.1', '0.8', '2.5', '0', '', '20', '1.24', '0.488188976377953', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637513485', 'Cholimex Prepared Fish Sauce', '', '0', '0', '27', '27', '', '0.1', '8', '3.1496062992126', '', '0');
+VALUES ('8410042188055', 'Sardina Picante En Aceite Pay-pay', '', '', '13', '0', '0', '0', '', '22.8', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637514482', 'Sauce Hoisin MONT ASIE', '', '2', '0.3', '30', '30', '', '2.5', '4', '1.5748031496063', '', '0');
+VALUES ('8410042188062', 'Pay Pay Sardine à L\'huile D\'olive 120g', 'PAY', '', '25', '4.5', '0', '0', '', '18', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637515328', 'sauce piment', '', '0', '0', '39', '34', '', '0.5', '2.5', '0.984251968503937', '', '0');
+VALUES ('8410042188406', 'Sardines Vegetal Oil RR-125 GRS -pay Pay', '', '', '14', '2.9', '0', '0', '', '20', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934637610016', 'Hot Chili Sauce Sriracha', '', '0.2', '0', '27', '22', '0', '0.6', '5.9', '2.32283464566929', '', '0');
+VALUES ('8410042188451', 'Sardinas De Las Rias Gallegas', 'Sardines, huile d\'olive, sel', '', '25', '0.9', '0.9', '0', '', '18', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934644070056', 'Mam Bo Hoc Vinawang 454G Vietnam', '', '', '0.4', '', '0', '0', '15.8', '18', '7.08661417322835', '', '0');
+VALUES ('8410042188550', 'Sardinas Pay Pay Tomate RR', 'Informacién Nutricional : Valores medios por 1 oog Valorenergético: 201 kcal 836 kJ Grasas: 13 g De las cuales saturadas: 3,3 g Hidratos decarbono: 2,9 g De los cuales azücares: Og Proteinas: 18 a sal: lez abierto mantener en el frigorifico un méximo de 24 horas.', '', '13', '3.3', '2.9', '0', '', '18', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934648110024', 'Blanc sesame cracker', '', '38', '9', '38', '30', '', '19', '0.92', '0.362204724409449', '', '0');
+VALUES ('8410042188604', 'Sardina Aceite Limón Pay-pay 115GR', '', '', '14', '2.9', '0', '0', '', '20', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934673115193', 'milk', '', '3.2', '', '11.6', '', '', '3', '', '', '', '1');
+VALUES ('8410042188611', 'Sardines With Lemon In Olive Oil', 'Informacién Nutricional: Valores medios por 1 oog Valorenergético: 296 kcal -1228 kJ Grasas: 25 g De las cuales saturadas: 4,5 g Hidratosde carbono: 0,9 g De los cuales azücares: Og Proteinas: 18 8 a&gt;ierto manteneren el frigorifico un mâximo de 24 horas=', '', '25', '4.5', '0', '0', '', '18', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934673503358', 'sữa tiệt trùng vinamilk', '', '3.2', '', '11.6', '', '', '3', '', '', '', '1');
+VALUES ('8410042189205', 'sardines', '', '', '14', '2.9', '0', '0', '', '20', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934673573344', 'Fresh Milk', '', '3.2', '', '8', '', '', '3.1', '', '', '', '1');
+VALUES ('8410042189212', 'Sardinilla Pay Pay Tomate RR90', '', '', '13', '3.3', '2.9', '0', '', '18', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934680011198', 'Tù nhiên bánh lát khoai tây vî', '', '13.7', '6', '1.06', '1.04', '', '2.89', '100', '39.3700787401575', '', '0');
+VALUES ('8410042189229', 'Sardines à l\'escabeche', '', '', '16', '3.4', '0', '0', '', '19', '0.89', '0.350393700787402', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934680025980', '2 AFC 200g (kèm 1 Cosy Marie 64g)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410042189304', 'Sardinillas', '', '', '13', '0', '0', '0', '', '22.8', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934683002599', 'Café Crème Soluble 3 En 1 Vinacafe 480G Vietnam', '', '0', '0', '70', '50', '', '1', '', '', '', '0');
+VALUES ('8410042203505', 'Grandes Palourdes Ramona', '', '', '2.7', '0.9', '4.612', '0', '', '12', '8', '3.1496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934683008614', 'Vinacafe Gold Original', 'café en poudre, Poids net : 20g X 24 sachets June 2018 Produit du Vietnam A consommer de préférence avart Attention ; la date impnrnée sur Le gand sachets est la date de fabrication Mode d\'emploi : verser le contenu (Yun saéH y ajouter l?)rnl-200rnJ deau chaude, Importé 712, 94320 friaE,Frarr-z', '2.4', '2.4', '14', '10', '', '1', '0.16', '0.062992125984252', '', '1');
+VALUES ('8410042245000', 'Coques Nature Ramona', 'Cockles, water and salta Ingrédients: Coques, eau et sel.', '', '1.2', '0.3', '4.5', '0', '', '12', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684025160', 'Thit Xao Pork Flavor', '', '24', '9', '56', '1', '', '8', '2', '0.78740157480315', '', '0');
+VALUES ('8410042255894', 'Calmars Entiers Farcis Ramona', '', '', '9.5', '1.3', '7.5', '0', '', '14', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684026518', 'A-one Instant Nudeln Satay BBQ', 'FARINE DE TENDRE 60%, HUILE DE PALME, AMIDON MODIFIE DE TAPIOCA, EPICES (AIL EN POUDRE, POIVRE EN POUDRE), ASSAISONNEMENT 5 AROMES EN POUDRE (ANIS, FENOUIL, CANNELLE, CLOU DE GIROFLE, NOIX DE MUSCADE), EXHAUSTEUR DE GOUT (E621), SEL, AROME ARTIFICIEL DE PORC, SUCRE, PIMENT EN POUDRE, CIBOULE DESHYDRATEE.', '24', '9', '58', '1', '', '8', '2.2', '0.866141732283465', '', '0');
+VALUES ('8410042256303', 'Calamar A L Américaine', '', '', '7.7', '1', '4.3', '0', '0', '11.8', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684026617', 'A-one Instant Nudeln Shrimps', '', '', '18.3', '', '8', '1', '7.3', '50', '19.6850393700787', '', '0');
+VALUES ('8410042256402', 'Calmars à L\'encre Ramona', 'Calmars 55%, huile de tournesol, tomate, oignon, encre (E-153, E-300), farine de riz, épices, sel et fibre végétale (pomme de terre et bambou).', '', '7.7', '1', '4.3', '0', '', '11.8', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684026730', 'Nouilles Instantanees A-one Crevettes', '', '25', '9', '58', '1', '', '7.5', '2', '0.78740157480315', '', '0');
+VALUES ('8410042273423', 'Moules Escabeche 25 / 35 Ramona', '', '', '9.2', '1.4', '0', '0', '', '18', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684026754', 'Instant Noodles Huhngeschmack', '', '22', '8', '1', '1', '', '8.2', '4.6', '1.81102362204724', '', '0');
+VALUES ('8410042284207', 'Ramona Pattes Encornet a L\'ail', 'hgredentes a:ez de grs:i. y sal. IngrdterX Ingrédients.• Tentw-des de tournesol, ail et sel,', '', '8.3', '1', '1', '0', '0', '23', '0.92', '0.362204724409449', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684031017', 'A-one Beef Flavour Rice Noodles', 'A BASE DE RIZ SAVEUR BŒUF AMIDON MODIFIE DE TAPIOCA HUILE DE PALME, EPICES (AIL EN POUDRE AROME ARTIFICIEL DE BŒUF 2,7%, EXHAUSTEUR DE GOUT (E621), SEL, SUC}', '8', '3', '69', '1', '', '5', '2', '0.78740157480315', '', '0');
+VALUES ('8410042284306', 'Poulpe à la marinera', 'Tentacules de céphalopode (Dosidicus spp), huile de tournesol, tomate, oignon, épices, sel, séquestrant E-462', 'https://static.openfoodfacts.org/images/products/841/004/228/4306/front.3.400.jpg', '6.1', '0.8', '2.5', '0', '0', '20', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684031239', 'Huong Sen', 'riz, amidon, sel. Assaisonnements : huile végétale, sel, sucre, poivre noir en poudre, sauce de soja en poudre, champignon parfumé en poudre, colorant (E150a), arôme de céleri, protéine de soja, légumes déshydratés, exhausteurs de goût (E621), (E630), et (E626) ', '5.23', '1.54', '76.9', '0.769', '0', '4', '4.14', '1.63', '', '0');
+VALUES ('8410043011529', 'Galleta Rio Petit PACK-400G', '', '', '9.2', '0.9', '79', '22', '', '7.4', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934684032014', 'A1 Beef Rice Noodle Bowl', '', '5.1', '5.1', '6.4', '6.4', '', '49.8', '', '', '', '1');
+VALUES ('8410043030513', 'Mini Maria', 'farinha de trigo, açúcar, gordura vegetal, xarope de glucose, soro de leite, sal, levedantes (bicarbonato de sódio, bicarbonato de amónio), emulsionante (lecitina), antioxidante (metabissulfito de sódio), aromas.', 'https://static.openfoodfacts.org/images/products/841/004/303/0513/front.3.400.jpg', '9.3', '', '79.5', '', '', '7.6', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934707010036', 'Greg', 'Babeurre (lait), huiles végétales 34% (colza, coprah, palme), lait écrémé réhydraté, beurre concentré (3%), épaississant (E1422), émulsifiants (mono et diglycérides d\'acide gras, E476), sel, correcteurs d\'acidité (E331 , acide lactique), conservateur (sorbate de potassium), arômes (lait), colorant (bêta-carotene). St Hubert contribue à la production d\'huile de palme', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410043040567', 'Digestive', 'FAT/GRASAS/GRASS\\lRxsvAD of whicWde las cualesldi saturates/ SaturadaslSaturllKüllastunud rasvhapped SugarslAzücaresŒuccherilSuhkrud FIBRE/FIBRNFIBRE/KIUDAINED SALT/SAUSALE/SOOL B6t ufore end: / L\' (œe pack)- Cmwmir prefe #teribilmcnte lôppu / mrti nr (Vt', '', '19', '9.8', '68', '22', '3', '6', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934717272356', 'Raviolis vapeur crevettes', '', '6.1', '1.4', '30', '1.6', '', '3', '1.1', '0.433070866141732', '', '0');
+VALUES ('8410043071400', 'Siro party remix', '', '', '14', '9', '69', '3.5', '', '2', '3.2', '1.25984251968504', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934717272363', 'Ravioli à la vapeur aux crevettes', '', '6.1', '1.4', '30', '1.6', '', '3', '1.1', '0.433070866141732', '', '0');
+VALUES ('84100443', 'Galleta Lu Chips Ahoy! PACK2 40G', 'ûLondetëz. CCE Dl', '', '24', '12.5', '64.5', '34', '2.8', '5.3', '0.73', '0.28740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934717351358', 'Assortiment de mini raviois et bouchees aux crevrete', 'tiNGREDlEMTS : MINI HA(\'AO CREVETIÈ RAVIOLISAUX CREVETTES): (47%), au, amidon de blégnidon de pomme de terre, huile de soja, sel. Gamiture (53%): pâte e poison (poisson, amidon de tapioca, eau, sel, stabilisanb: dÌpnosphats poiyphosphates), crevette (10,4%), manioc, eau, amidon de maiS, carottes, huile de sésame, oigrm de mai, huile de palme, matière grasse (huile de soja rdfinée,: émulSfiant - et diglycérides dacides gras), sauce dp (anchois, sel, eau), amidon de ail, extait de levure, sucre, épaiss•nt méthylcelluiosv, poivre, exhausteurs de goût: inosinate disodique, guanylate disodique. XIU MAI CREVETTE (MINI BOUCHÉES AUX CREVEITES): Pâte (27%): amidon de blé, eau, amidon de tapioca, sel, épaississants: carraghénanes, gomme guar, gomme xanfrane; curcuma Garnit\'}re (73%): Pâte de poison (poison, amidon de tapioca, eau, sel, stab•nts: diphŒphates poly iosphates; (16,4%), manioc, carottes, oignon, eau, amidon de tapioca, huile de huile de sésame, sucre, extrait de levure, protéine de soja, sel, épaississant méfrylcellulose, poivre. PEUT CONTENIR DES TRACES DE : mollusque, céleri, Œuf, lait ATTENTION : Ne jamais recongeler un produit décongelé', '3.8', '1.1', '25', '2.9', '', '5.2', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410048979008', 'Almirón Galletas Sin Gluten', 'Ingredientes Almidôn (maiz, patata), sacarosa, aceite vegetal aceite de palma), leche desnatada en polvo, actoalbümina (procedente de le leche), Sirope de fructosa, emulstonante (lecitina de soja), carbonato calcico, gasificantes (hidrogenocarbonato de sodio y amonio), aroma. sal, vitamtnas (vitamina C, niacina, pantotenato vitamina BI, vitamina Bé, vitamina B2), lactato ferroso. No contiene gluten', '', '12.2', '6', '75.4', '25.3', '2.3', '5.6', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934717351389', 'Mini bouchées à la vapeur aux crevettes', 'blé. INGREDIEHTS : Pâte tapioca, set, épaisstssants• carra g gomme xanthane; curcumas Garniture (73%): Pâte de poisson (poisson, arnidon de tapioca, eau. sel, stabilisants: diphosphates, polyphosohatest crevette (16,4%), manioc, carottes, oignon. eau. amidon de tapioca, huile de palme, huile de sésame, sucre, extrait do levure, protéine de soja, sel, épaississant: methylcellulosev poivre. PEUT CONTENIR DES TRACES DE : crabe, mollusque. céleri, œuf, lait ATTENTION : Ne jamais recongeler un produit décongelé CONSEILS DE PREPARATION : Faire cuire la vapeur sans décongélation préalable. Compter 7 8 minutes (selon la technique employée), CONSEILS DE DEGUSTATION : A déguster avec une sauce nem agrémentée diune pointe de sauce gochulanglsoracha pimentée selon votre goût.', '2.8', '0.6', '21', '3.5', '', '7.1', '1.5', '0.590551181102362', '', '0');
+VALUES ('8410055026009', 'Agua Mineral Natural Con Gas Fonter Botella De 500ML 50187', '', '', '0', '0', '0', '0', '', '0', '8.9', '3.50393700787402', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934717570087', 'Samoussa aux fruits de mer et curry', '', '3.5', '1', '26', '3.1', '', '5.5', '0.94', '0.37007874015748', '', '1');
+VALUES ('8410055033021', 'Eau Minérale Font Vella Go', 'Eau Minérale Font Vella', '', '', '', '', '', '', '', '0.031242', '0.0123', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934717570100', 'Samoussa aux legumes', '', '3.4', '0.6', '25', '2.7', '', '3.4', '1', '0.393700787401575', '', '1');
+VALUES ('8410055033700', 'Eau minerale naturelle', '', '', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734052030', 'Farine Banh Xeo 400 G', 'Farine de blé tendre farine de riz colorant e200ii', '1', '0.4', '81', '0.5', '0', '7.5', '0.35', '0.137795275590551', '', '1');
+VALUES ('8410055050011', 'Agua Mineral Natural', 'Agua mineral natural. Manantial Sacalm.', 'https://static.openfoodfacts.org/images/products/841/005/505/0011/front.15.400.jpg', '0', '0', '0', '0', '', '0', '0.031242', '0.0123', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734072038', 'Farine Hacao', 'amidon de riz, amidon de tapioca', '0.19', '0', '88.63', '0', '0', '0.17', '0', '0', '', '1');
+VALUES ('8410055125023', 'Agua Font Vella', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734082037', 'Farine Bot Banh Cuon', 'Rice flour(90%), tapioca flour. May contain 52ces ofallergen wheat(gluten )E) Lutaten: Reismehl(90%), Tapioka Mehl. Kann Spuren von Allergen Weizen (Gluten). en NI,) Ingrediënten: Rijstemeel(90%), tapioca meel. Kan sporen van allergeen tarwe (gluten) be FR) Ingrédients: Farine de riz(90%), farine de tapioca. Peut contenir des traces d\'allergène ble gluten). (DK) Ingredienser: Rismel(90%), tapioka mel. Kan indeholde spor afallergen hvede (gluten). (SE) Ingredienser: Rismjôl(90%), tapioka mjôl. Kan innehdlla spir av allergen vete (gluten). (SU) Ainekset: Riisijauho(90%), tapioka jauhoja. Saattaa sisültüpieniü müüriü allergeeni veh (gluteenia). (IT) Ingredienti: Farina di riso(90%), farina di tapioca. Può contenere fracce di allergene frumento(glutine). (ES) ingredientes: Harina de harina de tapioca. Puede contener trazas de alérgeru (gluten). tam6Ka.Mzopti va (yioori»T1). Best before: (see packagmg)/Mindestens haltbar bis: (Siehe Verpackung)/ Tenminste houdb (zie op verpakking)/ À consommer de préférence avant le.\' (vor sur l\'emballage)/Mindst holdbar t emballagen)/ Bist (Se pà packning)) I Parasta Da consumarsl e Sulla confezione) i A consumr antes Ver en envases) / Product of Vietnam I Ilpot6vBttrvQp Kuijper BV\' 91 b, i1187ZSAmstelveen, Kuijper BV.', '0.14', '0.1', '0', '0', '0.17', '3.48', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8410055150018', 'Agua mineral natural - Manantial Sacalm', 'Agua mineral natural del Manantial de Sacalm. (Nota: Con la misma marca &quot;Font Vella&quot; y el mismo código de barras (8410055150018), también se envasa agua del manantial de Sigüenza, en Guadalajara, con diferente composición mineral). ', 'https://static.openfoodfacts.org/images/products/841/005/515/0018/front.4.400.jpg', '', '', '', '', '', '', '0.00302', '0.00119', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734092104', 'Corn Starch 150G Vinh Thuan', 'Farine de maïs Poids net: 150g Produit du Vietnam par : PARIS STORE SA I Senia 712, 94657 Thiais, France I Co Server dans un endroit tai/ Manufactured by: TM XNK vÎNH THU4 3, KCN Tân Tao, R Tât Q.Bình Tân, TP,HCM, VN V IJMITED {!ustrialp?', '0', '0', '86.48', '0', '', '0.31', '0', '0', '', '1');
+VALUES ('8410055151022', 'Fonter Agua Con Gas', '', '', '0', '0', '0', '0', '', '0', '63.9', '25.1574803149606', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734112031', 'Farine pour petites crêpes', 'Farine de riz (70%), farine de blé (30%), Curcuma 5 g', '0.9', '0.4', '81', '0.4', '0.9', '7.5', '6.096', '2.4', '', '0');
+VALUES ('8410055300000', 'Font Vella 2,5 Pack', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734202039', 'Farine Pour Banh Bao', '', '1', '0.4', '81', '0.5', '', '7.5', '0.35', '0.137795275590551', '', '1');
+VALUES ('8410055501131', 'Agua De Mesa', '', '', '0.1', '0', '0', '0', '', '5', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934734222037', 'VT (beo) Flour For Cake 20 14Z', '', '0', '0', '85.3', '0.49', '', '0.85', '', '', '', '1');
+VALUES ('8410055620016', 'Font Vella', '', '', '6', '5', '8', '7', '', '15', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934743012131', 'Jackfruit Chips', 'Fresh Jackfruit (98%) and vegetable oil.', '3', '0', '22', '16', '5', '2', '0', '0', '', '1');
+VALUES ('8410055770001', 'Font Vella Levité Agua Con Extractos De Té Sabor Limón', '', '', '0', '0', '11', '11', '', '0', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934743181042', 'Xoai say deo', 'Fresh mangoes (82%), cane sugar and salt', '0.39', '0.14', '89', '6', '2.39', '1.93', '0.32', '0.125984251968504', '', '1');
+VALUES ('8410055831115', 'Font Vella Sensación Agua Con Sabor Limón', 'Ingràentes: A)JC écido citrico, K y sucrclosa, cotes de feta en el lote', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934746015320', 'Crevettes chinoises', '', '', '0', '', '11.7', '2.4', '1.1', '3', '1.18110236220472', '', '0');
+VALUES ('8410055831146', 'Font Vella Sensación Manzana 1,25 L Agua Con Sabor', 'Una refrescante bebida Sin azucares Sin gluten Sin conscrvantes Sin colorantes Sin oromos artificiales Bebida referescante a base de agua mineral Con edulcorantes. lucor limpio, fresco y seco. Proteger de {o Idi sclcr de cyesivc,s. que se cb•o la o su presentio. cd ro reutiiizar este envase, ab erto el envase y en jos dias c Enl,Œodo por: RSI 29.02032N Font Vello y Ionirôn, Sk Aires 21, 08029 Borce}oro. Ingredientes: minerol userai, acidifante: dcido (itrico y âcido edu!corontes: K y sucrcloso, natural. preferentemer,te antes de fechc ndicoda en el tote (ver bo\'eIto)Ë', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934746016327', 'Beignets De Crevette Sa Giang', '', '0.2', '0.1', '86', '11', '', '1.5', '2.4', '0.94488188976378', '', '0');
+VALUES ('8410055885002', 'Levité', '', '', '0', '0', '7', '0.02', '', '0', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934746051939', '1KG Petales De Crevette Sa Giang', 'Farine de tapioca (sulfite E223), crevettes 10%, sucre, sel, ail, exhausteur de goût: E621, régulateur d\'acidité E330, stabilisateur E500ii', '0.18', '0.1', '85.5', '11.2', '', '1.47', '2.42', '0.952755905511811', '', '0');
+VALUES ('8410055885101', 'Font Vella Levité Agua Con Zumo De Limón', '1,25L jSin co{oyo.h+es cohServagMeS DE A (6%), CORRECTORES DE Y DE E445 E444, AROU NATURALCONSERVAR UN IUGAR Y SECO. DE IA SOIR Y OIORES AGRESIVCS. DIRECTO El IA SU RSI BECICLA Al Amaritio 08029. BARCELONA DANONE DANONE SAC. 272', '', '0', '0', '4.9', '4.9', '0', '0', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934746054015', 'Sadec Rice Vermicelli', '', '0.9', '0.4', '79', '2.2', '', '7.5', '0.19', '0.0748031496062992', '', '1');
+VALUES ('8410055885309', 'Levité con agua mineral natural (6% de zumo de limón)', '', '', '0', '0', '4.2', '4.2', '', '0', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934760011117', 'Trà Xanh/ Matcha Cookies', '', '25', '20', '60', '0', '', '9', '0.4', '0.15748031496063', '', '1');
+VALUES ('8410055885422', 'Font Vella lemon Drink 330ml spain', '', '', '0', '0', '4.9', '4.9', '', '0', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934804020389', 'Sauce Soja Maggi', 'Eau ,sel, extrait de s naturel,acide acétique,consewateJ le : voir date sur Na Produit Du Viet Energy (Calorie) I Fat', '0', '0', '0.37', '0.37', '0', '0.12', '0.151', '0.0594488188976378', '', '1');
+VALUES ('8410055885743', 'Levité', '', '', '0', '0', '4.9', '4.9', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934804020402', 'Sauce Soja épaise Maggi 700ML Vietnam', 'SAUCE DE SOJA Incrédtnts i Eau sel, extrat (contient àlélsucreF621 7:627 Poids Net : Importé par : Paris Storc SAS. Senia 712, 94657 Thiais, A Consommer de préference avant le : voir date sur l\'emba!lsçe. Produit Du VietNam Og 037g 037g 0.12g 0.151g', '0', '0', '0.37', '0.37', '', '0.12', '0.15', '0.0590551181102362', '', '1');
+VALUES ('8410055885804', 'Levité', '', '', '0', '0', '3.7', '3.7', '', '0', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934822102333', 'tiger lager beer', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410055886009', 'Font Vella Levité Piña 1,25L Agua Con Zumo', '', '', '0', '0', '4.8', '4.8', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934831116505', 'Chips De Taro Nha Be 100G Vietnam', '', '23.2', '10.2', '68.6', '6.32', '', '5.24', '', '', '', '1');
+VALUES ('8410055886306', 'Font Vella Levité Agua Con Zumo De Lima', 'una veZ abierta Mantener eh Iq nevera y en (os 3 d(as siouientes.jAs( estarÂ deli(iosal 1 vaso de 250Ml contiene: Grasas Azticares 01030) 51 kcal 212 k) in esta de relerenqa de un radio kj/20do k(al). 125 Ml. O Valor Medio or 100 Ml Valor eneroético 20 kcal (15 kJ) Grans de los cuales Hidratos de carbono de los cuales azécareS fibra alimentaria', '', '0', '0', '4.9', '4.9', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934831155009', 'Chips De Fruit Jacquier Nha Be 100G Vietnam', '', '10.8', '4.4', '80.2', '58.6', '', '4.69', '', '', '', '0');
+VALUES ('84100559', 'Cuajada', 'amidon, fructose, épaississant (E407), sucre, arômes, stabilisants (E339), présure.', '', '3.7', '2.5', '7.1', '5.9', '0.1', '3.3', '0.14', '0.0551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934831183408', 'Chips De Banane Nha Be 100G Vietnam', 'Banana 98% and Vegetable oil Nutrition Facts Serving Size 1 oog Serving Per Container Amount Per Serving', '21.1', '9.4', '73.1', '53.1', '8.47', '1.88', '2.4', '0.94488188976378', '', '0');
+VALUES ('8410057004043', 'Callos a la madrileña', '', '', '7.2', '2.1', '1.3', '0.1', '', '13.6', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934851253594', 'Sauce de poisson (nuoc mam) 250ml', 'Anchois, sel, eau, exhausteurs de goût: E627, E631 : édulcorant: E950.', '0', '0', '0', '0', '0', '23', '26', '10.2362204724409', '', '0');
+VALUES ('8410060110700', 'Saucisson', 'valeurs nutritionnelles moyennes exprimées pourT00gdeproduit Énergie kJ kcal GraisSes dont a \'des gras saturés Glucides dont sucres Protéines', '', '33', '10', '4', '4', '0', '24', '5.4', '2.1259842519685', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934863301153', 'Vermicelle De Riz Pho Bich Chi 400G', '\' pnan: buqc sàn xu{t tu bot gao nguyên châ\'t. Không st dung héa chât bào quàn. Incredients: Produce from ad preservative substance Nutrition Facts Serving Size / mbi khâu phân Servings Per Container / S6khâu phân mbi tüi 1 oog Amount: Per Serving/ Mbi khâu phân cung câ\'p 4 Calories from fat/ Kcal tÙ béo 1 % Daily Value* % trong khâuphân hàng ngày Total Fat/ Chât béo toànphân 0.1 g 0.15% Saturated Fat/ Châ\'t béo bâo hòa Og Cholesterol/ Cholesterol', '0.15', '0', '26.6', '2.5', '0', '2', '0.41', '0.161417322834646', '', '1');
+VALUES ('8410060111202', 'Salchichon', '', '', '29', '10', '3.2', '3.2', '', '31', '4.1', '1.61417322834646', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934863374126', 'Sweet potato Vermicelli', '', '0.3', '0.3', '85', '8', '', '0.4', '0.07', '0.0275590551181102', '', '1');
+VALUES ('8410060111806', 'Saucisson Sec', 'Maigre de porc, gras de porc, sel, lactose (lait), protéines de lait, dextrine, arôme, antioxydant (ascorbate de sodium) et conservateur (nitrite de 160dium). Boyau comestible de Nous avons mis en cpuvre lb0 g de viande de porc pour obtenir 100 g de produit fini. Ce produit a subi Une perte d\'eau durant le processus de Séchage.', '', '31', '12', '3.2', '3.2', '0', '27', '4.77', '1.87795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934874111253', 'nước mắm', '', '0', '0', '0', '0', '', '26', '24.1046', '9.49', '', '0');
+VALUES ('8410060114104', 'Saucisse sèche fuet d\'Olot au poivre noir Espuna 170G', 'SAUCISSON - Ingrédien&•. Viande de porc, sel,laaoSe (IL.ù)il protéines de lait, dextrine; arôme, antiòxyûànt (ascorbate de sodium) etconseràteür(nitìte sodium). Boyau comestible de porc8evêtemé de surface: Poiyre noir, Noiss avonsmis én guvr 150 g de Viande,de porc pour g d produit finf. Ce produit durant le processus desethàgé. ALLI(GË.', '', '31', '12', '3.2', '3.2', '', '27', '4.7', '1.8503937007874', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934874112656', 'Sauce De Poisson 650 ML Phu Quoc', 'Ingrédient: Extrait D\'anchois, sel', '0', '0', '0', '0', '', '24', '10.22', '4.02362204724409', '', '0');
+VALUES ('8410060114500', 'Saucisse Sèche', '', '', '30', '16', '2.4', '2.4', '', '26', '4.5', '1.77165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934930005595', 'Rong Vang', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060114609', 'Cañitas De Fuet D\'olot 27GR', '\'*tzigre de porc, de porc, correcteurs d\'acidite acétate de poussium), set dextrose, poivre noir, affermissadi antioxydant (asccrbate de sodium), gélifiant (a!gipate cteurs (nftrite de nfrate de potassium) et d\'a ïtns mis en Œuvre 180 g de viande de porc pour obtenir 100 g de p „gtedients: Pork meat, porkfat, adüty regulators (E-326, E-261 ), pcppc:t, firming agent (E-509), anioxidant (E-301), agé tratives (E-250, E-252) and lactic add a.ltture. from 180 g raw port per 100 g offinished product Zgtatcn: Schweinefleis&l, SŒweinefett, Siuereregu!atoreng (E—3i1 r-alz. Dextrose, S&warzer Pfeffer, Fesügungsmittel (E-509), Antioxidq ) I), Gcliermittel (E-401), Konservierungsstoffe (E-250, E-252) und Star, , .hs3urebakterien). 3 Fuct wcrden hergesteltt aus 180 g Sûweinefleis&l. MOYENNES Exv i NUTRITIONAL INFORMATION / NÂHRWERT ANGABEN medŒ arronrrafs/\\/amrs nuffonnelles rroyTlre ewirnées j Vatœs/ Nâhr,qerte rnssen /Pour1m /Proo —-zz&lt;ético/ iel Energy/ Energie 1593 KJ sas/FZesl Fat/ Fet {as tuss saturadas/ dont acides gras saürés/ wt)icb saturates/ davon qesâttigte Fettsâuren/ de carbono/ Gluc%/ Carbohydrate/ Kohlenhydrate e:lles azücares/ dont sucres/ of which sugars/ davon Zuéke! inas/ Protéines/ Protein/ EiweiB l/SaltJSalz Esteban Espufia, S.A.', '', '30', '16', '2.4', '2.4', '', '26', '4.6', '1.81102362204724', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934965080024', 'Peanut candy', 'Thành Phàn: Dâu ph0ng 85%, mè, dubng cét, machn , nuoc Sàn xuât tai co sb YEN NHI', '28.1', '5.2', '56.3', '37.6', '4.03', '12.1', '0.006', '0.00236220472440945', '', '0');
+VALUES ('8410060115804', 'Cañitas Espuña De Salami 60GRS', '', '', '', '6', '', '6', '0', '25', '7.5', '2.95275590551181', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8934966021545', 'Galette De Riz 400g', '', '0', '0', '81.5', '5.9', '', '8.2', '', '', '', '1');
+VALUES ('8410060122604', 'Chorizo Sarta Doux', 'Maigre de porc, gras de porc, sel, stabilisant (lactate de potassium), paprika, arômes, dextrose, protéines de _lait_, ail, antioxydant (ascorbate de sodium), ferments d\'acide lactiques. Boyau comestible de porc. Bain de surface : conservateur (natamycine).', '', '38', '14', '0.8', '0.3', '', '23', '4.3', '1.69291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000567012', 'Ezos', '', '0.2', '0', '13', '9.7', '', '0.13', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8410060122703', 'Chorizo Sarta Picante', 'maigre de porc, gras de porc, sel, stabilisant (lactate de potassium), paprika, arôme, dextrose, protéines de _lait_, ail, antioxydant (ascorbate de sodium) et ferments d\'acides lactiques. Boyau comestible de porc. bain de surface : conservateur (natamycine).', '', '38', '14', '0.8', '0.8', '0', '23', '4.3', '1.69291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000567029', 'Lychee juice', '', '0.1', '0.1', '12', '10', '', '0.2', '0.16', '0.062992125984252', '', '1');
+VALUES ('8410060123403', 'Chorizo, Deftig', '', '', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000567036', 'Ezos fresh juice mangue', '', '0.2', '0', '13', '13', '', '0.1', '0.11', '0.0433070866141732', '', '1');
+VALUES ('8410060124806', 'Chorizo d\'Olot doux ESTEBAN ESPUNA', '\'lonpold 10 6 001 nd 6', '', '43', '15', '1.9', '1.9', '', '24', '3.25', '1.27952755905512', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000567050', 'Passion juice', '', '0', '0', '13', '13', '', '0.1', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8410060136403', 'Jambon Serrano Bodega', '', '', '14', '5.2', '1', '1', '', '31', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000900086', 'Nougat fantaisie', '', '0.14', '0', '42.6', '42.6', '', '0.5', '', '', '', '0');
+VALUES ('8410060136502', 'Jamon Taco Espuña Curado 550 GRS', 'Jambon o ga •dontad CO SERVATION ORS FROID', '', '14', '5.2', '1', '1', '', '31', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000900345', 'Rice Paper 22 cm', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060137400', 'Jambon Serrano Bodega', 'Jambon de porc, sel, stabilisant (lactate de potassium), dextrose et conservateurs (nitrite de sodium, nitrate de potassium).', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000900406', 'Galettes De Riz 22cm, 200g', '', '0.39', '0.12', '83.8', '0', '', '0.51', '1.98', '0.779527559055118', '', '0');
+VALUES ('8410060139701', 'Délice de jambon espagnol ( à trancher)', '', '', '14', '5.2', '1', '1', '', '31', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901007', 'Galette riz et sesame', '', '8', '2', '69', '2', '', '6', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8410060180000', 'Bacon', '', '', '18', '8.3', '1', '1', '', '15', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901014', 'Confiserie Au Sésame Et Arachide', 'Amidon de tapioca, sucre, sesame, arachide, malt', '0.14', '0', '42.6', '42.6', '', '0.5', '0', '0', '', '0');
+VALUES ('8410060182400', 'Espuna Salchichon Cular', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901137', 'Specialité aux noix de cajou', '', '19.6', '3.75', '68.75', '34.4', '', '7.76', '', '', '', '0');
+VALUES ('8410060182905', 'JAMON CURADO BODEGA 400 G. ESPUñA', '', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901250', 'VN White Sesame Candy', 'Graine de sésame malt, sucre, farine de arôme vanille.', '15', '3.5', '15', '12', '', '7.5', '0.748', '0.294488188976378', '', '1');
+VALUES ('8410060183001', 'Jamon Serrano', 'pork ham, salt, dextrose, E250, E252', 'https://static.openfoodfacts.org/images/products/841/006/018/3001/front_en.7.400.jpg', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901267', 'Peanut candy', '', '27.8', '6.59', '54', '39.5', '', '14.5', '', '', '', '0');
+VALUES ('8410060183209', 'JAMON CURADO BODEGA 250 G. ESPUñA', 'Jambon de porc, sel, dextrosee$conservateurs (nitrite de sodium, nitrate de potassium). ous avons mis en ?uvre 159 g de jambon de porc pour obtenir 100 g de produit fini. Ce pròduit a subi une perte (feau durant le ocessus de sechage. OUVRIR 10 MINUTES AVANT CONSOMMATION. ion CONSOMMER DE PRÉFÉRENCE AVANT LE.? VOIR SUR L\'EMBALLAGE.', '', '12', '4', '1.5', '1.5', '0', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901298', 'Coconut Ball', '', '', '5.17', '', '28.4', '0', '1.14', '0.11', '0.0433070866141732', '', '0');
+VALUES ('8410060184107', 'salchichón cular extra', 'pork, salt, e326, Lactose (milk), milk proteins, sugar, spices, E301, E250, E252', 'https://static.openfoodfacts.org/images/products/841/006/018/4107/front_en.3.400.jpg', '21', '8.1', '2.8', '2.8', '', '25', '3.6', '1.41732283464567', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901304', 'Biscuit à la noix de coco', 'Tapioca, extrait de coco 30%, sucre, eau.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060184602', 'Chorizo', 'Maigre de porc, gras de porc, stabilisant : lactate de potassium, sel, lactose (lait), lait écrémé en poudre, ail, arômes, sucre, extrait de paprika, protéines de lait, antioxydant : ascorbate de sodium, et conservateur : nitrite de sodium', 'https://static.openfoodfacts.org/images/products/841/006/018/4602/front.4.400.jpg', '21', '7.3', '3.8', '3.8', '', '24', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901458', 'Sésame Noir 200G', '', '45.1', '7.43', '22.3', '2.08', '', '21.8', '', '', '', '0');
+VALUES ('8410060185302', 'Jambon cuit', '', '', '3.6', '1.1', '1', '1', '', '20', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901465', 'graine de basilic', 'GRAINE DE BASILIC BASIL SEED HAT É POIDS NET : 200g ING : Graine De Basilic. ING : Basil Seed- Importé Par : Paris Store SAS Senia 712, 94657 Thiais, France A Consommer de Préférence Avant Fin : 31103/2018 Lot : 160331 Informations Nutritionnelles [Nutrition Facts Par/Per t00g Energie/ Energy (Calorie) / 425 Kcal Graisses I Fat 16.9g - Acide gras saturés-Saturated fattyacids', '16.9', '16', '53.2', '1.82', '', '15.1', '0', '0', '', '1');
+VALUES ('8410060185906', 'Jambon serrano espagnol bodega', 'Jambon de porc,sel,stabilistant (lactate de potassium),dextrose, conservateurs( nitrite de sodium, nitrate de potassium)', 'https://static.openfoodfacts.org/images/products/841/006/018/5906/front.3.400.jpg', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901649', 'Banane sèche', 'banane', '0', '0', '139', '41.5', '0', '5', '0', '0', '', '0');
+VALUES ('8410060185913', 'Jambon Serrano Espagnol Bodega', 'Jambon de porc, Sel, Dextrose et conservateurs (nitrite de sodium, nitrate de potassium)', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901809', 'Confiserie de melon d’eau', 'Melon,sucre', '0', '0', '48.17', '37.8', '0', '0.31', '0', '0', '', '0');
+VALUES ('8410060282001', 'jamón serrano', 'pork ham, salt, dextrose, E250, E252', 'https://static.openfoodfacts.org/images/products/841/006/028/2001/front_en.3.400.jpg', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000901922', 'Ginger Candy', '', '', '0', '', '72.02', '6', '0.62', '0', '0', '', '0');
+VALUES ('8410060282100', 'Jambon Serrano Espuna, 10 Tranches Fines', 'Jambon de porc, sel, dextrose et conservateurs nitrite de sodium nitrate de potassium E250 E 252', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000902073', 'Ail frit', '', '25.43', '13.3', '45.62', '1.25', '', '8.35', '', '', '', '1');
+VALUES ('8410060282506', 'Morcon', '', 'https://static.openfoodfacts.org/images/products/841/006/028/2506/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000902172', 'Umbrella cookies', '', '24.8', '18.1', '69.23', '12.2', '', '3.4', '1.11', '0.437007874015748', '', '0');
+VALUES ('8410060283602', 'Lomo Curado Espuña Lonchas 80 GRS', '', '', '4.2', '1.5', '1.7', '1.7', '', '33', '4.4', '1.73228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000902363', 'Grains De Curry', '', '3.3', '0', '40.8', '0', '', '12.25', '', '', '', '1');
+VALUES ('8410060283664', 'Lomo Curado', 'longe de porc, sel, stabilisant (lactate de potassium), paprika, épices, sucre, antioxydant (ascorbate de sodium) et conservateur (nitrite de sodium).', '', '4.2', '1.5', '1.7', '1.7', '', '33', '4.4', '1.73228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000902615', 'Bâtonnets de tapioca', '', '0', '0', '90', '0', '', '0.25', '', '', '', '1');
+VALUES ('8410060283701', 'Saucisson extra 50g', '', '', '25', '9.4', '3.8', '3.8', '', '26', '4.1', '1.61417322834646', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000902622', 'Papaye Seche', '', '0.79', '0.69', '72.1', '45.6', '', '7.32', '', '', '', '0');
+VALUES ('8410060287907', 'Jambon Sec De Dinde', '', '', '', '2.5', '', '1', '0', '33', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000903063', 'Sauce pour Rouleaux de Printemps', 'Eau, Extrait d\'anchois (_Poisson_), Sel, Sucre, Vinaigre, Piment, Ail, Papaye, Carotte.', '0.1', '0.05', '21.9', '20.7', '', '1.33', '3.83', '1.50787401574803', '', '0');
+VALUES ('8410060289109', 'Jamon Espu¥a Cintas 100GR.', 'I JAI/i0N de et onsnateurs(nitrite de mis en oeuvre 15Q', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000903070', 'Sauce Nems PSP', 'Eau, extrait d’anchois, sel, sucre, vinaigre, ail', '0.1', '0.05', '21.9', '20.7', '', '1.33', '3.83', '1.50787401574803', '', '0');
+VALUES ('8410060380400', 'Jambon Serrano', 'Jambon de porc, sel, dextrose et conservateurs (nitrite de sodium, nitrate de potassium).', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000903117', 'Phú Quóc', 'ANCHOVY EXTRACT, SALT. EXTRAIT D\'ANCHOIS, SEL. ANSJOVISEXTRAKT, ZOUT.', '0', '0', '0', '0', '', '22', '26', '10.2362204724409', '', '0');
+VALUES ('8410060381902', 'Saucisson - Salchichón 66 tranche', '', '', '25', '6.8', '2.3', '2.3', '', '27', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000903124', 'Sauce De Poisson', 'MANUFACTUREI) BY: HUN(; FISH SAUCI- ;REF. : NM 138 vN 138 VI 010 LOT NQ : 15.05.16 A CONSOMMER 1)1:. PREFF.RI:.NCE AVANT FIN : IMPORTÉ PAR : PARIS STORE S.A .sF.Nl,A 712. 94657 THIAIS CEDEX\'. FRANCI: JNG: EXTRAIT D\'ANCHOIS I EAU', '0', '0', '0', '0', '', '15', '24', '9.44881889763779', '', '0');
+VALUES ('8410060382107', 'Chorizo Doux Espagnol', 'otassium), sel, lactose (lait), AnÜédiènts(Maigre de porc, gras de porc, stabilisant (lactate -lait écréme eruoudre, ail, protéines de lait, arômes, sucre, p I a, antioxydant (ascorbate de sodium) et conservateur (nitrite avònsmis en œuvre 145g \'tlàhde de porc pour obtenir 100 g de produit fini.', '', '26', '9.1', '2.9', '2.9', '', '24', '3.3', '1.2992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000903131', 'Phú Quôc', 'ANCHOVY ext nacri EXTRAIT D\'ANCHOIS, ANSJOVISEXTRAKT, tour FISCHEXTRAKT.', '0', '0', '0', '0', '', '22', '26', '10.2362204724409', '', '0');
+VALUES ('8410060382909', 'Espuna Chorizo Extra', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000903964', 'Vinawang Pickled Eggplant With Chilli', '390G ECCUIIE. 23 OG di Vist\'JB.', '0', '0', '3', '2', '', '1', '2', '0.78740157480315', '', '0');
+VALUES ('8410060384606', 'Lonchas Espu¥a Jamon Curado 100 GRS', '16 DEMI TRANCHES JAMÔN SERRAN\'Prn grédients: Jambon de porc, sel, dextrose et Ionservatéuts (nitrite des:odiumTnitrate Bodilitfiâìu de potassium) Noys avons mis en Œuvre 159 q dejambon de pote poutobienii100 g OUVRIR O CONSOMMATION LOT/À DE', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000904022', 'Vinawang Pickled Lotus Stem', '', '0.06', '0', '17.3', '9.8', '', '0.8', '3.5', '1.37795275590551', '', '0');
+VALUES ('8410060385900', 'Jambon cru allegé', 'CRU 1 EN MATIÈRE Jambon cru allégé en matières grasses* Ingrédient$: Jambon de porc (96%), sel, épices extraits dJépicest acidifiants acide citrique; antioxydant: ascorbate de sodium} conservateurs: -nitrite de sodium, nitrate de potassium* Conditionné sous atmosphère protectrice, A consommer rapidement après ouverture. A conserver entre OOC et +40Œ Gerookte rauwe ham met verlaagd vetgehalte* Ingrediënten: Varkensvlees (96%), zout, specerijen, specerijenextractem dextrose, voedingszuur: citroenzuur•, antioxidant: natriumascorbaat; conserveermiddelen: natriumnitriet, kaliumnitraat. Verpakt onder beschermende atmosfeer. Na opening $nel te verbruiken. Te bewaren tussen OOC en +40C. Transformé et conditionné en Allemagne par; / Versneden en verpakt in Duitstand door: Bell Deutschtand, 0*21217 Seevetal www.belll 869.com 100 ge', '', '3', '1.1', '1', '1', '', '27', '5', '1.96850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000904374', 'Pickled red chili', 'Informations Nutritionnelles [Nutrition Facts Energie/ Energy (Calorie) Graisses I Fat - Acide gras saturés-Saturated fatty acŒ Glucides I Carbohydrates - Sucres-Sugars Protéines I Protein', '5', '1.15', '20.8', '5.24', '', '4.74', '1.1', '0.433070866141732', '', '0');
+VALUES ('8410060401006', 'Tapas al minuto Choricitos', 'Maigre de porc, gras de porc, eau, paprika, sel protéines de lait, stabilisants (lactate de potassium triphosphate de pentasodium), arômes naturels, ail, lactos (lait), dextrose, affermissant (chlorure de calcium), antioxydan (ascorbate de sodium), épices et gélifiant (alginate de sodium)', 'https://static.openfoodfacts.org/images/products/841/006/040/1006/front.4.400.jpg', '29', '8.6', '2.8', '2.8', '0', '20', '3.4', '1.33858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000904510', 'Nougat Chinois', 'Farine de tapioca, _cacahuètes_, _sésame_, malt, eau, sucre.', '0.14', '0', '42.6', '42.6', '', '0.5', '0', '0', '', '0');
+VALUES ('8410060401105', 'Tapas al minto Choricitos forts', 'Maigre de porc, gras de porc, eau, paprika, sel, arômes naturels, protéines de _lait_, stabilisants (lactate de potassium, triphosphate de pentasodium), ail, lactose (_lait_), dextrose, affermissant (chlorure de calcium), antioxydant (ascorbate de sodium), épices et gélifiant (alginate de sodium).', '', '29', '8.6', '2.8', '2.8', '', '20', '3.4', '1.33858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000904565', 'Noix de cajou au sesame', 'Inte mations Nutfltjonne]tes I Ficts Energ:p I Energy (calorie) Graisses / Fat - Acide gras saturés Glucides / Carbohydrates - Sucres - Sugars Protéines / Protein sel / sait', '35', '26', '43', '28', '', '16', '0', '0', '', '0');
+VALUES ('8410060401303', 'Tapas Brochette Poulet', '', '', '13', '4.5', '1', '1', '', '18', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000914434', 'Manioc Cru Surgelé', 'Nutrition Information 4 14220 IMPORTÉ PAR PARIS STORE', '0', '0', '34', '1.29', '', '1.4', '0', '0', '', '1');
+VALUES ('8410060401402', 'Tapas al minuto Mini brochettes de porc au curry', 'Maigre de porc, eau, huile d\'olive, arômes, sel, curry (0.8%), épices, stabilisants (triphosphate de pentaso- dium, carraghénanes, sorbitol, farine de graines de caroube, gomme lanthane), dextrose etektrait de levure. ffNËORMÂTiOtftüRlTlONNELLE Valéurs moyennes approximatives pour 100 g', 'https://static.openfoodfacts.org/images/products/841/006/040/1402/front.4.400.jpg', '13', '4.5', '1', '1', '', '18', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935000970416', 'Riz gluant', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060401501', 'Tapas Al Minuto - Mini Brochettes de Porc aux Fines Herbes', 'Maigre de porc, eau, huile d\'olive, arômes, sel, fines herbes (0,5 %), stabilisants (triphosphate de pentasodium, carraghénanes, sorbitol, farine de graines de caroube, gomme xanthane), dextrose, épices, ail et extrait de levure.', '', '13', '4.5', '1', '1', '', '18', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935001012085', 'Sarsi', '', '0', '0', '45', '45', '', '0', '', '', '', '0');
+VALUES ('8410060401709', '80G TAPAS MNI BROCHETTE POULET ESPUNA', '', 'https://static.openfoodfacts.org/images/products/841/006/040/1709/front_en.3.400.jpg', '', '1.2', '', '0.5', '0', '21', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935001200130', 'Eau de coco', 'Eau, eau de coco fraiche (24,7%), sucre, riz coco frais (13,9 g/L), sel, stabilisant : phophate de diamidon (E1412), édulcorant de synthèse : acésulfame potassium (E950), régulateur de l\'acidité : carbonate acide de sodium (E500ii), colorant : dioxyde de titane (E171)', '0', '0', '7', '7', '', '0', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8410060401808', 'Mini brochettes de dinde au paprika Tapas ESPUNA, 4 unites', '', '', '', '3.4', '', '0.6', '0', '20', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935001200444', 'W Farm Crema D Coco 400 ml', '', '16', '0', '3.8', '1', '', '0', '67', '26.3779527559055', '', '0');
+VALUES ('8410060402805', 'Tapas enrolladas', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935001708964', 'Mentos Pure Fresh Chewing Gum With Green Tea', 'source of phenftlanine. Chewing-gum avec édulcorants, parfum (mln, ubitol, xylitol, mannitol, sirop ge maltitol, aspartame, acésulfame•K, sucralose), gomme base, de cellubse), humectant (glycérol)\' (énirE de soja), gélatine de boeuf, colorants (diowde FCF), agents d\'erirobage (sheilac, cire de sabor a edulcorantes (maltitol, so?ol, xilitol, manitol, xarope de maltitol\' {bifa, goma base, espessantes', '0', '0', '70.2', '0', '2.4', '0.5', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8410060407503', 'Brochettes de porc', '', '', '13', '4.5', '1', '1', '', '18', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935001722496', 'Mentos Chewing Gum Fresh Mint (12 Pieces) Sugar Free', '', '', '0', '', '0', '2.5', '0.5', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410060483903', 'Espuna Spicy Chorizo Salami Sliced', '', '', '26', '9.1', '2.9', '2.9', '', '24', '3.3', '1.2992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300010', '&quot;Phnompenh&quot; Rice Stick', '', '0.2', '0', '75', '2', '', '2', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410060485501', 'Espuna jambon serrano espagnol 10 tranches', 'on de set, dextrose et conservateurs (nitrite de sodium, nitrete de potassÏMtn). a•ons mis en t 59 g de -\'n too g de produit fin[ Ce a subi une perte ffeau durant le processes de secha}e. VALEURS NUIRttlORNtUES MÜtNNtS 30 q tstebM Mtftm 0!0t4itr.i •', '', '12', '4', '1.5', '1.5', '0', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300027', 'Vermicelles de riz larges &quot;Phnom Penh&quot;', 'Ingrédient : FARINE RIZ 74,7% FÉCULE DE TAPIOCA, EAU, SEL.', '0.2', '0', '75', '2', '', '2', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410060486102', 'JAMbon serrano Bodega ESPAGNIL', 'Ce produit a subi une perte d\'eau durant le processus de sechage. POUR OUVRIR, TIREZ LA LANGUETTE DE L\'ANGLE INFÉRIEUR OUVRIR 10 MIN. AVANT CONSOMMATION VALEURS NUTRITIONNELLES MOYENNES Valeurs nutritionnelles moyennes exprimées pour 100 g de produit 980 kJ/ 234 kcal Énergie', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300041', 'Vermicelles de riz', 'Farine de riz 93% , eau , sel', '0.5', '0.15', '84', '4.8', '', '3.9', '1.9', '0.748031496062992', '', '0');
+VALUES ('8410060486201', 'Jambon Serrano', 'Jambon de porc, sel, dextrose et conservateurs (nitrite de sodium, nitrate de potassium).', '', '12', '4', '1.5', '1.5', '', '30', '5.29', '2.08267716535433', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300089', 'Rice Cubes vermicelles de riz \'phnom penh\'', '', '0.2', '0', '75', '2', '', '2', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8410060505308', 'Tapas al minuto - mini brochettes de porc au curry', 'Maigre de porc, eau, huile d olive, arômes, sel, curry (0.8%), épices, stabilisants (triphosphate de pentasodium, carraghénanesrsorbjtol, farine de graines de caroube, gomme xanthane), dextrose et extrait de levure.', '', '13', '4.5', '1', '1', '', '18', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300096', 'Vermicelle Bun Bo Hue 400G', '', '0.8', '0.5', '78', '0.1', '', '6.3', '', '', '', '1');
+VALUES ('8410060509207', 'Tapas Al Minuto', '\'. Chorizo (Maigre de porc, gras de porc, eau, paprika, sel, protéines de lait, stabilisants (E-326, E-451 i), arômes naturels, ail, lactose (lait), dextrose, affermissant (E-509), antioxydant (E-301), épices et gélifiant (E-401)). Saucisse cuite avec bacon (Saucisse cuite (50 % app(ox.) (Viande de porc (67%), eau, fromage (lait) (8%) (eau, protéines de lait, crème (lait), stabilisants (E-341, E-339, E-452), sel, lactose (lait), arômes), sel, protéines de lait, arômes, arôme fumee, protéines de viande, lait écréme en poudre, stabilisant (E-451i)), épices, dextrose, antioxydant (E-301), exhausteur de goût (E-621), conservateur (E-250), acidifiants (E-262 ii)i E-270), colorant (E-120) et émulsifiant (E-471)). Bacon (50 % approx.) (Viande de porc (81%), eau, sel, dextrose, stabilisant (E-326), antioxydant (E-301) et conservateur (E-250))). Mini brochettes de porc grillées au paprika (Maigre de porc, eau, huile d\'olive, arômes, ail, sel, paprika (0.5 %), stabilisants (E-451 i, E-407, E-420i, E-410, E-415), dextrose, épices et extrait de levure). Mini brochettes de porc grillées aux fines herbes (Maigre de porc, eau, huile d\'olive, arômes, sel, fines herbes (0.5%), stabilisants (E-451 i, E-407, E-420i, E-410, E-415), dextrose, épices, ail et extrait de levure). À CONSERVER ENTRE OOC ET Une foi} ouyert l\'emballaqe, à conserver en frais,', '', '9', '8', '1.3', '1.3', '', '18', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300140', 'Végétarien noodle', 'PREPARATION ALIMENTAIRE A BASE DE BEF, VHS043;a INGREPIENTS ; FARINE DE PLE TENDRE 8806 EAU, SEV, COLORANT INGREDIENTS; WHEAT FLOUR 88%1 WATER/ SALTI COLOUR (E102), nutritionnelles pour 100 g a*ag100glNutrltIonfacts per100g 1560 w 373 kcq', '1.6', '0.4', '76.4', '3', '4.2', '13.2', '0', '0', '', '1');
+VALUES ('8410060520707', 'Chorizo à griller', 'Viande de porc (80 %), gras de porc, eau, paprika, sel, arômes naturels, dextrose, ail, stabilisant (triphosphate de pentasodium), antioxydant (ascorbate de sodium), épices, conservateurs (nitrite de sodium, nitrate de potassium), ferments. Boyau comestible de porc.', '', '40', '19', '1.8', '1.8', '', '17', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005300157', 'Vegetarian Noodle', 'FARINE DE TENDRE 88%, EAU, SEL, STABILISANT (E501i), COLORANT (E102).', '1.6', '0.4', '76.4', '3', '4.2', '13.2', '0', '0', '', '1');
+VALUES ('8410060581401', 'Jambo serrano espagnol reserva', 'Ingrédients; jambon de porc, sel, dextrose et conservateurs (nitrite de sodium, nitrate de potassium)', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005301642', 'Ail Frits 150g', 'Calones I Caloncs 00 Total Fat I Lipides 50mq Saturated I Saturés 0 g + Trans / Trans 0 g Cholesterol / Cholestérol 0 mg Sodium / Sodium 10 mg Carboh drate / Glucides I Dieta Fibre / Fibres 0 Su ars / Sucres 0 Protein / Protéines 0 g Vitamin A / Vitamine A Vitamin C / Vitamine C Calcium / Calcium Iron / Fer', '50', '0', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('8410060584105', 'Jambon cru', '', '', '23', '11', '1', '1', '', '24', '3.7', '1.45669291338583', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005304254', 'Atiso infusion artichaut', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8410060585607', 'Ibericos', '', '', '25', '10', '0.5', '0.5', '', '26', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005305824', 'Chips de Banane', '', '9.8', '4.7', '84.3', '81.2', '', '1.6', '', '', '', '0');
+VALUES ('8410060587502', 'Chorizo de Pamplona extra', 'Carne de cerdo, grasa de cerdo, sal, pimentón, lactosa (leche), dextrosa, dextrina, azúcar, ajo, potenciador del sabor (E621), aromas y aromas de humo, estabilizante (E451i), conservador (E252) y fermentos del ácido láctico.', '', '42', '20', '2', '2', '', '18', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005305848', 'Crisp Bits Taro', 'Taro frais, huile de palme, sucre de canne.', '2.94', '1.41', '27.81', '24.36', '', '0.49', '6', '2.36220472440945', '', '0');
+VALUES ('8410060602809', 'Fuet De Jamon Espuña Snacks 50GR', '', '', '5', '1.7', '3.7', '3.7', '', '43', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005305862', 'Crispbits', 'Patate Douce 85%, Huile De Palme, Sucre De Canne.', '24.8', '11.42', '70.7', '20.9', '6.88', '2.07', '0', '0', '', '1');
+VALUES ('8410060602908', 'Chorizo De Jamon Espuña Snacks 50GR', 'Jambon de porc, lait écréme en poudre, stabilisant (lactate de potassium), sel, lactose (lait), paprika, arômes, ail, protéines de lait, sucre, antioxydant (ascorbate de sodium) et conservateur (nitrite de sodium). Nous avons mis en ?uvre 168 g de jambon de porc pour obtenir 100 g de produit fini. Ce produit a subi une perte d\'eau durant le processus de sechage?', '', '4', '1.7', '4', '4', '', '44', '4.1', '1.61417322834646', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005306715', 'Longane Séché Sans Pépins 85G', '', '0.88', '0', '1.42', '1.42', '', '0', '0.04', '0.015748031496063', '', '1');
+VALUES ('8410060603301', 'Tapas', '', '', '43', '15', '1.9', '1.9', '', '24', '3.2', '1.25984251968504', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005307262', 'Vermicelle De Riz', 'Les bün tuai littér «verrnicelles de riz base de Par exemple garn\\r de pr\\ntemps ou c bò bün. On les ap chauds dans certa vietnamiennes, les bouillon de tomates Conseils de prépa Tremper dans l\'eau 20 rnin. Egoutter p boullante 10 min. froic e et ajouter soupes. DAN lügârn bén trong nu ng 20 phüt. N knoâng 10 phl! bânc. nu6c s Cô thé st dung nâ\' r au, gà, Vit, heo, gia sti civng câc 1041\' dùn nhd', '0.5', '0.4', '85', '0', '', '2.4', '0.2', '0.078740157480315', '', '1');
+VALUES ('8410060603400', 'Espuña Tapas De Fuet D´olot', '', '', '31', '12', '3.2', '3.2', '', '27', '4.7', '1.8503937007874', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005801111', 'lavie', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060605701', 'Minuets', '', '', '30', '11', '3.5', '3.5', '', '29', '5.1', '2.00787401574803', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935005801135', 'lavi', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060605800', 'Chorizo minis', 'CHO ZO MINIS ZENTS: Magro de Mdo, grasa de cerdo, sal, ajo, exfractŒs y écido fr,ico. Recubrimienb vegetat Se han uülizado 151 g de came de cerdc g de producto acabado. de PTC, gras de PTC, sel, paprika} ail, extaits véûétâfi, et d \'acide biques. Revêtement végéfl: Algi± de azrn. NoŒ avons mis en œuvre 151 g de de porc obtenir 100 g de produit fini. m Biefieisdlt Schweinefettt Kœhsalz, Papfika, Knobtauch, Gemüseefrakte, Dextrose und StafterkuftJren (Milchsâurebaiderien). Natiurdgirtat aziumchlorid. 100 g Chorizo werden aus 151 g Schweinefieisch. INFORMACI N VALEURS NUTRITIONNELLES MOYENNES EXPRIMÉES UHRWERT ANGABEN \'mados/Valeurs ennese -.tnées/Durchschntt{icheNâhMerte emessen Por/Pour/Proff', '', '31', '12', '4', '4', '', '27', '5.1', '2.00787401574803', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935012423306', 'Bia Saigon Special', 'Eau, _malt d\'orge_, houblon, antioxydants (E300, E223/E224 (contient des _sulfites_)).', '', '', '', '', '', '', '', '', '4.9', '0');
+VALUES ('8410060606203', 'Minuets Salami Mini', 'Maigre de porc, gras de porc, sel, épices, arômes naturels, extrait végétaux, sucre, ail et ferments d\'acide lactique. Revêtement végétal : Alginate de sodium et chlorure de calcium.', '', '33', '13', '4', '4', '', '26', '6.5', '2.55905511811024', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935012423337', '333 export', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060680500', 'Tradition saucisson', 'VALEURS NUTRITIONNELLES 1 NUTRITIONAL INFORMATION 1 NÂHRWERTANGABEN. VALEURSNUTRITlONNELLESMOYENNEsyPRIMÉESPOUR100gjrpŒAWALŒspER100 ÉNERGIE / ENERGY / ENERGIE: 1438 kJ / 346 kcal • MATIÈRES / FAT / 26 DONTAClDESGRASSATURÊS/Ok WH ICH SATU RATES / DAVON GESÂTTIGTE FETTSÂUREN: g • GLUCIDES I SUCRES / OF WHICH SUGARS / DAVON ZUCKER: g I PROTEIN /', '', '26', '9.8', '3', '3', '', '25', '4.5', '1.77165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935012423559', 'Bière Vietnam ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060680609', 'Chorizo', 'Nitrites et Nitrates Ajoutés Conservateurs Colorants Allergènes', '', '27', '9', '2', '2', '0', '25', '4.5', '1.77165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935013120396', 'Slim Tea', '', '4.21', '1.26', '32.5', '32.5', '', '16.9', '1', '0.393700787401575', '', '0');
+VALUES ('8410060680708', 'Coppa tradition', '', '', '19', '6.5', '1', '1', '', '30', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935013160057', 'Lotus plumule tea', '', '4.69', '1.92', '7.2', '7.2', '', '23.2', '2.68', '1.05511811023622', '', '0');
+VALUES ('8410060680807', 'Lomo espagnol', '', '', '4', '1', '1.5', '1.5', '', '38', '5', '1.96850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935015099010', 'Cube Pho Boeuf Bao Long 75G', 'CACH DUNG Bô 1 viên vào 0,5 lit nuoc dun sôi, dun tu 2 - 3 phüt. Dùng cho 2 tô PHO (150g bânh phd mbi to). USAGE Put a cube of PHO SOUP SEASONING into litre of boiling water. Keep it boiling 2 - 3 minutes. Serve for 2 bowls With 150g rice noodle each. MODE D\'EMPLOI Mettre un cube de PREPARATION POUR SOUPE PHO condensée dans 0,5 litre d\'eau boullie, continuer de bouillir pendant 2 ou 3 minutes. Servir', '5.6', '0', '48.9', '48.9', '', '7.8', '8.1', '3.18897637795276', '', '0');
+VALUES ('8410060685208', 'Chorizo extra', '', 'https://static.openfoodfacts.org/images/products/841/006/068/5208/front_en.5.400.jpg', '21', '7.3', '3.8', '3.8', '', '24', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935015099034', 'Cubes Bun Bo Hue', 'sait, Sugar, Monosodium Glutamate, And Spices. INGREDIENTS: sel, Sucre, Monosodium Glutamate, Epices. CHi TIÊU CHÂT Lif0NG Y?U: 0,5%, PROTID', '3', '0', '38', '7', '', '7', '1.3', '0.511811023622047', '', '0');
+VALUES ('8410060685307', 'Spanish Serrano Ham', 'Pork ham, salt, dextrose and perservatives (E250, E252).', 'https://static.openfoodfacts.org/images/products/841/006/068/5307/front_en.4.400.jpg', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935015099140', 'Cubes Lau Thai Lan', 'sel, Sucre, Monosodium Glutamate E621, Citronnelle, Piment, Acid Citric E330, Epices.', '3', '0', '38', '38', '', '7', '13', '5.11811023622047', '', '0');
+VALUES ('8410060685802', 'Fuet d\'olot', '', '', '31', '12', '3.2', '3.2', '', '27', '4.7', '1.8503937007874', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935024120330', 'Trung Nguyen G7 3-in-1 Instant Coffee Mix: 20 Sachets X 16 Fast Ship 1-3 Days', '• Total vat: 2.4 grams atE Fat: Z3 grams Trans Fat: 0 grams o Omg odtumr44m 4,1.', '1.2', '1.2', '6', '6', '0.25', '0', '0.2', '0.078740157480315', '', '1');
+VALUES ('8410060686502', 'Chorizo extra espagnol', '', '', '21', '7.3', '3.8', '3.8', '', '24', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935024123287', 'G7 coffee', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410060687202', 'JAMBON SERRANO RESERVA', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935024143353', 'Café Instantané Chaud Ou Froid', '', '2.5', '0', '12', '9', '', '1', '0.55', '0.216535433070866', '', '1');
+VALUES ('8410061175913', 'Jambon serrano espagnol bodega', '', '', '12', '4', '1.5', '1.5', '', '30', '5.2', '2.04724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935024145265', 'Gourmet Blend Ground Coffee', 'Coffee,natural and artificial flavors', '0', '0', '10', '10', '5', '5', '0.635', '0.25', '', '1');
+VALUES ('8410062000726', 'Gran Feudo', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8935024163542', 'Sang tao5', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8410062311983', 'Chivite RESERVA 2011 COLECCION 125 SINGLE VINEYARD GRANJA DE LEGARDETA', '', '', '', '', '', '', '', '', '', '', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8410062600377', 'Gran Feudo Ediciòn Crianza 2010', '', '', '', '', '', '', '', '', '', '', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8410063003030', 'Lomo de merluza', '', '', '', '', '', '', '', '', '', '', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8410063003870', 'Petits Merlus Blancs Pescan', '', '', '0.7', '0.16', '0.1', '0.03', '', '16.2', '0.4', '0.15748031496063', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8410063006710', 'Wafers alla vaniglia', '', '', '25', '23', '65', '29', '', '4.3', '0.33', '0.12992125984252', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8410063010427', 'Corazones de filete de merluza', 'Inqredientes: (Para H personas) • H torazones de Merluzq • 150 g de Angurihas • 1 puerro • 1 calabacin • G cucharadas de aceite de Oliva • 1 diente de ajo • 20g de avellanas • 1/2 cucharada de mostaza • 1 cucharada de vinagre de vino • sal.', '', '1.5', '0.3', '0', '0', '0', '15.8', '0.6', '0.236220472440945', '', '1');
 

@@ -1,2865 +1,2901 @@
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410071100981', 'Patatas fritas lisas &quot;Marinas&quot; Con pimienta y vinagre balsámico', 'Patata, aceite de girasol (35%), aroma natural pimienta y balsámico (4%) (preparados aromatizantes, maltodextrina, especias, colorante: extracto de pimentón (E-160c)) y sal.', '35.7', '4.1', '49.5', '1.9', '3.5', '6.1', '1.778', '0.7', '', '0');
+VALUES ('8012666012268', 'Yogurt Gusti assorti', '', 'https://static.openfoodfacts.org/images/products/801/266/601/2268/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410071101261', 'Patatas Fritas Onduladas Sabor Allioli Chovi', '', '40', '4.5', '45', '1.1', '', '7', '1.2', '0.47244094488189', '', '0');
+VALUES ('8012666012855', 'Besciamella', '', 'https://static.openfoodfacts.org/images/products/801/266/601/2855/front_en.9.400.jpg', '12', '8.2', '10', '4.2', '0.8', '3.1', '0.78', '0.307086614173228', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410071101278', 'Patatas Fritas Onduladas Sabor Barbecue Chovi 135 GR Vidal', '', '37', '4.3', '48', '1.5', '', '7.1', '0.83', '0.326771653543307', '', '0');
+VALUES ('8012666013975', 'Infuso camomilla setacciata', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410073000500', 'Maíz dulce en mazorca congelado &quot;Findus&quot;', 'Maíz dulce en mazorca', '0.6', '0.1', '14.2', '2.7', '1.9', '2.4', '0', '0', '', '1');
+VALUES ('8012666014231', 'Carrefour Mackerel Fillets In Olive Oil', 'Filetti di sgombro occhione (scomber Japonicus) in olio di Oliva (28%). Composizione Ingredienti: filetti di sgombro Occhione (Scomber japonicus), olio di Oliva, sale. Pescati nell\'Oceano Atlantico centro orientale con reti da circuizione- zona FAO 34.', '', '13', '2.3', '13', '2.3', '', '24', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('84100733', 'Original Oreo', 'Farine de BLÉ, sucre, huiles végétales (palme, palmiste), cacao maigre en poudre 4,6 %, amidon de BLÉ, sirop de glucose-fructose, poudre à lever (carbonate acide de potassium, carbonate acide d\'ammonium, carbonate acide de sodium), sel, émulsifiants (lécithine de SOJA, lécithine de tournesol), arôme (vanilline).', '20', '9.8', '69', '38', '2.5', '5', '0.95', '0.374015748031496', '', '0');
+VALUES ('8012666014484', 'Carrefour 4 Crepes Prosc / Forma', 'Ingredienti: farina di ga.LQ tenero tipo siero di reidratato, scremato reidratato, acqua, ugya, prosciutto cotto affumicato 6,6%, (coscia di suino, acqua, sale, destrosio da mais, aromi naturali, antiossidante: ascorbato di sodio, conservante: n\\tnto di sodio)t amido di mozzarella 2,8% sale, caglio), olio di semi di saie, tievito, zucchero, curcuma, paprika, correttore di acidità: acido citnco.', '', '4.1', '1.4', '24', '5.6', '2.4', '5.9', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076001320', 'Asperges vertes', 'Asperges vertes, eau, sel.', '0.5', '0.1', '1.1', '0.7', '1.4', '2.2', '0.8', '0.31496062992126', '', '1');
+VALUES ('8012666015474', 'Rigatini', '', '', '1.3', '0.3', '72', '3.2', '', '13', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076009036', 'Maíz dulce en grano en conserva', 'Maíz dulce, agua y sal.', '1', '0.2', '11', '5.5', '2.7', '2.5', '0.6858', '0.27', '', '1');
+VALUES ('8012666015948', 'Muffin con gocce di cioccolato', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076009043', 'Maíz dulce en grano en conserva - Pack de 3', 'Maíz dulce, agua y sal.', '1', '0.2', '11', '6.6', '2.7', '2.5', '0.6858', '0.27', '', '1');
+VALUES ('8012666016600', 'Pantacce', 'Semoule de _blé_ dur.', 'https://static.openfoodfacts.org/images/products/801/266/601/6600/front.13.400.jpg', '1', '', '73', '', '', '14', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076014641', 'hearts of palm', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666016624', 'Tagliatelle', 'Semoule de _blé_ dur.', 'https://static.openfoodfacts.org/images/products/801/266/601/6624/front.5.400.jpg', '1', '', '73', '', '', '14', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076350213', 'Salsa Dip Mild', 'Tomates 54%, eau, oignons 10,5%, concentré de tomates, poivrons 7%, sel, vinaigre, copeaux d\'oignons déshydratés, coriandre, oignon en poudre, piment Guajillo, sucre, jus de citron concentré, épaississant : gomme xanthane, ail, cumin, origan, poivre noir, colorant : extrait de paprika', '0.5', '0', '6.9', '3.9', '1.2', '1.4', '1.2', '0.47244094488189', '', '0');
+VALUES ('8012666017218', 'Anchovies Paste', 'Pasta di acciughe all\'olio di semi di girasole Composizione Ingredienti: acciughe 69%, sale, olio di semi di 10,5%, aromi SENZA GLUTINE.', '', '16.2', '2.8', '1.5', '0', '0', '18.2', '7.2', '2.83464566929134', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076350220', 'Sauce Apéritif Salsa Dip aux Oignons et aux Poivrons', 'Tomates (52 %), eau, oignons (10 %), concentré de tomates, poivrons verts (7 %), sel, vinaigre, épices, copeaux d\'oignons déshydratés, oignon en poudre, piment guajillo (0,4 %), sucre, jus de citron concentre, épaississant: gomme xanthane, ail en poudre, colorant: extrait de paprika.', '0.5', '0', '6.9', '3.9', '1.2', '1.4', '1.2', '0.47244094488189', '', '0');
+VALUES ('8012666017256', 'latte scremato Carrefour', '', 'https://static.openfoodfacts.org/images/products/801/266/601/7256/front_en.3.400.jpg', '0', '', '5.1', '', '', '3.3', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076410078', 'Taco sauce mild', 'Vann, tomatpuré 12 %, tomat 11 %, grønn chili 7 %, salt, tørket løk 1 %, modifisert maisstivelse, sukker, syre (sitronsyre), løkpulver, hvitløkspulver', '0.3', '0', '6.7', '1.4', '3.4', '0.9', '1.5', '0.590551181102362', '', '0');
+VALUES ('8012666017355', 'Sale Superfino Iodato', '', '', '0', '0', '0', '0', '', '0', '98', '38.5826771653543', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420008', 'Guacamole Mild Purée à l\'avocat finement épicée', 'eau, avocat (14%), tomates (10%), oignons (7%), farine de _blé_, préparation _fromagère_, _crème_, amidon transformé de maïs, huile de colza, flocons de pomme de terre déshydratés (contient des _sulphites_), purée d\'ail (contient des _sulphites_), extrait de _lactosérum_, _lactosérum_ en poudre, sel, épices (0,73%), jus de citron vert concentré (contient des _sulphites_), sucre, sirop de glucose déshydraté, correcteurs d\'acidité : glucono-delta-lactone, acide citrique; piment jalapeno déshydraté, herbes, dextrose, antioxygène : acide ascorbique, colorants: complexes cuivre-chlorophyllines, lutéine; extrait de levure, _caséinate_, ail en poudre.', '5.1', '1.8', '10.3', '3.7', '2.6', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666017829', 'biscocereale', '', 'https://static.openfoodfacts.org/images/products/801/266/601/7829/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420022', 'Oldelpaso Guacamole', '', '5.1', '1.8', '10.3', '3.7', '', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666020492', 'cous cous', '', '', '1.5', '', '70', '', '', '12', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420039', 'Old El Paso Guacamole Style Dip 320G', '', '5.1', '1.8', '10.3', '3.7', '2.6', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666020607', 'Carrefour Selection Prosciutto di Parma Stagionatura minimo 16 mesi', 'Carne di suino Sale', '', '15', '5', '0.5', '0', '0', '28', '5', '1.96850393700787', '0', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420237', 'Salsa Charra', 'Tomates, concentré de tomate, eau, haricots rouge Pinto (11%), oignons, maïs doux (8.4%), poivrons verts, piments Jalapeno, purée d\'ail, sel, vinaigre, jus de citron concentré, coriandre séchée, cumin, poivre noir, acide citrique.', '0.5', '0.1', '10.1', '4.2', '1', '2.2', '1.0414', '0.41', '', '0');
+VALUES ('8012666021208', '2 tramczzini collo e maionese', '', '', '17', '0', '0', '0', '', '9', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420268', 'Guacamole Style Medium', 'eau, avocat (14%), tomates (10%), oignons (7%), farine de froment, fromage frais, crème, amidon modifié de maïs (contient sulfites), huile de colza, flocons de pommes de terre (contient sulfites), purée d\'ail (contient sulfites), extrait de petit-lait, petit-lait en poudre, sel de cuisine, épices, concentré de jus de limes (contient sulfites), sucre (contient sulfites), sirop de glucose, correcteurs d\'acidité (glucono-delta-lactone, acide citrique), piments jalapeño, herbes aromatiques, glucose, antioxydant (acide ascorbique), colorants (complexes cuivriques de chlorophylles, lutéine), extrait de levure, caséinate (lait), ail en poudre.', '5', '2', '10', '3.5', '2.6', '2', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666023523', 'Tortelloni Ricotta E Spinaci', '', '', '5.7', '2.2', '5.5', '2.3', '', '23', '16', '6.2992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420336', 'Old El Paso Dip Cream &Paprika Douce', 'eau, crème (21%), poivrons rouges (8%), oignons, fromage, amidon modifié de mais, farine de blé, sel, paprika, piments déshydratés, purée d\'ail, arômes, correcteur d\'acidité : acide citrique, poivre noir', '8.1', '5.2', '6.7', '1.3', '0.5', '1.5', '1.6256', '0.64', '', '0');
+VALUES ('8012666023721', 'Confettura extra', '', '', '0', '0', '55', '55', '', '0.5', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420350', 'Salsa de Verduras Mild', '', '0.5', '0.5', '10', '4', '1', '2', '1', '0.393700787401575', '', '1');
+VALUES ('8012666023738', 'Confettura extra Ciliega', '', '', '0.5', '0', '55', '55', '', '0', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420428', 'Dip Cream & Paprika Douce', 'Eau, crème 21%, poivrons rouges 8%, oignons, fromage, amidon modifié de maïs, farine de blé, sel, paprika, piments déshydratés, purée d\'ail, arômes, correcteur d\'acidité : acide citrique, poivre noir', '8.1', '5.2', '6.7', '1.3', '0.5', '1.5', '1.6256', '0.64', '', '0');
+VALUES ('8012666025336', 'Bicarbonato di sodio', '', 'https://static.openfoodfacts.org/images/products/801/266/602/5336/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420541', 'Salsa épicée avec légumes en morceaux', 'Ingrédients : Tomates (67%), oignons (12%), poivrons verts (8%), concentré de tomates, sel, vinaigre, sucre, oignon en poudre, amidon modifié de maïs, jus de citron concentré, piment Guajillo, ail en poudre, épices (coriandre, cumin, poivre noir), origan, correcteur d\'acidité : acide citrique.', '0.5', '0', '7.5', '5', '2.1', '1.4', '1.397', '0.55', '', '0');
+VALUES ('8012666025985', 'Acqua minerale naturale', 'eau minérale naturelle', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420558', 'Sauce Salsa', '', '0.5', '0', '13.6', '10.4', '', '1.8', '1.5', '0.590551181102362', '', '0');
+VALUES ('8012666027002', '6 uova fresche categoria A', '', 'https://static.openfoodfacts.org/images/products/801/266/602/7002/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420565', 'Guacamole finement épicé', 'Eau, avocat 14%, tomates, oignons, fromage frais, crème, amidon modifié de maïs, huile de colza, flocons de pomme de terre, farine de blé, purée d\'ail, extrait de lactosérum, lactosérum en poudre, sel, épices (paprika, poivre de cayenne, cumin, coriandre, poivre noir, gingembre), jus de citron vert concentré, sucre, sirop de glucose déshydraté, correcteur d\'acidité : glucono-delta-lactone, acide citrique, piment Jalapeno déshydraté, herbes, dextrose, antioxydant : acide ascorbique, colorants (complexe cuivre-chlorophyllines, lutéine), extrait de levure, caséinate, ail en poudre', '6.3', '2.2', '7.4', '1.1', '2.4', '1.3', '0.98', '0.385826771653543', '', '1');
+VALUES ('8012666027408', 'Saumon de Norvège', '', '', '12', '2.5', '0.6', '0.6', '', '22', '2.9', '1.14173228346457', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420763', 'Salsa Guacamole Old El Paso', '', '5.1', '1.8', '10.3', '3.7', '', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666028054', 'Carrefour Chocolate And Hazelnut Biscuits', '', '', '', '18', '', '23', '3.5', '7.9', '0.38', '0.149606299212598', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420794', 'Guacamole', 'Eau, avocat (14%), tomates (10%), oignons (7%), farine de _blé_, préparation _fromagère_, _crème_, amidon transformé de maïs (contient des _sulfites_), huile de colza, flocons de pomme de terre déshydratés (contient des _sulfites_), purée d\'ail (contient des _sulfites_), extrait de lactosérum (_lait_), lactosérum en poudre (_lait_), sel, épices (0,73 %), jus de citron vert concentré (contient des _sulfites_), sucre (contient des _sulfites_), sirop de glucose déshydraté, correcteurs d\'acidité : glucono-delta-lactone, acide citrique; piment jalapeno déshydraté, herbes, dextrose, antioxygène : acide ascorbique, colorants: complexes cuivre-chlorophyllines, lutéine; extrait de levure, caséinate (_lait_), ail en poudre.', '5.1', '1.8', '10.3', '3.7', '2.6', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666028818', 'Carrefour Ditali Rigati', 'Farine de blé', '', '1.5', '0.3', '76', '3.8', '2.5', '13', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420961', 'Sauce apéritif Mexicanita', 'Tomates en morceaux (31 %), eau, sucre (contient _sulfites_), poivrons rouges, purée de tomate, vinaigre d\'alcool, oignons déshydratés (contient _sulfites_), amidon modifié de maïs, piment jalapeno (1,5 %), jus de citron vert concentré (contient _sulfites_), sel, coriandre en feuilles, correcteurs d\'acidité : acide citrique.', '0.5', '0', '30.4', '22.1', '1.5', '1', '0.4', '0.15748031496063', '', '1');
+VALUES ('8012666029372', 'Torta al cioccolato', '', '', '20', '9.8', '53', '25', '', '6', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076420992', 'Salsa Mexicana Sauce douce avec des tomates', 'purée de tomate (52%), eau, sucre, oignon en poudre, sel de cuisine, jus de citron concentré, vinaigre d\'alcool, épices, ail en poudre, coriander, correcteur d\'acidité (acide citrique).', '0.5', '', '14', '10', '2.5', '2', '1.5', '0.590551181102362', '', '0');
+VALUES ('8012666029969', 'Pane Alla Farina Integrale', '', '', '4.3', '0.8', '42', '4.5', '', '9', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421005', 'Salsa MEXICANA', 'tomates (67%), oignons (12%), poivrons verts (8%), pâte de tomate, sel de cuisine (1.3%), vinaigre d\'alcool, sucre, oignon en poudre, amidon modifié de maïs, jus de citron concentré, chili (0.4%), ail en poudre, épices, origan, correcteurs d’acidité (acide citrique)', '0.5', '0', '8', '5', '2', '1.5', '1.4', '0.551181102362205', '', '0');
+VALUES ('8012666030781', 'Funghi porcini', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421012', 'Dulce salsa', 'purée de tomates (52%), eau, sucre, oignon en poudre (2%), sel, jus de citron concentré, vinaigre, amidon modifié de maïs, épices, ail en poudre, coriandre en feuilles, correcteur dacidité: acide citrique.', '0.5', '0', '13.1', '12', '3.2', '1.6', '1.46', '0.574803149606299', '', '0');
+VALUES ('8012666031184', 'Carrefour Olio Extra Virgin', '', '', '92', '14', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421036', 'TACO Salsa HOT', '', '0.2', '0', '7', '3.4', '0.9', '2.4', '1.1', '0.433070866141732', '', '0');
+VALUES ('8012666037834', 'Vongole', '', '', '1.4', '0.6', '1.5', '0', '', '16', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421043', 'Taco Salsa', 'Tomates en morceaux 52 %, eau, concentré de tomates, piments verts 3.5 %, amidon de maïs modifié, oignons déshydratée 1 %, sel, sucre, correcteur d\'acidité ( acide citrique), paprika en poudre, oignon en poudre, ail en poudre.', '0.1', '0', '8.6', '4.3', '0.9', '1', '0.95', '0.374015748031496', '', '1');
+VALUES ('8012666039364', 'Bio Passata Rustica CRF', '', '', '0.5', '0.1', '6.1', '4.7', '', '1.4', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421098', 'Old El Paso Squeezy Sour Cream', 'Water, cream (43%), modified corn starch, cream cheese, natural flavourings, acidity regulator: lactic acid. For allergens, see ingredients in bold. We welcome your questions or comments O FREEPHONE 591 223(UK) 1800 535 115001) Best beiore end: see .SW?WELL a cool and dry place. Once opened, keep refrigerated and murne within 14 days.@General Mills. Made in Spain for Intemarlal M, Switertand General MillsUKPO.Box363', '14.8', '10.3', '7', '1.2', '0.5', '1.1', '0.11', '0.0433070866141732', '', '1');
+VALUES ('8012666040216', 'Carrefour Bio Mini Gallette Di Mais', '', '', '1.4', '0.2', '84', '0.5', '', '7.7', '0.38', '0.149606299212598', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421395', 'guacamole', 'urée à llavocat finement épicée Ingrédients. eau, avocat (14%), tomates (10%), oignons (7010), farine de blé, préparation fromagère, crème, amidon modifié de mdis (contient des sulfites), huile de colza, flocons de pomme de terre déshydratés (contient des sulfites), purée dail (contient des sulfites), eftait de lactosérum (lait), lactosérum en poudre (lait), sel, épices (0,73%), jus de citron ved concentre (contient des sulfites), de glucose lalapeno déshydraté, herbes, dextrose, antioxygène : y ascorbique, colorants. complexes cuivre-chlorophyllines, lutéine; extrait de levure, caséinate (lait), ail en poudre.', '5.1', '1.8', '10.3', '3.7', '2.6', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666040223', 'Galettes de Riz Croustillantes à l\'Avoine', '', '', '3.1', '0.6', '79', '0.8', '5.8', '8.6', '0.71', '0.279527559055118', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421401', 'Salsa', '', '0.5', '0', '6.8', '4.1', '', '1.5', '1.32', '0.519685039370079', '', '0');
+VALUES ('8012666040292', 'Carrefour Bio Tofu Naturale', '', '', '7.8', '1.3', '0.5', '0.5', '', '14', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421449', 'Guacamole', '', '5.1', '1.8', '10.3', '3.7', '', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666040315', 'Burger di tofu com miglio e soia', '', '', '11', '1.5', '12', '1.3', '', '7.3', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076421456', 'Guacamole', '', '5.1', '1.8', '10.3', '3.7', '', '1.8', '0.77', '0.303149606299213', '', '1');
+VALUES ('8012666041060', 'Carrefour Bio Cuor Di Fragola', '', '', '0', '0', '38', '36', '', '0.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076423009', 'Guacamole', 'Avocat 26%, petit pois, eau, tomate en morceaux 10%, oignons 8%, purée d\'ail 3,5%, amidon transformé de maïs, piment Jalapeno hydraté 1%, émulsifiant : glycérol, sel, sirop de glucose déshydraté, épices, correcteur d\'acidité : glucono-delta-lactone, sucre, dextrose, arômes, jus de citron concentré, exhausteur de goût : glutamate monosodique, correcteur d\'acidité : acide citrique, antioxygène : acide ascorbique, colorant : lutéine, émulsifiant : methylcellulose, ail en poudre, herbes, stabilisant : gomme guar, gomme xanthane, colorant : bleu brillant FCF', '4.8', '1', '8.5', '2', '3.6', '2.3', '1.4478', '0.57', '', '0');
+VALUES ('8012666041084', 'Confiture de framboises', '', '', '0', '0', '38', '36', '', '0.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076423023', 'Salsa Dip', 'Sauce Apéritif aux Oignons et aux Poivrons : tomates (52%), eau, oignons (10%), concentré de tomates, poivrons vert (7%), sel, vinaigre, épices, copeaux d\'oignons déshydratés, oignons en poudre, piment Guajillot, sucre, jus de citron concentré, épaississant : gomme xanthane, ail en poudre, colorant : extrait de paprika.', '0.5', '0', '6.9', '3.9', '1.2', '1.4', '1.2', '0.47244094488189', '', '0');
+VALUES ('8012666041091', 'marmellata ', '', 'https://static.openfoodfacts.org/images/products/801/266/604/1091/front_en.3.400.jpg', '0', '', '0', '', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076423047', 'Salsa De Queso Old El Paso', '— DE ROJO, QUESOY TOMATE pimientorojo Cheddar (8%), aceite de girasd, almidûl modificado de maiz, azz, suero en (leche, huevo), leche en en (l de tomate (l ,5%), de acidez acido licüco, âcido citrico; es—te: pecüna; extacto de levadura, puré de ajo, aromas, especias, emulge± de citratos de So, de dio; queso (0,1%), maltodeftina, tomate en harina de harina de frigo, colorante: eùacto de pimentén.', '6.6', '3', '6.7', '6.7', '1.7', '3.7', '2.13', '0.838582677165354', '', '0');
+VALUES ('8012666041107', 'Carrefour Bio Cuor Di Pesca 240G', '', '', '0', '0', '38', '36', '', '0.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076423054', 'Old El Paso Salsa Mexicana', 'Tomate (52 %), eau, oignon (10 %), concentré de tomate, poivre vert (7 %), sel, vinaigre d\'alcool, épices, flocons d\'oignon, oignon en poudre, piment Guajillo (0,4 %), sucre, jus de citron concentré, épaississant: gomme de xanthane;  poudre d\'ail, colorant: extrait de poivre.', '0.5', '0', '6.9', '3.9', '1.2', '1.4', '1.2', '0.47244094488189', '', '0');
+VALUES ('8012666041244', 'Drink avena', '', '', '1.6', '0.2', '6', '3.2', '', '0.3', '0.07', '0.0275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076430045', 'Sauce enchiladas', '', '3.7', '1.4', '8.5', '5.9', '', '1.7', '1.5', '0.590551181102362', '', '0');
+VALUES ('8012666041459', 'yogurt bianco', '', 'https://static.openfoodfacts.org/images/products/801/266/604/1459/front_en.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076430182', 'Cooking sauce for fajitas', '', '2.7', '0.3', '5', '5', '', '1.6', '1.45', '0.570866141732283', '', '0');
+VALUES ('8012666042753', 'Vasch. gel. yog. 0,1 F. bosco CRF', 'SCH Cornposizione Ingredienti: gelato aiio yogurt 83%: magro 33,2 % scremato reidratato; zuccher3 sciroppo di glucosio; olio di cocco; fibra armentare solubile; emulsionanti: mono- e digticeridi degli acidi grassi; addensanti: farina di semi di carube; gelatina alimentare; aroma. Variegatura ai frutti di bosco 12%: succo e purea di fruttj di bosco (succhi di frutti di bosco in proporzione vanabisïe: ribes rosso, ribes nero, fragole, more, mirtYdo; purea di fragola); zucchero; acqua; sciroppo di glucosio; fibra alimentare solubile; succo concentrato di barbabietole rosse} addensanti: farina di semi carrube; aromi, coloranti: antociani; acidificanti: acido citrico. Frutti di bosco allo sciroppo frutti di bosco in proporzione variabite (rizes rosso, ribes nero, fragole, mores mirtillt); scirappo', '', '5.9', '5.4', '30', '26', '3.5', '2.7', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076432513', 'Panadillas de blé', 'farine de blé, eau, stabilisant glycérol, huile de tournesol, poudres à lever: carbonate à cide de sodium, phosphate de calcium; émulsifiant mono- et diglycerides d\'acides gras, dextrose, sel.', '5.2', '0.9', '52.5', '1.8', '2.7', '8.5', '1', '0.393700787401575', '', '0');
+VALUES ('8012666044191', 'Carrefour Panettone Classic', 'Ingredienti: Farina di frumen!Q, uva sultanina 19%, hucco, tuorlo d\'uoya fresche, scorze d\'arancia candite 8% (scorze d\'arancia, sciroppo di glucosio-fruttosio, zucchero, correttore di acidità: acido citrico), zucchero, lievito madre naturale (contiene frumentQ), latte intero fresco pastorizzato, sciroppo di zucchero invertito, emulsionantit mono- e digliceridi degli acidi grassi, sale, aromi. Può contenere tracce di frutta a guscio, arachidi e doua.', '', '14', '7.5', '53', '29', '2.5', '6.7', '0.44', '0.173228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076460479', 'Chili con Carne Doux', 'Eau, boeuf (26%) (conservateur : nitrite de sodium), haricots rouges (23%), purée de tomate (12%), oignons, poivron rouge, poivron vert, épices et herbes (contient du _céleri_), vinaigre d\'alcool, amidon modifié de maïs, farine de _blé_, arôme (contient du _soja_), sel, sucre, exhausteur de goût : glutamate monosodique, stabilisant : gomme guar, colorant : extrait de paprika.', '2.6', '1.3', '10.9', '1.3', '1', '9.3', '0.63', '0.248031496062992', '', '1');
+VALUES ('8012666044641', 'Carrefour Baba Al Rhum 130G', 'Carrefour Babà al Rhum Babà (10,8%), inzuppato di salsa al rhum (66,1%), ripieno di crema (23,1%) Ingredienti: acqua, sciroppo di glucosio, babà 10,8% (farina di burro concentrato, Ijevito, sale, zucchero), rhum 4,3%, latte scremato in polvere, olio di cocco, tuorlo d\'uug, aroma naturale di rhum, stabilizzante: sorbitoli, amido di mais, addensanti: carragenina - gomma di xanthan, fibra vegetale da agrumi, emulsionante: mono- e digliceridi degli acidi grassi. Tenore in alcool: Dichiarazione nutrizionale: Valori medi per 100g: Energia 876kJ (208kcal); Grassi 4,8g (di cui acidi grassi saturi 3,4g); Carboidrati 34g (di cui zuccheri 20g); Fibre 1,0g; Proteine 2,5g; Sale 0,23g. %. AR: Energia 10%; Grassi (di cui acidi grassi saturi 17%); Carboidrati (di cui zuccheri 22%); Proteine 5%; Sale AR Assunzioni di riferimentc di un adultc medio (8400 kJ / 2000 kcal), al giorno. Dieta varia, equilibrata ed esercizio fisico!', '', '4.8', '3.4', '34', '20', '1', '2.5', '0.23', '0.0905511811023622', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076460677', 'Sliced Jalapeños - Pancho Villa', '', '0.5', '', '3.5', '1.5', '1.5', '1.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('8012666045327', 'Carrefour Bio Drink Mandorla', '', '', '5', '0.5', '4.6', '3.3', '', '1.9', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076460691', 'Chili con Carne', '', '2.6', '1.3', '10.9', '1.3', '1', '9.3', '0.63', '0.248031496062992', '', '1');
+VALUES ('8012666045761', 'Fette biscottate classiche', '', '', '7.6', '3.2', '73', '7.1', '', '10', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470126', 'Wrap Tortillas, Weizen', 'Farine de blé, eau, stabilisant (glycérol), huile de tournesol, émulsifiant (mono-et diglycérides d\'acides gras), dextrose, poudres à lever (carbonate acide de sodium, diphosphate disodique), sel de cuisine', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '0');
+VALUES ('8012666046058', 'Carrefour Biscotti Con Gocce Di Cioccolato', '', '', '19', '5.8', '69', '21', '', '7.1', '0.54', '0.21259842519685', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470386', 'Old El Paso 50% Extra Free 8PK Flour Tortillas', '* Referencc intakc of an avcrage (J 400 W\' 2 kc[&quot;)', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8012666046379', 'Soysì', 'p Ingredienti Estratto di soia* (acqua, semi di soia decorticati* 8,4% pari al 6,8% sul prodotto finito, zucchero di canna* 2,4% sul prodotto finito), preparazione di vaniglia* 19% (zucchero di canna* 1% sul prodotto finito, acqua, amido di mais*, estratto di vaniglia* 0,55% pari allo 0,1 % sul prodotto finito, aromi naturali, addensante: pectine, correttore di acidità: acido citrico), Streptococcus thermophilus e Lactobacillus bulgaricus. *Biologico. SENZA GLUTINE. Naturalmente privo di lattosio come tutti i prodotti vegetali a base di soia. Conservazione', '', '1.9', '0.3', '13', '12', '', '3', '0.18', '0.0708661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470485', '6 wraps de blé nature', '6 galettes de blé souples nature: Ingrédients farlne de blé, eau, stabilisant glycérol, huiles végétales (palme et colza) en proportion variable, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever: carbonate acide de sodium, diphosphate disodique ; sel.  ', '5.2', '2', '53.7', '2.5', '1.9', '8.5', '1', '0.393700787401575', '', '0');
+VALUES ('8012666048298', 'Carrefour Biscocereali Frutta', '', '', '17', '1.8', '62', '21', '', '9.1', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470492', 'Soft Tortillas, Weizenmehl', '', '5', '1', '53', '2', '2', '9', '1', '0.393700787401575', '', '1');
+VALUES ('8012666048304', 'Biscocereale', '', '', '16', '1.4', '69', '18', '', '7.8', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470553', 'Sauce à cuisiner Fajitas Original', 'eau, tomates en morceaux (21%), concentré de tomate, poivrons verts (6%), poivrons rouges (6%), oignon (5%), assaisonnement (sucre, protéines hydrolisées de _soja_, arôme (contient du _blé_), arôme de fumée, sel, oignon en poudre, correcteur d\'acidité : acetate de sodium, acide citrique, sel marin, poivre de Cayenne, gingembre, paprika, ail, extrait de levure), amidon modifié de maïs, correcteur d\'acidité : acide citrique.', '50', '0.2', '6.6', '3.7', '2.7', '1.3', '0.95', '0.374015748031496', '', '0');
+VALUES ('8012666048489', 'Edamame', '', '', '5.1', '0.9', '2.9', '2.1', '', '8', '0.69', '0.271653543307087', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470584', 'Tortillas Mexicanas De Trigo', '', '5.2', '1.2', '53.2', '2.1', '', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8012666049059', 'Carrefour Cioccolato Fondente Madagascar 71%', 'Ingredienti: Cacao di provenienza Madagascar in pasta (62%), zucchero, burro di cacao, estratto di vaniglia. Pub contenere tracce di: frutta a guscio, latte e derivati. SENZA GLUTINE.', '', '43', '26', '36', '28', '9.8', '8.9', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470744', 'Tortillas Wraps', '', '6', '1.5', '46.6', '3', '', '8.3', '1', '0.393700787401575', '', '1');
+VALUES ('8012666049684', 'Lait riz coco', '', '', '1.2', '1.1', '11', '4.4', '', '0.3', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470751', 'Tortillas', '', '6', '1.5', '46.6', '3', '', '8.3', '1', '0.393700787401575', '', '1');
+VALUES ('8012666050581', 'Biscotto con farina integrale Di farro', '', '', '16', '1.9', '66', '18', '', '8.6', '0.54', '0.21259842519685', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470775', 'Fajitas Kit', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666051236', 'Yogurt greco', '', '', '0', '0', '4.7', '4', '', '9.6', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470812', 'Wrap blé complet', 'Mélange de farines (58,5%) (farine de _blé_, farine de _blé_ complet (18%), son de _blé_ (9%)), eau, stabilisant : glycérol, huiles végétales (palme et colza) en proportion variable, émulsifiant: mono- et diglycérides d\'acides gras, dextrose, poudres à lever: carbonate acide de sodium, diphosphate disodique ; sel.', '6', '1.5', '46.6', '3', '6.4', '8.3', '1', '0.393700787401575', '', '0');
+VALUES ('8012666051441', 'Biscotto con fiocchi di farro', '', '', '18', '2.2', '62', '16', '', '10', '0.57', '0.224409448818898', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470874', '6 wraps blé complet', '', '6', '1.5', '46.6', '3', '', '8.3', '1', '0.393700787401575', '', '1');
+VALUES ('8012666052196', 'Boisson riz coco', '', '', '1.2', '1.1', '11', '4.4', '', '1', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076470898', 'Quesadilla Kit', 'Soft Corn Tortillas (335g): Corn flour (27%), water, Wheat flour, stabiliser: glycerol; Wheat gluten, sunflower oil, dextrose, raising agents: sodium acid pyrophosphate, sodium bicarbonate; emulsifier: mono- and diglycerides of fatty acids; salt, preservative: potassium sorbate; acid: citric acid. Packaged in a protectve atmosphere. Seasoning Mix for Quesadillas (26 g): Dehydrates vegetables: tomato, garlic, onion; salt, sugar, spices (11 %)(cumin, black pepper, cayenne pepper (2.5%), Chilli pepper, chipotle), dried glucose syrup, yeast extact, natural flavouring, spice extract: paprika. Thick \'n\' Chunky Salsa (144g): Tomato (61 %), onions (16%), green peppers (1 0%), tomato paste, salt, vinegar, onion flakes, sugar, onion powder, lemon juice concentrate, guajillo pepper, garlic powder, spices, acidity regulator: citric acid. For allergens, see ingredients in bold.', '3.4', '0.5', '38.6', '6', '2.4', '6.6', '2.22', '0.874015748031496', '', '0');
+VALUES ('8012666500147', 'Cantucci della Toscana', '', 'https://static.openfoodfacts.org/images/products/801/266/650/0147/front.3.400.jpg', '19', '3.2', '60', '30', '', '10', '0.15', '0.0590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471123', 'Kit Fajitas', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666500239', 'Ragù Toscano di carne chianina', '', '', '9.9', '3.3', '2.2', '1.8', '', '16', '0.92', '0.362204724409449', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471130', 'Kit pour Fajitas Tomates et poivrons', 'Tortillas de blé souples Salsa (326 g) : Farine de blé (57%), eau, stabilisant : glycérol, huile végétale, assaisonnement « salsa » (2,3%) (légumes déshydratés (tomate, paprika, ail, oignon), sel, sucre, épices (graine de piment, poivre noir cumin, poivre blanc, gingembre,graine de coriandre), acidifiant : acide citrique, extrait d\'épice (paprika), origan, arômes), poudre à lever : carbonate acide de sodium, diphosphate disodique, émulsifiant : mono, et diglycérides d\'acides gras, dextrose ,sel, conservateur : sorbate de potassium. Sauce aux tomates et poivrons (144 g) : Tomates en morceaux (62%), oignons, poivrons verts (10%), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydratés, oignon en poudre, jus de citron concentré, épices, ail en poudre, piment jalapeno fumé, feuilles de coriandre, arôme, arôme de fumée, tomates cuites en poudre, correcteur d\'acidité : acide citrique. Assaisonnement pour Fajita tomates et poivrons (30 g) : légumes déshydratés (tomate, oignon, ail, poivron rouge, sel, sucre, maltodextrine, épices (8,5%) (poivre noir cumin, paprika, arômes, arôme de fumée, tomate cuite en poudre, correcteur d\'acidité : acide citrique, extrait d\'épice.', '5.1', '2', '40.1', '4.5', '2.6', '6', '2.49936', '0.984', '', '0');
+VALUES ('8012666500260', 'Rag Toscano Di Cinghiale', 'Ragù di cinghiale. Ingredienti: carne di cinghiale (60%), doppio concentrato di pomodoro, vino rosso, olio extra vergine di Oliva, carote, cipolle, sedano, sale, lauro, bacche di ginepro, chiodi di garofano. Pub contenere tracce di frutta a guscio, Pesce e soia, SENZA s.p.A.Vla Caldera, 21 - 20153 Milano, Prodotto e confezionato da TRIGLIA S.r.L nello stabilimento di Ma Salcetti 39 20Cge 56010 Nodica (PP DACONSUMARSi', '', '10', '2.3', '1.5', '1.3', '2.8', '15', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471161', 'Kit pour enchiladas', '', '2.9', '0.9', '33.1', '6', '3.4', '5.6', '1.04', '0.409448818897638', '', '0');
+VALUES ('8012666500338', 'Pistokeddos di Sardegna', '', 'https://static.openfoodfacts.org/images/products/801/266/650/0338/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471178', 'Fajita kitt Smoky BBQ', '', '3.6', '0.8', '40.3', '6.2', '', '6.7', '2.04', '0.803149606299213', '', '0');
+VALUES ('8012666500376', 'Baba di Napoli al Rum', '', '', '4.1', '1.9', '38', '28', '', '2.6', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471215', 'Hearty Burrito Kit - Beet and bean chilli (mild)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666500406', 'T. d. i Pizzoccheri Della Valtellina', '', '', '1.9', '0.4', '67', '2.5', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471222', 'Enchilada Kit', '', '2.9', '0.4', '32', '5.5', '3.3', '5.6', '1.13', '0.444881889763779', '', '0');
+VALUES ('8012666501519', 'Terre D\' Italia Oil Extra Virgin Sardegna', '', '', '91.6', '15', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471239', 'Old El Paso 8 Super Soft Tortillas Corn', 'Corn fiour (27%), water, wheat flour, stabiliser: glycerol, wheat gluten, sunflower oil, dextrose, raising agents: sodium acid pyrophosphate, sodium bicarbonate,\' emulsifier: mono- and diglycerides of fatty acids; salt, preservative: potassium sorbate; acid: citric acid.', '4.8', '0.7', '51.8', '4.4', '2.4', '8.5', '0.95', '0.374015748031496', '', '0');
+VALUES ('8012666501595', 'Pane guttiau', 'cONSUMARSl PREFERIBILMENTE ENTRO pane di semotato,ieâola Sfàl}ina ii duro con olio extr vergine d\'oliva Sardegna D.O.P. (11 e sale, Ingredienti: semolato rimacinato di grano duro (61%), semola di ggng duro (15%), farina di grano duro (15%), olio extra vergine d\'oliva Sardegna sale (2,7%), lievito di birra GS 21 20153 Milano - Prodotto e confezionato da S.F. sARD.A.PAN. .s.r.L -Via paw,-oni 119 - Lanusei (OC) di Via Costa e cocco 8110 - Lanusei (OC)', '', '6.3', '1.1', '71', '1.7', '2.8', '11', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471246', 'Fajita Kit', '', '3.7', '0.8', '40', '6.1', '1.8', '6.8', '2.07', '0.81496062992126', '', '0');
+VALUES ('8012666501632', 'Terra d\'italia', 'semola di granno duro, acqua', 'https://static.openfoodfacts.org/images/products/801/266/650/1632/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471260', '8 tortillas de maïs souples', 'Farine de maïs (27%), eau, farine de blé, stabilisant (glycérol), gluten de blé, huile de tournesol, dextrose, poudre à lever (diphosphate disodique, carbonate acide de sodium), émulsifiant (mono- et diglycerides d\'acides gras), sel de cuisine, conservateur (sorbate de potassium), acidifiant (acide citrique).', '4.8', '0.7', '51.8', '4.4', '2.4', '8.5', '0.95', '0.374015748031496', '', '0');
+VALUES ('8012666501649', 'Terre D\'italia Mafalde Di Napoli', '', '', '1.3', '0.2', '73', '3.3', '2.7', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471277', 'Enchilada Kit CHEESY BAKED MILD', '', '2.9', '0.4', '31.9', '5.4', '3.2', '5.6', '1.01', '0.397637795275591', '', '0');
+VALUES ('8012666501908', 'Pane Carasau di Sardegna', '', '', '1.7', '0', '72', '3', '', '12', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471383', 'Whole wheat', '', '6', '1.5', '46.6', '3', '6.4', '8.3', '1', '0.393700787401575', '', '1');
+VALUES ('8012666501953', 'Terre D\'itala Zampone 1KG', 'Zampone Modena ICP cotto Ingredienti: carne di suino, cotenna, grasso suino, piante aromatiche, aromi naturati, antiossidante: ascorbato sodio, conservante: nitrito di sodio. Senza gtutine.', '', '23', '6.7', '0', '0', '0', '22', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471451', 'Kit pour Crousti\' Fajitas avec Chapelure Croustillante', 'Tortillas de blé nature (326g) : farine de blé (59%), eau, huile végétale, stabilisant : glycérol, poudre à lever : (carbonate acide de sodium, diphosphate disodique), émulsifiant : mono et diglycérides d\'acides gras, dextrose, sel, conservateur : sorbate de potassium - Sauce Original salsa (144g): tomates (61%), oignons, poivrons verts (10%), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydraté, sucre, oignon en poudre, jus de citron concentré, piment Guajillo, ail en poudre, épices, correcteur d\'acidité : acide citrique - Chapelure assaisonnée (85g) : chapelure (farine de blé, son, levure, sel, colorant : annatto, extrait de paprika), sel, arômes, épices (3,5%) (paprika, poivre noir), oignon déshydraté, extrait de levure. ', '7.8', '2.9', '40.3', '4.1', '1.7', '7.5', '2.0828', '0.82', '', '0');
+VALUES ('8012666502356', 'taralli lunghi di Barletta ', 'farina di grano tenero tipo &quot;00&quot;, vino bianco, olio di oliva 16%, sale, lievito', 'https://static.openfoodfacts.org/images/products/801/266/650/2356/front.10.400.jpg', '18', '3.1', '63', '1.3', '3.4', '10', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471468', 'Pancho Villas Tortillas', '', '6', '2', '47', '3', '6', '8', '1', '0.393700787401575', '', '1');
+VALUES ('8012666502363', 'Tarallini', '', '', '18', '3.1', '63', '1.3', '', '10', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471536', 'Kit pour fajitas aux épices douces', '', '6.1', '2.5', '42.4', '5.6', '2.4', '6.6', '1.57', '0.618110236220472', '', '0');
+VALUES ('8012666502400', 'Taralli Tondi', 'Farina di grano tenero tipo&quot;OO&quot; olio di oliva (16%), vino bianco, sale semi di finocchio (0,6%)lievito', 'https://static.openfoodfacts.org/images/products/801/266/650/2400/front.4.400.jpg', '18', '3.1', '63', '1.3', '3.4', '10', '2.24', '0.881889763779528', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471543', '263G Fajita Kit PR 2 Old El Pay', 'Galetes de bié souples naÙes (163g) : farine de blé, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras, demse, poudres à lever carbonate acide de sodium, diphosphate disodique; sel. Conditionnées atnosphère protectice Sauce Original (85g) : tomates (61 %), oignons (16%), poivrons verts (10%), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydratés, sucre oigrm en poudre, jus de citron concenté, piment Guajillo (0,4%), ail en poudre, épices, correcteur d\'acidité : acide citrique. Mélange au épices pour Fajita (15g) : sucre, légumes déshydratés (oignon, ail), sel, arômes, arôme de fumée, protéines hydrolysées de soja, épices (5,5% (poivre w, piment de Cayenne, gingembre), correcteurs d\'acidité : acétate de sodium, acide cmque ; extrait de levure, colorant : caramel ordinaire. Allergènes : voir les ingrédients en gras.', '3.5', '0.8', '38.3', '6.1', '1.9', '6.5', '2.3', '0.905511811023622', '', '0');
+VALUES ('8012666502431', 'Sugo All\' Aglione Tdi', '', '', '2.7', '0.4', '8.6', '5.1', '', '1.4', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471574', 'Kit pour Fajitas aux épices douces', 'Tortillas de blé nature 326g (farine de blé, eau, huile végétale, stabilisant : glycérol, poudre à lever : carbonate acide de sodium, diphosphate disodique, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, sel, conservateur : sorbate de potassium), sauces aux épices douces 144g (concentré de tomates, eau, crèmes, sucre, huile de tournesol, arômes, arôme de fumée, jus de citron concentré, sel, épices (cumin, coriandre, poivre noir), amidon modifié de maïs, oignon et ail en poudre, coriandre en feuilles, mélange d\'aromates 6g (sel, maltodextrine de pomme de terre, sucre, arôme (contient de l\'orge et de la moutarde), oignons en poudre, ail en poudre, fructose, persil en feuilles, correcteur d\'acidité : acide citrique, épices, stabilisant : gomme arabique', '11', '4.4', '38.2', '5.5', '2.9', '7.4', '2.1336', '0.84', '', '0');
+VALUES ('8012666502677', 'Garganelli dell\'emilia', '', '', '3.5', '1.2', '69', '2.2', '', '14', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471581', 'Crispy Chicken Fajita Kit Old Paso 555gr, 1 Paquet', 'Tortillas de farine de blé souples (326 g) : Farine de froment eau, stabilisant (glycérol), huiles de tournesol, émulsifiant (mono- et diglycéride diacides gras), dextrose, poudres à lever (carbonate acide de sodium, diphosphate disodique), sel de cuisine. Conditionné sous atmosphère protectrice. Salsa aux tomates (144 g) : Tomates 61 %, oignons 16%, poivrons verb 1 0%, pâte de tomate, sel de cuisine, vinaigre d\'alcool, flocons dloignons, sucre, oignon en poudre, jus de citron concentré, chili, ail en poudre, épices, correcteur dlacidité (acide citrique). Mélange aux épices avec croûtons (85 g) : Chapelure (contient du blé), sel de cuisine, arômes, épices (paprika, poivre noir), oignons déshydratés, extait de levure. Allergènes : voir les ingrédients en gras.', '3.6', '0.8', '43.6', '3.7', '2.5', '7.4', '1.47', '0.578740157480315', '', '0');
+VALUES ('8012666503773', 'Carciofi di Puglia interi sott\'olio', '', '', '13', '2.1', '1.3', '1.2', '', '2.8', '0.82', '0.322834645669291', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471598', 'Fajita Kit  Crispy  Chicken', '', '3.5', '1.5', '44', '4', '2.5', '7', '1.5', '0.590551181102362', '', '0');
+VALUES ('8012666504176', 'Amaretti', '', '', '21', '1.6', '58', '57', '', '8.6', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471604', 'Old el paso tortillas de trigo', '', '5.2', '1.2', '53.2', '2.1', '', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8012666504329', 'Baci di dama del piemonte', '', '', '35', '18', '53', '24', '', '7.7', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471642', 'Kit pour Burritos Original', 'Galettes de blé souples natures (326g) : farine de _blé_, eau, stabilisant: glycérol, huiles végétales (palme & colza) en proportion variable,émulsifiant : mono et diglycérides d\'acides gras, dextrose, poudre à lever: carbonate acide de sodium, diphosphate disodique, sel. Sauce Original salsa (144g) : tomates (61%), oignons (16%),  poivrons verts (10%), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydratés, sucre, oignons en poudre, jus de citron concentré, piment guajillo (0,4%), ail en poudre, épices, correcteur d\'acidité : acide citrique. Mélange aux épices pour Burritos (40g) : haricots rouges en poudre, légumes déshydratés (oignons, poivrons, ail) amidon de pomme de terre, épices (11,6%) (piment chili, paprika, cumin, poivre noir), sel, sirop de glucose déshydraté, extrait de levure, arôme, sucre, correcteur d\'acidité : acide citrique, colorant,: betterave rouge, extrait d\'épice (paprika), origan.', '3.8', '1.3', '40.4', '3.6', '2.3', '6.7', '1.83', '0.720472440944882', '', '0');
+VALUES ('8012666504671', 'Miele di arancio', '', '', '0', '0', '80', '80', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471697', 'Old El Paso Extra Mild Enchilada Kit 585G', '', '5.7', '2.2', '33.3', '4.2', '', '5.8', '1.25', '0.492125984251969', '', '0');
+VALUES ('8012666504893', 'Gelatine agli agrumi', 'limone, mandartno. Ingredienti: Zucchero, sciroppo di glucosio, succo di frutta (arancia 10%* limone 10%* mandarino 10%*), gelificante: pectine, acidificante: acido citrico, aromi naturali, colorante: estratto di paprica (nel gusto arancia e nel gusto mandarino), estratto di cartamo (nel gusto limone). * riferito alla corrispondente caramella. SENZA GLUTINE', '', '0.5', '0.1', '85', '72', '0.8', '0.5', '0.19', '0.0748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471710', 'Old El Paso Kit Burritos', '', '3.8', '0.8', '39.5', '3', '', '7.1', '2.18', '0.858267716535433', '', '0');
+VALUES ('8012666520015', 'Olio Extra Vergine di Olivia', 'Huile d\'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.', '', '91.6', '14.1', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471826', 'Kit pour gratinado', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666520039', 'Huile d\'olive vierge extra', '', '', '91.3', '13.3', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471857', 'Kit pour poelee d\'Oaxaca au chili et a l\'ail OLD EL PASO', 'dans ce kit) contient 780 kJ/ 184 kcal 1.1 g 0.2 g 38.2 g 3.4 g 2.5 g 4.2 g 2.32 g', '1.2', '0.2', '43.1', '3.8', '2.8', '4.7', '2.61', '1.02755905511811', '', '0');
+VALUES ('8012666520060', 'Canestrelli della Liguria', 'Farine de _blé_, _beurre_ 25%, sucre,jaune d’_œuf_, blanc d’_œuf_.     ', '', '26', '18', '64', '29', '2.7', '5.7', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076471901', '8 soft mini tortillas', 'Farine de blé, eau, s+âbi[tsant (glycérol), de tournesol, émulsifiant (mono-et dycérice: diacides gras), dextrose, poudres à lever (caiotâte acide de sdum, dphosphate disodique), sel de cuisine, Conditionne socs atmosphère protectrice, Al!ergènes : voir les ingrédenb en gras. Conserver dans un endroit frais et secs Une fois le produit ouvert, bier l\'?fermer conserver au réifigérateor et mommer dans les 3 jours, Peut être congelé. A décongeler complètement avant Ne pas recongeler un pcodüÌt décongeE 8 morbide tottiilas di farina di frumentG Farina di acoua, stahihzzante (c*lc). ciii di', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '0');
+VALUES ('8012666520077', 'Amaretti morbidi', 'suce. (28%), amandes d\'abeinb ameres 10%, blanc d\'œuf, conservateur. Wbate de potassium. Peut contenir des traces d\'autres fruits a cqae,Sansg1uten.', '', '21', '1.6', '58', '57', '3', '8.6', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472083', 'Old El Paso Whole Wheat Tortilla 326G', '', '6', '1.5', '46.6', '3', '', '8.3', '1', '0.393700787401575', '', '1');
+VALUES ('8012666520084', 'Torcelli Della Serra', '', '', '', '19', '', '29', '1.5', '7.4', '0.46', '0.181102362204724', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472106', 'Kit pour tacos avec Panadillas', 'Galettes de _blé_ nature (193 g): farine de _blé_, eau, stabilisant: glycérol, huile de tournesol, poudres à lever: carbonate acide de sodium, phosphate de calcium; émulsifiant: mono- et diglycérides d\'acides gras, dextrose, sel. Sauce pour Taco (127 g): tomates en morceaux (51 %), eau, concentré de tomates (10 %), piments verts, amidon modifié de maïs, oignons déshydratés, sel, sucre, correcteur d\'acidité : acide citrique, épices (paprika, oignon en poudre, ail en poudre). Mélange aux épices pour Taco (25 g): épices (33 %) (paprika, cumin, chili), légumes déshydratés (oignon, ail), sel, maltodextrine, amidon, herbes (origan, marjolaine), extrait de levure, extrait de paprika.', '4.4', '0.6', '35.4', '3', '2.3', '5.8', '2.24', '0.881889763779528', '', '0');
+VALUES ('8012666520091', 'Paste di meliga', 'farine de blé 33%, sucre, beurre, farine de maïs 18%, oeufs, miel, poudres à lever (diphosphate disodique, carbonate acide de sodium), amidon de blé, sel, arômes. Peut contenir des traces de Fruits à coque et Soja.', '', '25', '17', '63', '26', '1.8', '6.5', '0.85', '0.334645669291339', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472113', '8 Panadillas de blé', 'Farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, poudres à lever : carbonate acide de sodium, phosphate de calcium ; émulsifiant : mono- et diglycérides d\'acides gras, dextrose, sel.', '5.2', '0.9', '52.5', '1.8', '2.7', '8.5', '1', '0.393700787401575', '', '0');
+VALUES ('8012666520114', 'Confiture de fraise', 'fraises, sucre, jus de citron, gélifiantr., preparé avec 70g de fruits pour 100g. Teneur suces 45g pour 100g. @Vruchtenbereiding: Aardbeien van Basilica Ingrediënten: aardbeien, suiker, citroensap, pectine Bereid met 702 vruchten per aan suikers 45g per 105g. Valeurs nutritionnelles moyennes pour I Gemiddelà saturés/waarvan verzadigde vetzuren b) b; Glucidesf (oolhydraten (g) 45\' dontsucres / waarvan suikers alimentaires /vezelség) 1,1; Protéines / la teneur en sel est exclusivement due à la présent naturellement Het zoutgehalte is te schrijven aan van nature voorkomend natriun (1 çonsommer de préférence avant fin: voir couvercleF mnste houdbaar tot einde : zie deksel 116 - Italie / Italjë. e 34? Produit en Italie / Ceproduceerd in Italië', '', '0', '0', '45', '43', '1.1', '0.6', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472120', 'Kit pour tacos avec panadillas', 'Tortillas de blé nature 193 g : farine de blé, eau, glycérol, huiles végétales en proportion variable (palme et colza), carbonate acide de sodium, pyrophosphate acide de calcium, phosphate de calcium, mono- et diglycérides d\'acides gras, dextrose, sel, sorbate de potassium. Sauce pour taco 127 g : tomates en morceaux 51 %, eau, concentré de tomates 10 %, piments verts, amidon modifié de maïs, oignons déshydratés, sel, sucre, acide citrique, épices (paprika, oignon en poudre, ail en poudre). Mélange aux épices pour taco 25 g : épices 33 % (paprika, cumin, chili), légumes déshydratés (oignon, ail), sel, maltodextrine, amidon, herbes (origan, marjolaine), extrait de levure, extrait de paprika. Mélange aux épices pour guacamole 10 % : légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices 9 % (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, acide citrique, herbes (origan, persil), extrait d\'épice (poivre).', '3.4', '0.6', '36.3', '3.7', '2.3', '5.8', '2.22', '0.874015748031496', '', '0');
+VALUES ('8012666520121', 'Confiture', '', '', '0', '0', '44', '44', '', '0.6', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472151', 'Tortillas Mexicanas Barquitas Old El Paso', '', '5.2', '0.9', '52.2', '1.8', '', '8.5', '1', '0.393700787401575', '', '1');
+VALUES ('8012666520138', 'Confitura extra di ciliegie', 'reparation de fruits: Cerises de Veneto, 70g de fruits pour 100g. Teneur', '', '0', '0', '47', '47', '1.6', '0.8', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472175', 'Stand \'N Stuff Soft Tortillas Flour', 'Farine de blé, eau, stabilisant (glycérol), huile de tournesol, poudre à lever (carbonate acide de sodium, phosphate de calcium), émulsifiant (mono et diglycerides d\'acides gras), dextrose, sel.', '5', '1', '53', '2', '3', '9', '1', '0.393700787401575', '', '0');
+VALUES ('8012666520145', 'Cantucci de Toscane', 'farine de blé 36%, sucre, amandes 22%, oeufs, jaune d\'oeuf, beurre miel, lait demi-écrémé, poudre à lever: carbonates d\'ammonium, sel, arômes. Peut contenir des traces de soja.', '', '19', '3.2', '60', '30', '3.2', '10', '0.15', '0.0590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472212', 'Stand \'N Stuff soft taco kit', '', '4.4', '0.6', '35.4', '3', '2.3', '5.8', '2.24', '0.881889763779528', '', '0');
+VALUES ('8012666520169', 'Confiture de figue', 'de ftuits: jus de\' fruits 100}\' 458 pour Mit hlCt vtuçhten suikc 000 Ntfit;onnelles / CjcnliddcldQ per 100g. grasses / Vettdn dont ides Étid/i13àfiMserzadi Clltl(idcs / sel est', '', '0', '0', '45', '38', '2.3', '0.7', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472243', 'Kit pour Enchiladas au Four', 'Tortillas (335 g) : Farine de maïs, eau, farine de _blé_, stabilisant : glycérol, _gluten de blé_, huile de tournesol, dextrose poudre à lever : diphosphate disodique, carbonate acide de sodium, émulsifiant : mini et diglycérides d\'acides gras, sel, conservateur : sorbate de potassium, acidifiant : acide citrique. Sauce tomate (300 g) : eau concentré de tomate, correcteur d\'acidité : acide citrique. Mélange pour épices (22 g) : chapelure, _blé_, épices, piment chili, paprika, piment de Cayenne, cumin, poivre . noir, sel, légumes déshydratés (oignon, ail, farine de _blé_, dextrose, sucre, maltodextrine, extrait d\'épice paprika, origan, colorant caramel ammoniacal.', '2.9', '0.4', '32', '5.5', '3.3', '5.6', '1.13', '0.444881889763779', '', '0');
+VALUES ('8012666520176', 'Marmelade aux oranges de Sicile', 'oranges (pulpe, jus et zeste), gélifiant : pectines.', '', '0', '0', '59', '59', '1.3', '0', '0.0299999999999999', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472250', 'Kit pour Fajitas Original (maxi format)', 'Galettes de blé souples nature (489g) : farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever: carbonate acide de sodium, diphosphate disodique, sel. Sauce Original salsa (216g) : tomates (61%), oignons (16%), poivrons verts (10%), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydratés, sucre, oignon en poudre, jus de citorn concentré, piment Guajillo (0,4%), ail en poudre, épices, correcteur d\'acidité : acide citrique. Mélange aux épices pour Fajita (45g) : sucre, légumes déshydratés (oignon, ail), sel, arômes, arôme de fumée, protéines hydrolysées de _soja_, épices (5,5%) (poivre noir, piment de Cayenne, gingembre), correcteurs d\'acidité : acétate de sodium, acide citrique; extrait de levure, colorant: caramel ordinaire.', '3.7', '0.8', '40', '6.1', '1.8', '6.8', '2.07', '0.81496062992126', '', '0');
+VALUES ('8012666520183', 'Marmelade au citron de Sicile', 'Citron (pulpe, jus et zeste), sucre, gélifiant : pectines. Préparé avec 80 g de fruits pour 100 g. Teneur totale en sucres : 55 g pour 100 g. ', '', '0', '0', '56', '56', '1.2', '0', '0.0299999999999999', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472267', 'Kit pour burritos Original doux', 'Galeta de blé souples naÙres (48%) : de blé, eau, Obilisant : glycérol, huile de tournesol, émulsifiant : mono- et digtycérides d\'acides gras, defr* pasdre à Iwer. arbonate acide de sodium, diphosphate ddjque ; sel. Conditionnées sous atmosphère protectice. Saxe Original sale (216g) : mates (61 oigm (16%), poivrons vert (1 0%), concenté de tomate, sel, vinaigre, copeaux d\'oigrms dShydratés, sure, oigrm en potÀre,jt-B de cmn concenté, piment Guajllo (0,4%), ail en poudre, épices, correcteur dlacidité : acide citique. Méknge aux épices pu Buritos (60g) : harbob rouges en poudre, légumes déshydratés (oigrm, poivron, ail), amidon de pomme de terre, épices (11 Yo) (piment tlili, paprika cumin, poivre noir), sel, sirop de glucose déshydraté, extait de levure, arôme, sucre, correcteur d\'acidité : acide mue, col?ant : betterave rue, extrait dépjce (papnva), mn. Allergènes : voir les ingrédient en gras.', '3.8', '0.8', '40.1', '3.4', '2.1', '7.1', '1.83', '0.720472440944882', '', '0');
+VALUES ('8012666520190', 'Tagliatelle dell\'Emilia', '', 'https://static.openfoodfacts.org/images/products/801/266/652/0190/front_en.3.400.jpg', '4.3', '1.6', '68', '2.8', '', '15', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472304', 'Authentic Mexican Fajita Kit Medium', '', '4', '1.5', '42', '6', '2', '6', '2.2', '0.866141732283465', '', '0');
+VALUES ('8012666520206', 'Fettucine dell’Emilia', 'semoule de blé dur, œufs 28,3%.', '', '4.3', '1.6', '68', '2.8', '2.8', '15', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472335', 'Kit mini burrito OLD EL PASO', 'Galettes de blé souples natures (275g) : farine de blé, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides diacides gras, dextrose, poudre à lever : carbonate acide de sodium, diphosphate disodique ; sel. Conditionnées sous atmosphère protectrice. Sauce Original salsa (144g) : tomates (61%), oignons (16%), poivrons verts (10%), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydratés, sucre, oignon en poudre, jus de citron concentré, piment Guajillo (0,4%), ail en poudre, épices, correcteur d\'acidité : acide citrique, Mélange aux épices pour Burritos (40g) : haricots rouges en poudre, légumes déshydratés (oignon, poivron, ail), amidon de pomme de terre, épices (1 1 ,6%) (piment chili, paprika, cumin, poivre noir), sel, sirop de glucose déshydraté, extrait de levure, arôme, sucràorrecteur d\'acidité : acide citrique, colorant : betterave rouge, extrait d\'épice (paprika), origan. Allergènes: voir les ingrédients en gras.', '3.5', '0.8', '39.4', '3.2', '1.7', '6.8', '1.85', '0.728346456692913', '', '0');
+VALUES ('8012666520213', 'Paccheri di Napoli', 'semoule de _blé_ dur', 'https://static.openfoodfacts.org/images/products/801/266/652/0213/front.8.400.jpg', '1.2', '0.2', '74', '3.7', '2.6', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472342', 'Tortillas - Pancho Villa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666520220', 'Mafalde di Napoli', 'semoule de blé dur.', '', '1.2', '0.2', '74', '3.7', '2.6', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472366', 'Extra Mild Fajita Kit', 'Farine de blé, eau, stabilisant (glycérol), huile de tournesol, émulsifiant (mono- et diglycérides d\'acides gras), dextrose, poudre à lever (carbonate acide de sodium, diphosphate disodique), sel de cuisine. Concentré de tomates (37%), eau, crème, sucre, huile de tournesol, arômes, arôme de fumée, jus de citron concentré, sel de cuisine, épices, amidon de maïs modifié, oignon en poudre, ail en poudre, coriandre, correcteur d\'acidité (acide citrique). Sel de cuisine, maltodextrine, sucres, arômes (contient orge, moutarde), oignon en poudre, ail en poudre, fructose, persil, correcteur d\'acidité (acide citrique), épices, stabilisant (gomme arabique).', '6', '2.5', '42', '6', '2.5', '7', '1.6', '0.62992125984252', '', '0');
+VALUES ('8012666520237', 'Fusilli Lunghi Bucati di Napoli', 'Semoule de _blé_ dur.', 'https://static.openfoodfacts.org/images/products/801/266/652/0237/front.8.400.jpg', '1.3', '0.2', '73', '3.3', '2.7', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472489', 'Kit pour burritos, recette douce', 'Galettes de blé souples nature (326 g) : farine de _blé_, eau, stabilisant : glycérol, huiles végétales (palme et colza) en proportion variable, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever : carbonate acide de sodium, diphosphate disodique, sel. Sauce aux épices douces (130 g) : purée de tomate (52 %), eau, sucre, oignon en poudre, sel, jus de citron concentré, vinaigre, épices (0,8 %) (coriandre, cumin, poivre noir), ail en poudre, coriandre en feuille, correcteur d\'acidité : acide citrique. Mélange aux épices pour Burrito sans piment (35 g) : sucre, farine de maïs, sel, épices (15 %) (paprika, cumin, piment de Cayenne, feuilles de laurier), ail, tomate, oignon, correcteur d\'acidité : acide citrique, origan, colorant : extrait de paprika.', '3.8', '0.8', '43.1', '6.6', '2', '7', '2.27', '0.893700787401575', '', '0');
+VALUES ('8012666520244', 'Orecchiette di Puglia', '@Pâtes alimentaires de semoule de blé dur. Ingrédients semoule de blé dur, Peut contenir des traces de mollusques et de soja.', '', '1.5', '0.5', '72', '1.8', '2.5', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472496', 'Kit crousti fajitas', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012666520268', 'Riso Carnaroli Extra Terre D\'italia 1000', '', '', '0.6', '0.1', '78', '0.5', '', '7.4', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472502', 'Kit pour Fajitas Recette Douce', 'Galettes de blé souples natures 326 g : farine de _blé_ , eau , stabilisant : glycérol , huiles végétales (palme , colza) en proportion variable : mono et  diglycérides d\'acides gras , dextose , poudres à lever : carbonate acide de sodium , diphosphate disodique , sel Sauce aux épices douces 144 g : concentré de tomate 37% , eau , _crème_ , sucre , huile de tournesol , arômes de fumée , jus de citron concentré , sel , épices 1,6% (cumin , coriandre , poivre noir) , amidon modifié de maïs , oignon en poudre , coriandre en feuilles , correcteur d\'acidité : acide citrique Assaisonnement 8 g : sel , oignon en poudre , sucre , _yaourt_ en poudre , _lait_ en poudre , dextrose , lactosérum en poudre (_lait_) , babeurre en poudre (_lait_) , extrait de levure , correcteur d\'acidité : acide lactique , acide malique , acide citrique ; ail , _crème_ acidulée en poudre , persil , arôme naturel , arôme , extrait de romarain', '6.1', '1.9', '42', '5.9', '2.1', '7.1', '1.6', '0.62992125984252', '', '0');
+VALUES ('8012666520275', 'Vinaigre Balsamique de Modène (6% acidité)', 'Moût de raisins cuit, vinaigre de vin (_sulfites_).', 'https://static.openfoodfacts.org/images/products/801/266/652/0275/front.3.400.jpg', '0', '0', '70', '70', '', '1.6', '0.18', '0.0708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472519', 'Kit tacos panadillas sans piment OLD EL PASO', 'de blé et dlut Ingrédi Panadill (58%): f huile de acide calcium; d\'acides atmospl Sauce à (37%), e arômes, citron co poudre,', '7.4', '1.9', '38.3', '6.2', '3', '6', '1.8', '0.708661417322835', '', '0');
+VALUES ('8012666520299', 'Ragù Toscano di Cinghiale', 'Viande de sanglier (60 %), concentré de tomate, vin rouge, huile d\'olive vierge extra, carottes, oignons, _céleri_, sel, laurier, baies de genièvre, clous de girofle.', 'https://static.openfoodfacts.org/images/products/801/266/652/0299/front.10.400.jpg', '10', '2.3', '1.5', '1.3', '2.8', '15', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472526', 'Kit pour burritos - recette douce', 'Galettes de blé souples natures (326g) : farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever : carbonate acide de sodium, diphosphate disodique ; sel. Sauce aux épices douces (130g) : purée de tomate (52%), eau, sucre, oignon en poudre, sel, jus de citron concentré, vinaigre, épices (0.8%) (coriandre, cumin, poivre noir), ail en poudre, coriandre en feuille, correcteur d\'acidité : acide citrique. Mélange aux épices pour burrito sans piment (35g) : sucre, farine de maïs, sel, épices (15%) (paprika, cumin, poivre de Cayenne, feuilles de laurier), ail, tomate, oignon, correcteur d\'acidité : acide citrique, origan, colorant : extrait de paprika. Mélange aux épices pour guacamole (10g) : légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épice (poivre).', '3.8', '1.4', '43.5', '6.8', '2.2', '6.6', '2.27', '0.893700787401575', '', '0');
+VALUES ('8012666520305', 'Passata di pomodoro', '', '', '', '0.5', '', '2.5', '1.3', '1.2', '0.23', '0.0905511811023622', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472533', 'Crousti\' fajitas', 'Galettes de blé souples natures (326g): farine de BLE, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides d?acides gras, dextrose, poudres à lever: carbonate acide de sodium, diphosphate disodique, sel. Conditionnées sous atmosphère protectrice. Sauce aux épices douces (130g): purée de tomate (52%), eau, sucre, oignon en poudre, sel, jus de citron concentré, vinaigre, épices (0,8%) (coriandre, cumin, poivre noir), ail en poudre, coriandre en feuille, correcteur d\'acidité : acide citrique. Chapelure assaisonnée (65g) : chapelure (BLE), sel, arome, paprika, oignon en poudre. Mélange aux épices pour Guacamole (20g): légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épice (poivre). Allergènes : voir les ingrédients en majuscules.', '3.1', '0.8', '45.1', '4.4', '2.5', '7.5', '2.14', '0.84251968503937', '', '0');
+VALUES ('8012666520312', 'Tomates des Pouilles pelées entières au basilic', 'tomates, eau, sel, basilic 0,35%, correcteur d\'acidité\'. acide citrique.', '', '0.49', '0.1', '3', '3', '1.5', '0.7', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472540', 'Kit pour fajitas recette douce', '', '', '1.9', '', '5.6', '2.1', '6.8', '1.54', '0.606299212598425', '', '0');
+VALUES ('8012666520367', 'Carciofi alla romana', '', '', '12', '1.8', '1.9', '1.9', '', '2.5', '4.8', '1.88976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472564', 'Old el paso kit tacos sans piment', 'Galettes de blé nature (193g): faine de blé, eau, stabilignt glycérol, huile de bumesol, WJdres à lever. carbonate acide de sodium, ph?phate de ±ium; émulsifiant mono- et diglycerides diacides gras, dextr?e, sel. CNItionnées atnosphère prptefflce, Sauce douce à la tomate Taco (130g): tomates (37%), eau, crème, sucre, huile de ±es, arôme de fumée, jts de citon concenté, sel, épices (cumin, coriandre, poivre noir), amidon modifié de maïs, oignons en ail en Wddre, coriandre en feui114 correcteur d\'acidité: acide citrique. Mélange aux aromates (6g): sel, aromates (22,6%) (oignon en pwdre, ail en poudre, persil en feuilles, poivre blanc), ma;todextine de pomme de terre, sucre, arôme (ment de l\'orge et de la moutarde), fmctose, correcteur d\'acidité : acide citrique, snlignt : gomme arabique. Mélange aux épices pour G.mole (l Og): légumes déshydratés (oignon, aj0, sirop de glucose d*ydraté, sel, deftose, épices (9%) (cumin, piment de Cayenne, coriandre, papilka, poivre rar, gingembre). %traÎt de levure, correcteur d\'acidité : acide citique, (origan, pesil), extrait d\'épice (poivre). Allergènes: voir les ingrédients en gras.', '7.6', '3.1', '38.3', '6.2', '3', '5.9', '1.81', '0.71259842519685', '', '0');
+VALUES ('8012666520374', 'Caponata di melanzane', 'Caponata.Préparation gastronomique à base d\'aubergine, Ingrédients : aubergines frites (32%) (aubergines, huile de toumesol, sel), pulpe de tomate, céleri oignon, huile de tournesol, sucre, olives vertes dénoyautées, vinaigre de vin (contIent sulfites), câpres, pignons de pin, sel.', '', '5', '0.8', '6.9', '6.3', '2.1', '1.3', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472625', 'Old El Paso Mexicana Street Market Soft Taco Kit, Smoky Chicken Tinga', '', '', '0.9', '', '4.3', '1.7', '7.2', '2.18', '0.858267716535433', '', '0');
+VALUES ('8012666520381', 'Filet d\'anchois À l\'huile d\'olive', 'filets d\'_anchois_, huile d\'olive, sel.', 'https://static.openfoodfacts.org/images/products/801/266/652/0381/front.5.400.jpg', '12', '1.7', '0', '0', '', '27', '14', '5.51181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472656', 'Old el Paso Restaurante Kit pour Tacos Porc al Pastor medium le kit de 315 g', 'Galettes de blé souples natures (275g): farine de blé, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever: carbonate acide de sodium, diphosphate disodique; sel. Conditionnées sous atmosphère protectrice. Assaisonnement pour ananas (l Og): légumes déshydratés, (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur dtacidité . acide citrique, herbes (origan, persil), extrait d\'épice (poivre). Assaisonnement pour viande (30g): épices (27%) (paprika, chili, poivre noir, piment de Cayenne), légumes déshydratés (oignon, ail, ail grillé), amidon de maïs, sel, sucre, correcteur d\'acidité: acide malique, extraits d\'épices (paprika, curcuma), Allergènes: voir les ingrédients en gras. Contient 10 portions. 315ge', '5', '1.1', '53.8', '4.9', '2.3', '8.9', '2.42', '0.952755905511811', '', '0');
+VALUES ('8012666520398', 'Taralli tondi di barletta', '', '', '18', '3.1', '63', '1.3', '', '10', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472670', 'Restaurante - Kit pour Tacos Poulet Tinga, 395g', '', '4', '0.9', '42.3', '4.3', '', '7.2', '2.18', '0.858267716535433', '', '0');
+VALUES ('8012666520428', 'Taralli Lunghi', 'farine de blé, vin blanc, huile d\'Olive (16%), Sel, {evure.*N @Zandkoekjes met olijfolie (i 5%). iënten: Witte Wijn, olijfolie (1 gist. valori Ntfionali medi per/ aili lunghi pour/ le tta Oliva (16%) GrasskQMatières u cina pugliese, croccanti waarvanverzadigdevetzuren Yasgturé/ Carboidrati I Glucides IZ *Il\'olio di Oliva. Ihydrat La !cunq?acconta che i Taralli li abh Fibre / Fibres uello che certo oztirm éon Conse in Iuogo fresco&quot;easç *onoun cibo semplice e antica Il sepez da fonti lore. Evitare l\'espqg croccanti è tutto nellacotturti luce diretta IA conserver au se a bastoncinae chaleur et de ta tumi&e I Droo ufff*\'4Ytatamente immersi hell\'a?quue donker bewaren. PetTPour/Voorcs i&quot; rhi secondi. Soltantokvengmo 20153 Milano infory-: ti e cotti. È quell\'atümo prodotto e confezionato&/ {Ila par/ lisciae', '', '18', '3.1', '63', '1.3', '3.4', '10', '2.19', '0.862204724409449', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472748', 'RESTAURANTE Soft Taco Kit STEAK CARNE ASADA MILD', '', '5', '1.1', '53.7', '6.6', '2.2', '9.1', '2.67', '1.0511811023622', '', '0');
+VALUES ('8012666520435', 'Taralli Lunghi Di Barletta', 'farine de blé, vin blanc, huile d\'olive (16%), sel, pime71t (0,6%), levure, @Zandkoekjes met olijfolie (16%) en piment ln rediënten: tarwebloem Witte', '', '18', '3.1', '63', '1.3', '3.4', '10', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472779', 'Restaurante Mini Tortillas de blé nature', 'Farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono et diglycérides d\'acides gras, dextrose, poudres à lever : carbonate acide de sodium, diphosphate disodique, sel.', '5.2', '1.2', '53.2', '2.1', '', '', '1.02', '0.401574803149606', '', '0');
+VALUES ('8012666520442', 'Grissini Stirati', 'Farine de blé, saindoux 5%, huile d\'olive vierge extra 5%, levure, sel, extrait de malt d\'orge, farine de maïs, huile d\'olive. Peut contenir traces de graines de sésame, fruits à cocque, soja, lait et produits à base de lait. @Broodstengel met reuzel en met extra olijfolie van de eerste persing 5%. Ingrediënten: Tarwemeell reuzel 50,6, extra olijfolie van de eerste persing 5%, gist, zout, gerstemoutextract, maïsmeel, olijfolie. Kan sporen bevatten van sesamzaad, noten, soja, melk en melkproducten. Si consiglia di conservare il prodotto in luogo asciutto lontano da fonti di calore I A conserver au sec, à l\'abri de la chaleur / Op een droge en plaats, beschut tegen warmte. Per/ Pour /Voor GS SPA Via Caldera, 21 20153 Milano Italia / Italie I Italië Prodotto da / Produit par/ Geproduceerd door IL PANATE\' Dl MARIO FONGO & C. S.r.l nello stabilimento di / dans l\'usine / in de plantVia Case Sparse Pianat 17 14030 Rocchetta Tanaro (AT) Italia / Italie / Italië', '', '11', '3', '68', '3', '3.8', '10', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472793', 'Old El Paso Restaurante Mini Tortillas X10 275G', '*Reference intake of an average adult (8 400 kJ/ 2 CCO kcs- Contains 10 portions. Made in Spain for General Mills International Sàrl, Switzerlcnd General Mills UK, P.O. Box 363 Uxbridge, Middlesex UB8', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8012666520459', 'Rubata', '', '', '10', '2.6', '71', '3', '', '10', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472861', 'Panadillas De Blé Complet', 'farine de blé complet, eau, stabilisant: glycérol, huile de tournesol, poudres à lever: carbonate acide de sodium, phosphates de calcium; émulsifiant: mono et diglycérides diacides gras; dextrose, sel, Conditionnées sous atmosphère protectrice. Allergènes: voir les ingrédients en gras.', '5.2', '0.9', '50.3', '1.65', '6', '8.9', '1.01', '0.397637795275591', '', '0');
+VALUES ('8012666520503', 'Cuneesi di Cuneo al rum', 'Enrobage au chocolat 40% (pâte de cacao, sucre,beurre de cacao, émulsifiant : lécithine de _soja_, arôme naturel de vanille), pâte de cacao, sucre, sirop de fructose, rhum 7%, dextrose, farine de _blé_, _oeufs_ en poudre, _lait_ entier en poudre.', 'https://static.openfoodfacts.org/images/products/801/266/652/0503/front.5.400.jpg', '27', '16', '49', '42', '5.4', '4.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472878', 'Kit pour Butter Chicken', 'Riz basmati aux épices (240g): riz Basmati (94.5%), herbes et épices (1.9%) (graines de MOUTARDE, curcuma, graines de cumin, graines de fenouil, feuilles de fenugrec déshydratées), sel, lentilles, huile de tournesol. Chutney à la mangue (100g): mangues (46%), sucre, oignons, vinaigre de vin blanc, graines de MOUTARDE, graines de fenugrec, sel, mélange aux épices (coriandre, cumin, curcuma, piment de cayenne, sel, fenouil, feuilles de laurier, fenugrec, ail, cannelle, clou de girofle), graines d\'oignon, muscade, clou de girofle. Mélange aux épices pour poulet au beurre (80g): oignons déshydratés, huile de tournesol (contient antioxydant: E320), ail, épices (9%) (poudre de piment rouge, graines de coriandre, graines de fenouil, curcuma, cannelle, cardamome, cumin, gingembre, clous de girofle, noix de muscade, poivre noir), herbes (8%) (feuilles de coriandre, feuilles de laurier, feuilles de fenugrec déshydratées), tomates en poudre (7%), sucre, gingembre, sel, maltodextrine, correcteurs d’acidité : acide acétique, acide citrique. ', '5.3', '0.4', '56.5', '14.1', '4.9', '6.4', '2.34', '0.921259842519685', '', '0');
+VALUES ('8012666520510', 'Ragù Toscano di carne Chianina', 'viande de bovin adulte 40%, concentré de tomate, pulpe de tomates, huile d\'olive vierge extra, _céleri_, oignons, carottes, basilic, persil, sel, ail, laurier sauvage, poivre.', 'https://static.openfoodfacts.org/images/products/801/266/652/0510/front.7.400.jpg', '9.9', '3.3', '2.2', '1.8', '1.1', '16', '0.92', '0.362204724409449', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472885', 'Kit pour poulet shah korma', 'Mélange aux herbes et aux épices (55 g): huile de tournesol (contient antioxydant.\' E320), noix de cajou (17%)? oignons déshydratés, ail, mélange d\'herbes et d\'épices (1 1 %) (poudre de piment rouge, curcuma, poivre noir, cumin (0.2%), cannelle, cardamome, feuilles de fenugrec déshydratées, clou de girofle), tomates en poudre, sel, maltodextrine, eau, sucre, régulateur d\'acidité.\' acide citrique.', '5.3', '0.3', '56.7', '9.5', '3.9', '6.5', '2.35', '0.925196850393701', '', '0');
+VALUES ('8012666520527', 'Paté di olive Taggiasche', 'N.CRlSTAL09 69 39 7000 0 T&quot; 0800/9.10.11 APPEL NON', '', '33', '15', '1.2', '1', '2.5', '2.8', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472892', 'Kit pour Poulet au Curry Goa', 'riz Basmati (94.5%), herbes et épices (l .9%) (graines de moutarde, curcuma, graines de cumin, graines de fenouil, feuilles de fenugrec déshydratées), sel, lentilles, huile de tournesol ; mangues (46%), sucre, oignons, vinaigre de vin blanc graines de moutarde, graines de fenugrec, sel, mélange aux épices (coriandre, cumin, curcuma, piment de cayenne, sel, fenouil, feuilles de laurier, fenugrec, ail, cannelle, clou de girofle), graines d\'oignon, noix de muscade, clou de girofle ; oignon déshydraté, huile de tournesol (contient antioxydant: E320), copeaux de noix de coco, herbes (9%) (feuilles de coriandre), sel, épices (7%) (piment chili rouge en poudre, graines de coriandre, cumin, curcuma, poivre noir, graine de cumin noir, cannelle, clous de girofle), ail, gingembre, poudre de tamarin, maltodextrine, acidifiant: acide acétique ; poulet ; lait de coco.', '6.9', '1.6', '54.9', '10', '6', '6.4', '2.8', '1.10236220472441', '', '0');
+VALUES ('8012678000130', 'Mela chips jonathan', '', '', '0.4', '0.05', '79', '73', '', '2.2', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472922', 'Tacos avec Panadillas', '', '4', '0.5', '37.8', '7.7', '', '5.6', '2.42', '0.952755905511811', '', '0');
+VALUES ('8012678000741', 'Stirati', 'Glissifii gr al sesamcl\'%o Ingredienti: farina di grano tenero tipo &quot;0&quot;, sesamo 14%, olio di palma, lievito, sale, farina di frumento maltata. Conservare in luogo fresco e asciutto. Proteggere da fonti di ca- lore e dalla luce del sole. Gebi&stangen mit Sesam 1496. Zutaten: Weizenmehl, Sesam 14%, Palmôl, Hefe, Salz, Weizenmalzmehl. Kühl und trocken lagern. Vor Licht und Wârme schützen. Da consumarsi preferibilmente entro il: vedi tim- bro sul lato • Mindestens haltbar bis: siehe seit- licher Aufdruck. 8 012678 000741', '', '18.4', '4.5', '64.7', '2.2', '4.2', '13.5', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472939', 'Kit pour tacos avec panadillas Crousti\'poulet', 'galettes de blé (193 g) : farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, poudres à lever : carbonate acide de sodium, phosphates de calcium, émulsifiant : mono et diglycérides d\'acides gras, dextrose, sel. sauce original salsa (108 g) : tomates (61 %), oignons, poivrons verts (10 %), concentré de tomate, sel, vinaigre, copeaux d\'oignon déshydraté, sucre, oignon en poudre, jus de citron concentré, piment Guajillo (0,4 %), ail en poudre, épices, correcteur d\'acidité : acide citrique. Chapelure assaisonnée (50 g) : chapelure (farine de _blé_, son de _blé_, levure, sel, colorant : rocou, extrait de paprika), sel, arômes, épices (3,5 %) (paprika, poivre noir), morceaux d\'oignons déshydratés, extrait de levure.', '3.4', '0.7', '41.1', '3.8', '2.5', '7', '1.47', '0.578740157480315', '', '0');
+VALUES ('8012698001339', 'Pancetta', '', '', '45', '18', '0', '0', '', '15', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472946', 'Tortillas de blé nature', 'farine de _blé_, eau, stabilisant (glycérol), huile de tournesol, émulsifiant (mono-et diglycérides d\'acides gras), dextrose, poudres à lever (carbonate acide de sodium, diphosphate disodique), sel', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '0');
+VALUES ('8012698018115', 'Parmacotto Crudo Dolce 100G', '', '', '16', '5.4', '0', '0', '', '28', '6', '2.36220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472953', 'Wraps', 'farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever : carbonate acide de sodium, diphosphate disodique ; sel.', '5.2', '1.2', '53.2', '2.1', '2', '9.1', '1', '0.393700787401575', '', '0');
+VALUES ('8012702040163', 'Cornichons Recette Paysanne Aigres-doux', 'Cornichons, eau, vinaigre d’alcool, sirop de glucose-fructose, aromates (dont graines de moutarde), sel, sucre, arôme.', 'https://static.openfoodfacts.org/images/products/801/270/204/0163/front.3.400.jpg', '0.1', '0.1', '5.9', '5.7', '', '0.6', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472960', 'Kit pour fajitas original', 'Tortillas de blé extra moelleuses (65%): farine de blé, eau, stabilisant : glycérol\', huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras; dextrose, poudres à lever: carbonate acide de sodium, diphosphates; sel. Conditionnées sous atmosphère protectrice. Sauce à napper (29%) : tomates (64%), oignons (1 7%), poivrons verts (11%), concentré de tomate, sel, vinaigre, sucre, lus de citron Diment chitli (0,4%), ail en poudre, arôme naturel, correcteur d\'acidité : acide citrique; affermissant: chlorure de calcium; modifié (je maïs. épices (6%) : sucre, légumes déshydratés (oignon, ail), sel, P(0téines hydrolysées de soja, épices (6%) (poive piment de Cayenne, gingembre), arôme de fumée, correcteur d\'acidité : acide citrique; arômes, extrait de levure, colorat!t : ordir;aire. Allergènes.\' voir les ingrédients en gras.', '3.6', '0.8', '40.3', '6.2', '1.8', '6.7', '2.04', '0.803149606299213', '', '0');
+VALUES ('8012708240802', 'Topping', '', '', '0.9', '0.5', '64', '50', '', '1.8', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472977', 'Kit pour Burritos Original Doux', '', '3.8', '0.8', '39.9', '3.1', '2.1', '7.1', '1.82', '0.716535433070866', '', '0');
+VALUES ('80127192', 'Pesto alla Genovese', '', '', '42.4', '5.3', '5.1', '4.4', '', '5.6', '3.9', '1.53543307086614', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076472984', 'Kit pour enchiladas au four old el paso', '', '2.9', '0.4', '34', '5.4', '0', '5.6', '1', '0.393700787401575', '', '1');
+VALUES ('80127208', 'Citres Aglio Siciliana GR. 285', '', '', '5.6', '0.6', '9.5', '9.1', '', '0.9', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473004', 'Lit pour tacos', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012734808038', 'Chiacchierine', '', '', '32', '3.1', '59', '25', '', '6.4', '0.19', '0.0748031496062992', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473011', 'Kit pour Poulet Tikka Masala', 'Riz basmati aux épices (240g) : riz Basmati (94.5%), herbes et épices (1.9%) (graines de _moutarde_, curcuma, graines de cumin, graines de fenouil, feuilles de fenugrec déshydratées), sel, lentilles, huile de tournesol. Chutney à la mangue (100g) : mangues (46%), sucre, oignons, vinaigre de vin blanc, graines de _moutarde_, graines de fenugrec, sel, mélange aux épices (coriandre, curmin, curcuma, piment de cayenne, sel, fenouil, feuilles de laurier, fenugrec, ail, cannelle, clou de girofle), graines d\'oignons, noix de muscade, clou de girofle. Mélange aux épices (80g) : oignons déshydratés, huile de tournesol (contient antioxydant : E320), herbes (11%) (feuilles de coriandre, feuille de laurier, feuille de fenugrec déshydratée), gingembre, ail, épices (6%) (poudre de piment rouge, graine de coriandre, graine de fenouil, curcuma, cardamome, cannelle, cumin, gingembre, clou de girofle (0.14%), noix de muscade), sel, piment vert, tomates en poudre, sucre, maltodextrine, colorant : extrait de paprika, régulateurs d\'acidité : acide acétique, acide citrique.', '6.1', '0.7', '56.2', '11.1', '5.1', '6.2', '2.51', '0.988188976377953', '', '0');
+VALUES ('8012778000016', 'Acquerello Organic Carnaroli Rice Superfino - 2.2 lbs', '', '', '1', '0.2', '77', '0.2', '', '7', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473035', 'Kit pour buritos original', 'Tortillas de blé moelleuses (67 %) : farine de _blé_, eau, stabilisant: glycérol, huile de tournesol, émulsiﬁant: mono- et diglycérides d\'acides gras; dextrose, poudre à lever: carbonate acide de sodium, diphosphates, sel.   Sauce à napper (28 %) : tomates (64 %), oignons (17 %), poivrons verts (11 %), concentré de tomate, sel, vinaigre, sucre, jus de citron concentré, piment chilli (0,4 %), ail en poudre, arôme naturel, correcteur d\'acidité : acide citrique, affermissant: chlorure de calciurn; amidon modifié de maïs.   Mélange aux épices pour burritos (7%) : poudre d’haricot rouge (22%), légumes déshydratés (oignon, poivrons, ail), amidon de pomme de terre, épices (12%) (piment chilli, paprika (4%),  sel, sirop de glucose déshydratés, extrait de levure, arôme, sucre, correcteur d\'acidité: acide citrique; colorant: betterave rouge; extrait d’épice (paprika). origan.  Mélange aux épices pour guacamole (2 %) : légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9 %) (cumin, piment de (Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d’acidité : acide citrique, herbes (origan, persil), extrait d’épice (poivre).', '3.8', '0.8', '40.1', '3.4', '2', '7.1', '1.9', '0.748031496062992', '', '0');
+VALUES ('8012778000030', 'Acquerello Carnaroli Risotto Reis, 1 Jahr Gealtert', 'hg • PJCE . RIZ • i % CARRAROLJ VEDI FONDO E:s: BODCÌ.* Dessous oc V VER BASE 2E LB, 250g u PER corr SUGGESTIOt', '', '1', '0.2', '77', '0.2', '1', '7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473042', 'Kit pour fajitas', '', '3.7', '0.8', '40', '6.1', '1.8', '6.8', '2.07', '0.81496062992126', '', '0');
+VALUES ('8012778000047', 'Riz Acquerello - Boîte Fer', 'Riz carnaroli vielli avec son germe réintégré', '', '1', '0.2', '77', '0.2', '1', '8', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473059', 'Kit pour enchiladas', 'Galettes au maïs souples (farine de maïs 27%, eau, farine de blé, stabilisant : glycérol, gluten de blé, huile de tournesol, dextrose, poudres à lever : diphosphate disodique, carbonate acide de sodium, émulsifiant : mono- et diglycérides d\'acides gras, sel, conservateur : sorbate de potassium, acidifiant : acide citrique), sauce tomate (eau, concentré de tomate 49%, correcteur d’acidité : acide citrique), mélange aux épices pour enchilada (chapelure (blé), épices 25.4% (piment chili, paprika, piment de Cayenne, cumin, poivre noir), sel, légumes déshydratés (oignon, ail), farine de blé, dextrose, sucre, maltodextrine, extrait d\'épice (paprika), origan, colorant : caramel ammoniacal), mélange aux épices pour guacamole (légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices 9% (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épice (poivre)).', '2.9', '0.4', '31.9', '5.4', '3.2', '5.6', '1.01', '0.397637795275591', '', '0');
+VALUES ('8012778000146', 'Riso Carnaroli', 'Riz', '', '1', '0.2', '78', '0.2', '1', '8', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473066', 'Tortillas de Blé', 'farine de blé, eau, stabilisant : glycérol, huile de toumes014 émulsifiant : mono- et dìotycérides d\'acides gtas, dextrose, poudft)S à lever carbonato acide de diphosphates; sel. Conditionnées sous atmosphère protectrice. Allergènes: voit les ingrédients en gras, A conserver dans un endroit frais et sec% Uno fois Ic ouvett, bien refermer l\'embattage (ou utiliser un sac de type congélation), conserver au réfrigérateur et ecc;sommer dans les 3 jours. Peut être congelé, A avant utilisations No pas un produit d&ongelé,', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '0');
+VALUES ('8012801008088', 'Almaverde Mix Fruit Juice Drink', 'POMME, ORANGE, CAROTTE', '', '0', '0', '10', '8.7', '', '0', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473073', '8 Wraps de Blé', 'Farine de _blé_, eau, stabilisant : glycérol, huile de tournesol, émulsifiant : mono et diglycérides d’acides gras, dextrose, poudres à lever: carbonate acide de sodium, diphosphates, sel. ', '5.2', '1.2', '53.2', '2.1', '1.6', '9.1', '1', '0.393700787401575', '', '0');
+VALUES ('8012801009214', 'Jus d\'ananas', '', '', '0', '0', '10', '10', '', '0.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473370', 'Mini Panadillas', '', '5.2', '0.9', '52.5', '1.8', '', '8.5', '1.01', '0.397637795275591', '', '0');
+VALUES ('8012801009597', 'Almaverde bio passata', '', '', '0', '0', '4.3', '3.7', '', '1.4', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473387', 'Old el Paso Mini Panadillas de blé complet la barquette de 145 g', 'Mini tortillas souple au blé complet. Inqttdients : Fatine de blé complet (60.3%), eau, stabilisant (glycérol), huile de tournesol, poudres (carbonate acide de sodium, diphosphates, phosphate de calcium), émulsifiant (mono et digÌyerides d\'acides gras), dextrose, sel. Conditionnées sous atmosphère protectrice. Allergènes: les ingrédients en gras A dans un endroit frais et sec Une fois ouvert, peut être stocké au réfrigérateur dans un emballage fermé et consommé dans les 3 jours. Ce produit peut être congelé. Décongeler avant de liutiliser. A consommer de préférence avant le: voir ci-dessous. fabriqué en Espagne pour General Mills International Sàrl, Suisse. Distribué par General Mills France - Immeuble Topaz, 2 rue Paul Dautier, CS 50525, 78941 Vélizy Cedex. wwwoldelpaso.fr', '5.2', '0.9', '50.3', '1.65', '6.2', '8.9', '1', '0.393700787401575', '', '0');
+VALUES ('8012801009603', 'Almaverde Bio Polpa Pom', 'tomatoes*l salt, acidity regulator: Citric acid, PULPE Ingrédients: tomate*/ sel/ correcteur d\'acidité\'. acide citrique, *Biologique TOMATENFRUCHTFLEISCH Zutaten: Tomaten* Salz, Sâureregulator: Da consumarsi preferibilmente entro il: vedi sopra / Best (consommer de préférence avant: voir au - dessus / Mindestens )ichiarazione Valori medi per 100 g / Average nutritional for l] ! Valeurs nutritionnelles mo ennes our 100 IDurchschnittliche till 123 kJ Ier ia Ener Ener je Ener ie ?si/Fat/Graisses/Fett uiacidi rassisaturi/ofwhich saturates/dontacides ras saturésldavon 0 45 \'boidrati / Carboh drate / Glucides / Kohlenh drate 43 di zuccheri / of which su ars / dont sucres / davon Zucker teine / Protein / Protéines / Eiwei 036 / Salt/ Sel / Salz', '', '0', '0', '4.5', '4.3', '', '1.3', '0.36', '0.141732283464567', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473431', 'mini barquitas mexicanas', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8012801010043', 'Ace arancia carota limone', 'Boisson sans alcool à base de jus d\'ORANGE, de CITRON et de CAROTTE avec des vitamines et des édulcorants. Fruits au total\'. 33%. Ingrédients.\' eau, jus (orange 28%, citron 5%, carotte 4%), arômes, stabilisant: pectine, édulcorants: acésulfame-K, sucralose; vitamine C, vi- tamine E, provitamine A.', '', '0.1', '0', '2.6', '2.6', '0', '0.3', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473479', 'Kit pour Tacos bœuf Asada mariné Old el Paso', 'Tortillas de blé souples nature (275g) : Farine de blé, eau, stabilisant (glycérol), huile de tournesol, émulsifiant (mono- et diglycérides d\'acides gras), dextrose, poudre à lever (carbonate acide de sodium, diphosphates), sel. Conditionnées sous atmosphère protectrice. Assaisonnement pour viande de bœuf (30g): oignons, ail, épices (19%) (cumin, paprika, poivre noir, chili, poivre de cayenne)/ sel, sucre, amidon de maïs, persil, maltodextrine fumée, correcteur d\'acidité (acide citrique). Assaisonnement pour avocats (10g): légumes déshydratés (oignons, paprika, ail), sirop de glucose déshydraté, sel, P\' dextrose, épices (9%) (cumin, poivre de cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure,', '5', '1.1', '53.7', '6.6', '2.2', '9.1', '2.67', '1.0511811023622', '', '0');
+VALUES ('8012801010210', 'Nettare Di Pera', '', '', '0', '0', '13', '13', '', '0', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473486', 'Kit pour Tacos poulet Tinga fumé Old el Paso', 'Galettes de blé souples natures (275g): farine de blé, eau, stabilisant : glycérol; huile de tournesol, émulsifiant : mono- et diglycérides d\'acides gras; dextrose, poudres à lever: carbonate acide de sodium, diphosphates; sel. Conditionnées sous atmosphère protectrice. Sauce à la tomate (90g) : eau, tomates en morceaux (1 5%)/ concentré de tcmotes, amidon modifié de maïs, sel, sucre, \'Vinaigre, piment chipotle en poudre, ail en poudre, correcteur d\'acidité: acide citrique, oignon en poudre, épices, extrait de pomme. Assaisonnement pour Poulet (30g): légumes déshydratés (ail/ oignon, tomate), épices (17%) (chili, paprika, poivre noir)/ sel/ amidon de maïs, herbes (origan, marjolaine), sel de mer, sucre, correcteur d\'acidité : acide citrique, extrai\'', '4', '0.9', '42.3', '4.3', '1.7', '7.2', '2.18', '0.858267716535433', '', '0');
+VALUES ('8012801010418', 'Suco di pera', 'Ingredienti: purea di pera (60%), succo di mela da concentrato (38,5%) succo di mela concentrato (1,5%), antiossidante: acido L-ascorbico', '', '0', '0', '12', '12', '3.1', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473516', 'Enchiladas (Recette Douce)', 'Galettes au maïs souples (335g) : farine de maïs (27%), eau, farine de blé, stabilisant : glycérol\', gluten de blé, huile de tournesol, dextrose, poudres à lever : diphosphates, carbonate acide de sodium; émulsifiant : mono- et diglycérides d\'acides gras; sel, conservateur : sorbate de potassium, acidifiant : acide citrique. Conditionnées sous atmosphère protectrice. Sauce à la tomate (150g) : eau, concentré de tomate (44,2%), arômes (contient des oeufs et du céleri), arôme de fumée, ail grillé, sel, paprika, piment guajillo, jus de citron concentré, cumin, poivre noir, correcteur dlacidité: acide citrique. Sauce à la crème (100g) : eau, crème (42%), amidon de maïs modifié, arômes, préparation fromagère, stabilisants: gomme xanfrane, gomme guar, correcteur diacidité: acide lactique; persil, Allergènes: voir les ingrédients en gras.', '5.62', '2.19', '34.25', '4.11', '2.19', '5.75', '1.11', '0.437007874015748', '', '0');
+VALUES ('80128618', 'Chinotto', '', '', '0', '0', '12.1', '12.1', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473592', 'Kit pour enchiladas avec panadillas Tomates gratinées et oignons doux', 'Galettes de blé (193 g) : farine de _blé_, eau, stabilisant: glycérol; huile de tournesol, poudres à lever: carbonate acide de sodium, diphosphates, phosphates de calcium; émulsifiant: mono et diglycérides d\'acides gras; dextrose, sel.  Sauce à la tomate (180 g) : purée de tomates (52 %), eau, sucre, oignon en poudre, sel, jus de citron concentré, vinaigre, épices, ail en poudre, coriandre, correcteur d\'acidité: acide citrique.  Mélange aux épices pour Enchiladas (25 g): épices (paprika (20 %), cumin (12 %), piment de cayenne), légumes déshydratés (oignon (13 %), ail (8%)), sel, maltodextrine, amidon, herbes (origan, marjolaine), extrait de levure, extrait de paprika. ', '4', '0.5', '34.7', '5.8', '3.4', '5.5', '2.28', '0.897637795275591', '', '0');
+VALUES ('8012900003021', 'Parmesan', '', 'https://static.openfoodfacts.org/images/products/801/290/000/3021/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473660', 'Mini barquitas mexicanas', '', '3.9', '0.5', '31.3', '4.4', '', '5.4', '3.34', '1.31496062992126', '', '0');
+VALUES ('8012900003526', 'Rapitalia (27% MG)', 'lait, sel, présure, conservateur lysozyme (protéine naturelle dérivée du blanc d\'oeuf).', 'https://static.openfoodfacts.org/images/products/801/290/000/3526/front.8.400.jpg', '27', '26', '', '0.5', '0', '43', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473738', 'Mini panadillas', 'Farine de _blé_, eau, stabilisant (glycérol), huile de tournesol, poudres à lever (carbonate acide de sodium, diphosphates, phosphate de calcium), émulsifiant (mono et diglycérides d\'acides gras), dextrose, sel.', '7.2', '2', '34.5', '5.1', '2.8', '5.7', '2.84', '1.11811023622047', '', '0');
+VALUES ('8012900003533', 'Rapitalia', '_lait_, sel, présure,conservateur : lysozyme d\'_œuf_.', '', '37', '26', '0.5', '0.5', '', '43', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473745', 'Panadillas de ble x8', 'Farine de blé, eau, glycérol, huile de tournesol, carbonate acide de sodium, phosphate de calcium,mono- et diglycerides d\'acide gras, dextrose, sel.', '5.2', '0.9', '52.5', '1.8', '2.7', '8.5', '1', '0.393700787401575', '', '1');
+VALUES ('8012900003540', 'Rapitalia Parmezan', '', '', '37', '26', '0.5', '0.5', '', '43', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473752', 'Mini barquitas mexicanas', '', '7.2', '2', '34.5', '5.1', '', '5.7', '2.84', '1.11811023622047', '', '0');
+VALUES ('8012900008002', 'Grana Padano AOP râpé', '_Lait_, sel, présure, conservateur : lysozyme protéine d\'_oeuf_', 'https://static.openfoodfacts.org/images/products/801/290/000/8002/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473806', 'Kit pour fajitas tomates et poivrons, medium', 'Tortillas de blé extra moelleuses (65%) : Farine de blé, eau, stabilisant: glycérol\', huile de tournesol, émulsifiant: mono- et diglycerides diacides gras; dextrose, poudres à lever: carbonate acide de sodium, diphosphates; sel. Conditionnées sous atmosphèreprotectrice. Sauce à napper (29%) : tomates en morceaux (62%), oignons (17%), poivrons verts (11%), concentré de tomate, vinaigre, sel, copeaux d\'oignons, legumes déshydratés, épices, jus de citron concentré, correcteur d\'acidité: acide citrique; affermissant: chlorure de calcium; feuilles de coriandre, arôme de fumée, tomates cuites en poudre (0,01%). Mélange aux épices (6%) : légumes déshydratés (tomate, oignon, ail, poivron rouge, tomate cuite en poudre (2%)), sucre, maltodextrine, sel, épices (8%) (poivre noir, cumin, paprika (2%)), arôme, arôme de fumée, extrait de levure, correcteur d\'acidité: acide citrique; extrait d\'épice. Allergènes: voir les ingrédients en gras.', '3.8', '0.8', '40.1', '4.2', '2.3', '7', '1.6', '0.62992125984252', '', '0');
+VALUES ('8012901004300', 'DOLCE MAMA TIRAMISU', 'sirop de glucose eau, génoise 9% (farine de blé, sucre, oeufs, fécule de pomme de terre, émulsifiant : mono- et diglycérides d\'acides gras, huile de coco, poudre à lever : diphosphate disodique, bicarbonate de sodium ; sel), huile de coco, protéines de lait, alcool, stabilisant : sirop de sorbitol, saupoudrage de cacao 1,2% (cacao 46%, dextrose, amidon de blé, sucre, beurre de cacao), épaississants : carraghénanes, Bomme xanthane; amidon de tapioca, mascarpone 0,6% (crème (lait),correcteur dlacidité : acide lactique (lait)), jaune d\'oeuf café soluble 0,2%, emulsifiant : mono- et diglycerides d\'acides gras; correcteur dlacidité : acide citrique, extrait de café, arôme naturel, sucre caramélisé, sel. Peut contenir des traces de fruits à coque et de soja. A conserver à +80C. A consommer jusqu\'au : voir sur le dessus de l\'emballage. t Kaffee petrânkten Kuchenboden, Mascarpone-Frischkâse und Kakaozubereitung überstreut. ZUTATEN: Glukosesirup, Wasser, Kuchen 9%', '', '9.6', '8.3', '41.4', '19', '1', '2.7', '0.31', '0.122047244094488', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473899', 'Barquitas', '', '3.9', '0.5', '35.3', '7.5', '', '5.5', '2.42', '0.952755905511811', '', '0');
+VALUES ('8012901004706', 'Excellence Tiramisù Tradizionale', 'Lait écrémé reconstitué, sirop de glucose, mascarpons 14% (creme, correcteur d\'acidité: acide lactique (_lait_)   biscuit a la cuillère 9.5% (farine de _blé_, _oeufs_ 30%, sucre, protéines de lait, poudres à lever (_gluten_): diphosphates, carbonates de sodium,  huile de coco, sucre, crème 2,7%, alcool, saupoudrage au cacao 1% (cacao 0,5%, dextrose. amidon de blé, sucre, beurre de cacao), _oeufs_, stabilisant: sorbitols; café soluble 0,7%. vin Marsala, protéines de _lait_, gélatine bovine, amidon de tapioca, émulsifiant: esters lactiques des mono- et diglycérides d\'acides gras; épaississants: farine de grains de caroube, Alginate de sodium; arôme naturel.', 'https://static.openfoodfacts.org/images/products/801/290/100/4706/front.3.400.jpg', '14.5', '11.3', '34.2', '19.2', '0.6', '3.5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473912', 'Kit pour fajitas', '', '3.9', '0.5', '35.3', '7.5', '', '5.5', '2.42', '0.952755905511811', '', '0');
+VALUES ('8012901006298', 'Tiramisu', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473950', 'Kit pour fajitas sans gluten', '', '1.6', '0.4', '42.2', '5.4', '', '2', '2.32', '0.913385826771653', '', '0');
+VALUES ('8012901071241', 'Solo Italia Tiramisu Excellence', 'lait écrémé reconstitué, sirop de glucose, mascarpone 14,5% (crème, correcteur d\'acidité: acide lactique (lait)), biscuit à la cuillère 9% (farine de blé, œufs 26%, sucre, protéines de lait, poudres à lever (gluten) : diphosphates, carbonates de sodium), huile de coco, sucre, alcool, crème 2,7%, œufs, stabilisant : sorbitols ; saupoudrage de cacao 1% (cacao 0,5%, dextrose, amidon de blé, sucre, beurre de cacao), café soluble 0,7%, vin Marsala, protéines de lait, gélatine, amidon de tapioca, émulsifiant : esters lactiques des mono- et diglycérides d\'acides gras ; épaississants : farine de grains de caroube, alginate de sodium , arôme naturel. Peut contenir des traces de fruits à coque et de soja A conserver à +60C max. A consommer jusqu\'au: voir sur le dessus de l\'emballage.', '', '14', '11', '35', '17', '', '3.7', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076473981', 'Tortillas', '', '2.2', '0.7', '58', '0.3', '', '1.9', '1.31', '0.515748031496063', '', '0');
+VALUES ('8012901073139', 'Tiramisu', 'sirop de glucose, lait écrémé reconstitué, eau, biscuit à la cuiller 9,2% (farine de blé, œufs, sucre, protéines de lait, poudres à lever (gluten) : diphosphates, carbonates de sodium), huile de coco, sucre, mascarpone 2,7% (crème (lait), correcteur d\'acidité : acide lactique (lait)), protéines de lait, alcool, jaune d\'œuf, sauproudrage au cacao 1,2% (cacao 0,5%, dextrose, amidon de blé, sucre, beurre de cacao), vin Marsala, café soluble 0,9%, amidon de tapioca, épaississants : carraghénanes, gomme xanthane, farine de graines de caroube , émulsifiant : esters lactiques des mono- et diglycérides d\'acides gras ; extrait de café, arômes. Peut contenir des traces de soja et de fruits à coque. A conserver au réfrigérateur à +60C. A consommer jusqu\'au : voir sur le dessus de l\'emballage.', '', '10', '9', '39', '17', '', '3', '0.16', '0.062992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474001', 'Oldelpaso', '', '2.2', '0.7', '58', '0.3', '', '1.9', '1.31', '0.515748031496063', '', '0');
+VALUES ('80129288', 'Frutti Di Cappero', '', '', '1', '0.4', '1.4', '0.9', '', '1.9', '7.5', '2.95275590551181', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474049', 'Kit pour burritos', '', '3.8', '0.8', '39.9', '3.1', '', '7.1', '1.82', '0.716535433070866', '', '0');
+VALUES ('8012930000038', 'Tarallini al peperoncino', '_Farina tipo &quot;0&quot;_, olio vegetale di palma, _vino bianco_, peperoncino disidratato 1%, sale, lievito.', 'https://static.openfoodfacts.org/images/products/801/293/000/0038/front.5.400.jpg', '15.9', '', '75', '', '', '7.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474056', 'Fajitas original barbecue', '', '3.6', '0.8', '40.3', '6.2', '', '6.7', '2.04', '0.803149606299213', '', '0');
+VALUES ('8012941010675', 'Fileja i casa', '', '', '1.6', '0.3', '69.5', '3.1', '', '14.5', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474063', 'Kit pour enchiladas', '', '2.9', '0.4', '31.8', '5.5', '', '5.6', '1.02', '0.401574803149606', '', '0');
+VALUES ('8012941701047', 'Tarallegri tarallini scaldati', 'FR &quot;TARALLEGRI&\' AU SESAME G 250: farine de blé type &quot;00&quot;de grignons d\'olive huile d\'olive extra Vierge huile d\'olive de 5 % , Vin blanc, sel, graines de sésame 1,5%', '', '19.2', '3', '63', '0', '0', '9', '1.92', '0.755905511811024', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474070', 'Kit pour fajitas', '', '6.1', '1.9', '42', '5.9', '', '7.1', '1.6', '0.62992125984252', '', '0');
+VALUES ('8012975014021', 'Limoncello', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474087', 'Crousti Fajiras', '', '3.7', '0.8', '45.1', '4.4', '', '7.5', '2.14', '0.84251968503937', '', '0');
+VALUES ('8013025089563', 'Olio huile d\'olive', 'VALORI NUTRIZIONALI MEDI / ml) GRASSI/FAP ENERGIA 91,6 g • saturi /satured 13,0 g CARBOlDRATl/CARBOHYDRATE—Og - monoinsaturi g - polnsaturi /polyunsatured -Vltamina E/ Vitamin 0 g FIBRE/FIBERS', '', '92', '13', '1', '1', '', '1', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474094', 'Barquitas mini', '', '3.9', '0.5', '31.3', '4.4', '', '5.4', '3.34', '1.31496062992126', '', '0');
+VALUES ('8013025090798', 'Olio Extra Vergine Di Oliva', '', 'https://static.openfoodfacts.org/images/products/801/302/509/0798/front.3.400.jpg', '91.6', '13.8', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474100', 'BARQUITAS Kit pour Tacos', '', '4.4', '0.6', '35.4', '3', '', '5.8', '2.3', '0.905511811023622', '', '0');
+VALUES ('8013025091795', 'Huile d\'olive vierge extra', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474117', 'Barquito kit pour tacos', '', '7.4', '1.9', '38.2', '6.2', '', '6', '1.79', '0.704724409448819', '', '0');
+VALUES ('8013025093010', 'Huile extra vierge d\'olive', 'Huile d\'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.', '', '91.6', '13', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474131', 'Tortillas', '', '5.2', '1.2', '53.2', '2.1', '', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8013025093058', 'Huile d\'olive Vierge Extra', 'Huile d\'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.', 'https://static.openfoodfacts.org/images/products/801/302/509/3058/front.5.400.jpg', '100', '13.8', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474148', '6 wraps extra moelleux', '', '5.2', '1.2', '53.2', '2.1', '', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8013025093898', 'Vinaigre Balsamique de Modène (acidité 6%)', 'Vinaigre de vin, moût de raisin concentré, colorant : caramel (E150d). Contient des _sulfites_.', 'https://static.openfoodfacts.org/images/products/801/302/509/3898/front.5.400.jpg', '0', '0', '11', '11', '0', '1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474155', 'Barquitas', '', '6.9', '0.9', '52.5', '1.8', '', '8.5', '1', '0.393700787401575', '', '1');
+VALUES ('8013025094420', 'Olio Extra Vergine Di Oliva', 'Huile d\'olive', '', '91.6', '13', '0', '0', '0', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076474162', 'Barquitas Mini', '', '6.9', '0.9', '52.5', '1.8', '', '8.5', '1', '0.393700787401575', '', '1');
+VALUES ('8013034001006', 'Spaghetti Integrali', 'organic durum whole- wheat semolina Italienische Vollkom-Hartweizen Pasta Zutaten: kontrolliert biologisches Hartweizen-Vollkommehl aus italienischer, regionaler Produktion Pasta de sémola integral de trigo duro biolôgico Ingredientes: sémola integral de trigo duro bi016gico Pâtes de semoule complète de blé dur issu de l\'agriculture biologique ialienne Ingrédients: semoule complète de blé dur biologique Biologlsche italiaanse volkorenpasta van harde tarwe Ingrediënten: biologisch volkorenmeel van harde tarwe Conservare il prodotto in luogo fresco e asciutto Store in a cool dry place Bitte kühl und trocken lagern Conservar el producto en lugar fresco y seco Conserver au frais et au sec Koel en droog bewaren', '', '1.6', '0.03', '73', '2.5', '', '12.5', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076478986', 'Tortillas', '', '5.2', '1.2', '53.2', '2.1', '', '9.1', '1', '0.393700787401575', '', '1');
+VALUES ('8013034003338', 'Penne', '', 'https://static.openfoodfacts.org/images/products/801/303/400/3338/front.3.400.jpg', '1.5', '0.3', '73.1', '2.9', '', '12.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480255', 'Tortilla Chips', 'Farine de maïs, huile de tournesol (20%), assaisonnement (sucre, sel, épices (paprika en poudre, poivre noir, curcuma, gingembre, poivre de cayenne), oignon, extrait de levure, arômes (contient du blé), arôme de fumée, correcteur d\'acidité (acide citrique, acétate de sodium), ail, herbes et colorant : extrait de paprika)', '20', '1.6', '67.6', '2.5', '2.4', '5.9', '0.41', '0.161417322834646', '', '1');
+VALUES ('8013034004038', 'Mezze Maniche Trafilate Al Bronzo', 'fatty saturated/acides gras saturés /Verzadigde vetzuren/ de las coales saturadas/Gesàttigte Fettsâuren 73,1 g Carboidrati Carbohydiates/Glucides/Koolhydraten/Carbohidratos/ Kohlenhydrate 2,9 g di cui zueccheri Sugar/ Sucres/ Waarvan suikers/ En azûcar/Zucker 12,5 g Proteine Protein/Protéine/Eiwitten/ Proteinas/ EiweiB 0,01 g Sale Salt/Sel/ Zout/Sal/Salz', '', '1.5', '0.3', '73.1', '2.9', '', '12.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480903', 'Tortilla Chips CHILI Chips de maïs au goût de piment', 'Farine de maïs, huile de tournesol, mélange de condiments (sel de cuisine, épices, légumes séchés (oignon, ail, tomate) dextrose, chapelure (farine de blé, sel de cuisine, poudre à lever (E503)), extrait de levure, sucre, extrait d\'èpices (poivre, paprika)).', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013034004045', 'Lumache Trafilate Al Bronzo', '', '', '1.5', '0.3', '73.1', '2.9', '', '12.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480927', 'Tortilla Chips Guacamole', 'Farine de maïs, huile de tournesol (21%), condiment en poudre (dextrose, sel de cuisine, crème en poudre, arômes, sucre, légumes deshydratés (oignons, ail), maltodextrine, lait en poudre, poivre de Cayenne, huile végétale (noix de coco, palme), correcteur d\'acidité (acide citrique), poivre noir, antioxydant (acide ascorbique), colorant (E 141)).', '22', '3', '65', '1', '3', '6', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013034004052', 'Linguine', 'he Nudeln aus hem HartweizengrieB; beiniedriger ur }iologischem ngrieB iana de sémola de trigo »gico secada a baja Ira es.\' Sémola de trigo duro ogiques italiennes à é dur . semoule de blé dur riculture biologique italiaanse pasta van n : griesmeel van harde nstig van biologische arsi preferibilmente stampigliatura : see printing ar bis: s. Aufdruck referenternente antes eso er de préférence avant \\llage', '', '1.5', '0.3', '71.7', '3.5', '3', '12.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480941', 'Kit pour burritos original', 'Galettes de blé souples nature (326 g) : farine de _blé_, eau, stabilisant : glycérol, huiles végétales (palme et colza) en proportion variable, émulsifiant : mono- et diglycérides d\'acides gras, dextrose, poudres à lever : carbonate acide de sodium, diphosphate disodique, sel. Sauce Original salsa (144 g) : tomates (61 %), oignons (16 %), poivrons verts (10 %), concentré de tomate, sel, vinaigre, copeaux d\'oignons déshydratés, sucre, oignon en poudre, jus de citron concentré, piment Guajillo (0,4 %), ail en poudre, épices, correcteur d\'acidité : acide citrique. Mélange aux épices pour Burritos (40 g) : haricots rouges en poudre, légumes déshydratés (oignon, poivron, ail), amidon de pomme de terre, épices (11,6 %) (piment chili, paprika, cumin, poivre noir), sel, sirop de glucose déshydraté, extrait de levure, arôme, sucre, correcteur d\'acidité : acide citrique, colorant : betterave rouge, extrait d\'épice (paprika), origan. Mélange aux épices pour Guacamole (10 g) : légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9 %) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épice (poivre).', '3.8', '1.3', '40.4', '3.6', '2.3', '6.7', '1.83', '0.720472440944882', '', '0');
+VALUES ('8013034005462', 'Tagliatelle Nido Integrali Di Farro', '', '', '3', '0.5', '74', '3.2', '', '1.3', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480958', 'Kit pour Crousti\' Fajitas', '', '7.8', '2.9', '40.3', '4.1', '', '7.5', '2.1', '0.826771653543307', '', '0');
+VALUES ('8013034005509', 'Farfalle Integrali Di Farro', 'biélogico (triticum dicoccurn) complè: biologique', '', '3', '0.01', '74', '2.9', '', '13', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480972', 'Kif pour Enchiladas au four', 'Tortillas de maïs souple (335g) : Farine de maïs (27%), farine de _blé_, eau, stabilisant : glycérol, huiles végétales (huile de palme, huile de colza), gluten de _blé_, sel, dextrose, poudre à lever : diphosphate disodique, carbonate acide de sodium, émulsifiant : mono- et diglycérides d\'acides gras, conservateur  : sorbate de potassium, acidifiant : acide citrique Sauce tomate (300g) : Eau, concentré de tomate (49%), correcteur d\'acidité : acide citrique Mélange d\'épices pour Enchilada (22g) : Chapelure (contient du _blé_), épices (25,4%) (piment chili, paprika, piment de Cayenne, cumin, poivre noir), sel, légumes déshydratés (oignon, ail), farine de _blé_, dextrose, sucre, extrait d\'épices, origan, colorant : caramel ammoniacal Mélange d\'épices pour Guacamole (10g) : Légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épices (poivre)', '2.9', '1.1', '34', '5.7', '1.9', '5.6', '1.7', '0.669291338582677', '', '0');
+VALUES ('8013034005554', 'Festoni Pasta di Semola di Grano Duro Biologico Italiano', 'Semoule de _blé_ dur', 'https://static.openfoodfacts.org/images/products/801/303/400/5554/front.3.400.jpg', '1.5', '0.3', '73.1', '2.9', '', '12.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076480989', 'Fajitas Original', 'Tortillas de blé souples (326 g) : Farine de blé (60%), eau, stabilisant : glycérol, huiles végétales (huile de colza), poudre à lever : carbonate acide de sodium, diphosphate disodique ; émulsifiant : mono- et diglycérides d\'acides gras, dextrose, sel, conservateur : sorbate de potassium. Conditionnées sous atmosphère protectrice. Sauce Original salsa (144 g) •.tomates (61%), oignons, verts (10%), concentréde tomate, sel, vinaigre, oignons déshydratés, sucre, oignon en poudre, jus de citronconcentré, épices, correcteur d\'acidité : acide citrique. Mélange d\'épices pour Fajita (30 g) :Sucre, légumes déshydratés arômes, arômede fumée, protéines hydrolysées de soja, épices (5,5%) (poivre noir, piment de Cayenne, gingembre), correcteur d\'acidité : acétate de sodium, acide citrique; extrait de levure, colorant : caramel ordinaire. Mélange d\'épices pour Guacamole (10 g): Légumes déshydratés, (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épice (poivre). CONTIENT DU BLÉ ET DU SOJA.', '5', '2', '39.9', '6', '2.1', '6.2', '2.43', '0.956692913385827', '', '0');
+VALUES ('8013034005844', 'Lasagne', 'Semoule de _blé_ dur issu de l\'agriculture biologique', 'https://static.openfoodfacts.org/images/products/801/303/400/5844/front.3.400.jpg', '1.2', '0.1', '76.1', '3.5', '0', '12', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481016', 'Kit pour Poêlée Yucatan', 'Riz précuit finement épicé (200 g) : riz blanc loin grain précuit, maltodextrine, poudre de tomates, sel, sucre, huile de tournesol, extrait de paprika (0,1%), persil, correcteur d\'acidité : acide citrique. Sauce citron vert (150 g) : eau, _crème_, épinards, sel, amidon modifié de maïs, arômes, arôme coriandre, spécialité _fromagère_, stabilisant : gomme xanthane, correcteur d\'acidité : acide lactique, jus de citron vert concentré (0,13%). Mélange aux épices pour poêlée Yucatan (5 g) : maltodextrine, _lait_ en poudre, sel, sucre, herbes (origan, persil, thym), épices (2,5%), correcteurs d\'acidité : acide citrique, acide lactique; extrait de paprika. Mélange d\'épices pour Guacamole (20 g) : légumes déshydratés (oignon, poivre, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique, herbes (origan, persil), extrait d\'épice (poivre).', '4.8', '2.6', '40.9', '1.2', '1.7', '4.4', '2.6', '1.02362204724409', '', '0');
+VALUES ('8013034006179', 'Farine complete de pois chiches biologiques', '', '', '4.7', '0.63', '54', '3.7', '', '22', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481023', 'Kit pour poêlée Oaxaca', 'Riz précuit finement épicé 200 g : riz blanc long grain précuit, maltodextrine, poudre de tomates, sel, sucre, huile de tournesol, extrait de paprika 0,1 %, persil, acide citrique. Sauce 150 g : purée de tomates, tomates en morceaux, oignons, poivrons jaunes, eau, purée d\'ail 4 %, sel, purée de piment chipotle 3 % (piments en sauce [piments chipotle, eau, concentré de tomates, oignon, sucre, sel, vinaigre], acide acétique, sel), sucre, arômes naturels, amidon modifié de maïs, vinaigre blanc, jus de citron concentré, extrait de paprika, acide citrique. Mélange aux épices pour poêlée Oaxaca 5 g : dextrine, tomates en poudre, sel, épices 8 %, sucre, herbes (origan, persil), acide citrique, extrait de paprika. Mélange aux épices pour guacamole 20 g : légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel, dextrose, épices 9 % (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, acide citrique, herbes (origan, persil), extrait d\'épice (poivre).', '1.1', '0.2', '43.1', '4.1', '2.8', '4.7', '2.5908', '1.02', '', '0');
+VALUES ('8013034006278', 'Orecchiette 500 G', 'Semoule de _blé_ dur, eau.', '', '1.5', '0.3', '71.1', '2.9', '', '12.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481238', '200G Tortilla Chips Queso Old El Paso', '', '22.1', '2', '63.5', '1', '', '6.2', '1.35', '0.531496062992126', '', '0');
+VALUES ('8013062002013', 'Savoiardi', '', '', '3.3', '1.3', '58', '31', '', '8.3', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481290', 'Tortilla Chips Crema y Onion', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013108042003', 'Caffarellino 25 GR.', '', '', '31', '17', '58', '44', '', '6.4', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481368', 'Kit pour Taco Up', 'Coquilles pour tacos 160 g (farine de maïs, huile de tournesol 27%), sauce pour tacos 127 g (tomates en morceaux 51%, eau, concentré de tomates 10%, piments verts, amidon modifié de maïs, oignons déshydratés, sel, sucre, correcteur d\'acidité (acide citrique), paprika, oignon en poudre, ail en poudre), mélange aux épices pour tacos (25 g) (épices (paprika, cumin, chili), légumes déshydratés (oignon, ail), sel, maltodextrine, amidon, herbes aromatiques (origan, marjolaine), extrait de levure, extrait de paprika)', '14.4', '1.2', '38', '3.5', '2.7', '3.9', '1.86', '0.732283464566929', '', '0');
+VALUES ('8013108043475', 'Marrons glacés', 'Marrons, sucre, sirop de glucose, extrait de vanille (gousses).', '', '2', '0', '87', '84', '', '1', '0.0499999999999999', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481597', 'Crunchy Napchips Original', 'whole corn kernels, sunflower oil (high oleic acid), salt. It may contain small amounts of _milk_, _wheat_, _soy_ products. mustard, celery.', '26.7', '3', '56.4', '0.5', '4.7', '6.2', '0.49', '0.192913385826772', '', '1');
+VALUES ('8013108215209', 'Gianduiotti In Sacchetto, Gianduia-pralinen Im Beutel', '', '', '34', '11', '56', '47', '', '8', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481603', 'Pancho Villa Nacho Chips', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013108255076', 'Piemonte Nougat Bar', '', '', '44', '12', '35', '35', '0', '9', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481702', 'Crunchy nachips original', '', '26.7', '3', '56.4', '0.5', '', '6.2', '0.49', '0.192913385826772', '', '1');
+VALUES ('8013108411458', 'Gianduia 1865 l’originale', 'sucre, beurre de cacao, noisettes du Piémont (15%), pâte de cacao, lait entier en poudre, amandes, émulsifiant: lécithine (de soja), vanilline. Peut contenir des noix et despistaches, Cacao: 30% minimum. Sans gluten. Con- server,en lieu frais et sec. Fabriqué en Italie. A consommer de préférence avant le: Voir timbrage', '', '37', '17', '54', '48', '', '7', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481726', 'Tortilla chips Ranch', '', '26', '3', '56', '2.5', '', '6.5', '1.4', '0.551181102362205', '', '0');
+VALUES ('8013108411465', 'Edel-bitterschokolade Mit 70% Kakao,Zartbitter Mit 70% Kakao', 'Olocolat noir eûa Cacaot 70% mini. murn•ln expé:edecacaqsucret beure e cacao dégraissé en poudre, (de soja)\' exffait de contenir des nat- setes des et des gluten. Fabriqué en À coasamB4f préférence avant le:', '', '42', '25', '44', '21', '', '11', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481733', 'Tortilla chips chili', '', '26', '3', '57', '1.5', '', '6', '0.8', '0.31496062992126', '', '1');
+VALUES ('8013108412202', 'Dark', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481757', 'Crunchy Tortilla Chips Fajita', 'grain de maïs, huile de tournesol, assaisonnement [sucre, sel, épices (paprika en poudre, poivre noir, curcuma, gingembre, poivre de Cayenne), oignon, maltodextrine, extrait de levure, arôme, arôme de fumée, arôme naturel, correcteurs d\'acidité (acide citrique, acétate de sodium), ail, persil, colorant : extrait de paprika].', '26.2', '3', '56.8', '1.5', '4.7', '6.3', '0.4', '0.15748031496063', '', '1');
+VALUES ('8013108412875', 'Cioccolato Fondente 57 % Nocciolotto, Bitterschokolade Mit Piemont-haselnüssen', 'Iras Chocolat noir avec noisettes entières (20%) et as éclats de croquante (5%) aux noisettes (2%) mo -Cacao dans le chocolat noir: 57% minimum - ln- lla- grédients: pâte de cacao, sucre, noisettes 2206 osa, beurre de cacao, sirop de glucose, émulsifiant: ocar lécithine (de soja)/ sirop de sucre inverti/ extrait ener de vanille. Peut contenir des amandes/ des noix che. et des pistaches, Contient du lait. Pro- Sans gluten. Conserver en lieu frais etsec. Fabri- qué en Italie. A consommer de préférence avant let Voir timbrage R: 1 NUTRITION INFOR- ONNELLES POUR: / IN. 100 g / INFORMATIONEN PER: 2549 kJ/ 610 kcal yético - Energie - Energi', '', '43', '17', '46', '31', '', '9', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481764', 'Crunchy Tortilla Chips Chili', 'grain de maïs, huile de tournesol, assaisonnement [légumes déshydratés (ail en poudre, oignon en poudre, tomate en poudre), épices (piment chilli, graine de cumin, poivre), sel, dextrose, maltodextrine, extrait de levure, herbes (origan), sucre, correcteur d\'acidité : acide citrique, colorant : extrait de paprika, arôme naturel (origan)].]', '25.9', '2.9', '56.5', '1.7', '4.7', '6.4', '0.79', '0.311023622047244', '', '1');
+VALUES ('8013108416330', 'Torino la Mole', '', '', '37', '22', '54', '50', '', '7', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481832', 'Crunchy Tortilla Chips crema & ognon', '', '25.7', '3', '56.4', '3', '', '6.2', '1.04', '0.409448818897638', '', '0');
+VALUES ('8013108416361', 'Chocolat au lait', '', '', '37', '22', '54', '50', '', '7', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481863', 'Crunchy Tortilla Chips Chili', 'Grain de maïs, huile de tournesol, assaisonnement [légumes déshydratés (ail en poudre, oignon en poudre, tomate en poudre), épices (piment chili, graine de cumin), sel, dextrose, maltodextrine, extrait de levure, herbes (origan), sucre, correcteur d\'acidité : acide citrique, colorant : extrait de paprika, arôme naturel d\'origan.', '25', '2.9', '56.5', '1.7', '4.7', '6.4', '0.79', '0.311023622047244', '', '1');
+VALUES ('8013108607967', 'Caffarel - Gianduja 1865 - 350G', '- 10062 Senza lbbg:', '', '34', '11', '56', '47', '', '8', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481887', 'Tortilla chips Blue corn & sea salt', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013108610691', 'Creme De Gianduia Au Lait', 'Crema da spalmare • Ingredienti: ENocdola Piemonte [G.P.&quot; 40K zuccherq cacao magro in polvere, latte scre- mato in polvere, burro di cacao, buro anidro man• dodej emulsionante: lecitine (di soia). Senza alutine, Conservare in luoqo fresco e asciutto • INFORMbZ10Nl PER 100g: 2299 kJ / 550 kcal • Grassi 32 g di cui: acidi grassi satun 415 Carboidrati 56 g di cuit zuccheri 45 g - Proteine 10 g -Sare 0,12 g', '', '32', '4.5', '56', '45', '', '10', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076481900', 'Old El Paso Chips White Corn Lime', '&quot;e / Energe / Energe / Valor energético / t herga / Energ / Energ / Energa / Evépyeta gasses / Vetten / Fett / Grasas / Lipidos / / Pett / Rasva / AITtapd àsàates / dont acides gas saturés / waarvan v±uren / davon gesittigte Fettsàuren / isgà:saturadas / dos quais: Saturados / Grassi Saturi / Varav màttat / hvorav mettet / *ynyttà / onoiwv KOPEOUÉva *\'ate / Glucides / Koolhydraœn / Kohlenhydrate / ta de / Hidratos de carbono / Carboidrati / I urbohydrat / Hiilihydraatit / Y6ardvepaKEç / Fibra / Fibre / Fiber / / OUTIKÉÇIVEÇ / Eiwitten / EiweiS / Proteinas /', '26.6', '3.1', '53.2', '0.5', '8', '6.3', '0.88', '0.346456692913386', '', '1');
+VALUES ('8013108610707', 'Creme De Chocolat Noir & Gianduia', 'Sucre cacao noisettes', '', '37', '11', '50', '40', '', '7.6', '0.09', '0.0354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482006', 'Tortilla strips', 'grains de maïs (maïs Jaune et maïs blanc), huile de tournesol, set de mer', '33.8', '4.3', '54.3', '0.5', '3.9', '5.5', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013108611551', 'Haselnuss-nougat-pralinen, Lose, Gianduiotti Classici, Sfusi, Caffarel', 'sucre, noisettes du Piémont 28%, pâte de cacao, lait entier en poudre, beurre de cacao, amandes, vanille en poudre.', '', '34', '11', '56', '47', '0', '8', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482020', 'Tortilla strips', 'CHIPS DE MAÏS SAVEUR FROMAGE. *ients: grain de maïs (maïs jaune et maïs blanc), huile de tournesol, assaisonnement(arôme du lait), sel, lactose (lait), fromage en poudre, sucre, correcteurs d\'acidité: sodium diacebte, citique; colorant extrait de paprika). Conditionnées sous atmosphère protectrice.Allegènes: ingrédients en gras. À conserver dans un endroit frais et sec. A consommerdepréférenceavant k:nrau dos de l\'emballage. Contient au moins 3 portions.', '32.7', '4.2', '54.6', '2.3', '3.9', '5.8', '1.35', '0.531496062992126', '', '0');
+VALUES ('8013108612176', 'Cioccolato Gianduia Fondente 100G Caffarel', '', '', '42', '16', '44', '31', '', '8', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482129', 'OLD EL PASO Crunchy Fajita Chips', 'grain de mdis, huile de toumesol, assaisonnement [sucre, sel, épices (paprika en 611, curcuma, gingembre, poivre de cayenne), oignon, maltodextrine, extrait de levure, arôme, arôme de atc:el, correcteurs d\'acidité (acide citrique, acétate de sodium), ail, persil, colorant : exfrdlt de paprika] tr nir des ingrédients à base de blé, lait, soja, moutarde et céleri. À conserver dans un endroit frai Ier de préférence avant le : voir au dos de l\'emballage. Contient au moins 3 portions.', '26.2', '3', '56.8', '1.5', '4.7', '6.3', '0.4', '0.15748031496063', '', '1');
+VALUES ('8013108613784', 'Kakaocreme Mit Zartbitterschokolade, Crema Gianduia Fondente Premium, Caffarel', 'Via Gianavello 41, 10062 Lusema S. Giovanni (TO) Crema da spalmare Ingredienti: &quot;Nocdola Piernonte I.G,P.&quot; 40% zucchero cacao magro in polvere 158 burro di cacao buro anidrq emulsionante: lecitine (di scia), mandorle. Contiene late. Senza qlutine. Consentre in NUTRIZIONALI 31 g di acidi grassi saturi 4,0 q - Carboidrati 56 g di cui: zuccheri 42 g- Proteine g -Sare 003 g Gianduja spriad,lnàredients: Piedmont hazelnut40%, suqar, Iow tat cocoapowder 15%l cocoa butteri anhydrous milkfatt emulsifier, \'lécffirflsoya) almonds, Contains milkGuten-free. Storèin a cool dry \'lace. Madejn Italy 560 kcal -Fat31 gofwhich: saturates4 g,Carbohydrate 56 g of which:sugars 42 g - Protein g- Salt 0,03 g', '', '31', '4', '56', '42', '0', '9.3', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482136', 'Crunchy Tortilla Chips Chili', 'Grain de maïs, huile de tournesol, assaisonnement [légumes déshydratés (ail en poudre, oignon en poudre, tomate en poudre), épices (piment chili, graine de cumin, poivre), sel, dextrose, maltodextrine, extrait de levure, herbes (origan), sucre, correcteur d\'acidité : acide citrique, colorant : extrait de paprika, arôme naturel (origan)].', '25.9', '2.9', '56.5', '1.7', '4.7', '6.4', '0.79', '0.311023622047244', '', '1');
+VALUES ('8013108616396', 'Gianduio 1865', 'sucre, &quot;noisette du Piémont&quot; 28% pâte de cacao, lait entier en poudre, beurre de cacao, amandes, vanille en poudre. Peut contenir du soja. Sans gluten. Conserver en lieu frais et sec. Fabriqué en Italie', '', '34', '11', '56', '47', '', '8', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482143', 'Crunchy Nachips Original (lot de 2)', 'Grain de maïs, huile de tournesol, sel', '26.7', '3', '56.4', '0.5', '4.7', '6.2', '0.5', '0.196850393700787', '', '1');
+VALUES ('8013108618130', 'Piemonte', '', '', '44', '12', '45', '35', '', '9', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482211', 'White corn tortillas', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013108618161', 'Gianduia 1865', 'sucre, noisette du Piémont 28%, pâte de cacao, lait entier en poudre, beurre de cacao, amandes, vanille en poudre. Peut contenir du soja. Sans gluten.', '', '34', '11', '56', '47', '', '8', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482235', 'Chips Crunchy Tortilla fromage Old el Paso', 'de référence pour un adulte-type (8400kJ/2000 kcal). * Assunzioni di riferimento di un adulto medio (8 400 kJ/2 000 kcal) Ingesta de referencia de un adulto medio (8 400 kJ/ 2 000 kcal) Dose de referência para um adulto médio (8 400 kJ/2 000 kcal) avaçopdç (8 400 kJ / 2 000 kcal). *Referentie-inname var/ een gemiddelde volwassene (8 400 kJ/? 000 kcal), * Referpnznenge )geinen durchschnittlichen Erwachsenen (8 400 kJ/2 000 kcal) * Refejpnce intake of an average adult (8 400 kJ/ 2 000 kcal)', '25.7', '3', '56.3', '23', '4.6', '6.4', '1.35', '0.531496062992126', '', '0');
+VALUES ('8013108693656', 'Caffarel', '', '', '34', '11', '56', '47', '', '8', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482303', 'Kit pr mini panadillas', 'Galettes de blé (145 g) : farine de blé, eau, stabilisant: glycérol; huile de tournesol, poudres à lever. carbonate acide de sodium, diphosphates, phosphates de calcium; émulsifiant: mono et diglycérides d\'acides gras; dextrose, sel. Conditionnées sous atmosphère protectrice. Sauce à la tomate (144 g): tomates (64%), oignons (17%), poivron vert (1 0%), concentré de tomate, sel, vinaigre, sucre, jus de citron concentré, piment guajillo (0.4%), ail en poudre, arôme naturel, amidon modifié de maïs, correcteur d\'acidité: acide citrique. Mélange aux épices pour tacos (25 g): épices (33%) (paprika, cumin, chili), légumes déshydratés (oignon, ail), sel, maltodextrine, amidon, herbes (origan, marjolaine), eûait de levure, extrait de paprika. Mélange aux épices pour guacamole (20 g): légumes déshydratés (oignon, poivron rouge, ail), sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité : acide citrique; herbes (origan, persil), extrait d\'épice (poivre). Allergènes: voir les ingrédients en gras.', '3.9', '0.5', '31.3', '4.4', '3.8', '5.4', '3.34', '1.31496062992126', '', '0');
+VALUES ('8013108694387', 'Pâte à tartiner noisettes', '_Noisettes_ du Piémont IGP 40% - sucre - cacao maigre - poudre de _lait_ écrémé - beurre de cacao - beurre _laitier_ concentré - amandes - émulsifiant (lécithine de _soja_).', 'https://static.openfoodfacts.org/images/products/801/310/869/4387/front.4.400.jpg', '32', '4.5', '56', '45', '', '10', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482310', 'Quesadillas', 'Torû/las de mais (335g): farine de mab (27%), eau, tarirte de blé, : gh,cérd, de blé, de canonate acide de smurn ; émulsifiant : mn- et dtgfrycérjdes d\'acides gras, sel, ca\'senta+z : state : sas atmosphère protectrice. Ee original (144g): mates (61 oign?Ì (16%), poivm vert (10%), concerté torr?e, El, rave, de concenté, piment guajilb ail en mdre, épices co?ecteur dimé.\' ode ftiqve. Mélange aux épices Q=dilla (26g): légumes Btrjdratés tomates, a), dgrm), sel, épts (11 piment chipote), sirop de glinose déshydraté, eÙaÌ de Ewre, arôme natrel, erait dépice: Mélue aux épices guacamole (10g): légumes dégjydratés (oigroq, rcue, O, de désh,ùaté, el, detse, piment de Cayenne, cmandre, pavika, rnivre mir, gingembre), extaft de levure, crrecte? dà.id± : ace tettes (lergènes: voir les ingrédients en gras.', '3.4', '0.5', '38.6', '6', '2.4', '6.6', '2.22', '0.874015748031496', '', '0');
+VALUES ('8013108694394', 'Pate a tartiner cacao', 'AU CACAO $lngrédients sucre, cacao maigre (179%), hui\\e végétale -(tournesol, carthame et riz), matière grasse (palmet -tournesol, carthamç et coton), noisettes poudre de lait écrémé, bedire de cacao, -émulsifiant (lécithine de soja), vanille en poudre', 'https://static.openfoodfacts.org/images/products/801/310/869/4394/front.3.400.jpg', '38', '8', '50', '40', '0', '8', '0.09', '0.0354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482327', 'Kit pour enchiladas recette douce sans piment old el paso', 'Galetes au maÉ souples (335g) : farine de maïs (27%), eau, farine de blé, stabilisant : glycérol; gluten de blé, huile de binesol, dext*res à : .?ndecmq?. CondT1nées so? afri?phère protectice. Sue à la tomat SI 50g) : eau, concenté de tomate (44,2%), arômes (contient des et du céleri), arôme de fumée, ail grillé, sel, de corcente, cumin, poivre noir, correcteur dlacidité: acide citique. Sane à la crème (100g) : eau, crème (42%), amidon de maïs modifié, arômes, préparajon fromagère, stabilisanÈ gomme xantlane, gomme gur, correcteur d\'acidité: acide lacique; persil. Mélange al.x épices pogr guacamol? (1 Og).: légumes.déshydratés (oignon, poivron rouge, ai), ?irop.ge glucose dé#lYdraté, sel, Allergènes voir les ingrédienb en gras', '5.7', '2.2', '33.3', '4.2', '2.2', '5.8', '1.25', '0.492125984251969', '', '0');
+VALUES ('8013108694400', 'Lindt Haselnusscreme', 'HASELNUSSCREME Zutaten: IIPiemont - Haselnussll (40%)/ Zucker, Magerkakaopulver, Magermilchpul- ver, Kakaobutter, Butterreinfett, Emulgator (Sejalecithin), Mandeln.', '', '32', '4.5', '56', '45', '', '10', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482334', 'Enchiladas', 'Galettes de blé (193 g) : farine de blé, eau, stablTlgnt glycérol\', huile de tournesol, à lever. carbnate acide de sdum, Ohosphates, phosphates de calcium; émulsifiant mono et digtycérides d\'acides gras; deftose, sel. Conditionnées sous atmosphère protectice. Sauce à la tomate (180g): purée de tomates (52%), eau, ure, oignon en poudre, sel, jus de Ttcenté, vinaigre, épices, ail en coriandre, correcteur dtacidfté: acide cmque. Mélanges aux épices erùlada (25g): épices bapnu (20%), piment de cayenne), légumes wydratés (oigrffl (1 3%), ail (8%)), sel, amidon, (origan, majolaine), eftait de lewe, papnu Mélange aux épices guznole (IW déshydratés (oigrm, rouge, d), sim de glucse dShydraté, sel, dextose, épices (9%) (cumin, piment de Cayenne, würe, papnu w, gingembre), ex de levure, correcteur diacidlté : acide citique; herbes (origan, perso, eùait d\'épice Allergènes: voir les ingrédients en gras.', '4', '0.5', '34.7', '5.8', '3.4', '5.5', '2.28', '0.897637795275591', '', '0');
+VALUES ('8013108694417', 'Lindt Kakaocreme Noir', 'delm Emulgator(Sojaleci• NÂHRWERTINFORMN gie 2466 kJ / 590 kcal, Fet&lt;uren 8,0g. Kohler±, 40g, Eiwei(S 8:08 Salz 069 schützen Mindestens haltbar hl', '', '38', '8', '50', '40', '0', '8', '0.09', '0.0354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482426', 'Tortillas strips original', 'Reference intake o référence pour un adulte•type (8400kJ/2000 kcal). riferimento di un adulto medio (8 400 kJ/2 000 kcal) ouisenkesklvertokâyttâjân saannin vertailuarvo (8 400 kJ/2 000 kcal) t!lngestadereferencia de un adulto medio (8 400 kJ/ 2 000 kcal) maïs (maïs Jaune et maïs blanc), huile de tournesol, sel de mer. sous atmosphère protectrice. Peut contenir des ingrédients à base de lait. un endroit frais et sec. A consommer de préférence avant le : voir au dos', '33.8', '4.3', '54.3', '0.5', '3.9', '5.5', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013108694660', 'Lindt Chocolate Con Leche Sin Azúcar Añadido', '', '', '37', '22', '52', '9', '', '7', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482488', '10 Tortillas', 'Galettes a maïs ln rédients:yarine de maïs blanc 61%)/ eau, sta%nb: glycérol/ gomme xanthane; se émulsifiants: mono-dlglycérides d\'acides gras. Conditionné sous atmosphère protectrice. A conserver dans un endroit frais et au sec. Après ouverture, refermer l\'emballage, conserver le produit au réfrigérateur et le consommer dans les 3 jours. Peut être congelé. Décongeler entièrement avant Utilisation. Ne pas recongeler un produit décongelé.', '4.5', '1.2', '45.1', '3.5', '6.2', '5', '2.22', '0.874015748031496', '', '0');
+VALUES ('8013108694677', 'chocolate negro sin azúcares añadidos', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482495', 'Crunchy Nachips', '', '26.7', '3', '56.4', '0.5', '', '6.2', '0.49', '0.192913385826772', '', '1');
+VALUES ('8013108695919', 'Lindt Piemonte Classico', '', '', '44', '12', '45', '35', '', '9', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482501', 'Tortilla chips', '', '26.2', '3', '56.8', '1.5', '', '6.3', '0.4', '0.15748031496063', '', '1');
+VALUES ('8013108695933', 'chocolat au lait et aux noisettes gianduja avec des noisettes entières', 'noisettes (41 %), sucre, pâte de cacao, beurre de cacao, lait entier en poudre, amandes, émulsifiant (lécithine de soja), arôme (vanilline). A conserver au frais et au sec.', '', '44', '12', '45', '35', '', '9', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076482518', 'Crunchy Tortilla chips', '', '25.9', '2.9', '56.5', '1.7', '', '6.4', '0.79', '0.311023622047244', '', '1');
+VALUES ('8013108695940', 'Piemonte Classico', 'CC) Chocolat au lait et aux noisettes gianduja avec des noisettes entières (19%) noisettes (41%), sucre, pâte de cacao, beurre de cacao, lait entier en poudre, amandes, lécithine de soja, arôme (vanilline).', '', '44', '12', '45', '35', '', '9', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076490131', 'Pancho Villa Guacamole Mix', 'légumes déshydratés (oignon, poivron, ail), sirop de glucose déshydraté, sel de cuisine, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d\'acidité (acide citrique), herbes (origan, persil), extrait d\'épice (poïge). Conserver dans un endroit frais et sec.', '3', '0.6', '52', '23', '10', '7', '17.5', '6.88976377952756', '', '0');
+VALUES ('8013108696688', 'Vollmilch (Glutenfrei)', '', 'https://static.openfoodfacts.org/images/products/801/310/869/6688/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076490148', 'Chicken Mix ', 'sucre, légumes déshydratés (oignon, ail), sel de cuisine, arômes, arôme de fumée, protéines hydrolysées de soja, épices (5.5%) (poivre noir, piment de cayenne, gingembre), correcteur d\'acidité (acétate de sodium, acide citrique), extrait de levure, colorant (caramel ordinaire)', '2', '1', '64', '45', '4.5', '6', '18', '7.08661417322835', '', '0');
+VALUES ('8013108696695', 'Zartbitter ohne Zuckerzusatz', '', '', '38', '22', '45', '1', '', '7', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076490742', 'Mélange d\'épices pour fajitas', 'sucre, légumes déshydratés (oignon, ail), sel, arômes, arôme de fumée, protéine de _soja_ hydrolysée, épices 5,5 % (poivre noir, piment de Cayenne, gingembre), acidifiant : acétate de sodium, acide citrique, extrait de levure, colorant : caramel ordinaire', '1.3', '0.2', '67.2', '60', '3.5', '6.3', '17.75', '6.98818897637795', '', '0');
+VALUES ('8013108696824', 'Piemonte', '', '', '43', '13', '41', '30', '', '9', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076490759', 'Mélange Pour Tacos Dou, 30 Grammes, Marque Old El Paso', 'Dextrose, épices (23%) (paprika, poivre noir, cumin), sel, légumes déshydratés (oignon, ail), extrait de levure, arôme, correcteur d\'acidité : acide citrique', '3.1', '0.3', '3.1', '0.85', '3.7', '59', '0', '0', '', '1');
+VALUES ('8013108902888', 'Caffarel Classic Gianduiotto Milk Chocolate', '', '', '34', '11', '56', '47', '', '8', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491015', 'Nacho kit', '', '8.1', '0.7', '32.3', '4', '', '4', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013121010379', 'Cardèto Orvieto Classico 2015', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491428', 'Mexican potatoes', 'Mélege épices pou Mexican Potatoes', '11', '4.7', '53', '8.7', '4.7', '10', '11.43', '4.5', '', '0');
+VALUES ('8013165009803', 'Formaggio 100% capra', 'Ingredienti: LATTE di capra fresco pastorizzato ( 00%), fermenti LATTICI, cagiio, sale.', '', '18', '12', '0.4', '0.4', '', '14', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491435', 'Crispy Chicken Fajitas Mix', 'Farine de _blé_, sel, son de _blé_, épices (4 %) (paprika, curcuma, poivre noir), légume déshydraté (oignon), arôme.', '2.7', '0.5', '72.6', '6.3', '3.5', '11', '3.30000000000001', '1.2992125984252', '', '0');
+VALUES ('8013165060811', 'TZATZIKI', 'Salsa di YOGURT 33% (LATTE in polvere scremato e proteine del LATTE, grasso idrogenato di semi di palma, amido di mais. gelatina,   emulsionante: acidi grassi mono e di gliceridi, conservante: sorbato di potassio, fermenti  Iattici vivi), cetriolo 20%, YOGURT (LATTE, proteine del LATTE,  crema` di LATTE, BURRO, fermenti Iattici vivi), olio di semi di girasole. acqua, amido di patata e mais, aceto di uva, sale, stabilizzanti: gomma di xantano e gomma di guar; zucchero, aglio in polvere, spezie, conservanti: sorbato di potassio, benzoato di sodio', 'https://static.openfoodfacts.org/images/products/801/316/506/0811/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491459', 'Mélange d\'épices pour guacamole', 'Légumes déshydratés (oignon, poivron, ail, sirop de glucose déshydraté, sel, dextrose, épices (9%) (cumin, piment de Cayenne, coriandre, paprika, poivre noir, gingembre), extrait de levure, correcteur d’acidité : acide citrique, herbes (origan, persil, extrait d\'épice (poivre).', '3.4', '0.4', '54', '24', '4.3', '8.9', '18.2', '7.16535433070866', '', '0');
+VALUES ('8013247150119', 'Integrale Parboiled', '', '', '2.8', '1', '78', '1', '', '7.5', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491473', 'ancho Villa AUTHENTIC MEXICAN Mélange aux épices avec croûtons', 'croûtons ( farine de froment, son de froment, levure, sel, colorants (annatto,, extrait de paprika)), sel, arômes, épices (3.5 %), (paprika, poivre noir), oignon en poudre, extrait de levre', '2.5', '0.5', '70', '7', '6', '11', '3.8', '1.49606299212598', '', '0');
+VALUES ('8013266101208', 'Farretti', '', '', '3.5', '0.8', '65', '5.9', '', '13.8', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491596', 'Old El Paso Chilli Con Carne Spice Mix 39G', '', '4.2', '0.4', '52', '21', '', '6', '22.8', '8.97637795275591', '', '0');
+VALUES ('8013266701002', 'Farro Dicocco', '', '', '2.5', '0.4', '67', '1.1', '', '9.9', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491831', 'Old El Paso Sazonador Para Fajita', 'Protéines de soja, acétate de sodium, acide citrique, levure, colorant caramel naturel', '1.7', '1', '64', '45.4', '4.3', '6.2', '17.9', '7.04724409448819', '', '0');
+VALUES ('8013266801207', 'Abc del farro', '', '', '3.5', '0.8', '65.1', '5.9', '', '13.8', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491855', 'Mélange d épices Chili Old el Paso', 'el, épiC6 (23%) (piment cumim w, de ?yne), de extos d6hy&os (9igm, ail), amr de cotrwteur dime : aide mue, , (mn), arôme : voir en gr6v A un frais et', '4.2', '0.4', '52', '21', '5.2', '6', '22.8', '8.97637795275591', '', '0');
+VALUES ('8013266901501', 'Fusilli Integrali Di Farro &quot;Le Farrette&quot;', '', '', '3.5', '0.8', '65.1', '5.9', '', '13.8', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491879', 'Melange aux epices pour tacos', 'épices (33%) (paprika, cumin, chili), légumes Wydratés (oignon, ail), sel, maltodextrine, amidon, herbes aromaüques (origan, marjolaine), extrait de levure extait de paprika.', '6.9', '1.1', '40', '6.1', '16.1', '8.9', '18.3', '7.20472440944882', '', '0');
+VALUES ('8013273103660', 'Nougat', '', '', '16.3', '3', '66', '60.7', '', '7.7', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076491886', 'Mexican MIX  mélange de condiments', 'épices ( paprika 20 %, cumin 12 %, piment rouge), légumes déshydratés (oignon 13 %), ail 8 %, sel de cuisine, maltodextrine, amidon, herbes (origan, marjolaine), extrait de levure, extrait de paprika', '7', '1', '40', '6', '16', '9', '18.3', '7.20472440944882', '', '0');
+VALUES ('8013273103707', 'Nougat tendre aux pistaches', '', '', '16.7', '1.4', '65.7', '59.8', '', '8.1', '31.1', '12.244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076492111', 'TACO BAR Mini Kit', '', '2', '0.5', '70', '12', '2', '5', '11.5', '4.52755905511811', '', '0');
+VALUES ('8013273107019', 'Nougat tendre aux amandes', '', '', '17.6', '1.5', '63.7', '58.5', '', '8.7', '0.078', '0.0307086614173228', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076492128', 'Concentré de Saveurs aux Épices pour Poulet Tikka Masala', 'Oignons déshydratés, huile de tournesol (contient anti-oxydant: E320), herbes (11%) (feuille de coriandre, feuille de laurier, feuille de fenugrec déshydratée), gigembre, ail, épices (6%) (poudre de piment rouge, graines de coriandre, graines de fenouil, curcuma, cardamome, cannelle, cumin, gigembre, clou de girofle (0.14%), noix de muscade), sel, piment vert, tomates en poudre, sucre, maltodextrine, colorant: extrait de paprika, régulateur d\'acidité: acide acétique, acide citrique.', '24.8', '2.6', '42.4', '21.5', '15', '5.8', '6', '2.36220472440945', '', '0');
+VALUES ('8013299000301', 'Amarelli', '', '', '0.01', '0', '7.9', '5.8', '', '7.8', '0.42', '0.165354330708661', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076492449', 'Parampara Concentré de saveurs aux épices pour poulet au curry', 'oignon déshydraté, huile de tournesol (contient antioxydant: E320), copeaux de noix de coco, herbes (9%) (feuilles de coriandre), sel, épices (7%) (pim rouge en poudre, graines de coriandre, cumin, curcuma, poivre noir, graine de cumin noir, cannelle, clous de girofle), ail, gingembre, poudre de tamarin, maltodextrine, acide acétique', '29.2', '8.4', '36.2', '15.3', '19.5', '6.5', '7.66', '3.01574803149606', '', '0');
+VALUES ('8013299000608', 'Amarelli Réglisse Pur Original Rossa', 'Ing redènten Bayet zoethout - mensen met hog e bioeddruv dienen overmatig gebruikte vermijden Voedng swaarde in 100g Energ ie 343KcaI 11457K), Vetten 001g Verzadgde Veauren 0, Koolhydraten 78g Suilers 34g Eiwitten 8.3g , Zout 0 34g Vezels 1 Lg Ing rédients *ait de rég lisse Contient de la rég lisse - les personnes soufrart d\'hypertension doivent &quot;ter toute consommation excessive Composants nutritionnels pour 100g Valeur énerg étique 343KcalI 1457 Kji Grasse 001g Acides g ras saturés 01 Glucides 78g Sucre 3 4g Protéines 8 3g Sel Fibre Amarelli Fabbrica di Liq uirizia S s 106- 1 87067 Rossano (CS) amarelli .it - museodell aliq ui rizia it InhoudPoids net 40g - 1 40z 8 013299 000608 Ten minste houdbaar tot zie zijlent A consommer de préférence avent voir côté', '', '0.01', '0', '78', '3.4', '1', '8.3', '0.34', '0.133858267716535', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076492500', 'Chili con carne', '', '2.3', '0.2', '8.4', '5.7', '', '1.2', '2.08', '0.818897637795276', '', '0');
+VALUES ('8013299000622', 'Amarelli Réglisse Pur Anis Arlecchino', '', '', '0.01', '0', '78.5', '5.8', '', '7.8', '0.42', '0.165354330708661', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076493842', 'Mélange aux épices pour fajitas', '', '1.3', '0.2', '67.2', '60', '', '6.3', '17.75', '6.98818897637795', '', '0');
+VALUES ('8013299000639', 'Amarelli Confettini Bianconeri 50G', 'Ingrédients :sucre,réglisse,amidon,vanille  ,arôme naturel menthe', '', '0', '0', '93.7', '93.7', '0.1', '1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076500236', 'El Amante Bilingüe', '', '6.3', '3', '2', '1', '', '3.7', '1', '0.393700787401575', '', '1');
+VALUES ('8013299003036', 'Crema alla liquirizia', '', '', '12.6', '2.6', '63.8', '51.6', '', '4.2', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076500243', 'Cheese & Red Pepper Dip', '', '6.6', '3', '9.2', '6.7', '1.7', '3.7', '2.13', '0.838582677165354', '', '0');
+VALUES ('8013306073151', 'Ventura Arachidi Tostate In Guscio GR 250', '', '', '50', '7.7', '13', '4.9', '', '24', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600431', 'Wholegrain oats and crisp roasted hazelnut', '', '20.3', '3.8', '60.2', '26.6', '', '8', '0.89', '0.350393700787402', '', '0');
+VALUES ('8013307203908', 'Pizza à la truffe', 'Farine de _blé_, _mozzarella_ (26 %), champignons à la truffe noire d\'été (9 %) [champignons de couche, champignons Pleurotus Ostreatus, huile végétale, champignons bolets (boletus edulis), truffe noire d\'été (tuber aestivum) (0,5 %), farine de _blé_, sel, ail, poivre, arômes], eau, sauce à la truffe noire d\'été (4 %) [champignons de couche (Psalliota Hortensis), huile d\'olive vierge extra, persil truffe noire d\'été (tuber aestivum) (3 %), sel, arôme de truffe (0,09 %), ail], huile d\'olive vierge extra (4 %), champignons de couche (4 %), sel, huile végétale, levure de bière, farine de céréales maltées.', 'https://static.openfoodfacts.org/images/products/801/330/720/3908/front.7.400.jpg', '12.4', '', '24.6', '', '', '11.7', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600448', 'Crunchy Oats & berries', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013307205155', 'Pizza Rucola e Pomodorini', '', '', '6.6', '3', '30', '2.6', '', '9.1', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600479', 'N / V Oats & More Choc 5s', 'Whole grain rolled oats (5596), sugar, sunflower oill dark chocolate pieces mass, sugar, emulsifier: soy lecithin; natural vanilla flavouring), fat reduced cocoa, honey, sait, molasses, emulsifier: sunflower lecithin; raising agent: sodium bicarbonate; natural flavouring.', '20', '4.3', '59.9', '26.5', '6.5', '8.5', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013307205162', 'Pizza Alla Pala, Funghi Di Bosco', '.\' Farine 4e blé, mozzarella (23%) gait, sel cultures bactériennes, présure, poêlée de champiqoons (Suillus luteus) 1 %, huile de tournesol, huile d\'olive vierge exira, sel, persil, aill,. eau, semoule de blé dur, champignons de Paris (Agaricus bisporus) (4%), huile d\'olive vierge extra, sel, levure de bière, huile de toumesol, gluten de blé, fgingde ble_malté, persil, all. Peut contenir des traces.de: fruits à coque, œuf, soja, poisson, crustacés.', '', '7.6', '3.3', '30', '2.5', '', '12', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600790', 'Nature Valley S&N Oats & Honey 5X42g', 'Angredients: Whole grain rolled oats (59%), Sugar, sunflower oil, honey (2%), salt, molasses, emulsifier: sunflower lecithin; raising agent: sodium bicarbonate', '17.2', '2.4', '64.5', '28.3', '5.6', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013322334441', 'Grissini 7 cereali ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600806', 'Nature valley crunchy', 'Whole grain rolled oats (59%), sugar, sunflower oil, canadian maple syrup (2%), honey, salt, molasses, emulsifier: sunflower lecithin; raising agent: sodium bicarbonate, natural flavouring.', '17', '3', '65', '28', '6', '8', '1', '0.393700787401575', '', '0');
+VALUES ('8013355000290', 'Pavesini gli originali', '', 'https://static.openfoodfacts.org/images/products/801/335/500/0290/front_en.16.400.jpg', '3.5', '1.2', '82.6', '50', '2.3', '7', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600837', 'Nature Valley Oats and Honey Special Value 20 Pack', '', '17.2', '2.4', '64.5', '28.3', '', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('801335500370', 'I Cracker Mais ( - 30 % di Grassi)', 'farina di _frumento_, farina integrale di mais 21%, olio di _soia_, glutine di _frumento_, lievito, estratto di malto d\'_orzo_ e mais, sale, correttore d\'acidità: carbonato acido di sodio, farina di _orzo_ maltato', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076600905', 'Nature Valley Crunchy Oats & Honey 40 2-bar Packs', 'avoine complète (59%), sucre, huile de tournesol, miel (2%), sel, mélasse, émulsifiant: lécithine de tournesol; poudre à lever: bicarbonate de sodium. Allergènes: voir les ingrédients en gras. Peut contenir des ingrédients à base d\'arachides (cacahuètes), de fruits à coques et de soja.', '17.2', '2.4', '64.5', '28.3', '5.6', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355500035', 'Pavesini', '', '', '3.5', '1.2', '82.6', '50', '', '7', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601131', 'Crunchy Avoine & Miel', '_Avoine_ complète 59 % - sucre - huile de tournesol - miel 2 % - sel - mélasse - émulsifiant (lécithine de tournesol) - poudre à lever (bicarbonate de sodium).', '17.2', '2.4', '64.5', '28.3', '5.6', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355500097', 'Le Sfoglie con pezzi di olive', 'farine de blé, huile et graisse végétales non hydrogénées de palme, fécule de pomme de terre, lait écrémé en poudre, amidon de pomme de terre, amidon modifiée de maïs, olives noires et vertes 4.2%, sel marin, babeurre en poudre, sel, persil, arôme, poudre à lever : carbonate acide d\'ammonium, piment', '', '15', '7', '65.9', '7', '5.5', '9', '2.75', '1.08267716535433', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601148', 'Crunchy Avoine & Chocolat Noir', '_avoine_ complète (55%), sucre, huile de tournesol, pépites de chocolat noir (8%) (pâte de cacao, sucre, émulsiﬁant : lécithine de _soja_; arôme naturel de vanille), cacao maigre en poudre, miel, sel, mélasse, émulsiﬁant : lécithine de tournesol; poudre à lever: bicarbonate de sodium; arôme naturel.', '20', '4.3', '59.9', '26.5', '6.5', '8.7', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013355500103', 'Le Sfoglie Classiche', '', '', '13', '3.9', '67.5', '11', '5', '9', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601155', 'Crunchy Avoine & Cranberries', '_avoine_ complète (57%), sucre, huile de tournesol, morceaux de cranberries (4%), miel, purée de fruits (fraise, myrtille, mûre, framboise, sucre), sel, mélasse, arôme naturel, émulsifiant : lécithine de tournesol, poudre à lever : bicarbonate de sodium.', '16.9', '2.7', '64.6', '30.2', '6.1', '7.4', '0.67', '0.263779527559055', '', '0');
+VALUES ('8013355500110', 'LE SFOGLIE CON POMODORO E ORIGANO COTTE AL FORNO', '', '', '13.3', '6.2', '69.6', '10.7', '5', '6.4', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601216', 'Nature Valley Crunchy Hafer & Honig 10er, 210 G', '', '17.2', '2.4', '64.5', '28.3', '', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355500158', 'Pavesi Pavesini Cacao', 'zucchero, farina di _frumento_, uova fresche, cacao magro 6,3%, agenti lievitanti carbonato acido di ammonio, aroma latte, soia, zucchero caramellato.', '', '3.1', '1.2', '79.1', '46.9', '3.8', '7.9', '0.207', '0.081496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601223', 'Crunchy Kanadischer Ahornsirup', 'Vollkorn-_Haferflocken_(59%), Zucker, Sonnenblumenöl, kanadischer Ahornsirup (2%), Honig, Speisesalz, Melasse, Emulgator: Sonnenblumen-Lecithin, Backtriebmittel: Natriumbicarbonat, natürliches Aroma', '17.1', '2.7', '64.6', '28', '6.2', '7.9', '0.74', '0.291338582677165', '', '0');
+VALUES ('8013355500172', 'Ringo Cacao', '', '', '24', '3.8', '64.5', '27', '', '5.5', '0.325000000000001', '0.127952755905512', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601247', 'Crunchy, Hafer', '', '16.9', '2.7', '64.6', '30.2', '', '7.4', '0.67', '0.263779527559055', '', '0');
+VALUES ('8013355500240', 'Le sfoglie classiche', '', '', '13', '2.3', '67.5', '11', '', '5', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601254', 'Nature Valley Crunchy Variety Granola Bars', '', '8.4', '1.8', '26', '11.9', '', '3.4', '0.34', '0.133858267716535', '', '1');
+VALUES ('8013355500523', 'Grissini', '', '', '13.5', '1.9', '65.3', '1.2', '', '12.5', '1.875', '0.738188976377953', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601278', 'Crunchy - Nature Valley, Vollkornhafer - Kanadisch. ..', '', '17.2', '2.7', '64.6', '28', '', '7.9', '0.74', '0.291338582677165', '', '0');
+VALUES ('8013355500585', 'Gran pavesi', '', '', '17', '2.7', '63.1', '2.4', '', '9.5', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601414', 'Crunchy', 'Avoine complète , sucre , huile de tournesol, miel,sel,mélasse,émulsifiant : lécithine de tournesol , poudre à lever : bicarbonate de sodium', '17.2', '2.4', '64.5', '28.3', '5.6', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355500660', 'Bisc. ringo Thin Vanig. gr234 #', 'BISCOttl FARCItl ALLA VANIGUA. ingtedienti: farina di frumento tuccheto, e grasso veootall non Idroqenati ( irasole. colaa, karité), destrosio, siero di latte in polveto, amido di frumento, mo sciroppo dl g ucosio•fruttosio. fibra solubile: inulina, sale, amido atomi (latte, sola), estmtto dl voniglia emulsionon• te: lecitìna di soia, agenti lievitanti (carbonato acido di sodio, caq)onoto acido d\'ammon o). Puo contenere tracte di: frutta a guscio. uova. Gli in redienti evldenaiatl possono provocate reaaionl persone allergiche o CONSERVARE IN FRESCO E per100g perpnlone %AFpet VALORI MEDI', '', '20.8', '3.9', '67.5', '29.4', '3.6', '5.7', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601421', 'Crunchy', '', '20', '4.3', '59.9', '26.5', '', '8.7', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013355500677', 'Gran Pavesi Crackers Rosmary 280G', '\\ - Ingredieqti: farina di frumento, farina di mais, fòlio di soia, sale, glutine di frumento, estratto di malto d\'orzo e mais, lievito, correttore di acidità: carbonato acido di sodio, farina di orzo maltalo, rosmarino 0,7%. Pub contenere tracce di arachidi, frutta a guscio, latte, sesamo, soia e uova. Gli ingredienti evidenziati possono provocare reazioni in persone allergiche o intolleranti. Conscware ln !uogo fresco', '', '9', '1', '68', '2', '5', '12', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601445', 'Crunchy avoine & beurre de cacahuètes', '', '21.5', '2.8', '59.7', '25.2', '6.5', '10.2', '0.93', '0.366141732283465', '', '0');
+VALUES ('8013355500684', 'Crackers Olive GR280 Pavesi#', 'farine de blé* farine de mais huile de soja, sel, olives noires 46K gluten de blé, levure, correcteur diaddité : Gfrate acide de farine d\'orge maltée, herbes aromatiques 0,6K olives vertes déshydratées arôme, Peut contenir des traces de : œufs, lait, fruit à coque, arachides, graines et soja, Conserver dans un lieu frais et sec À consommer de préférence avant le : Voir cictre. *l\'allégation mtnonnelle comparative Ut valable uniquement le Italien. Crackers con aceitunas. Ingredientes. harina de frigo, harina de mail, aceite de soja, sal, aceitunas negras gluten trigo levadura, corrector de acide(. *ato acido de sodio, harina de cebada malteada, plantas arométicas aceitunas verdes deshidratadas 0,5K aroma, Puede contener de: huevo, leche, frutos de ascara, cacahuetes, granos de sésamo Y soja. en un lugar fresco Y seco, Consumir antes del: ver la feta en el laterat. Prùido en Italia brilla G. & Fratelli Società per Azioni. declaracién nutricionat comparativa es vétida ünicamente para el mercado italiano. Craders com azeitonas Ingredientes farinha de trigo, farinha de milhot éleo de sob sal azeitopas pretas gtüten de trigo, levedura, regulador de acidez hidmenocarbonato de s6dio, farma de cevada maltada, plantas arométicas 0,6K azeimas verdes deshidratadas aroma Pode conter vestigios de: ovos, leite, frutos de casa rija, amendoins, semAltes de sésamo e soja. Conser/ar em local fresco e seco, Co?umir de preferènda antes de/L\' ver na fateral, *A declaraüo nutricional comparativa é vélida para o italiano, Cracker mit Olivo lutate? Weizenmehl, Maismehl, Sojabhnenôl Sall, Oliven Weizengluten Hefe, Siureregulatoc Natftrnhydmencarbomt Gerstenmlnehl, Krâuter 0,6K grüne Trodenoliven Aromat Kann Spuren enthalten von: Eiern, Mitch, Schalenfrüchten Hartschalenobst, Erdnüssen, Sesamsamen vor licht und Wârme gschützt lagern Mindestens haltbar bis siehe Seite *Claims zurn Nâhnqertvergleich gelten aussdllieBlich für den italienischen Markt Zeyti)likraker. lçindekiter : Bugday unu, mjsjr unu, soya tuztsiyah zeytin bugday gluteni, maya, asitlik düzenleyici: sodyum hidrojen karbonatt arpa malt bltkffer (Ohb kuru ye;il zeytin (960,5), aroma verjci. Eser miktarda yerfistljl, yumurta, süt, sert kabuklu meyveler, susam tohumu ve soya fasülyesi içerebilir. yerde saklaylmz Tavsjye edilen tüketjm tarihi (In ve parti numarasl ambalaj üzerindedjr. * Besinsel hyaslama ibareleri sadece italya\'da satilan ürünler için Itha frma: Barilla Gtda AS. D-100 Karayo[u 7.km 14240 Bolu Türkiye, 474 04 74 Faks.(+B74) 243 90 08 Oretici Firmò\',Barilla Fratelli-Sodeü A2ibni Mantova 16643122 Parma jTALYA. Mense ülke\'.ltalya. Enerji Ve Besin Ôjeleri 100 g için dejerler: Enerji: 1748 kJ/414 kcal, g, Doymu; Karbonhidrat: 68,1 g, ;eker: 1,9 g, Lif: g, Protein: 12,8 g, Tuz/sodyum: 2,250 g/0,9 g.', '', '9', '1.9', '68.1', '1.9', '4.9', '12.8', '2.25', '0.885826771653543', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076601506', 'Crunchy avena y miel', '', '17.2', '2.4', '64.5', '28.3', '', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355500691', 'Crackers Pomodoro GR280 Pavesi', 'Crackerà & tomate etaux aromatiques./ngrédients :farine de bléfarine de mais, huile de soja, gluten de blé, et de mais sel, arôme, corredeur d\'acidité: carbonate acide de sodium, herbes aromatiques farine dorge maltée Peut contenir des traces de: œufs, À, CR\'. arachides, graines de sésame et soja. Conserver dans un lieu frais et sec À consommer de préférence avant le : Voir ciŒtre*L\'allégajon uniquement pour le marché Italien Crackers con tomate. Ingredientes. harina de trigo, harina de mal aceite de soja, gluten de trigo, toËe détldrüdo extffto de malta de cebada y de mail sal, aroma, corrector de acidez carbonato éddo de sodio, plantas aromitjcas harina de cebada mateadaPuede de: huevo, leche, frutos de ciscara, cacahuetes, granos de sésamo y soja. Conservar en un lugar fresco y Corsurnir preferenternente antes ver Produado en Italia por Barilla G. & R Fratelli Sodetà per Azjoni. *La dedaraciôn nutricional comparativa es vélida üniamente para el mercado italiano. (rackets farinha de trigo, farinha de milho, 6!eo de soja, glüten de trigo, tomate desidratado levedura, extffto de malte de cevada e de rnilho, de acjdez hidrogenoarbonato de ervas arcrnéticas farinha de cevada maltada. Pode conter vestigios de : ovos, leite, frutos de asa rija, de sésamo e soja. frtsewar em local fresco e seco. Consumir de preferência antes delt ver na lateral da embalagen declardüo nuüicional s1Jé o mercado italiano. Cracker mit Tomate und Krautern. lutaten: Weizenmehl, Maismehl, Sojabohnenôl, Weizengluto geüockrete Tornaten Hé und Mais Sa!z, Arcrna, Sâureregujator. Natriumhydrogencarbonat, Krauter Gerstenmalzmehl Kann Spuren entwten von: SdalenfrütitUl Erdn(bsen, Sesarnsamen und Soja. Trocken, vor Licht und Wârrne geschützt lagen Mindestens haltbar bis siehe Seite *Claims zurn NàhNÀŒrgleitl für den italenÉchen Markt Kurutulmu; domatesli ve bitkilerle kraker. içindekiler. Bujday unu, rnlSLf unu, soya yaéi, bujday gluteni, domates arpa ve mtsrdan elde edilmi} malt eksraktl, tuzt aroma verjcj, asitlik düzenleyid: sodyum hidrojen karbonat, bitkiler arpa uni Eser miktarda yer6t1i1, yumurta, süt, sert kabuklu meyveler, susam tohumu ve soya fasülyesi içerebilir. Tavsiye edilen tüketim tarihi ve parti nurnarast ambalaj saklaytntz *Besinsel kyaslama Ibareleri sadece itatya\'da satilan ürünler içjn geçerlidir. ithalatq firrna: Barilla Gida k}. D-u Karaplu 71rn 14240 474 04 74 Faks.(+B74) 243 90 08 1)retici firma: Bari!la G.eR Fratelli Societa Per Azioni Mantova 166-43122 Parma ITALYk Mense ülke: Italya. EnerjiVe Besin için dejerler: Enerji: 1742kJ/413 kcal, Yaj: 9,0 g, Doymu; yaj: 1,7 g, Karbonhidrat: 67,3 g, Seker. g, Lif: 5,5 g, Protein: 13 g,', '', '9', '1.7', '67.3', '3', '5.5', '13', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610171', 'Sweet & nutty', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013355500752', 'Gran Pavesi i cracker', '', '', '14', '2.6', '66.2', '3', '', '10', '1.625', '0.639763779527559', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610355', 'Nature Valley Protein Peanut & Chocolate Bars', 'Roasted peanuts (39%), chicory root extract, isolated soy protein, chocolate pieces (8%) (sugar, cocoa mass, cocoa butter, emulsifier: soy lecithin)/ sugcr, palm fat/ whey solids (milk), sunflower oill fructose, glucose syrup, peanut butter (2%)/ fat reduced cocoa powder, tapioca starch, humectant: glycerol; salt/ emulsifiers: sunflower and soy lecithin; natural flavourings, maltodextrin.', '30', '8.8', '23.9', '15.5', '13.5', '25.5', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013355997170', 'Pavesi Ringo Tubo Nocciola GR. 160', 'VALORI NUTRIZIONAU MEDI VALEURS NUTRITIONNELLES MOYENNES DURCHSCHNITTUCHE NÂHRWERTE GRASSI / Matièœyasse I Fett saturés da•on gesâïgte Fetsâuren', '', '22.4', '3.8', '67.3', '27.8', '3', '5.6', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610362', 'Nature Valley PRTN Salted Caramel Nut Bars 4X40G', 'Roasted _peanuts_ (38%), chicory root extract, isolated _soy_ protein, _almonds_ (9%), glucose syrup, palm fat, sugar, whey solids (_milk_), fructose, maltodextrin, sunflower oil, tapioca starch, humectant: glycerol; salt, caramel powder (0.84%) (sugar, skimmed _milk_ powder), skimmed _milk_ powder, emulsifiers: sunflower and _soy_ lecithin, natural flavourings.', '30.8', '7.7', '23.5', '13.5', '12.9', '25.8', '1.08', '0.425196850393701', '', '0');
+VALUES ('8013355997187', 'ringo', '', 'https://static.openfoodfacts.org/images/products/801/335/599/7187/front_en.3.400.jpg', '0', '', '0', '', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610416', 'Protein Erdnuss Schokolade', 'de Eeëc:, IEì), de tourne&quot;, fr*Rt de lécithines d rdurels, mal!odcxtrinc. Peut conteù des Sé&eats a base de fruits (Oçes et de', '30', '8.8', '23.9', '15.5', '13.5', '25.5', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013355997286', 'Pavesi Maxi Sandwich', 'PANE Dl TIPO CON OLIo VEGETALE NON IDROGENATO Dl COLZA E ZUCCHERO. INGREDIENTI: farina di tipo &quot;0&quot;, acqua, olio vegetale non idrogenato di colza 4,3%, zucchero 4%, aroma, sale, glutine di frumento, lievito, farina di fave, estratto di acerola (Trattato con alcool etilico in superficie), Può contenere tracce di: frutta a guscio, latte, sesamo, soia e uova. Gli ingredienti evidenziati possono provocare reazioni in persone allergiche o intolleranti. Conservare in luogo fresco e asciutto,', '', '6', '0.7', '47.5', '5.5', '3', '8', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610423', 'Protein Salted Caramel Nut', 'cacahuètes grillées (38%) extrait de racine de chicorée, protéine de soja iso ée, amandes (9%), sirop de glucose, matière arasse végétale: palme? sucre, lactosérum (lait), fructose, maltoéextrine, huile de tournesol, amidon de tapioca, humectant: glycérol,\' sel, caramel en poudre (0,84%) (sucre, lait ecrémé en poudre), lait écrémé en poudre, émulsifiants: lecithines de tournesol et de soia; arômes naturels. Allergènes: voir les ingrédients en gras. Peut contenir des ingrédients à base d\'autres fruits à coques et de tournesol.', '30.8', '7.7', '23.5', '13.5', '12.9', '25.8', '1.08', '0.425196850393701', '', '0');
+VALUES ('8013355997293', 'GOCCIOLE con nocciola', 'Ingredienti: Biscotto farina di frumento, zucchero, Clio di semi digirasole, nocciole 2,2% corrispondente a 1,9% sul prodotto finito, burro, sciroppo di glucosio, cacao, amido di frumento, agenti lievitanti (carbonato acido di sodio, carbonato acido d\'ammonio), sale, aromi (nocciola), Gocce dl cioccolato 14,4%: cioccolato 50% corrispondente a 7,2% sul proci01to finito (zucchero, pasta di cacao, burro di cacao, cacao magro, emulsionante: lecitina di soia), cioccolato al latte 5010 corrispondente a 7,2% sul prodotto finito (zucchero, latte intero in polvere, burro di cacao, pasta di cacao, emulsionante: lecitina di soia, aroma .', '', '21.9', '5.6', '63.2', '22.5', '3.9', '7.4', '0.46', '0.181102362204724', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610461', 'Nature Valley Sweet & Salty Nut Peanut Bars 5X30G', '', '26.1', '8.1', '43.1', '19.2', '', '12.3', '1.03', '0.405511811023622', '', '0');
+VALUES ('8013355997460', 'Pavesini', 'zucchero 49,2%, farina di _frumento_, uova fresche 23,5%, agenti lievitanti carbonato acido di ammonio, carbonato acido di sodio, zucchero caramellati, aromi.', '', '3.5', '1.2', '82.6', '50', '2', '7', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610478', 'N / Valley Sweet and Salty Nut Dark Chocolate Bar 5X30G', 'Roasted peanuts grain rolled oats (1 2%), Sugar, chicory root extractl glucose syrup, Wheat flour, vegetable fats: palm, shea; maltodextrin, cocoa mass, almond pieces (4%)/ fructose, fat reduced cocoa powder, rice flour, sunflower oill lactose (milk), peanut butter, humectant: glycerol; sait/ emulsifiers: sunflower and soy lecithin; dextrose, naturo! fltJ3 Wheat germ, cocoa butter, antioxidant: extract; honey.', '23.8', '9.3', '45.7', '21.9', '13', '9.9', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013355997675', 'Pavesi Gocciole Mini Classiche GR. 350', 'Biscuits avec chocolat Ingrédients : farine de blé, huile de tournesol, chocolat 15,1% (sucre, pâte de cacao, beurre de cacao, cacao maigre, émulsionnants : lécithine de soja), sirop de glucose-fructose, amide de blé, levures (carbonnade acide de sodium, carbonate de ammonium, tartrate mono-potassique), sel, arôme .', '', '20.8', '4.3', '63.7', '22.8', '4', '8.2', '0.288', '0.113385826771654', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610485', 'Nature Valley Sweet & Salty Nut Peanuts 40 X 30G Bars', '', '26.1', '8.1', '43.1', '19.2', '', '12.3', '1.03', '0.405511811023622', '', '0');
+VALUES ('8013355997712', 'Cracker Gran Pavesi Patates & Romarin', '', '', '14.5', '2.6', '66.1', '3.5', '', '9.5', '1.75', '0.688976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610515', 'N / Valley Popcorn Caramel Pretzel Nut 5X20G', 'Chewy popcorn bar With almonds and pretzel pieces dipped in a smooth salted caramel flavoured coating. Ingredients• Almonds (15%) (almond pieces, almond paste), chicory root extract, sugar, popcorn (9%) (corn, sunflower oil); vegetable fats: palm, shea; whole grain rolled oats (7%) maltodextrin, pretzel pieces (7%) (Wheat flour, soft, sunflower oil, malted Wheat flour yeast), fructose, Wheat flour, rice flour, skimmed milk powder, glucose syrup, honey, caramel powder (1.5%) sugar, skimmed milk powder), whey powder (milk), humectant glycerol• sunflower cil, emulsifiers: sunflower and soy iecithin; salt, natural flavourings, dextrose, antioxidant: tocopherol-rich extract. For allergens, see ingredients in bold. May contain peanuts, Other tree nuts, sunflower seeds, egg and sesame seeds ingredients. Please be carefUl as occasionally an un-popped kernel may end up in the bat Store in a cool, dry place. Contains 5 portions. The Nature ValleyTM Promise: We promise great taste, quality and convenience. Nature ValleyTM ww.naturevalley.com; Careline: 0800 028 7561 (UK); 1800 535 (ROI) @General Mills Mills UK PO 363 IJB8 UK Made in Spain for General Mills International Sàri Switzerland 5x20g=100ge', '20.8', '8.3', '50.1', '21.8', '13.7', '7.9', '1.02', '0.401574803149606', '', '0');
+VALUES ('8013355997781', 'Snack Con Crema Cacao', 'Biscuit (40%): wheat flour, wheat starch, sugar, sunflower oil, glucose syrup, powdered whole milk 1.3%, butter, sweetened condensed milk (milk, sugar), eggs, raising agents (sodium hydrogen carbonate, ammonium hydrogen carbonate), salt, flavouring. Cocoa cream (30%): non-hydrogenated vegetable fats and oils (cocoa, sunflower, ?coconut), sugar, lactose, fat-reduced cocoa 2.8%, powdered whey, emulsifier: soya lecithin, flavouring. Milk chocolate (30%): sugar, cocoa butter, cocoa mass, powdered skimmed milk 3%, lactose, powdered whey, butter, emulsifier: soya lecithin, flavouring. May contain traces of: nuts. The highlighted ingredients may cause reactions to people With allergies or intolerances. Da consumarsi preferibilmente entro la data indicata sul alto della confezione. / Best before: see the date on the side. Conservare in luogo fresco e asciutto. / Store in a cool and dry place.', '', '25', '13.7', '62.1', '36', '3.5', '6.5', '0.425', '0.167322834645669', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610577', 'Protein coconut almond', '', '30.4', '11.3', '22.1', '13', '', '25.6', '1.11', '0.437007874015748', '', '0');
+VALUES ('8013355997798', 'Gran pavesi le schiacciate', '', '', '19', '2.7', '62.2', '1.5', '', '9.8', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610614', 'Sweet & salty nut', '', '26.1', '8.1', '43.1', '19.2', '', '12.3', '1', '0.393700787401575', '', '1');
+VALUES ('8013355998023', 'Gran Pavesi Grissini Con Pomodorini', 'farine de blé, huile non hydrogénée de palme (12.7%), céréales extrudées (6.9%) (farine de riz, farine d\'orge, sucre, farine de flocons d\'avoine complète, farine de flocons de seigle complet, farine de blé, extrait de malt d\'orge, sel), levure, préparation à base de tomates cerises 4.9% (tomates, cerises, sirop de glucose, sel), sel, arôme naturel, extrait de malt d\'orge et de maïs, émulsifiant: mono- et diglycérides d\'acides gras, origan.', '', '14.7', '1.5', '64.4', '3.5', '4.3', '11', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076610621', 'Sweet and Salty Nut', '', '23.8', '9.3', '45.7', '21.9', '', '9.9', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013355998030', 'Pavesi Grissini Olio&marino Olive', 'Suggerimento dl presentazlone/Serviervorschlag/Servjng suggestion/Suggostion de présentatjon/SugestSo de opresentacio', '', '15', '2', '2', '1', '4.3', '12', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076620002', 'Chocolate fudge brownie', 'Chicory Root Extract, Wheat Flour, Sugar, i hocoiaie Pieces (Sugar, Vegetable Oils: Palm Kemelr Palm, Shea; Cocoa Powder, Whole Milk Powder, Emulsifier: Soy Lecithin)ï Cocoa powde/sd Fiuctoset yegetable Oils: Palm, Palm Kernel, Shea, Wheat Fibre, Humectant: Glycerol, Sunf!ower Oil, Watel, Egg White POwder; Bâ14ng À6ehts;SQdium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Natural Flavouring, Natural Vanilla Flavouringt Salt, Thickeners: *anthan Gum, Locust Bean Gum, Emulsifier: Soy Lecithin, Whole Milk Powder„ Antioxidant: Tocopherol-Rich Extract', '12.5', '7.6', '47.1', '30.5', '21.4', '5', '1.04', '0.409448818897638', '', '0');
+VALUES ('8013355998375', 'Gateau apéritif Sfoglie croccanti al forno', '', 'https://static.openfoodfacts.org/images/products/801/335/599/8375/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076620026', 'Brownies chocolats', '', '3', '1.8', '11.3', '7.3', '', '1.2', '0.25', '0.0984251968503937', '', '1');
+VALUES ('8013355998535', 'Pavesi Crackers 30% Less Unsalted', 'farine de blé, huile de soja, extrait de malt d\'orge et de maïs, huile de palme, sel, correcteur d\'acidité: carbonate acide de sodium, farine d\'orge maltée, levure. Peut contenir des traces de soja, œufs, lait, fruits à coque, arachides et graines de sésame.', '', '14', '2.6', '66.2', '3', '5.5', '10', '1.625', '0.639763779527559', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076620224', 'Moelleux citron avec morceaux de chocolat', 'extrait de racine de chicorée, farine de blé, sucre, rnorceaux de toffee saveur citron (sucre, graisses végétales . palmiste, palme, karité, lactosérum en poudre (lait), lait écrémé en poudre, lactose (lait), arôme naturel, acidifiant (acide citrique), émuisifiant (lécithine de soja), colorant (carotène]), fibre de blé fructose, graisses végétales (palmiste, palme, karité) humectant (glycérine, huile de tournesol raffinée, eau, blanc d\'œuf en poudre, agents levants (diphosphates, carbonate de sodium), lactosérum en poudre (lait), amidon de maïs, acidifiants (acide malique, acide citrique), arôme naturel de vanille, sel, lait écrémé en poudre, lactose (lait), arômes naturels, graisse végétale totalement hydrogénée (palme), épaississants (gomme xanthane, farine de graines de caroube, émulsifiant (lécithine de soja), colorant (carotènes), antioxydant : extrait riche en tocophérols. Peut contenir des traces de fruits à coques. A conserver dans un endroit frais et sec. A consommer de préférence avant le : voir', '11.6', '7.3', '50.1', '33.4', '21.9', '3.5', '1.04', '0.409448818897638', '', '0');
+VALUES ('8013355998542', 'I Cracker Salati', '', '', '14', '3', '66.2', '3', '5.3', '10', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076620293', 'Nature Valley Nut Butter Peanut Biscuit Cereal Bars', '', '27.6', '6', '51.7', '21.4', '', '11.6', '1.13', '0.444881889763779', '', '0');
+VALUES ('8013355998627', 'Ringo goal!', '', '', '26', '15', '61.4', '37', '2.4', '6.8', '0.45', '0.177165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800015', 'Nature Valley Crunchy granola bars roasted almond (*2)', 'Barre croquante à l\'avoine complète et aux amandes grillées. Ingrédients: avoine complète (56%), sucre, huile de tournesol, morceaux d\'amandes (5%), miel, se) mélasse, émulsifiant lécithine de tournesol poudreà lever bicarbonate de sodium, arôme naturel (amende) Contient de llavoine et de ramandes. Peut contenir des ingrédients à base de cacahuètes, de fruit à coques et de soja', '20.6', '3.2', '59.6', '26.1', '6.1', '9', '0.91', '0.358267716535433', '', '0');
+VALUES ('8013355998702', 'Gocciole Extra Dark', 'Farine de blé, sucre, huile de tournesol, chocolat extra 13% (pâte de cacao 75%, sucre, émulsifiant : lécithine de soja, arôme naturel de vanille), amidon de blé, beurre, cacao 2%, chocolat 1,8% ( sucre, pâte de cacao, cacao maigre, arôme naturel de vanille), cacao maigre 1,2%, agents  levants (carbonate acide d\'ammonium, carbonate acide de sodium), arômes (lait), sel.', '', '21.7', '6.2', '62.7', '22.4', '4.3', '7.4', '0.463', '0.182283464566929', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800442', 'Oats & Berries', 'Vollkorn-_Haferflocken_ (57%), Zucker, Sonneblumenöl, Cranberry-Stückchen (6%) (Cranberries (49%), Zucker, Sonnenblumenöl), Honig, Fruchtpüree (0,7%) (Erdbeeren, Heidelbeeren, Brombeeren, Himbeeren, Zucker), Speisesalz, Melasse, natürliches Aroma, Emulgator: Sonnenblumenlecithin, Backtriebmittel: Natriumhydrogencarbonat.', '16.9', '2.7', '64.6', '30.2', '6.1', '7.4', '0.67', '0.263779527559055', '', '0');
+VALUES ('8013355998832', 'Pavesi Gocciole 1KG', 'IT: Ingredienti: farine di frumento, zucchero, grasse vegetale di palma non idrogenato, cioccolato 13,6% (zucchero, pasta di cacao, burro di cacao, cacao magro, emulsionante: lecitina di sois), burro (latte), sciroppo dl glucosio, amide df frumento, agenti lievitanti (carbonate acido di sodio, carbonate acido di ammonio), sale, aroma vanillina. Può contenere tracte di arachide, frutta a guscio e uova. Gli ingredienti evidenziati Possono provocare reazioni in persone allergiche o intolleranti.  l biscotti Pavesi sono preparati senza l\'utilizzo di  conservanti. Si raccomanda, quindi, di tenerli in luogo fresco e asciutto. FR: Ingrédients: farine de blé, sucre, graisse de palme non hydrogénée, chocolat 13,6% (sucre, pâte de cacao, beurre de cacao, cacao maigre, émulsifiant: lécithine de soja), beurre (lait), sirop de glucose, amidure de blé, levures (hydrogénocarbonate de sodium, carbonate d\'ammonium), sel, arôme de vanilline. Peut contenir des traces de cacahuètes, de noix et d\'œufs. Les ingrédients mis en évidence peuvent provoquer des réactions chez les personnes allergiques ou intolérantes. Les biscuits Pavesi sont préparés sans utiliser de conservateurs. Il est donc recommandé de les garder dans un endroit frais et sec.', '', '20', '6.2', '65.7', '21.5', '', '6.6', '0.525', '0.206692913385827', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800510', 'Crunchy Oats & Chocolate', 'whole grain rolled _oats_ 55%, sugar, sunflower oil, dark chocolate pieces 8% (cocoa mass, sugar, emulsifier (_soy_ lecithin), natural vanilla flavouring), fat reduced cocoa, honey, salt, molasses, emulsifier (sunflower lecithin), raising agent (sodium bicarbonate), natural flavouring', '20', '4.3', '59.9', '26.5', '6.5', '8.7', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013355999143', 'Gocciole chocolate Pavesi', 'farina di frumento, zucchero, grasso vegetale di palma non idrogenato, cioccolato 13,6% (zucchero, pasta di cacao, burro di cacao, cacao magro, emulsionante; lecitina di soia), burro (latte), sciroppo di glucosio, amido di frumento, agenti lievitanti (carbonato acido di sodio, carbonato acido di ammonio), sale, aroma vanillina.', 'https://static.openfoodfacts.org/images/products/801/335/599/9143/front.4.400.jpg', '20', '6.2', '65.7', '21.5', '3.8', '6.6', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800527', 'Crunchy Ginger Nut', '', '17.6', '3.1', '64', '27.6', '', '7.8', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013355999341', 'Gran Pavesi Cracker Olive', 'Farine de froment, huile et matière grasse végétale non hydrogénées de palme, olives noires et vertes 4,6%, sel, correcteurs d\'acidité : bicarbonate de sodium, farine d\'orge maltée, arômes, plantes aromatiques (persil 0,3%, origan 0,1%) levure naturelle.', 'https://static.openfoodfacts.org/images/products/801/335/599/9341/front.7.400.jpg', '15', '6.5', '65.6', '3', '5', '9.5', '2.25', '0.885826771653543', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800640', 'Crunchy Granola Bars Oats & Honey', 'Flocons d\'_avoine_ entiers (59%), sucre, huile de tournesol, miel (2%), sel, mélasse, émulsifiant (lécithine de tournesol), agent de levage.', '17.2', '2.4', '64.5', '28.3', '', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355999433', 'CRACKER GRAN PAVESI TOMATES & GRANA PADANO D. O. P', '', '', '15', '3.1', '63.8', '2.5', '6', '10', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800909', 'Crunchy peanut butter', 'Whole grain rolled oatS (56%)\' Sugar\' honey,salt, raisingagent:sodium ingredients@Barre de avoine (56%)\' sucre\' huile de tournesol, beurre de cacahuète (8%) (cacahuètes, sel), morceaux de cacahuètes (2%), mélasse, miel, sel, poudre à lever: sodium, émulsifiant.\' lécithine de tournesol. Allergènes: voir les ingrédients en gras. Peut contenir des ingrédients à base de fruits à coques, de graines Müsliriegel mit Vollkorn-Haferflocken und Erdnussbutter. Zutaten: Vollkorn-Haferflocken (56%), Zucker, Sonnenblumenôl, Honig, Speisesalz, Backtriebmittel: Natriumbicarbonat, Emulgator: Sonnenblumen-Lecithin. FürAllergene siehe Krispig müslibar gjord pà fullkornshavregryn ochjordnôtssmôr/peanottsmor-', '21.5', '2.8', '59.7', '25.2', '6.5', '10.2', '0.9', '0.354330708661417', '', '0');
+VALUES ('8013355999471', 'Ringo Cacao Pavesi 330 G', 'Biscuit (75%) : farine de blé, huile de tournesol, sucre, amidon de blé, cacao maigre 1,3%, sirop de glucose, lactosérum en poudre, sel, poudres à lever (carbonate acide de sodium, carbonate acide d\'ammonium), arôme. Garniture (25%) : sucre, huile et matières grasses non hydrogénées (colza, karité), cacao maigre 3,1%, noisettes, amidon de blé, arômes (blé). Peut contenir des traces de : autres fruits à coque, arachides, graines de sésame , soja et œufs. Les ingrédients en caractères gras peuvent déclencher des réactions dans des personnes allergiques ou intolérantes. 1 BISCUITS FILLED WITH COCOA FLAVOURED CREAM. Ingredients: Biscuits (75%): Wheat flour, sunflower oil, sugar, Wheat starch, fat-reduced cocoa 1.3%, glucose syrup, powdered whey, salt, raising agents (sodium hydrogen carbonate, ammonium hydroaen carbonate), flavouring. Cream (25%): sugar, non-hydrogenated vegetable oil and fat (rapeseed, shea), rat-reduced cocoa 3.1%, hazelnuts, Wheat starch, flavourinq (wheat). May contain traces of: Other nuts, peanuts, sesame seeds, soybeans and eggs. The higfilighted inqredients may cause reactions to people With allergies or intolerances. Conservare in luogo tresco e asciutto. I Conserver au sec et à I abri de la chaleur. I Store in a cool and dry place.', '', '24', '3.8', '64.5', '27', '3.5', '5.5', '0.325', '0.127952755905512', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800916', 'Crunchy Oats & Honey', '', '17.2', '2.4', '64.5', '28.3', '', '8.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013355999488', 'Ringo Au Cacao', 'Biscuit (75%) : farine de blé, huile de tournesol, sucre, amidon de blé, cacao maigre 1,3%, sirop de glucose, lactosérum en poudre, sel, poudres à lever (carbonate acide de sodium, carbonate acide d\'ammonium), arôme. Garniture (25%) : sucre, huile et matières grasses non hydroqénées (colza, karité), cacaonaigre 3,1%, noisettes, amidon de blé, arômes (blé). Peut contenir des traces de : autres fruits à coque, arachides, graines de sésame , soja et oeufs.', '', '24', '3.8', '64.5', '27', '3.5', '5.5', '0.328', '0.129133858267717', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076800923', 'Crunchy dark chocolate', '', '20', '4.3', '59.9', '26.5', '', '8.7', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013355999495', 'Ringo Vaniglia Pavesi 330 G', 'Biscuit (75%)1 farine de blé, huile de tournesol, sucre, amidon de blé, cacao maigre, sirop de glucose, lactosérum en poudre, sel, poudres à lever (carbonate acide de sodium, carbonate acide d\'ammonium), arôme vanilline. Garniture (25%): huile et matières grasses non hydrogénées (colza, karité), sucret dextrose, lactosérum en poudre, amidon de blé, arôme vanilline 0,1%. Peut contenir des traces de : arachides fruits à coques, graines de sésame, soja et oeufs. Les ingrédients en caractères gras peuvent déclencher des réactions dans des personnes allergiques ou intoléran- tes. / BISCUITS FILLED WITH VANILLA FLAVOURED CREAM. Ingredients: Biscuits (75%): wheat flourt', '', '23.5', '3.9', '65.9', '27', '2.8', '5.5', '0.31', '0.122047244094488', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076900227', 'Popcorn peanut abd sunflower seed', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013355999501', 'Ringo Vanille', 'Biscuit (75 %) : farine de _blé_, graisse végétale non hydrogénée de palme, sucre, amidon de _blé_, cacao maigre, sirop de glucose, _lactosérum_ en poudre, sel, poudres à lever (carbonate acide de sodium, carbonate acide d\'ammonium), arôme vanilline. Garniture (25 %) : graisse et huiles végétales non hydrogénées (palme, colza), sucre, dextrose, _lactosérum_ en poudre, amidon de _blé_, arôme vanilline 0.1 %', '', '23.5', '3.9', '65.9', '27', '2.8', '5.5', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076900302', 'Nature Valley Protein, Peanut & Chocolate', 'cacahuètes grillées (39%), extrait de racine de chicorée, protéine isolée de soja, morceaux de chcolat (8%) (sucre, pâte de cacao, beurre de cacao, émulsifiant\'. lécithine de soja), sucre, matière grasse végétale: palme, lactosérum (lait), huile de tournesol, fructose, sirop de glucose, beurre de cacahuètes (2%), cacao maigre en poudre, amidon de tapioca, humectant: glycérol; sel, émulsifiants: lecithines de tournesol et de soja; arômes naturels, maltodextrine.', '30', '9', '24', '15', '14', '26', '1', '0.393700787401575', '', '1');
+VALUES ('8013355999662', 'Cracker salati Gran Pavesi gran formato', 'farina di frumento, olio di soia (9,2%), estratto di malto d\'orzo e mais (3,6%), olio vegetale non idrogenato, sale (1,7%), correttore di acidita: carbonato acido di sodio, farina d\'orzo maltato, lievito naturale', 'https://static.openfoodfacts.org/images/products/801/335/599/9662/front.3.400.jpg', '14', '6', '67.7', '3', '2.5', '10', '2.794', '1.1', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076900319', 'Nature Valley Salted Caramel Protein Bar', '', '30.8', '7.7', '23.5', '13.5', '12.9', '25.8', '1.08', '0.425196850393701', '', '0');
+VALUES ('8013355999679', 'Cracker gran pavesi', 'farina di frumento, olio di soia, estratto di malto d\'orzo e mais, olio di palma non idrogenato, sale, correttore di acidità: carbonato acido di sodio, farina di orzo maltato, lievito.', 'https://static.openfoodfacts.org/images/products/801/335/599/9679/front.9.400.jpg', '14', '2.8', '66.2', '3', '5.5', '10', '1.63', '0.641732283464567', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076900401', 'Nature Valley Sweet & Nutty Peanut', 'Auguf\' tort. NATURE VALLEY sweet & Saltuiy Pcanut ucosesyrup, (Ed), Feàfrattentté. $tem, $etsesaiz Swedthin; telVRiCe entfettes Ednusgnehl MagemTdtputver natüdi&e Aromen, Dextrose, Weàenkeme et ma Ingredienser. RoftdeRistede joùôttg/peangtter/jordnedder (28 to), fullkomsbavrgryn (13 h), chkoria maitodextrin, et), fruktsoder+uktcse,', '26.1', '8.1', '43.1', '19.2', '11', '12.3', '1.03', '0.405511811023622', '', '0');
+VALUES ('8013355999785', 'Biscotti Pavesini Caffe', 'zucchero, farina di _frumento_, uova fresche, agente lievitante carbonato acido di ammonio, cacao magro, aromi, caffè 0,3%, zucchero caramellato', '', '3.5', '1.2', '82', '50', '2.5', '7', '0.088', '0.0346456692913386', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076900418', 'Sweet & Salty Nut Dark Almond Bar', '', '23.8', '9.3', '45.7', '21.9', '', '9.9', '0.97', '0.381889763779528', '', '1');
+VALUES ('8013367015886', 'Crema di carciofi', 'artichauts 87 %, huile d\'olive 10 %, sel de mer, origan, vinaigre blanc, acidifiant: acide citrique E330,', 'https://static.openfoodfacts.org/images/products/801/336/701/5886/front.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076910004', 'Gâteau', '', '12.5', '7.5', '47.08', '30.42', '', '5', '1', '0.393700787401575', '', '0');
+VALUES ('8013367024291', 'Pesto Genovese', '', '', '71.3', '8.3', '4', '2', '', '3', '4.5', '1.77165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076910110', 'Fibre one brownie', 'con alcaü0 (7%). Extacto de raiz de achiwria, harina de trigo, a} d*sado en plvo, leche en plvo, emulgente: nna de soja— d$gòaaoen PIW, fra frigo, gliwina; aœite refinado de girasol, awa, dara dehuevo en Avo, gaYfient$.• im bcoferol$. Alérgenos:ver ingredientes en negflta. Puede contener ingredientes de fmtos de de toffee com cacau (11%) e decoraçâo (7%), Ingredientes:Extato deratde de toffee mm gordurasvegetais: palmiste, palma shea; mqgro em leite de aroma, ardma sal, espsanE4 ràa, de soja, leite em anüoxidante: extrab em tomferéis. 24 ge defrutos de casca rija paraeneral Mils lnbmajonal Sàdl SuizalSuiça, 33 Mlls Ibéria,SAlJ, Serrano Galva±e, 56, Complejo Parque EspafiblEspanha,', '12.5', '7.6', '47.1', '30.5', '21.4', '5', '1.04', '0.409448818897638', '', '0');
+VALUES ('8013367027131', 'Pesti al Tartufo', '(nd;tycorrectorsotìcê', '', '42.2', '6.9', '4.9', '3.6', '', '4', '3.9', '1.53543307086614', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410076910127', 'Fibre one citron', '', '11.6', '7.3', '50.1', '33.4', '', '3.5', '1.04', '0.409448818897638', '', '0');
+VALUES ('8013367029401', 'Pesto sauce', 'huile de tournesol, 28% d\'aneth concentré*, sel, eltftcidité?. acide citrique, acide lactique. *Pour 100 grammes de pesto, Après ouverture à conserver au frais, couvrir d\'huile et consommer diffië', '', '68.1', '8.1', '1', '1', '6.1', '1.5', '4.8', '1.88976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('84100818', 'Gélatine saveur Fraise', 'Sobremesa aquosa com gelatina sabora morango. (Acido fumarico, citrato trissdcfico), aromast corantes (E-120, E-160a), antioxidante (Scido ascòrbico).', '0.1', '0.1', '13.5', '13.5', '0', '1.3', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8013377006089', 'Epinards a la vapeur', '', '', '0.7', '0', '2.9', '0.2', '', '3.4', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('84100825', 'Gelatina Sabor Ananás', '', '0.1', '0.1', '13.5', '13.5', '', '1.3', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8013386000016', 'Cannoli Medi GR250 Pagef', '', '', '31.91', '3.1', '51.15', '11.23', '', '7.84', '1.95', '0.767716535433071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410083000309', 'Tableta de chocolate negro 45% cacao', 'Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina. Cacao: 45 % mínimo.', '32.1', '', '56.3', '', '', '4.5', '', '', '', '1');
+VALUES ('8013399110689', 'Chewits, Erdbeer', '', '', '3', '2', '88', '50', '', '0', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410083000316', 'Tableta de chocolate negro con almendras 45% cacao', 'Azúcar, pasta de cacao, _almendras_ (20%), manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina.', '36.31', '', '48.48', '', '', '8.1', '', '', '', '0');
+VALUES ('8013399114045', 'Läkerol Sugarfree Pastilles Peach Tea', '', 'https://static.openfoodfacts.org/images/products/801/339/911/4045/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410083000804', 'Tableta de chocolate negro edulcorado 60% cacao', 'Edulcorante: maltitol (E-965) 39%, pasta de cacao, manteca de cacao, cacao en polvo desgrasado, emulgente: lecitina de _soja_ (E-322) y aroma: vainilla.  Cacao: 60% mínimo', '34.6', '9.3', '43.7', '0.5', '7.4', '7.8', '0.025', '0.00984251968503937', '', '1');
+VALUES ('8013399117435', 'Sour Mushroom', 'Sucre, sirop de glucose, sirop de sucre inverti, gélatine, maltodextrine, acidifiants (acide tartrique, acide citrique), arômes, graisse de palme totalement hydrogénée, colorants (curcumine, carmin).', '', '0.1', '0', '85', '68', '0', '4.1', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410083001429', 'Tableta de chocolate negro 50% cacao', 'Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina. Cacao: 50 % mínimo.', '32.5', '8.5', '53.2', '50.3', '', '5.7', '0.007', '0.00275590551181102', '', '0');
+VALUES ('8013399117442', 'Sour Mushrooms', '', '', '0.1', '', '85', '68', '0', '4.1', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410083001436', 'Tableta de chocolate negro con almendras 50% cacao', 'Azúcar, pasta de cacao, _almendras_ enteras (20%), manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina. Cacao mínimo: 50%', '36.2', '7.6', '46.6', '42.2', '', '8.8', '0.012', '0.0047244094488189', '', '0');
+VALUES ('8013399145094', 'Dietorelle Gelees Mix Bag', 'INGREDIENTI: edulcoranti (sciroppo di maltitoto, maltitolo, glicosidj stevioiici (estratto di suc.chj di frutta da concentrati (pompelmo rosso ciliegia (2.3%), fragola mora gelificànte (pectina), acidificante (acido citrico). correttore di acidità (citrato di sodio). aromi naturali, concentrato di (carota neta).', '', '0', '0', '81', '80', '1.1', '0', '0.56', '0.220472440944882', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('84100832', 'Gelatine', '72533-2 21/10/17 Lote delez Un:pessoal, Est. Pis03 Sul 2610-171 Amdota,PottugaI Sobremesa aquosa com gelatina sabor a manga e pêssego. acido fumari(0, citrato triss6dico)e aromas, corantes t-120), antioxidante acido ascérbico). flfdcrotâ Postre acuoso con gelatina sabor a mango y melocot6n. iquido/ (,iddo fumérico, citrato trisodico), aromas, colorantes (V100t 8120), rarem frio/ (eiltrï1€/yAtÇ) antioxidante acido ascdrbico), Declaraçào Nutricional / Informaci6n Nutriclonal g (copo/vaso): Energia/Valorenergétic0258 kJ (61 kcal)- lipidos/Grasas g • dos quais dos/de las cuales saturadas g- de carbono 13,59 dos quais açüares/delos anicares 13,5 -fibra/fibraalimentaria0,0 -Sal 0,13 II II I I I II Il II I III II eu 8410 0832&gt;', '0.1', '0.1', '13.5', '13.5', '', '1.3', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8013399145261', 'Dietorelle Gelees Mora & Fragola 70GR', 'Edulcorants: sirop de maltitol, le maltitol, les glycosides de stéviol (extrait de Stevia); eau; jus de fruits à partir de concentrés (pamplemousse rouge de 3,2%, 2,3% de cerise, de mûre 1,2%, fraise 1,2%); gélifiant: pectine; acidifiant: acide citrique; régulateur d\'acidité:', '', '0', '0', '81', '0', '1.1', '0', '0.56', '0.220472440944882', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410084011397', 'La Fallera Arròs Bomba', '', '1', '0.3', '77', '0.1', '', '8', '0.3', '0.118110236220472', '', '1');
+VALUES ('8013399145278', 'Dietorelle Gommose Liquirizia 70G', 'Édulcorants: isomalt, sirop de maltitol, les glycosides de stéviol (extrait de stevia); jus de fruits (fraise de 3,8%, de citron 3%, orange 3%, de cerise noire de 2,4%) à partir de concentrés; acide citrique; arômes naturels de curcuma et d\'orange; naturel de citron', '', '0.1', '0.1', '60', '0', '27', '0.8', '0.34', '0.133858267716535', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410084014947', 'La Fallera Arroz Extra', '', '0.7', '0.3', '76', '0', '', '6.5', '', '', '', '1');
+VALUES ('8013399145339', 'Dietorelle Dure Arancia + Limone 70GR', 'sclroppo', '', '0', '0', '94', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410084040113', 'Arroz Especial Para Paellas La Fallera', '', '0.7', '0.3', '76', '0', '', '6.5', '', '', '', '1');
+VALUES ('8013399146312', 'Bubble Pop', 'sirop de glucose, sucre, gélatine, acidifiant (acide citrique), colorants (E 170, E 120, E 133), graisse de palme totalement hydrogénée, arôme', '', '0.1', '0.1', '74', '62', '0', '8.3', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410084041110', 'Arroz La Fallera Extra', 'Jdjdjfjdjbf', '0.7', '0.3', '76', '0', '3.6', '6.5', '0', '0', '', '1');
+VALUES ('8013399149924', 'Torrone Classico alle Mandorle', '', '', '30', '2.4', '48', '43', '', '13', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('84100849', 'Gelée goût Tutti Frutti', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013399151798', 'Sperlari Nougat Soft With Almonds Slab 250G', '', '', '29', '3.9', '47', '41', '', '12', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085219990', 'Tableta de chocolate negro 70% cacao', 'Pasta de cacao, azúcar, manteca de cacao, cacao desgrasado en polvo, emulgente: lecitina de _soja_ (E-322) y aroma. Cacao 70% mínimo.  ', '39.7', '24', '34.4', '29.9', '', '8.4', '0', '0', '', '0');
+VALUES ('8013399151804', 'Sperlari Torrone CLAS.RIC.FOND.5180 250 G.', '', '', '30', '10.6', '50.3', '46.2', '', '9.1', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085220101', 'Tableta de chocolate negro 52% cacao', 'Pasta de cacao, azúcar, manteca de cacao, emulgente: lecitina de _soja_ y aroma. Cacao: 52% mlnimo.  ', '32.5', '19.7', '49.4', '46.4', '', '5.8', '0', '0', '', '0');
+VALUES ('8013399151842', 'Sperlari Nougat Soft With Hazelnuts Slab 150G (24)', '', '', '31', '2.2', '53.7', '46.3', '', '6.6', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085230605', 'Chocolat Au Lait', 'Sucre, beurre de cacao, lait en poudre, pa de cacao, lait écrémé en poudre, émulsifiant (lécithine de soja) et arôme. Peut contenir des traces de fruits à coque. Lait 20% minimum. Caci minimum. (PT) Chocolate com leite. Inqredientes: Açücar, manteiga de cacau, leite em Pô, pasta de cacau, leite magro em Pô, emulger (lecitina de soja) e aroma Pode conter vestigtos de frutos de casca. Leite 20% minimo. Cacau 30% minimo,', '32', '19', '56', '56', '0.6', '7.6', '0.24', '0.094488188976378', '', '0');
+VALUES ('8013399151859', 'Gran Nocciola Classico', '', '', '31', '2.2', '52', '46', '', '6.8', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085233262', 'ChocoCrem Galetta', 'Chocolat au lait 42% (sucre, beurre de cacao, _lait_ en poudre, pâte de cacao, _lait_ écrémé en poudre, émulsifiants [lécithine de _soja_ et E-476], arôme); fourrage noisette 20% (graisse de palme, sucre, poudre de _lait_ écrémé, pâte de _noisette_ 15%, dextrose, émulsifiants [lécithine de _soja_ et E-476]), fourrage au chocolat 20% (graisse de palme, sucre, poudre de _lait_ écrémé, pâte de _noisette_ 12% , poudre de cacao dégraissée 7%, dextrose, émulsifiants [lécithine de _soja_ et E-476]); biscuit 18% (farine de _blé_, graisse de palme, sucre, _lait_ écrémé en poudre, sucre inverti (sucre, eau, acidifiant [E-330] et régulateur d\'acidité [bicarbonate de sodium]), agents levants [bicarbonate d\'ammonium et bicarbonate de sodium], sel, émulsifiant [lécithine de _soja_] et colorant [E-150D]) // Minimum 30% de cacao.', '32', '16', '52', '44', '1.7', '7.7', '0.88', '0.346456692913386', '', '0');
+VALUES ('8013399152481', 'MyDietor cuor di Stevia', '', '', '0', '0', '99', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085250016', 'Chocolate Relleno de Crema de Yogur. Sabor Naranja', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013399152597', 'My dietor', '', '', '0', '0', '0', '0', '', '0', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085420297', 'Ambrosías Tirma', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013399152955', 'Sperlari Zanzibar Fondente Con Nocciole 250g', '', '', '39', '16', '40', '37', '', '6.9', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085420495', 'Ambrosias Tirma', 'Enrobage de chocolat au lait 40 % (sucre, beurre de cacao, _lait_ en poudre, pâte de cacao, émulsifiants (lécithine de _soja_, E476), et arômes), sucre, farine de _blé_, graisse végétale de palme, noix de coco râpée, _lactosérum_ en poudre, dextrose, huile végétale de _soja_, _lait_ en poudre, émulsifiant (lécithine de _soja_), sel, poudres à lever (E500ii, E503i), arômes.', '28', '', '64', '', '', '5', '', '', '', '0');
+VALUES ('8013399154744', 'Sperlari Zanzibar Fondente', 'Fonclenre', '', '39', '16', '40', '37', '8.3', '6.9', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085421072', 'Tirma White Milk Chocolate', '', '27', '13', '61', '50', '', '5.2', '0.56', '0.220472440944882', '', '0');
+VALUES ('8013399176807', 'Torrroncini Ricoperti', '', '', '28.4', '9.1', '52.8', '49', '6.5', '9.4', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085424172', 'Tirma', 'Ambrosias chocolate ton leche sin azücares afiadidos (Sorbeto con relleno retubiertas de chocolate con leche, sin azücares afiadidos) Ingredientes: Cobertura de chocolate con edulcorantes 35% (edulcorante (Maititoj), leche en pcwot manteca de cacao, pasta de cacao, emulgente (lecma de soja) edulcorafite (acesulfamo potâsico) y aromas)l harina de trigo, edulcorante (maltitol) dexmna de frigo, grasa vegetal, coco rallado, suero de leche, edulcorante xititol) acette vegetal, emulgente (lecma de soja) leche en potvo, sal, colorante (E- 150 d (color caramelo)correctores de acidez (E- 330 (écido titrico) y (E-500 ii (bicarbondo de sodio)gasftante (E-503 ii (bicarbonato aménico) y aromas.', '28.11', '19.93', '57.35', '5.49', '6.3', '5.45', '0', '0', '', '1');
+VALUES ('8013399180019', 'Sour tongues The Original', 'sucre, sirop de glucose, amidon de pommes de terre modifié, amidon de mais, acidifiants (acide lactique, acide malique), gélatine, arômes, concentré de (carotte noire, cassis, spirulina, safran), colorant (extrait de paprika).', '', '0', '0', '83', '55', '0', '1.7', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085428507', 'Ambrosias tirma', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013399180286', 'Läkerol cassis ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410085640305', 'Confiture framboise', '', '0', '0', '63', '57', '', '0.6', '', '', '', '0');
+VALUES ('8013399180316', 'Läkerol Lemon Tea', '', 'https://static.openfoodfacts.org/images/products/801/339/918/0316/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086102178', 'Extra Virgin Olive Oil', 'Huile d\'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.', '92', '14', '0', '0', '', '0', '0', '0', '', '0');
+VALUES ('80134091', 'Acqua Minerale', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086132533', 'Oli Ybarra Verge Extra Gran Selecció 250ML', '', '92', '14', '0.01', '0.01', '', '0.01', '', '', '', '0');
+VALUES ('8013418001356', 'PULPE DE TOMATES BIO 680ML', '100 % tomates fraîches italiennes', '', '0.5', '0.5', '4', '4', '', '3.5', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086135107', 'Huile olive vierge', '', '92', '14', '1', '0', '', '1', '', '', '', '0');
+VALUES ('8013418001363', 'PUREE DE TOMATES BIO 680ML', 'Tomates', '', '0.5', '0.1', '3', '3', '', '1.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086205046', 'Aceite de Oliva', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013418001370', 'Prunotto Polpa Freschissima 340G', 'tomates fraîches biologiques', '', '0.5', '0.1', '4', '3.5', '', '1.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086205145', 'Ybarra Aceite Oliva Ex Virgen lt', 'Aceite de oliva virgen extra. Variedades: hohiblanca, arbequina y picual', '92', '14', '0', '0', '', '0', '0', '0', '', '0');
+VALUES ('8013418001387', 'Sugo ai peperoni bio', '', '', '0.5', '0.1', '4.2', '3.5', '', '1.1', '0.86', '0.338582677165354', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086205206', 'Oli Ybarra Intens 1R 1 Litre', '', '92', '14', '0', '0', '', '0', '', '', '', '0');
+VALUES ('8013418001394', 'Sugo all ortolana bio', '', '', '0.5', '0.1', '4.2', '3.5', '2.5', '1.1', '0.66', '0.259842519685039', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086211764', 'Crema Vinagre Balsã Mica De Mòdena Ybarra', '', '0', '0', '33', '29', '', '0.5', '0.6', '0.236220472440945', '', '0');
+VALUES ('8013418001400', 'Sauce Arriabbiata Biologique', '', '', '0.9', '0.1', '4.1', '3.4', '2.5', '1.1', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086211788', 'Crème de Vinaigre Balsamique Mango', '', '0', '0', '33.5', '28', '0', '0.3', '', '', '', '0');
+VALUES ('8013418001417', 'Sugo al Basilico', '$lùelxjco * , (0,59 , 12 2020', '', '0.5', '0.1', '4', '3.5', '', '1.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086214086', 'Crème de vinaignre balsamique', '', '0', '0', '39', '38', '', '0.5', '0.05', '0.0196850393700787', '', '0');
+VALUES ('8013418002353', 'Miele milleffiori', 'accompagnet ftotnagal itnttee òe pt4âence I dlcaib0t 31 12 2019 L 69 eo$16etvet òe Valeur nutritionelles 8 Valeur', '', '1', '1', '82', '80', '', '8', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086315035', 'Mayonesa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013418002490', 'Prunotto, fagioli dall\' ocío', '', 'https://static.openfoodfacts.org/images/products/801/341/800/2490/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086315042', 'Mayonesa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013418005460', 'Ragù vegeteriano', '', '', '6.7', '0.9', '5', '3.6', '', '2.9', '0.99', '0.389763779527559', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086315257', 'Mayonesa 100% aceite de oliva', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013473000196', 'Huile d\'olive vierge extra biologique', '', '', '91.6', '14.9', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086319019', 'Alioli', 'Salsa Alioli Ingredientes: Aceite de girasol (72%), agua, ajo triturado (7%), yema de huevc vinagre de sal, azücar, zumo de lim6n, conseivaüor (sorbato potésico), estabilizante (goma xantana). sin gluten', '73', '7.2', '3.1', '1.2', '0', '1.3', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013505001481', 'FERRI GLASSATI Prodotto dolciario da Forno', 'frolla: farina di frumento; oli e grassi vegetali; zucchero; amido di frumento; uova pastorizzate; acqua; panna; burro; sale; aromi naturali; emulsionanti: E471 ; conservante: E202 ; correttore di acidità: E330; colorante: caroteni misti; aromi. Glassatura (18%): zucchero; grassi vegetali; cacao magro in polvere; latte scremato in polvere; lattosio; emulsionante: lecitina di soia; aromi. ', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086391138', 'Salsa Gaucha, Barbcoas y Pizzas', '', '45', '4.6', '11', '7.1', '', '2.9', '2.3', '0.905511811023622', '', '0');
+VALUES ('8013519000142', 'Primitivo Salento Rosso Indicazione Geografica Protetta Vino', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086392036', 'Salsa Roquefort Ybarra', '', '36', '4.6', '5.4', '2.5', '', '1.3', '1.7', '0.669291338582677', '', '0');
+VALUES ('8013519000272', 'SALICE SALENTINO Rosso 2011 RISERVA', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086394610', 'Salsa Burguer New York Ybarra', '', '22', '2.2', '14', '7.4', '', '1.1', '3.4', '1.33858267716535', '', '0');
+VALUES ('80135463', 'Nutella', 'Sucre, huile de palme, _noisettes_ 13%, cacao maigre 7,4%, _lait_ écrémé en poudre 6,6%, _lactosérum_ en poudre, émulsifiant : lécithines (_soja_), vanilline.', 'https://static.openfoodfacts.org/images/products/80135463/front_en.49.400.jpg', '31', '11', '57', '56', '', '6', '0.114', '0.0448818897637795', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086411027', 'Salsa napolitana', 'Pulpa de tomate y concentrado de tomate (72%), agua, cebolla, azúcar, aceite de oliva virgen extra, sal, ajo deshidratado en polvo, aromas, hierbas aromáticas y especias.', '3', '0.5', '10.9', '8.4', '1.3', '1.7', '1.4', '0.551181102362205', '', '0');
+VALUES ('80135517', 'Kinder', 'Chocolat supérieur au _lait_ 45% (sucre, _lait_ en poudre, beurre de cacao, pâte de cacao, émulsifiants : lécithines (_soja_), vanilline), _lait_ écrémé en poudre, sucre, graisses végétales (palme, karité), _beurre_ concentré, émulsifiants : lécithines (_soja_), vanilline.', 'https://static.openfoodfacts.org/images/products/80135517/front.3.400.jpg', '36.2', '24.1', '53.9', '53.6', '', '8.8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086520057', 'Judias Verdes Ybarra', '', '0.5', '0.1', '0.1', '0.1', '', '0.7', '0.88', '0.346456692913386', '', '1');
+VALUES ('8013554010007', 'Lasagne alla bolognese', '', '', '9.2', '5', '10.6', '2.6', '', '7.8', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086520071', 'Acelgas blette', '', '0.5', '0.1', '1.1', '0.5', '', '0.7', '0.85', '0.334645669291339', '', '1');
+VALUES ('8013554102085', 'Lasagne al ragù vegetale', '', '', '8.6', '3.6', '13', '2.6', '', '5.1', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086520224', 'Coliflor en conserva', 'Coliflor, agua, sal y antioxidante: ácido ascórbico (E-300).', '0.5', '0.5', '2.77', '1.05', '1.23', '0.83', '0.78', '0.307086614173228', '', '1');
+VALUES ('8013554104669', 'Cannelloni Ricotta Spinaci 400 G', '', '', '9.6', '6.5', '9.8', '2.2', '', '6.4', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086662023', 'Ybarra Aceituna Sin Hueso 400 g', '', '18', '3', '0', '0', '', '1', '4', '1.5748031496063', '', '0');
+VALUES ('8013554104676', 'Lasagnes bolognaose bio', 'x de muscade*. Sauce à la viande 41 % sur produit : viande de boeuf* et de porc* 31 % (13% sur le produit légumes en proportion variable (oignon*, carotter, LERI#), purée de tomates* 20% (8% sur le produit fini), lble concentré de tomate* 9%, eau, huile de tournesor, rouge* (contient des SULFITES), beurre (contient du T), sel iodé, arômes naturels (contient du GLUTEN et SULFITES), sucre, préparation pour bouillon* [sel, Idon de maïs* , maltodextrine de maïs* , jus de légumes égumes déshydratés* (oignon* , carotte, CELERI*, sil* , poireau*), huile de tournesolr, extrait de levure\', mes naturels de légumes, épices* , antioxydant: rait de romarin*], ail* , romarin* , sauge, marjolaine , vrek, thym* , piment&quot;. Pâtes fraîches aux OEUFS 18% produit fini: semoule de BLE DIJR7 71%, OEUF grédients issus de l\'agriculture biologique. C4E68 CE Modes de preparation:', '', '11', '5.5', '14', '2.9', '', '6.5', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086692020', 'Ybarra Aceit Negra Sin Semil 200 g', '', '13', '2.2', '0', '0', '', '0.5', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013554104690', 'Cous Cous Mediterraneo 300 G', '', '', '9.6', '6.5', '9.8', '2.2', '', '6.4', '0.88', '0.346456692913386', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086954081', 'Pisto', 'Tomate, cebolla, berenjena, calabacín, pimiento, aceite de oliva virgen extra (3,2%), azúcar, almidón modificado de maíz y sal.', '3.4', '', '8.3', '', '', '1.3', '', '', '', '1');
+VALUES ('8013554108858', 'Lasagne all emiliana', 'Sauce à la viande 43% sur produit fini: viande de boeuf* 31% (13% sur le produit fini), légumes en proportion variable (oignon* , carotte*, CELERI*), purée de tomates* 20% (8% sur le produit fini), double concentré de tomate* 9% (4% sur le produit fini), eau, huile de tournesol* , vin rouge* (contient des SULFITES), BEURRE (contient du LAIT), sel iodé, arômes naturels (contient du gluten du BLÉ et de L\'ORGE), sucre*, préparation pour bouillon* [sel, amidon de maïs* , maltodextrine de maïs* jus de légumes et légumes déshydratés* (oignon*, carotte*, CELERI*, persil*, poireau*), huile de tournesol* , extrait de levure* , arômes naturels de légumes, épices*, antioxygène: extrait de romarin*], ail*, romarin*, sauge*, marjolaine*, poivre*, thym* , piment*. Béchamel 40% sur produit fini: LAIT entier* 81% (32% sur le produit fini), BEURRE (contient du LAIT) farine de FROMENT*, huile de tournesol*, sel iodé, sucre* , noix de muscade*. Pâtes fraîches aux OEUFS 17% sur produit fini: semoule de BLE DUR* 71% (12% sur le produit fini), OEUF pasteurisé* 25% (4% sur le produit fini), eau, sel iodé. *Ingrédients issus de l\'agriculture biologique', '', '11', '5.5', '14', '2.9', '', '6.5', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410086958515', 'Judias verdes redondas', '', '0.5', '0.1', '2.6', '1.1', '', '0.7', '0.88', '0.346456692913386', '', '1');
+VALUES ('8013554109374', 'Cannellonis ricotta épinards', '', '', '9.6', '6.5', '9.8', '2.2', '', '6.4', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087001012', 'Glorias', 'harina de _trigo_,azúcar, aceites vegetales (girasol, soja) en proporción variable, clara de _huevo_, _huevo_, humectante (sorbitol), gasificantes (carbonato de sodio, ácido L(+)-tartarico), jarabe de glucosa y fructosa, aroma, sel', '23', '2.9', '52.9', '30', '1.4', '5.8', '0.88', '0.346456692913386', '', '0');
+VALUES ('8013554109381', 'Couscous meditertanéen', '', '', '2', '1.1', '17', '1.9', '', '2.7', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087002026', 'Magdalenes Valencianes Dulcesol', 'VALENCIANAS Produit de pâtisserio et confiserie. Ingrédients Farine de BLÉO sucret huiles végétales (tournesol, soja) en proportion variablet blanc di0EtJF& OEUF, humectant sorbitol, poudres à lever. carbonata de sodium et acide tartrique sirop de glucose et fructose, arôme et sel, Conserver dans un endroit frais et sec, non exposé à la lumière. Peut contenir des TRACES DE À', '25.4', '3.5', '51.1', '27.3', '1.5', '5.5', '0.71', '0.279527559055118', '', '0');
+VALUES ('8013554109398', 'Lasagnes à la bolognaise', '', '', '11', '5.5', '14', '2.9', '', '6.5', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087004020', 'Palmeritas x16, Le Paquet, 180g', 'Farine de ble, sucre, proportion huiles et graisses végétales (palme, tournesol, soja) en proposition variable,siropde glucose et colorat caroténoïde', '26.7', '14.3', '60.5', '30.2', '2.4', '5.1', '0.78', '0.307086614173228', '', '0');
+VALUES ('8013556000167', 'Tarallini', '', '', '18.5', '2.5', '70', '6.9', '', '7.9', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087004082', 'Palmiers', 'Farine de _blé_, sucre, huiles et graisses végétales (palme, tournesol, soja) en proportion variable, sirop de glucose-fructose, sel, arôme et colorant : caroténoïde.', '26.7', '14.3', '60.5', '30.2', '2.4', '5.1', '0.779999999999999', '0.307086614173228', '', '0');
+VALUES ('8013556001065', 'Tarallini', '', '', '18.5', '2.5', '70', '6.9', '', '7.9', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087007014', 'Dulcesol Tortas de Anis y Sesamo', 'Harina de trigo, grasas y aceites vegetales (palma, girasol, soja) en proporción variable, azúcar, semillas de sésamo (2%), semillas de anís (1%), la sal y sabores.', '11.5', '4', '56', '19.8', '0.9', '7', '0.49', '0.192913385826772', '', '1');
+VALUES ('80135692', 'Infinimix', '', '', '', '22.6', '', '52.1', '0', '8.1', '0.323', '0.127165354330709', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087008066', 'Pandorino', 'Crème de cacao (42 %) [sirop de glucose-fructose, graisse de palme, sucre, eau, cacao dégraissé en poudre (9 %)(*), _lactosérum_ en poudre (_lait_), émulsifiant: E471, conservateur: E202 et colorant: E171], farine de _blé_, sucre, graisse de palme, blanc d’_œuf_, _œuf_, sirop de glucose-fructose, levure, humectant: sorbitol, lactosérum en poudre (_lait_), huiles végétales (tournesol, _soja_) en proportion variable, émulsifiants: E471 et E472e, sel, arômes, _gluten de blé_, agent de traitement de la farine: acide ascorbique et colorant: caroténoïdes. (*) % exprimés sur la crème.', '22', '10', '49', '26', '2.5', '5.5', '0.459999999999999', '0.181102362204724', '', '0');
+VALUES ('80135876', 'Nutella', '', 'https://static.openfoodfacts.org/images/products/80135876/front.14.400.jpg', '31.6', '11', '57.6', '56.8', '', '6', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087010014', 'Pâtisserie et Confiserie', '', '20', '5', '63', '26', '', '11.25', '', '', '', '0');
+VALUES ('80135944', 'Pocket Coffee', '', '', '20.5', '13.3', '58.8', '56.6', '', '3.5', '0.0459999999999999', '0.0181102362204724', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087010021', 'Dulcesol Ametllats', '', '29', '12', '58', '26', '', '6.7', '0.3', '0.118110236220472', '', '0');
+VALUES ('80136194', 'Happy Hippo', '', 'https://static.openfoodfacts.org/images/products/80136194/front_en.8.400.jpg', '38.9', '16.8', '50.3', '43.6', '', '8.5', '0.4', '0.15748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087010892', 'Valencianas', 'Farine de _blé_, sucre, huiles végétales (tournesol, soja) en proportion variable, blanc d’_œuf,_ humectants: sorbitol et glycérol, _œuf_, poudres à lever: carbonates de sodium et diphosphates, sirop de glucose- fructose et arômes.', '23', '2.8', '56', '29', '0.4', '4.7', '0.850000000000001', '0.334645669291339', '', '0');
+VALUES ('8013624006305', 'Preparation pour bouillon végétal', '', '', '0.02', '0', '0.72', '0.24', '', '0.1', '1.03', '0.405511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087015019', 'Ensaimada Dulcesol', 'Produis de Farine de blé, huiles et graisses végétales (palm tournesol, soja) en proportion variable, sucre, saindoux, sirop de glucose et fructose, blanc d\'oeuf, levure, oeui, sol, émulsifiants: E-471 et E-472e, lactosérum en poudre, arôme, gluten dc blé et agent de traitement de la farinez acide ascorbique. pout contenir des trace\' de fruits à coque, soja, sésame etlou produits dérivés. Conserver dans un endroit frais et sec, non exposé à la lumière.', '25.3', '12.6', '50.8', '17.7', '2.3', '7', '0.72', '0.283464566929134', '', '1');
+VALUES ('8013624006510', 'Minestrone Italien', '', '', '1.9', '0.25', '56.6', '0', '', '19.7', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087021386', 'Magdalenas', '', '', '4.9', '', '31', '2.9', '4.2', '0.9', '0.354330708661417', '', '0');
+VALUES ('8013624007005', 'Tomates Sechees moelleuses', 'tomates séchées* variété San Marzano, sel marin non raffiné. \'Biologique.', '', '0.6', '0.1', '29.7', '16.1', '8.6', '11.7', '12.7', '5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087021454', 'Madeleines à la fraise', '', '17', '2.1', '58', '30', '', '3.8', '0.9', '0.354330708661417', '', '0');
+VALUES ('8013624101420', 'Soia Tostata', 'Valori nffzionali medi per 100 g: Energia:1805 kJ 447 kcal), ,Gra03iJ Z g), proteind: g, sale: 002 g, collina dei Fiori via verdi, 15 • Gattatico (RE) tel, consumarsi referibilmente entro il: 10/10/18 CONSERVARE LUOGO Agricoltura UE Organismo dl conttol\\o outocizzoto dol MiPMF II BIO 006 Op0/atorc contro//ato // Hé33', '', '23', '3.43', '12.4', '5.7', '13.7', '40.8', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087022567', 'Magdalenas', '', '23.1', '2.76', '55.17', '28.28', '', '5.17', '1.3', '0.511811023622047', '', '0');
+VALUES ('8013664000011', 'Sardo snack gusto classico', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087023304', 'Panecillos tostados con aceite de oliva, ajo y perejil', 'Harina de _trigo_, aceite de palma, aceite de oliva virgen extra (5%), azúcar, levadura, sal, extracto de _malta_, sal, ajo (0,6%), perejil (0,2%) y agente de tratamiento de la harina: ácido ascórbico (E-300).', '23', '2.6', '62', '2.9', '3.2', '8.2', '1.2', '0.47244094488189', '', '0');
+VALUES ('8013664000301', 'Croccanti sfogliatine di grano', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087023779', 'PANECILLOS TOSTADOS C / TOMATE Y OREGANO DULCESOL', 'Farine de BLÉ, huile de tournesol (15%), huile de tournesol oléique (5%), tomate déshydraté(4%), sucre, levure, extrait de malt d\'ORGE et de maïs , sel, origan (0.5%) et agent de traitement de la farine : acide ascorbique.', '25', '3', '56', '4.4', '3.6', '8', '0.93', '0.366141732283465', '', '1');
+VALUES ('8013664000530', 'Pane carasau', '', '', '1.4', '0.3', '70', '1.5', '', '11', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087023854', 'Panecillos tostados', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013711011793', 'Popz  caramel', '', '', '14', '9.2', '76', '45', '', '2.4', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087024264', 'Canna de massa folhada', 'creme sabor baunilha (37%) (xarope de glicose e frutose, água, açúcar, amido modificado de milho, humidificante (glicerol), acidificantes (ácido cítrico, ácido láctico), corantes (carbonato de cálcio, caroteno), estabilizadores (celulose, carboximetil celulose), aroma, conservante (sorbato potássico), sal, espessante (goma de xantanol)), cobertura especial com gordura vegetal (24%) (açúcar, gorduras vegetais em proporções variáveis (palmiste, palma), cacau magro em pó (16%), emulsionante (lecitina de soja), aroma), farinha de trigo, gordura vegetal de palma, açúcar, óleos vegetais em proporções variáveis (girassol, soja), sal, aromas, corante (caroteno).', '21.3', '14.3', '54.4', '32.5', '3.5', '3.5', '0.40894', '0.161', '', '0');
+VALUES ('8013711317000', 'Tacoz', 'Farina di mais (79%), olio di palma non idrogenato, sale', '', '20.2', '9', '61.4', '1.8', '6', '7.3', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087024806', 'Caña rellena de Crema', 'Crema sabor vainilla (45%) [jarabe de glucosa y fructosa, agua, azúcar, almidón modificado de maíz, humectante: glicerina, acidulantes: ácido cítrico y ácido láctico, colorantes: carbonato de calcio y carotenos, estabilizantes: E-460, E-466 y goma xantana, aroma, conservador: E-202 y sal], harina de trigo, grasa vegetal de palma, azúcar, huevo, aceites vegetales (girasol, soja) en proporción variable, sal, conservador: E-202, aromas y colorante: carotenos.', '14', '7.6', '56', '30', '4', '3.2', '0.48', '0.188976377952756', '', '0');
+VALUES ('8013728010048', 'Grana padani', '', '', '29', '18', '0', '0', '0', '33', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087028040', 'Brio Choco', 'Farine de _blé_, sucre, pépites de chocolat (1,1 %) [sucre, pâte de cacao, beurre de cacao, émulsifiant: lécithine de _soja_ et arôme, graisse végétale de palme, sirop de glucose et fructose, blanc d\'_œuf_ _œuf_, humectant: sorbitol, _lactosérum_ en poudre, levure, émulsifiants: E471 et E472e, sel, protéine de _lait_, conservateur: E202, _gluten de blé_ arôme, huiles végétales (tournesol, _soja_) en proportion variable, acidifiant: E270, agent de traitement de la farine: acide ascorbique et colorant: caroténoïde.', '17', '9', '52', '23', '', '6', '0.58', '0.228346456692913', '', '1');
+VALUES ('8013728030015', 'Grancucina', '', '', '20', '14', '1.2', '0', '', '30', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087029016', 'Bizcochada', '@BIZCOCHADA. Produit de pâtisserie et confiserie. Ingrédients.\' Farine de blé huiles végétales (tournesol, soja) en proportion variable, sucre, oeuf blanc d\'oeuf humectant sorbitol, poudres à lever: diphosphates et carbonates de sodium, sirop de glucose et fructose, sel et arômes. Peut contenir des traces de fruits à coque, lait soja sésame et ou produits dérivés.', '29', '4.1', '46', '29', '2.2', '6', '0.39', '0.153543307086614', '', '0');
+VALUES ('8013728070066', 'Gratti', '', '', '20', '14', '1.3', '0', '', '30', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087039183', 'Pandorino', '', '13', '5.9', '31', '16', '', '3.2', '0.29', '0.114173228346457', '', '1');
+VALUES ('8013832000409', 'Crème de poivrons', '', '', '32.5', '4.2', '4.2', '4.2', '', '0.8', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087041230', 'Bolleria Palmeritas Dulcesol', 'Paimeritas 20', '28', '15', '60', '30', '2.6', '5.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8013832000492', 'Purée de tomate rustique', '*tomates *Issues de l\'agriculture biolo i ue', '', '0.1', '0.01', '3.8', '3.6', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087042022', 'Palmeras', '', '26.9', '14.4', '60.5', '30.1', '', '5.1', '0.78', '0.307086614173228', '', '0');
+VALUES ('8013832000553', 'Pomodori Essicati Sott\'olio', 'Tomates séchée Ingrédients *Tomates séchées 58%, *huile d\'olive vierge extra, *ail 0,6%, *origan. Issus de l\'agriculture biolo', '', '10', '1.4', '29', '19', '', '7.3', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087042046', 'Lunas al cacao', '', '30', '13', '53', '34', '', '5.2', '', '', '', '0');
+VALUES ('8013832000577', 'Sugo All\'arrabbiata', 'BIOLOGIQUE Sauce à l\'arrabbiata A faire chauffer au bain-marie. gédients: *Purée de tomates 96%, *huile d\'olive vierge extra, *piment rouge 0,1%, sel marin \'Issus de l\'agriculture biologique 190g e ORGANISMO Dl CONTROLLO O AUTORIZZ.ATO ICEA BIO 006 OPERATORE 01 OGO CONTROLIATO', '', '1.36', '0.1', '3.9', '3.9', '', '1.7', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087042121', 'Dulcesol Llunes', '@ COI jaste\\atia. DE CACAO. Produit de pâtisserie et Ingredi ura vegetal confiserie. Angrédients: Couverture spéciale avec graisse Négétale (32%) {sucre, graisses -végétales (32%) (palmiste, palme) en,proportion variable, cacao dégraissé varying farinhMie en poudre émulsifiant: {lécithine de soja et ,xtarlne deiblé,shuiles Végétales (tournesol, soja) ,proporçôes ar wheat ortion,variable, sucre, oeuf, humectants: sorbitol ol e glicerol, varying levedantes: eEglycér , si(bp de glucose et \'fructose, dextrose, and glyc em potidres±. qrbarbonatesdesodium et ,raising a ulsionante: budre;sewconservateu :iE-282 etE-202, n •rtura.eode émuls #471 et arôme.T)4uprimés surala *EF202, couvenurq,iÌPeLit ontenirdestràcesdefruits àco ue expresse jcalfresco sésamè et/ou roduits dérivés.Toonserver dans un ofmltst a{resha', '29', '12', '54', '37', '2.7', '5', '0.73', '0.28740157480315', '', '0');
+VALUES ('8013832000607', 'Sauce tomate aux légumes', '', '', '0.8', '0', '4.5', '4.4', '', '1.5', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087042893', 'Dulcesol', '', '26.7', '14.3', '60.5', '30.2', '', '5.1', '0.779999999999999', '0.307086614173228', '', '0');
+VALUES ('8013832000614', 'Purée de tomate', '', '', '0.1', '0.01', '3.8', '3.6', '', '1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087045016', 'Dolcesoles Azucar Dulcesol', '', '21.2', '10.8', '49.3', '24.6', '', '5.6', '0.7', '0.275590551181102', '', '1');
+VALUES ('8013832000683', 'Sauce tomate aubergines', '', '', '2.3', '0.2', '4.1', '4.1', '', '1.3', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087045047', 'Dolcesoles Cacao 4 Uds', '', '28', '17.8', '46.6', '23.8', '', '6.2', '0.65', '0.255905511811024', '', '1');
+VALUES ('8013832000812', 'Passata di pomodori al basilico', 'Pomodori, basilico', '', '0.1', '0.01', '3.8', '3.6', '', '1', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087045078', 'Dolcesoles Zebra Dulcesol', 'SOLES Huit de IngréŒl* Couverture b anche et couverture spéciale avec graisse végétale (29%) (sucre, graisses végétales (palme, palmiste) en proporüon en poudre LACTOSE, cacao dégrpissé en poudre (2%)•, émulsifiant lécithine de SOJA et arômes), farine de BLE huiles végétales (palme, tournesol, soja) en proportion variable, graisses végétales (palme, coprah) en proportion variable, sirop de glucose et fructose, sucre, levure, humectants: sorbitol et glycérol, OEUF, gluten de BIE conservateurs E-m et farine de SOJA, arôme, agent dB taitementde la farine: acide ascorbique et acidifiart E-270 % exprimés sur la couverture. Petit contenir de fruib à coque, et/ou produits dérivés', '28', '18', '48', '27', '2.4', '5.6', '0.63', '0.248031496062992', '', '0');
+VALUES ('8013832001024', 'Sugo Alla Puttanesca', 'Puree de tomates 85%, olives noires 5%, huile d\'olive vierge extra, Piment rouge, ail 1,7%, sel marin de l\'agriculture biologique', '', '2', '0.3', '3.8', '3.8', '3', '1.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087060705', 'Dulcesol Bocadito 18u', '', '27', '3.5', '48', '25', '', '6.2', '', '', '', '1');
+VALUES ('8013832005725', 'Pasta Di Olive', '', '', '30', '4', '4.8', '0.6', '', '1.3', '6.1', '2.40157480314961', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087061023', 'Bocaditos De Cacao Dulcesol 12 Uds', '', '30', '10', '50', '31', '', '5.3', '0.63', '0.248031496062992', '', '0');
+VALUES ('8013832007576', 'Crème d\'aubergine', '', '', '34.5', '4.6', '3.1', '1.7', '', '1.9', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087061740', 'Bocaditos Innova Calabaza', '@BIZCOcHo CHLORELLA. Producto de pasteleria y Azficar, harina de soja) en proporciôn variable, clara de huevo, fibra de avena (5%), salvado de trigo (5%), humectantes: glicerina y sorbitol, pipas de calabaza (3%), leche en polvo, gaslficantes: carbonatos de sodio y difosfatos, calabaza en (1%), Chlorella vulgaris en polvo (0.4%), aromas (contiene leche), jarabe de glucosa y sorbato potâsico. contener de frutos de o rodUctos derivados. Consérvese en seco y no expuesto a la luz-', '18', '2.3', '39', '21', '9.7', '5.6', '1.4', '0.551181102362205', '', '0');
+VALUES ('8013832008191', 'Purée de tomates', '', '', '0.1', '0.01', '3.6', '3.6', '', '1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087062228', 'Bicaditos', 'Farine de BLE, huiles végétales (tournesol \\soja) en proportion variable, sucre, blanc d\'OEUF\' OEUF, humectant: sorbitol, poudres à lever:\' diphosphates et carbonates de sodium, sirop de glucose et fructose, arômes et sel. PEUT CONTENIR DES TRACES DE FRUITS LAIT, SOJA, SÉSAME ET/OU PRODUITS DÉRIVES. Coqserver dans un endroit frais et sec, ngn/xpòsé à', '27', '3.3', '48', '25', '2.4', '6.1', '0.78', '0.307086614173228', '', '1');
+VALUES ('8013832009129', 'Ragu\' Al Seitan', 'tomates 71 *seitan (*farine blé tendre type 0 Manitoba 60%, eau), *sauce de soja (eau, *soja, entier, *sel de marin), *oignons 3%, *carottes 2%, *huile d\'olive vierge extra, *persil 0,2%, sel de mer. *Issus de biologique', '', '2.9', '0.4', '4', '2.7', '', '6.8', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087070858', 'Tortas de aceite', '', '21', '3.2', '64', '21', '', '8.1', '0.19', '0.0748031496062992', '', '1');
+VALUES ('8013832009198', 'Câpre en saumure', '\'Câptes, eau, sel matin.', '', '1.2', '0.2', '1.95', '0.1', '', '1.74', '3.29', '1.29527559055118', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087080499', 'Pandorino Cacao', 'creme de cacau (42%) (xarope de glicose e frutose, óleo de palma, açúcar, água, cacau magro em pó (9%), soro de leite em pó, emulsionante (E471), conservante (E202), corante (E170)), farinha de trigo, óleos e gorduras vegetais em proporções variáveis (palma, girassol, soja), açúcar, clara de ovo, ovo, xarope de glicose e frutose, humidificante (sorbitol), levedura, soro de leite em pó, emulsionantes (E471, E472e), sal, aroma, glúten de trigo, agente de tratamento da farinha (ácido ascórbico), corante (caroteno).', '22', '9.1', '47.5', '26.8', '3', '5.9', '0.42926', '0.169', '', '0');
+VALUES ('8013832444883', 'Sauce tomate aux aubergines', '*Purée de tomates 74}1, *aubergines 22%, thuile d\'olive vierge extra, *vin blanc, *ail, sel marin, ?persil ?piment rouge. *Issus de l\'agriculture biologique 190g ICÉAO tr BIO 006 CA N.H127', '', '2.3', '0.2', '4.1', '4.1', '', '1.3', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087092249', 'Madeleines espagnoles 1Kg emballées individuellement', 'FARINE DE BLÉ, HUILES VÉGÉTALES (TOURNESOL, SOJA) EN PROPORTION VARIABLE, SUCRE, OEUF, SIROP DE GLUCOSE ET FRUCTOSE, HUMECTANTS: SORBITOL ET GLYCÉROL, POUDRES À LEVER,\' DIPHOSPHATES ET CARBONATES DE SODIUM, CONSERVATEUR: SORBATE DE POTASSIUM, ARÔME ET COLORANT: CAROTÉNOÏDES PEUT CONTENIR DES TRACES DE FRUITS À COQUE, LAIT, SOJA, SÉSAME ET/OU PRODUITS DÉRIVÉS', '22', '2.5', '51', '26', '1.9', '5', '0.65', '0.255905511811024', '', '0');
+VALUES ('8013855030026', 'Penne', 'Sémola integral de _trigo_ duro ecológica.', 'https://static.openfoodfacts.org/images/products/801/385/503/0026/front.5.400.jpg', '1.81', '', '65.06', '', '', '12.39', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087092829', 'MADELEINES', '', '22', '2.5', '51', '26', '', '5', '0.7', '0.275590551181102', '', '0');
+VALUES ('8013862000271', 'Olive Riviera Denocciolate', '', '', '39.9', '5.8', '1.9', '0.9', '', '1.6', '2.49', '0.980314960629921', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087122618', 'Croissants Amb Cacau Dulcesol 5 U', '', '25', '13', '49', '23', '', '5.1', '0.6', '0.236220472440945', '', '1');
+VALUES ('8013862000622', 'Pesto Alla Genovese', '', '', '64.5', '9.5', '12', '2.5', '', '3.7', '2.66999999999999', '1.0511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087141312', 'Cuadrado Trufa', 'cobertura especial com gordura vegetal (26%) (açúcar, gorduras vegetais em proporções variáveis (palma, palmiste), cacau magro em pó (16%), emulsionante (lecitina de soja), aroma), recheio sabor trufa (19%) (óleos e gorduras vegetais em proporções variáveis (palma, girassol, soja, coco), açúcar, cacau magro em pó (9%), lactossoro, pasta de avelã, emulsionante (lecitina de soja), aromas), açúcar, farinha de trigo, xarope de glicose e frutose, ovo, humidificantes (sorbitol, glicerol), clara de ovo, cacau magro em pó, levedantes (difosfato de sódio, carbonato de sódio), aroma, emulsionante (mono e diglicéridos de ácidos gordos), soro de leite em pó, conservante (E202), sal, reguladores de acidez (E262, E270).', '20.4', '13.7', '56.5', '38.6', '2.6', '4.3', '0.44', '0.173228346456693', '', '0');
+VALUES ('8013862000660', 'Pesto Ligure, Antica Ricetta', 'Huile d’olive vierge extra, basilic, noix, préparation à base de fromage, sel, fibres végétales, acide citrique, protéines naturelles d’œuf, noix de cajou, lait, phosphate de sodium.', '', '64.5', '9.5', '12.1', '2.5', '', '3.7', '2.67', '1.0511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087141916', 'Roulé au sucre', '', '8.9', '4.5', '67', '46', '', '3.4', '0.58', '0.228346456692913', '', '0');
+VALUES ('8013862000677', 'Pesto Delicato', '', '', '62.7', '9.3', '12.1', '2.7', '', '3.7', '2.67', '1.0511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087141923', 'Brazo de cacao', '', '14', '8.7', '64', '42', '', '3.3', '0.55', '0.216535433070866', '', '0');
+VALUES ('8013862001032', 'Olio extravergine di Oliva', '', '', '91.6', '13.3', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087142166', 'DULCESOL BRACITOS DE AZUCAR UNE TUERIE', '', '10', '5.1', '70', '48', '', '2.9', '0.44', '0.173228346456693', '', '0');
+VALUES ('8013862002213', 'Pesto Rosso, Sauce Mit Basilikum, Tomaten Und Nüssen, Venturino', 'con Genovese extra vt•rgine di OOP 25\'ht dl pomodoro, di (formaggio, sien di latte ilpo(k, li o), Padan DOP (latte, sale Utratta datluovo), pinolit aglio, fibra vegetl, acido citrico, Consjgli in cucina: crocchi, lasagne. Per una resa ottimale di consigüa l\'acqua di (Ottura della pasta. Pub contener;• futta a guscio. Conservarein luogofr$fiCI dalla luceedafontidicalore.Unavofgptt: U e conservare in frigoriferoperunma55Œf', '', '53.5', '8.4', '4.9', '1.5', '', '4.2', '1.78', '0.700787401574803', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087142173', 'Dulcesol Brac.trufa', 'Couvetture spéciale avec graisse végétale (21%) Ingredients: specia [sucre, graisses végétales (pallile, palmiste) en propottion tsugar, vegetable variable, cacao degraissé en poudre étnutsifiant: proportions, fat-redl lécithine de soja et avôtnel, sucre, fourrée de truffe (17%) soya lecithin and fl (graisses végétales (panne, coprah) en propottion variable, Ivegetable fats (pair sucre, huiles végétales (tournesol, soja) en propottion variable, vegetable cils (su cacao dégraissé en poudre (9%)*, lactosérum, pâte de fat.reduced cocoa tvoisettes, énitllsifiant: lécithine de soja et arôjnesl, farine de emulsifier?. blé, sirop de glucose et fructose, oeuf,lnunnectants: sorbitot et glucose ancHructc', '16', '11', '63', '44', '3', '3.3', '0.45', '0.177165354330709', '', '0');
+VALUES ('8013873000031', 'Gnocchi bio Migros', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087142623', 'Tiramisu', '', '7.2', '5.5', '64.5', '41.9', '', '3.8', '0.45', '0.177165354330709', '', '0');
+VALUES ('8013873004008', 'Patamore Gnocco rigato alla zucca', 'patate fresche 50%, zucca 25%, farina di _grano_ tenero, _uova_, sale, olio di semi di girasole', '', '0.7', '0.2', '25', '4.7', '2.2', '3.5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087143132', 'Snack', 'INFORMATION -NEUE/ Énergie I dont acides gras saturés Carbohyaratexw Si-ibl Protéines Sel', '14', '9.7', '67', '47', '', '3.2', '0.42', '0.165354330708661', '', '0');
+VALUES ('8013873004022', 'Gnocco rigato di patate viola', '', '', '0.7', '0.2', '26', '4', '', '4', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087143538', 'Tagger', 'Sucre, Huile végétale hydrogénée (Palme), Farine de blé, Cacao maigre en poudre, Émulsifiant soja), Lactosérum en poudre, Poudre à lever (Bicarbonate de sodium), sel. CONTIENT : BLÉ, GLUTEN, SOJA, LAIT. Poids Net: 249. &lt; : .9LSLSJk 9', '29', '13', '63', '44', '2.5', '3.9', '0.04', '0.015748031496063', '', '0');
+VALUES ('8013873004091', 'Gnocchis bio Rigati', 'Informations nutritionnelles. Valeurs moyennes pour 100 g de produit Énergie 553 kJ - 131 kcal, Matières grasses 0,8 g dont acides saturés 0,2 g Glucides 26 g dont sucres 4,0 g, Fibres 1,3 g, Protéines 4,2 g, Sel 1,3 g', '', '0.8', '0.2', '26', '4', '1.3', '4.2', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087148359', 'Gateau Fourré Gout Praliné', ',ffl) GÂTEAf FOURRÉ Produit de Llngrédients: Couverture spéciale avec (2 0%) grasses végétales (Palmiste, ) palme roportions variableswcacao maigre en poudre , enwlsifiant:lécithine de spjat arômel,lourrage saveur truffe 7%) [matières grasses (palme, coprah; en proportions variablds), sucre, huiles végétales (tournesol, soja; en proportion variable), cacao maigre en poudre lactosérum (lait), pâte de noisettes émulsifiant: lécithine de soja, arôtnesl, sucre, farine de blé, sirop de glucose-fructose, Ittltnectants: sorbitol et glycérol, blanc dioeuf, cacao maigre enl poudre, poudres à]ever: diphosphates et carbonates de sodiuml aròtne, émulsifiant: E-471, lactosérum ven poudre (lait) conservateur: E-202, sel et correcteurs d\'acidité: E-262 el t) exprimés par rapport de l\'ingrédient composé. Peu contenir des traces dtautres fruits à coques, de graines dd sésarne etlou de Conserver dans un endroi- fiats et sect non exposé lutnière.', '20', '14', '56', '39', '2.6', '4.3', '0.44', '0.173228346456693', '', '0');
+VALUES ('8013873004107', 'Gnocchi rigati aux epinards', 'pommes de terre fraîches 60%, farine de blé tendre, épinards 16%, oeufs, sel, huile de tournesol (qui recouvre leur surface). Peut contenir des traces de soja.', '', '0.6', '0.2', '23', '4', '2.4', '4', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087149127', 'Pinky snack', '', '15', '12', '63', '48', '', '3.8', '0.4', '0.15748031496063', '', '0');
+VALUES ('8013873004114', 'Gnocchi rigati a la courge', 'Gnocchi de pommes de terre fraîches à la courge. Ingrédients.\' ommes de terre fraîches 5 courge 25% farine de blé tendre, oeufs, sel, huile de tourneso (qui recouvre leur surface). Peut contenir des traces de soja. Pour des allergènes voir les ingrédients en gras.', '', '0.7', '0.2', '25', '4.7', '2.2', '3.5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087200439', 'Puff Pastry Twisters', 'Wheat flour, sugar, vegetable palm fat, glucose and fructose syrup, vegetable oils (sunflower, soya) in varying proportions, salt, aroma and colour: carotenes.', '30.29', '16', '57.14', '26.86', '3.4', '5.71', '2.32156', '0.914', '', '0');
+VALUES ('8013873100199', 'Gnocchi Freschi', 'PORZIONI SENZA CONSERVANTI *(%) Assunzione di riferimento di un adulto medio (8400 kJ / 2000 kcal) per 100 g GNOCCHI Dl PATATE FRESCHE Ingredienti: patate fresche 78%, farina di grano tenero, uova, sale, olio di semi di girasole (cosparso in superficie). Può contenere tracce di soia. SENZA UTILIZZARE FIOCCHI Dl PATATE O FECOLA Nessun conservante, niente addilivi, né aromi CONSERVAREA +40c 3 VALORI NUTRIZIONALI PER 100g', '', '0.7', '0.2', '30', '4', '1', '4', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087232515', 'Toasted Rolls', 'Wheat flour, palm oil, extra virgin olive oil (5%) sugar, yeast, malt extract, salt, garlic (0.5%), parsley (0.2%) and flour treatment agent: ascorbic acid.', '24.83', '9.66', '59.31', '4.14', '3.4', '8.97', '2.80162', '1.103', '', '0');
+VALUES ('8013885010059', 'Pâtes Blanches RIGATONI', '', '', '1.7', '0.3', '71', '3', '', '11', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087233710', 'Panecillos tostados', '', '21', '2.3', '63', '4.1', '', '8.1', '1.2', '0.47244094488189', '', '0');
+VALUES ('8013885010233', 'Tallarines De Trigo Duro 500GR Castagno', 'Pâtes de semoule de blé dur biologiques Ingrédient:  semoule de blé dur biologique* , eau.', '', '1.7', '0.3', '71', '3', '3.4', '11', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087241210', 'Caña exxtra cao', 'Sucre, farine de blé, eau, graisses végétales (palme) en proportion variable, en proporcién variable, cacao dégraissé en poudre (4%), amidon modifié de maïs, humectant : glicerine, huile végétale (palme, tournesol, soja) en proportion variable, poudre de maltodextrine, sel. Colorants: E-150d, E-171, E-120 et E-160a stabilisateurs: E-460 et E-466, arôme émulsifiant: lécithine de soja et E-471 conservateurs: E-202 et acidulant: EQ70.', '22', '15', '53', '34', '1.9', '4.4', '0.49', '0.192913385826772', '', '0');
+VALUES ('8013885020225', 'Pâtes demi complètes spaghetti', '', '', '1.8', '1.4', '69', '3.8', '', '12', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087241661', 'Cañas Exxtra!! Cao', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013885030026', 'Penne Whole Wheat Pasta (Castagno)', '', '', '2.7', '0.6', '64', '5', '', '12', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087271378', 'DUL-NAPOLITANA CREMA (3+2)', '', '21', '11', '48', '21', '', '4.9', '0.45', '0.177165354330709', '', '1');
+VALUES ('8013885030194', 'Cornetti De Trigo Integral', '(à.staqno', '', '2.7', '0.6', '64', '5', '8', '12', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087331126', 'Pan de leche', '', '12', '1.9', '49', '11', '', '9.7', '0.8', '0.31496062992126', '', '1');
+VALUES ('8013885030224', 'spaguettis castagmo', 'asla ue semola tegal e trigo aure ecoiog ngredientes: semola integral de trigo duro ecologica', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087332741', 'Pains au Lait', '', '13', '6.2', '54', '18', '', '8', '0.98', '0.385826771653543', '', '1');
+VALUES ('8013885040322', 'Espagueti Pimiento Y Cayena 500GR. Castagno', '', '', '1.9', '0.4', '69', '3.5', '', '11', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087340265', 'dulcesol tarta de manzana', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013885040421', 'Espiral Tricolor 500 G Castagno', 'Lipides dont acides Glucides dont sucre Fibres Protéines Sel', '', '1.8', '0.4', '71', '3', '2.8', '11', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087361444', 'Pain Hamburger (82,5g)', 'Far ine de blé; eau; sucre; huile de colza; levure; sel, _graines de sésame_, gluten de _blé_, émulsifiants: E471, E481 et E435; conservateurs: E282, E200 et E202; agent de traitement de la farine: acide ascorbique; correcteur d\'acidité: E262 et arôme (contient alcool).', '5.42', '0.84', '46.75', '6.02', '3.37', '8.31', '1.47', '0.578740157480315', '', '0');
+VALUES ('8013885040919', 'Capellini Albahaca Ajo 500 g Castagno', 'semoule de blé dur* , ail* 10%, basilic* 5%. *Ingrédient issu de l\'agriculture biologique Organisme de contrôle IT BIO 007 - Ooérateur no B09E', '', '2', '0.5', '70', '3.1', '3.8', '11', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087400730', 'Pain Hot Dog', 'Farine de blé, eau, sucre, Lactosérum en poudre, levure, huile végétale (tournesol, soja), sel, fibre d\'avoine, gluten de blé, émulsifiants: E-481 et E-471, conservateurs : E-282, E-200 et E-202, stabilisant : gomme guar, arômes (contient alcool), correcteur d\'acidité: E-262 et agent de traitement de la farine : acide ascorbique', '5.5', '0.9', '51', '7.8', '3', '8.8', '1.4', '0.551181102362205', '', '0');
+VALUES ('8013885041435', 'Coquillage', '', '', '1.8', '0.5', '71', '3.8', '2.8', '11', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087413068', 'Pan de molde integral sin corteza', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013885050116', 'Espaguetti De Espelta Castagno', '', '', '3', '0.8', '58', '3.8', '11', '13', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087414379', 'Pan de avena', '', '5.2', '0.9', '47', '5.4', '', '9.6', '1.1', '0.433070866141732', '', '0');
+VALUES ('8013885050123', 'Fusilli Pasta Whole Grain Spelt 500gm', 'farine dlépgutre complet biologique* , eau. Organisme de contrôle IT Bilo 007 Opérateur no BOSE Depuis trois générations les maîtres pastiers Castagno produisent des pâtes de qualité, grâce à une sélection rigoureuse des matières premières travaillées dans leur moulin et un savoir-faire Itanlquen Le séchage lent à basse température préserve ainsi le goût et les nutriments des pâtes, Invitez la qualité Castagno à votre table! Attention: peut contenir des traces de blé, blé khorasan), sgiglg, gcgg, avoine, g_gla et sésame. Conserver dans un endroit frais, sec, aéré, à l\'abri du soleil.', '', '3', '0.8', '58', '3.8', '11', '13', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087414874', 'Pan intrgral', '', '3.8', '0.8', '42', '6', '', '10', '1.2', '0.47244094488189', '', '0');
+VALUES ('8013885050130', '100 % intégrale di farro', '', '', '3', '0.8', '58', '3.8', '', '13', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087415093', 'Pain de Mie au Seigle', 'Farine de BLÉ, eau, farine de SEIGLE malté grillé (8 %), mélange de céréales et de graines (4 %), farine de SEIGLE intégrale, flocons d\'AVOINE, graines de tournesol, graines de SÉSAME, graines de lin brun, millet nue, farine d\'ORGE malté, lin doré, lin brun, graines de citrouille et farine de SEIGLE grillé], levure, huile de soja, sucre, sel, farine d\'ORGE malté grillé, GLUTEN DE BLÉ, conservateurs: E282 et E200, agent de traitement de la farine: acide ascorbique et arôme.', '2.6', '0.4', '45', '2.4', '', '9.1', '1.3', '0.511811023622047', '', '0');
+VALUES ('8013885050215', 'Castagno Kamut Skruer', '', '', '', '0.7', '', '2.7', '15', '14', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087415109', 'Pain de mie Céréales et Graines', 'Farine de blé, eau melange de céréales et de graines (10%) [flocons d\'avoine, farine de triticale complet, farine de sue, farine d\'avoine, farine de blé, farine d\'pyge maltée, graine de lin, semoule de maïs, farine de sarrasin, farine d’épeautre, farine de riz prégélatinisée, graines de tournesol, son de spia, millet, levain de seigle déshydraté, graines de sésame et sell sucre, son de blé, flocons d\'avoine, huiles végétales (tournesol, soja) en proportion variable, extrait de plante, arôme naturel, huile d\'olive vierge extra (1%), sel, levure, gluten de blé, lactosérum en poudre (lait), farine de blé khorasan, agent de traitement de la farine: acide ascorbique et arôme (contient alcool). Peut contenir des traces de fruits à co ue oeufs etlou_produits dérivés. Conserver dans un endroit frais et sec, non exposé à la lumière,', '5.5', '0.9', '47', '6.7', '4', '8.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('8013885050741', 'Spirale de maïs', '', '', '0.7', '0.2', '77', '1.1', '', '7.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430058', 'Macarons De Taronja Dulcesol 4 U', 'MACARONS NARANJA. Producto de pasteleria y reposteria. Ingredientes: Azücar, harina de almendra, harina de trigo, jarabe de glucosa y fructosa, grasa vegetal de palma, clara de huevo en polvo, emulgente: E-471, humectante: sorbitol, almidén de maiz, almidôn modificado de maiz, espesantes: goma guar y pectinas, colorantes: carotenos y carmines, aromas, proteinas de la leche, sal, conservador: E-202, leche desnatada en polvo y acidulante: écido citrico. Puede contener trazas de otros frutos de cascara, soja, sésamo y/o productos derivados. Conservar en lugar fresco, seco y no expuesto a la luz. El envase contiene 4 piezas.', '10', '1', '63', '51', '2.7', '9.8', '0.28', '0.110236220472441', '', '0');
+VALUES ('8013885050918', 'Fusilli Di Riso Nero Integrale 250G', '', '', '3', '0.8', '71', '6.1', '', '9', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430065', 'Macarons De Llimona Dulcesol 4 U', '', '3', '0.9', '12.4', '11.2', '', '1.5', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8013885050956', 'Spirales de riz rouge complet', '', '', '3.3', '0.7', '72', '7.6', '', '8.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430072', 'Macarons', '', '9.5', '1.8', '68', '60', '', '6.6', '0.23', '0.0905511811023622', '', '0');
+VALUES ('8013885051342', 'Penne Di Grano Saraceno Integrale', 'tes au sarrasin complet, biologiques grédlents: farine 100% complète de sarrasin*, eau. Issue de l\'agriculture biologique de contrôle IT BIO 007 - Opérateur 010531 Depuis trois générations, les maîtres pastiers CastaRno produisent des pâtes de qualité, grâce à une sélection rigoureuse des matières premières travaillées dans leur moulin et un savoir-faire uniqùe. Le séchage lent à basse température préserve ainsi le ROût et les nutriments des pâtes. Invitez la qualité Castagno à votre table! Attention: ce produit peut contenir des traces de gluten, de sésarne et de soia. Conserver dans un endroit frais, sec, aéré, à l\'abri du soleil. Mode de préparations mettre 1 It. d\'eau pour 100 g. Porter l\'eau à ébullition. puis v mettre les pâtes, avec un peu de sel. Remuez de temps en temps. Egouttez et assaisonnez avec un peu d\'huile d\'olive bio, et une sauce bio à votre goût. Bon appétit. Plus de recettes sur www.castagnobruno.it Valeurs nutrltfves moyennes pour 100 gr,', '', '3.4', '0.74', '66.3', '3.4', '', '14.3', '0.0005', '0.000196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430089', 'MACARONS CAFE 4u. BLACK', '', '15', '3.9', '61', '54', '2.5', '8.1', '0.3', '0.118110236220472', '', '0');
+VALUES ('8013885051601', 'Fusilli Di Lenticchie Rosse Bio', '', '', '1.8', '0.4', '53', '1.9', '', '27', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430102', 'MACARONS MELON 4u. BLACK', '', '15', '4.3', '62', '56', '', '7.4', '0.3', '0.118110236220472', '', '0');
+VALUES ('8013885051700', 'Sedani Di Piselli Bio', 'farine biologique de pois verts, eau. Attention: peut contenir des traes de blé ( épeautre et blé khorasan), seigle, orge, avoine, soja et sésame.', '', '1.4', '0.3', '53', '2.5', '6.5', '24', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430423', 'Macarons saveur Citron', 'Sucre, farine d\'_amande_, farine de _blé_, sirop de glucose et fructose, graisse végétale de palme, blanc d\'_œuf_ en poudre, humectant: sorbitol, amidon de maïs, émulsifiant: E-471, amidon modifié de maïs, _lait_ écrémé en poudre, épaississants: gomme guar et pectines, colorant: caroténoïdes, protéines de _lait_, arômes, sel, conservateur: E-202 et acidifiant E-270.', '15', '4.3', '62', '56', '', '7.4', '0.3', '0.118110236220472', '', '0');
+VALUES ('8013885051755', 'Fusilli Di Piselli Bio', 'farine biologique de pois verts, eau. Attentlon: peut contenir des traes de blé( épeautre organisme de IT BIO 007 Opérateur BOE et blékhoragan), *Igle, orge, avoine, soja et &quot;game. Conserver dans un endroit frais, sec, aéré, à l\'abri du soleil.', '', '1.4', '0.3', '53', '2.5', '6.5', '24', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430447', 'Macarons café Dulcesol', 'Sucre, farine d\'amande sirop de glucose et fructose, farine de blé eau, fiilëd$palme, blanc d\'oeuf en poudre, émulsifiant E-471, épaisstssants: pectines et gomme quar, protéines de lait lait écrémé en poudre, café (0.4 h), colorant E-150d, sevconservateur. E-202, humectant: sorbitol, acidifiant: E-270 et arômes. Peut contenir des traces de soja, sésame et/ou produits dérivés. Conserver dans un endroit frais et sec, non exposé à la lumière.', '15', '4.3', '62', '56', '2.7', '7.4', '0.3', '0.118110236220472', '', '0');
+VALUES ('8013885051786', 'Fusilli Di Ceci Bio', 'farine de pois chiches biologique, eau.', '', '5.8', '1', '47', '2.7', '13', '20', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087430454', 'Macarons Chocolat', 'Sucre, farine d\'amande, tarine de blé, sirop de glucose-fructose, graisse végétale de palme, blanc d\'oeuf en poudre, humectant: sorbitol, amidon de maïs, émulsifiant: E-471, chocolat (1%) [sucre, pâte de cacao, beurre de cacao, émulsifiant: lécithine de soja et arôme], épaississants: gomme guar et pectines, colorants: E-150d et E-120, lait écremé en poudre, arômes et arômes de fumée (caféine), amidon modifié de maïs, cacao dégraissé en poudre, protéines de lait, sel, conservateur: E-202 et acidifiant: E-270. Peut contenir des traces de graines de sésame, d\'autres fruits à coques et/ou produits dérivés.', '13', '2.8', '60', '49', '2.9', '9.5', '0.3', '0.118110236220472', '', '0');
+VALUES ('8013885051793', 'Sedani Di Ceci Bio', 'farine biologique de pois chiches, eau.', '', '5.8', '1', '47', '2.7', '13', '20', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087451909', 'Mini Soles', '', '', '19', '', '22', '2.6', '5.7', '1.38', '0.543307086614173', '', '0');
+VALUES ('8013885051809', 'Sedani Di Fagioli Cannellini Bio', '@sia-gno Z3ie 100% LÉGUMINEUSE Sedani aux HARICOTS BLANCS Biologiques RICHE EN PROTÉINES riche en Nabzet!errtertt riche en Swrce nature:te de Fer et de Phes#eee', '', '2', '0.5', '47', '2.9', '15', '20', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087451916', 'Soles mini ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013885051830', 'Sedanis De Azukis Eco 250GR - Castagno', 'farine de fèves azuki rouges biologique, eau, Organic Certification', '', '1', '0.4', '50', '1.3', '13', '21', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087490410', 'Lunas', 'Couverture spéciale avec graisse végétale 35%, sucre, graisse végétales (palmiste, palme ) cacao dégraissé en poudre (16%) émulsifiant : lécithine de soja et arôme, farine de blé, huiles végétales (tournesol, soja) en proportion variable, sucre, œuf, sorbitol et glycérol, sirop de glucose et fructose, dextrose, poudres à lever :E-500 et E-334, lait en poudre, sel conservateurs : E-282 et E-202, émulsifiant : E-471 et arôme', '31', '14', '52', '36', '2.7', '5.4', '0.650000000000001', '0.255905511811024', '', '0');
+VALUES ('8013885052110', 'Macarronis Espelta Garbanzos 500 g Castagno', 'fa\'in d\'épeaut.g complee far ne c e pois chiches complets mélange de plantes arorni tiques issus de ilagricu :ure biologique (persil* , ail* , basilics), épinards* - * Organisme de ccjntrôle IT BIC) 007 - ()pérateur no BOSE Depuis trois vénérations, les maîtres pastiers Castagno produisent des pâtes de qualité, grâce à L ne sélection rigoureuse des matières premières travaillées cans leur moulin et un savoir-faire unique. Le séclhage lent à basse température prése -ve ainsi le goût el: les nul:rime Its c es pâtes. Invitez la qualité Castagno à votre table! Attention: il peut contenir des traces de céréales zona enant du gluten, à savoir blé (cotnrne blé khorGIsarl), sei {lg, avoing, sésarne.', '', '4.3', '0.7', '59', '3.5', '8.6', '16', '0.11', '0.0433070866141732', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087550473', 'Doble crema cacao', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013885060023', 'Lasaña De Trigo Duro', 'Semoule intégrale', '', '2.7', '0.6', '64', '5', '8', '12', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087555416', 'Panecillos con Tomate y Oregano', 'Farine de _blé_ , huile de tournesol (15 %), huile de tournesol riche en acide oléique (5 %), tomate déshydratée (4 %), sucre, levure, extrait de malt d\'_orge_ et maïs, sel, origan (0,5 %).', '24', '2.5', '59', '6.3', '3', '8', '1', '0.393700787401575', '', '1');
+VALUES ('8013885060030', 'Lasagne d\'épeautre Complet', '', '', '3', '0.8', '58', '3.8', '', '13', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087602585', 'Bebible De Manzana Y Platano Bio Sin Gluten Mi Menu', 'ALIMENTO INFANTIL de frutas BIO (manzana, plàtanoy do frutàs BIO naranja). INGREDIFNTES: Puré de laranja). INGflI frutas• (marxa• y pkitano•l frutase tumo de a partir de surr) do concentrado• a:rnidòn de maiz• y C C) gyœedentes vitarnina C. (à Oe eco!ogica. de produçao CONSERVACIOU: en luoar CONSERVAÇ y set abierto se tresco o seco.', '0', '0', '16', '14', '1.3', '0.5', '0', '0', '', '1');
+VALUES ('8013885060054', 'Pates blanches biologiques', '', '', '1.7', '0.3', '71', '3', '', '11', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087604800', 'Pollo con arroz y verduras', '', '1.7', '0.4', '11', '0.7', '', '3.5', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8013885080045', 'Snack Maïs', 'farine de maïs 99%, sel marin', '', '1.1', '0.3', '73', '0.6', '3.3', '8', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087611938', 'Smoothie Bioactivo', '', '0', '0', '14', '12', '', '0.9', '0.5', '0.196850393700787', '', '1');
+VALUES ('8013885210671', 'Riz carnoli', '@stagno Riz Carnaroli biologique 100% riz d\'Italie CONVIENT AUSSI POUR LES VÉGÉTARIENS ET ) Conseils d\'utilisation : excellent pour les risottos, les salades fraîches et les soupes. Plus de recettes sur www.castagnobruno.it Attention: ce produit peut contenir des traces de céréales contenant du gluten, à savoir bte (comme épeautre et blé de khorasan), seigle, crge, avoine, et des traces de soja et de sésame. Conserver dans un endroit frais, sec, aéré, à l\'abri du soleil.', '', '0.6', '0.1', '88', '0.2', '', '7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087611952', 'Smoothie Bioactivo', '', '0', '0', '12', '10', '', '1', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8013885210794', 'Riz noir biologique', 'Conseils d\'utilisation: excellent pour les risottos, les salades fraîches et les soupes. Plus de recettes sur www.castagRQbruno.it Attention: ce produit peut contenir des traces de céréales contenant du gluten, à savotr blé (comme épeautre et blé de khorasan), seigfe, orge, avoine, et des traces de soja et de sésame.', '', '2.8', '0.5', '70', '0.8', '4.3', '8.2', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410087650241', 'Magdalenas', 'Farine huile de soja, sucre, oeuf pépites de chocolat 155%) (sucre, pâte de cacao, dextrose, beurre de cacao, émulsifiant lécithine de Cacaos. minimum 42%It humectants: SIN 420 et SIN 422, gluten de poudres à lever SIN 450 et SIN 500, sirop de glucose et fructose, sel et arôme. cu co tenir des race de fruit à coque lait 0 produits dérivés. Conserver dans un endroit frais et sec, non exposé à la lumière. PRODUIT FABRIQUÉ ISLAMIQUE', '23.2', '2.8', '56', '29.2', '0.4', '4.8', '0.84', '0.330708661417323', '', '0');
+VALUES ('8013936004846', 'Four seasons', '', '', '10.49', '6.57', '81.47', '69.98', '', '2.16', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090010636', 'Atún Calvo', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013945400004', 'Italpasta Pesto', '', '', '49', '6.4', '3.9', '2.6', '', '4.7', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090031570', 'Atun claro natural', '', '1.8', '0.6', '0.05', '0', '', '26', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013945400202', 'Carciofi grigliati', '', '', '4.3', '1', '3.1', '0.5', '', '5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090051066', 'Cons.atun Calvo Claro Ac.oliva 3x80GR', '', '15', '2.2', '0', '0', '', '22', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013945930020', 'FATTORIE UMBRE SAUCE AU BASILIC 280G', 'chair de tomate 85%, double concentré de tomate, sucre, sel, basilic huile d\'olive extra vierge, oignon 0.1%. Peut contenir des traces de céleri. CONSEILS D\'UTILISATION : idéal sur les Réchauffer à feu lent et verser sur les pâtes Après ouverture, conserver au réfrigérateur et consommer dans un délai de cinq jours. A Consommer de préférence avant la date inscrite sur le couvercle en Italie en France par SAS Italia Import 73 u. RD 1006-73490 La Ravoire 3807 Email; info@ita port73xom', '', '0.7', '0.1', '6.6', '5.9', '', '1.2', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090052001', 'Atun En Aceite de girasol Calvo', 'Thon à l\'huile de tournesol. Ingredients: Thon. Huile de tournesol et sel.', '33', '5', '0', '0', '', '17', '1.11', '0.437007874015748', '', '0');
+VALUES ('8013945930105', 'FATTORIE UMBRE PESTO ALLA GENOVESE PREMIUM180G', 'BASILIC grédients : basilic 41 huile de tournesol 33.2%, fromage (laitde vache, laitde brebis, sel, présure), noix de cajou, sel, pomme de terre, $gnons de pins 2,2%, huile d\'olive extra vierge 1.8%, suÇ d\'acidité : E575, persil séché, ail. Peut contenirdestraces degluten, fruits à coque.', '', '38.3', '4.7', '4.7', '2', '', '4.6', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090093929', 'Atãºn Claro Calvo En Aceite De Oliva (pack De 6)', '', '32', '5.1', '1.6', '0', '', '17', '1', '0.393700787401575', '', '1');
+VALUES ('8013945930136', 'Fattorie Umbre Sauce Bolognaise 280G', '', '', '2.9', '0.5', '5', '4.5', '', '3.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090302632', 'Tacos De Pota En Salsa Americana', 'Valor nutricional medio por 100 g. de producto. œ) Energia 1017 kJ / 243 kcal Grasas 17g De las cualessaturadas 2.2 g Hidratos de carbono 6.9 g De los cuales azûcares', '17', '2.2', '6.9', '1.9', '0', '15', '1.8', '0.708661417322835', '', '0');
+VALUES ('8013945930150', 'Salsa a la Americana Tocino', '', '', '3', '1.8', '4.4', '4', '', '4.2', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090374431', 'FARo', '', '32', '5.1', '0.1', '0.01', '', '17', '1', '0.393700787401575', '', '1');
+VALUES ('8013945930211', 'FATTORIE UMBRE SAUCE TOMATE a LA SICILIENNE 280G', '', '', '2.6', '0.5', '5.3', '4.8', '', '1.6', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090410412', 'Sardinas en aceite de girasol', '', '37', '5', '0', '0', '', '15', '1', '0.393700787401575', '', '0');
+VALUES ('8013945930334', 'Paté Di Olive Verdi Fattorie Umbre GR180', 'US SPREAD OVER TOAST. COVER WITH 011, AFTER OPENING.', '', '21', '1.4', '1', '1', '', '0.8', '3.6', '1.41732283464567', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090450128', 'Sardinas En Aceite De Oliva', 'Sardines et huile d\'olive', '28', '4.2', '0', '0', '0', '18', '0.16', '0.062992125984252', '', '1');
+VALUES ('8013945930341', 'Crema Alle Olive Nere', '', '', '27.1', '8.7', '0.8', '0.8', '', '1.6', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090510631', 'Atún en aceite de girasol', 'Atún, aceite de girasol, sal', '33', '5', '0', '0', '', '17', '1.1', '0.433070866141732', '', '0');
+VALUES ('8013945930372', 'FATTORIE UMBRE PESTO ROSSO PREMIUM 180G', '', '', '38.4', '6', '5.7', '5.6', '', '4.9', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090610638', 'Calvo Atún Claro Al Natural', '', '0.6', '0.1', '0', '0', '', '20', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013945930495', 'Crema Di Peperoni Piccanti, Scharf', '', '', '8.4', '1.3', '4', '3.8', '', '0.8', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410090730169', 'Mejillones Calvo En Escabeche (pack 4X80G)', '', '7.2', '1.3', '0', '0', '', '21', '1.5', '0.590551181102362', '', '0');
+VALUES ('8013945937050', 'Bolognese vegetarienne', '', '', '5.4', '0.7', '5.9', '5', '', '6', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091006386', 'Té Classic Hornimans', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013945944072', 'Pesto alla genovese', '', '', '38.3', '4.7', '47', '2', '', '4.6', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091024953', 'Rooibos con especias en bolsitas', 'Rooibos (88%), canela (7%), cardamomo, jengibre.  ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013969008507', 'Pina contu', '', '', '1.5', '0.4', '73', '2.5', '', '13', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091024977', 'Té blanco ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013969105008', 'Pane carasatu piccolo', '', '', '1.5', '0.4', '73', '2.5', '', '13', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091025011', 'Infusión Hornimans Te Verde', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8013969900528', 'Pane carasatu intégrale', '', '', '2.8', '0.53', '67.8', '1.2', '', '13.8', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091025660', 'rosa mosqueta', 'ORNIMAN DESDE nfusion de plantas y frutas aromatizada ngredientes. Rosa canina L. (Rosa Mosqueta) 48%), Hibisco, Aromas naturales, Rooibos, Pulpa de Manzana. Trozos de Fresa (0,8%) 100% natural.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013971053922', 'Multicereali Manitoba', '', '', '2', '0.68', '68.33', '2.83', '', '13.28', '0.003', '0.00118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091056183', 'Stevia', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8013999060018', 'Composta con fruttosio ALBICOCCHE', '', '', '0', '0', '43', '39', '', '0.2', '0.007', '0.00275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091061323', 'Me Funciona', '', '0', '0', '0.1', '0.1', '', '0', '', '', '', '1');
+VALUES ('8013999061916', 'Marmelade orange amères', '', '', '0', '0', '62', '60', '', '0', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091066076', 'Infusions Hornimans Te Latte', '', '0', '0', '50', '50', '', '1', '1', '0.393700787401575', '', '0');
+VALUES ('8014006000546', 'Bruscetta Gout Pizza,', 'KUSCHETrA AVec tomate et basilic et huile d\'olive vierge extra (3%).  Produit de boulangerie. Ingrédients. farine de blé tendre, semoule de blé dur remoudré, huile d\'olive, huile d\'olive vierge extra 3% tomate en poudre 3%, selo levure, basilic 1%, farine de blé maité, gluten de blé.', '', '11.9', '1.8', '68.8', '3.1', '3.3', '12.6', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091069473', 'InfuSUEÑO', 'Ingredientes: Melisa(45%), ROOIDOS, Flor de lavanda(10%), Pasiflora (5%), Aromas Y Miel (1%).', '0', '0', '0.2', '0.1', '', '0', '0', '0', '', '1');
+VALUES ('8014006000553', 'Bruscetta Huile Olive,', 'Di cui acidi grassi satufi - of Y&quot; .turates- aesàttigte dont acides gras saturés -ë Fettsàuren - de las saturadas Vboidrati - Carbonydrate - Glucides — KG ilenhydrate - Hidratos de Carbono Di cui zuccheri - of which sugars - dont sucres - davon Zucker - de los cuales azécares Fibre - Fibre - Fibres alimentaires - Ballaststoffe — Fibra alimentaria Proteine - Protein - Protéines — EiweiB — Proteinas Sale — Salt — Sel — Salz — Sal', '', '12.3', '1.8', '67.4', '3.2', '2.9', '12.3', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091069497', 'Té SLIM', '', '0', '0', '0.2', '0.1', '', '0', '', '', '', '1');
+VALUES ('8014006008030', '150G Bruschetta Aglio Basilico', 'farine de blé tendre, semoule de blé dur remoudré, huile d\'olive, huile d\'olive vierge extra 3%, sel, levure, ail 1%, basilic 1%, farine Re blé malté, gluten de blé. Contient gluten. Peut contenir traces de graines de sésame et de lait.', '', '12.3', '1.8', '67.4', '3.2', '3.1', '12.3', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091070080', 'Figura', 'Thé vert (86,5 %) Arômes Morceau de melon (2 %) Fucus (2 %) Feuilles d\'artichaut (2 %)', '0', '0', '0.2', '0.1', '0', '0', '0', '0', '', '1');
+VALUES ('8014006008047', 'Bruschetta avec romarin et huile d\'olive', '', '', '12.3', '1.8', '67.5', '3.2', '2.9', '12.2', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091103320', 'Manzanilla dulce en bolsitas', 'Manzanilla (100% Flor).', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014006008054', 'Pangrelli Huile Olive,', 'farine de blé tendre, huile d\'olive 8%, huile d\'olive vierge extra, se/iodè 2%, levure de bière, farine de céréalées maltées (blé), farine de maïs. Peut contenir des traces des graines de sesame. Conserver dans un endroit frais et sec, Da consumarsi preferibilmente entro: vedi retro della confezione, Meilleur avant: voir l\'arrière du peloton. I Ili I , I I I II i', '', '10.7', '1.5', '0', '0', '', '12.5', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091103344', 'Poleo Menta', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014037001888', 'Yo Yo Cioccolato GR. 210', '', '', '12', '4.1', '60', '36', '', '6.3', '0.38', '0.149606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091103634', 'Infusión frutal de frambuesa y rooibos en bolsitas', 'Escaramujo, rooibos (30%), hibisco (24%), aromas, trozos de frambuesa (2,5%)', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014037002366', 'Girella', 'farine de blé, sucre, eau, oeufs, sirop de glucose-fructose, huile de palme, matières grasses végétales (palme, coco, palmiste), dextrose, cacao maigre en poudre, cacao en poudre, lait écrémé en poudre, émulsifiant : mono et diglycérides d\'acides gras, esters polyglycériques d\'acides gras, lécithine de soja, alcool, pâte de noisette, poudre à lever : diphosphate disodique, bicarbonate de sodium, phosphate monocalcique, sel, conservateur : acide sorbique, arômes', '', '12', '6.4', '56', '37', '0', '5.8', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091104037', 'Natreen Clã¡sico Edulcorante Líquido', '', '0', '0', '0.2', '0.2', '', '0', '3.4', '1.33858267716535', '', '0');
+VALUES ('8014037005725', 'Girella', '800-522922 grassivegetali (cocco, palmistii disodico carbonato acidb disodio•fisfatoàd Pub contenere frutta a guscio.to fontidilcalore. PRODOTTO FABBRICATO INITALIA•', '', '12', '6.4', '56', '37', '', '5.8', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091104464', 'Infusueños Infusión De Pasiflora Lavanda y Miel Hornimans', '', '0', '0', '0.2', '0.1', '', '0', '', '', '', '1');
+VALUES ('8014037008009', 'Buondi Motta, 6PK 198G', '', '', '13', '5.9', '56', '24', '', '8.3', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091104488', 'infuDREN', '', '0', '0', '0.2', '0.1', '', '0', '', '', '', '1');
+VALUES ('8014111110253', 'Condimento al peperoncino', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091104518', 'Hornimans - Bolsitas Té Verde, Guaraná Y Pina Me Funciona 20 X', '', '0', '0', '0.1', '0.1', '', '0', '', '', '', '1');
+VALUES ('8014111300227', 'Olio extravergine di oliva', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091104921', 'Edulcorante en comprimidos a base de estevia', 'Agente de carga: carbonato de sodio (E-500i), edulcorante: glucósidos de esteviol (E-960), corrector de acidez: citrato de sodio (E-331), L-leucina (E-641).  ', '0', '0', '0', '0', '', '2.3', '44.45', '17.5', '', '0');
+VALUES ('8014111480028', 'خل بلسمي', 'خل بلسمي', 'https://static.openfoodfacts.org/images/products/801/411/148/0028/front_en.13.400.jpg', '0', '0', '15', '14.1', '', '1', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091107304', 'cafe espresso ristreto larome', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014190002777', 'Die Frische Suppe, Minestrone', 'Minestrone di verdure e legumi - Ingredienti: verdure 48% (ortagal o oroporzione variabile: patate, carote, sedano, verza, - zucchine, porri, cipotle), acqua, legumi 6% (piselli, facje ooricr-ti) olio extravergine di Oliva, sale, piante aromatiche. Può contenere tracce di cereali contenenti glutine, frutta a guscio, latte, soia e uova.', '', '0.5', '0.1', '4.8', '0.5', '0.9', '1.6', '0.52', '0.204724409448819', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091108233', 'Natreen stevia', '', '0', '0', '98', '5.5', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8014190002784', 'zuppa ortolana', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091108905', 'Té Chai con especias', 'Té, canela (19%), cardamomo (10%), jengibre, aromas, clavo, achicoria, anís, pimienta.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014190002791', 'Dimmidisi\' Zuppa Toscana GR. 620', 'Ingrédients : Eau, légumineuses 22% ( lentilles, haricots verts, haricots rouges, flageolets), légumes 13% ( carotte choux) céréales 7% huile d’olive, sel. Traces possible de fruits à coque de soja et d’œuf', '', '2.7', '0.4', '11', '0.5', '1', '3.7', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091170049', 'Café molido Gran Aroma Natural', 'Café molido de tueste natural.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014190012400', 'Crema de espárragos fresca', 'Agua, patata, espárrago 22%, jugo de soja (agua, semilla de soja libre de OGM, sal), aceite de oliva, puerro, sal, azúcar, aromas.', 'https://static.openfoodfacts.org/images/products/801/419/001/2400/front.6.400.jpg', '2', '0.36', '6.3', '0.6', '', '0.6', '0.508', '0.2', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410091180048', 'Marcilla Café Molido Gran Aroma Mezcla', '', '12', '5.2', '16', '0.5', '', '17', '0.02', '0.0078740157480315', '', '1');
+VALUES ('8014190012479', 'Vichyssoise fresca', 'Patata 50%, agua, puerro 6%, jugo de soja (agua, semilla de soja libre de OGM, sal), aceite de oliva virgen extra, aceite de oliva, sal, nuez moscada.', 'https://static.openfoodfacts.org/images/products/801/419/001/2479/front.6.400.jpg', '1', '0.16', '6.3', '0.1', '', '1.2', '0.719582', '0.2833', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092010139', 'Habas congeladas &quot;Findus&quot;', 'Habas babys.', '0.6', '0.1', '10.3', '1.2', '6.5', '7.9', '0.0254', '0.01', '', '1');
+VALUES ('8014190012509', 'Crema calabaza', 'Agua, calabaza 24%, zanahoria 17%, patata, jugo de soja (agua, semilla de soja libre de OGM, sal), puerro, aceite de oliva, azúcar, sal, aroma.', 'https://static.openfoodfacts.org/images/products/801/419/001/2509/front.6.400.jpg', '2.6', '0.4', '5.4', '2', '', '0.4', '0.32', '0.125984251968504', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092016759', 'Espinacas al ajillo', 'Espinacas (90%), aceite de girasol, ajo, sal.', '4.2', '0.5', '5.1', '0.7', '1', '2.7', '0.28', '0.110236220472441', '', '1');
+VALUES ('8014190013155', 'Farro & Fantasia di sapori Freschi', '', '', '4.9', '0.8', '16', '0.8', '', '4.7', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092017640', 'Menestra de la huerta congelada', 'Judía verde plana, guisante, zanahoria baby, cardo 9%, champiñón cultivado 9% (Agaricus bisporus), alcachofa 8%, espárrago blanco 7,5%.  ', '0.2', '0', '5.3', '1.9', '3.4', '2.9', '0.127', '0.05', '', '1');
+VALUES ('8014190014053', 'Crema de verduras', 'verdura 49% (verduras en proporción variable: patata, zanahoria, calabacín, puerro, judía, acelga, berza, espinaca), agua, guisante, aceite de oliva virgen extra, aceite de girasol, sal.', '', '1', '0.19', '6', '0.6', '', '0.7', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092017916', 'Menestra tradicional', 'Judía verde plana, guisantes, zanahoria, salsa 13% [agua, ajo 9,5%, aceite de oliva 6%, almidón de arroz, caldo vegetal (sal, dextrosa, zanahoria en polvo, sirope de glucosa, extractos (de especias, hortalizas y hierbas aromáticas)), sal], champiñón cultivado (Agaricus bisporus), coliflor, alcachofa.', '1', '0.1', '4.8', '1.9', '2.9', '2.2', '0.18', '0.0708661417322835', '', '1');
+VALUES ('8014190014404', 'il mini berger fresco', '', '', '16.3', '2.2', '0.5', '0.5', '', '14.3', '1.22', '0.480314960629921', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092040211', 'Espinacas cortadas congeladas &quot;Findus&quot;', 'Espinacas cortadas.', '0.9', '0.2', '1.1', '0.5', '3.7', '4', '0.254', '0.1', '', '1');
+VALUES ('8014190015104', 'Iceberg salata', 'Iceberg salata', '', '0.5', '0.1', '3', '2', '1.2', '0.9', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092050005', 'Guisantes Extrafinos', 'Petits pois.', '0.9', '0.2', '5.4', '2.9', '4.5', '5', '0.0127', '0.005', '', '1');
+VALUES ('8014193004082', 'Pesto al basilico', '', '', '66', '7.8', '9.2', '2', '', '5.9', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092051132', 'Coliflor troceada congelada &quot;Findus&quot;', 'Coliflor.', '0.5', '0.1', '2.1', '2.1', '2.3', '1.8', '0.0508', '0.02', '', '1');
+VALUES ('8014196260010', 'Sale Marino', '', '', '0', '0', '0', '0', '', '0', '100', '39.3700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092055857', 'Judías verdes planas troceadas congeladas &quot;Findus&quot;', 'Judías verdes planas.', '0', '0', '5', '0', '4.1', '3', '0.0254', '0.01', '', '1');
+VALUES ('8014207000451', 'Pasta all\'uovo - Luciana Mosconi', 'semola di grano duro, uova fresche 28%', 'https://static.openfoodfacts.org/images/products/801/420/700/0451/front.10.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092055864', 'Judías verdes redondas troceadas congeladas &quot;Findus&quot;', 'Judías verdes troceadas.', '0.2', '0', '3.5', '1.2', '3', '1.5', '0', '0', '', '1');
+VALUES ('8014207001342', 'Pasta all\'uovo', '• Essiccazlone lentissirno dl o[tre Semola integrate di grano duror uova fresche 28%. \'ontiene GLUTINE, IJOi, Who[erneal semolina of durum wheat, iresh eggs 28%, Contains GLUTEN, EGGS Dichtaraztone nutrlztonaLe valorl Nutrttton decLaratton medi I', '', '4.1', '0.97', '70.59', '2.6', '3.6', '13.82', '0.26', '0.102362204724409', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092090131', 'Cardo congelado &quot;Findus&quot;', 'Cardo.', '0.1', '0', '3.6', '0', '1.7', '0.8', '0.4572', '0.18', '', '1');
+VALUES ('8014208911039', 'Pommes de terre', '', '', '1', '0', '17', '0.4', '', '2.1', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092100083', 'Findus Noodles Con Verduras Y Pollo', 'Ingredientes Pasta cocida 35,3% (agua, harina de triso duro), pechuga de potlo asada 12% (pechuga de pollo, agua, sal, azücar, estabilizantes: E451 y E407), pimiento rojo, espinaca, zanahoria amarilla, brécoli, brotes de judia mungo, seta shiitake (Lentinula edodes), salsa de soja deshidratada trigo, sal), azücar, especias, aceite de girasol, extracto de levadura, sal.', '0.8', '0.2', '14', '2.2', '1.8', '5.4', '1.15', '0.452755905511811', '', '0');
+VALUES ('8014215000986', 'L\'Italica', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092100144', 'Pastel de Carne', '', '9.2', '3.5', '9.5', '2.7', '', '6.5', '1', '0.393700787401575', '', '1');
+VALUES ('8014215020038', 'Alisea', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092100212', 'La cocinera mini masas de hojaldre', '', '22', '11', '40', '0.2', '', '5.6', '0.78', '0.307086614173228', '', '1');
+VALUES ('8014215020267', 'acqua naturale', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092100335', 'Filets de pescado gratinado', '', '11', '2.4', '11', '1.4', '', '11', '1.1', '0.433070866141732', '', '0');
+VALUES ('8014215030822', 'Praccohia', '', 'https://static.openfoodfacts.org/images/products/801/421/503/0822/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092100748', 'Garbanzos con espinacas', 'Garbanzo cocido 62%, espinaca 38%.', '2.3', '0.2', '7.2', '1.1', '11.6', '7.4', '0.2794', '0.11', '', '1');
+VALUES ('8014216043807', 'TOURTEL TWIST', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092103473', 'Brócoli troceado congelado &quot;Findus&quot;', 'Brócoli.', '0.3', '0.1', '2.4', '1.5', '3', '3.1', '0.0508', '0.02', '', '1');
+VALUES ('8014259000102', 'Haricot blanc', '', '', '0.2', '0', '7.5', '0', '', '4', '0.43', '0.169291338582677', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092103497', 'Espinacas en hojas congeladas &quot;Findus&quot;', 'Espinacas en hojas.', '0.9', '0.2', '1.1', '0.5', '3.7', '4', '0.254', '0.1', '', '1');
+VALUES ('8014259753718', 'Sunflower oil', '', '', '10', '10', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092106528', 'Espárragos verdes congelados &quot;Findus&quot;', 'Espárragos verdes', '0.2', '', '2.2', '', '', '3.1', '', '', '', '1');
+VALUES ('8014294301073', 'Fourrés tomate et mozzarella', '', 'https://static.openfoodfacts.org/images/products/801/429/430/1073/front.3.400.jpg', '6.5', '4', '32', '8.4', '', '10', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092106542', 'Setas con ajo y perejil', 'Champiñón cultivado (Agaricus bisporus), seta shiitake cultivada (Lentinula edodes), seta de ostra cultivada (Pleurotus ostreatus), seta nameko cultivada (Pholiota nameko), ajo, perejil, sal, aroma natural, aceite de girasol. ', '0.4', '0.1', '4.6', '0.9', '2', '2.1', '0.27', '0.106299212598425', '', '1');
+VALUES ('8014294301912', 'Organic Roasted Vegetable Pizza', 'Organic wheat flour, organic mozzarella cheese 12.5% (organic milk, salt, rennet, starter culture), organic tomato puree, water, organic cheese sauce 4.5% (organic cream, water, organic fontal cheese (organic milk, salt, rennet), organic tapioca starch, s', '', '8.82', '3.68', '26.47', '3.68', '1.5', '8.09', '1.1684', '0.46', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092126120', 'Ajo troceado congelado &quot;Findus&quot;', 'Ajo y aceite de girasol (máx. 5%).', '2', '0.2', '2.4', '1.1', '3.2', '4.4', '0.0254', '0.01', '', '1');
+VALUES ('8014294302216', 'Organic Arugula Pizza', '', 'https://static.openfoodfacts.org/images/products/801/429/430/2216/front_en.3.400.jpg', '11.5', '3.38', '28.4', '2.03', '1.35', '8.78', '1.53', '0.601', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092127349', 'Patatas panadera congeladas', 'Patata (65%), cebolla, aceite de girasol, agua, perejil, sal, almidón modificado de patata.  ', '7.4', '0.7', '14.4', '1.5', '3.5', '2.4', '0.508', '0.2', '', '1');
+VALUES ('8014294302254', 'Pizza vegetariana bio', 'Farine de BLÉ*, Eau, Purée de tomate*, Mozzarella* 1 2% (LAIT sel, présure microbienne, ferments lactiques), Sauce au Fromage* 4,5% (CRÈME FRAICHE*, eau, fromage Fontal* 15% (LAIT pasteurisé*, sel, présure microbienne), amidon de tapioca*, sel, agent stabilisant : gomme xanthane), Épinards* 4,5%, Huile de Graines de Tournesol*, Brocolis* 3,5%, Courgettes* 3,5%, Poivrons rouges* 2%, Poivrons jaunes* 2%, Huile d\'Olive vierge extra*, Sel, Fromage dur* (LAIT pasteurisé*, sel, présure microbienne), Semoule de BLÉ dur*, Levure mère* (farine de BLÉ*, eau), Levure, Origan*, Basilic*. * ingrédient biologique PEUT CONTENIR DES TRACES DE : ŒUFS, MOUTARDE, SOJA, POISSONS, MOLLUSQUES, CRUSTACÉS. PRÉPARATION: Sortir ta pizza de son emballage et la laisser décongeler à température ambiante pendant 10 minutes environ. Entre-temps préchauffer le four (traditionnel à 200 OC/ventilé à 180 oc). Cuire sur la grille à mi-hauteur du four pendant 7-8 minutes environ. Les temps de cuisson sont indicatifs: la pizza est cuite quand le fromage est complètement fondu. Micro-ondes: Non recommandé, à -1 80C. À consommer après cuisson et de CONSERVATION : conserver le produit congele préférence avant : voir sur le côté de la boîte. Ne pas recongeler le produit une fois décongelé. DA - OKOLOGISK pizza med ostesalsa, mozzarella og grontsager. Frossen. INGREDIENSER: hvedeMEL*, vand, Tomatpure*, mozzarella* 12% (pasteuriseret M?LK*, salt, mikrobiel ostelobe, melkesyrebakterier), ostesaisa* 4,5% (FLODE*, vand, Fontal-ost* 15% (pasteuriseret M?LK*, salt, mikrobiel ostelobe), tapiokastivelse*, salt, stabiliseringsmiddel: xanthan gummi), spinat* 4,5%, solsikkeolie*, broccoii* 3,5%, courgetter* 3,5%, rod peberfrugt* 2%, gul peberfrugt* 2%, ekstra jomfru otivenolie*, salt, fastost* (pasteuriseret M?LK*, sait, mikrobiel ostelobe), DURUM HVEDEmel*, surdej* (HVEDEmel*, vand), ger, oregano*, basilikum*. *okologisk ingrediens KAN INDEHOLDE SPOR AF\'. ?G, SENNEP, SOJA, HSK, BLODDYR, SKALDYR.', '', '9', '3.6', '26', '4', '1.8', '8.1', '1.15', '0.452755905511811', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092131988', 'Espinacas con pasas y piñones', 'Espinacas (78%), cebolla frita (cebolla y aceite de girasol), aceite de girasol, uvas pasas (4%), piñones (1,5%), ajo, sal.  ', '5.8', '0.6', '7.9', '4.1', '1.4', '2.8', '0.15', '0.0590551181102362', '', '1');
+VALUES ('8014294302261', 'Pizza 3 fromages', 'Farine de BLÉ*, Eau, Mozzarella* 16% (LAIT* pasteurisé, sel, présure microbienne, ferments lactiques), Purée de tomate*, Huile de Tournesol*, Fromage Provolone* 4% (LAIT pasteurisé*, sel, présure microbienne), Parmigiano Reggiano* 2,5% (LAIT* , sel, présure animale), Huile d\'Olive vierge extra*, Sel, Semoule de BLÉ dur*, Levure mère* (farine de BLÉ*, eau), Levure, Basilic*, Origan*. * ingrédient biologique', '', '9.6', '3.3', '31', '2.6', '2', '9.4', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092137843', 'Menestra de verduras', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014294302278', 'Bio Margherita Pizza', 'Farine de BLÉ*, Mozzarella* 20,5% (LAIT pasteurisé*, sel, présure microbienne, ferments lactiques), Eau, Purée de tomate*, Tomates assaisonnées* 6% (tomates*, huile de graines de tournesol*, sel, basilic*, origan*), Huile de Graines de Tournesol*, Fromage à pâte dure* 3% (LAIT pasteurisé*, sel, présure microbienne), Huile d\'Olive vierge extra*, Sel, Semoule de BLÉ dur*, Levure mère* (farine de BLÉ*, eau), Levure, Basilic* , Origan*. * ingrédient biologique', '', '11', '4.3', '26', '2.1', '2.4', '11', '1.42', '0.559055118110236', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092137959', 'Sushi', '', '5.1', '1.2', '24', '6.6', '1.2', '5.3', '0.6', '0.236220472440945', '', '1');
+VALUES ('8014294302285', 'Pizza Rucola & Pomodorini', '', '', '8.5', '3.3', '27', '6.3', '', '9.1', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092140553', 'Salteado de verduras congelado', 'Judía verde, zanahoria, judía crema, berenjena, cebolla, aceite de girasol.  ', '4.3', '0.7', '6.7', '3.9', '2.9', '1.4', '0.0254', '0.01', '', '1');
+VALUES ('8014311100313', 'La campofilone', '', '', '4.5', '1.4', '66', '2.5', '', '16', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092140638', 'Judías verdes planas troceadas congeladas &quot;Castillo de Marcilla&quot;', 'Judías verdes planas.', '0.1', '0', '4.7', '2.1', '4.1', '1.7', '0.0254', '0.01', '', '1');
+VALUES ('8014311100368', 'Pappardelle Pasta Campofi', '', '', '4.5', '1.4', '66', '2.5', '', '15', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092140690', 'Menestra congelada', 'Zanahoria, guisante, judía verde, coliflor; habas.  ', '0', '0', '5.4', '2.8', '3.4', '2.4', '0.19', '0.0748031496062992', '', '1');
+VALUES ('8014311100375', 'Mustekalapasta Linguine', '', '', '4.47', '1.4', '66', '2.8', '', '16', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092141567', 'Arroz mediterráneo', 'Arroz cocido (aqua y arroz), cebolla, calabacín, berenjena, tomate, pimiento rojo, pimiento amarillo, aceite de oliva, sal, albahaca, ajo, azúcar, almidón modifîcado, orégano, extracto de levadura.', '2.6', '0.3', '24.2', '1.9', '1.7', '2.9', '1.016', '0.4', '', '0');
+VALUES ('8014311100382', 'Fettuccine al funghi', '', '', '4.5', '1.4', '66', '2.5', '', '15', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092142090', 'Speed Pocket De Pernil, Formatge i Tomàquet Findus', 'por100 g/ pour 100 Informaciôn nutricional / Informaçâo nutricional /', '9.3', '4.2', '25', '3.1', '2.7', '11', '1.3', '0.511811023622047', '', '0');
+VALUES ('8014336000810', 'Passata', '', '', '0.1', '0.1', '2.5', '2.5', '', '1.2', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092142403', 'Guisantes', 'Ingredientes Guisantes, aceite de Oliva sal.', '0.5', '0.2', '14', '5', '4.5', '5.2', '0.3', '0.118110236220472', '', '1');
+VALUES ('8014347002261', 'Crema Di Balsamico Bianco, Auch Für Dessert, Il Torrione', 'moût de raisin concentré, assaisonnement blanc 20% (vinaigre de vin blanc, moût de raisin concentré), amidon modifié. Contient des sulfites.', '', '0', '0', '56.4', '52.7', '', '0', '0.06', '0.0236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092142847', 'Mango y piña congelados', 'Mango (50%) y piña (50%).  ', '0', '0', '12', '11', '1.6', '0.6', '0', '0', '', '1');
+VALUES ('8014347002773', 'Balsamic Cream White Truffle Carandini', '', '', '0', '0', '64.9', '48.3', '', '2', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092143042', 'Express Spaghetti Boloñesa', 'Pâte fraîche aux _oeufs_ 51% (semoule de _blé_, _oeufs_ 12%, eau, sel, huile de tournesol), sauce bolognaise 49% (tomate, viande de boeuf, eau, huile de tournesol, sel, oignon, huile de palme, farine de _blé_, sucre, vin rouge, arôme de veau, ail, poivre noir, laurier, thym).', '3.9', '1.2', '18', '2.8', '0.9', '5', '0.8', '0.31496062992126', '', '1');
+VALUES ('8014347005125', 'Vinaigre Balsamique', 'jus de raisin concentré, Aceto Balsamico Di Modena IGP 20% [vinaigre de vin (vin, eau, anti-oxydants : Sulfites), moût de raisin concentré, colorant E150d (contient des sulfites)] amidon modifié.', '', '0', '0', '64.9', '48.3', '', '0', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410092143080', 'Findus Arroz Con Verduras Y Salsa De Soja', '', '', '0.3', '', '1.9', '0.9', '2.1', '0.9', '0.354330708661417', '', '1');
+VALUES ('8014347005149', 'Condimento bianco', '', '', '0', '0', '22.6', '14', '', '0.2', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095000809', 'HELIOS TOMATE FRITE BIOLOGIQUE HELIOS POIDS NET 300G', '', '4', '0', '10', '9', '', '1', '1', '0.393700787401575', '', '1');
+VALUES ('8014347010228', 'Crema balsamico', '', '', '0', '0', '64.9', '48.3', '', '0', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095001097', 'Mermelada de kiwi &quot;Helios&quot;', 'Kiwi, azúcar, espesante: pectina (E-440) y acidulante: ácido cítrico (E-330). . Preparado con 60 g de fruta por cada 100 g. Contenido total en azúcares: 44 por 100 g.', '0', '0', '44', '42.2', '1.8', '0.7', '0', '0', '', '0');
+VALUES ('8014347101711', 'Crème à base de vinaigre balsamique de Modène', '', '', '0', '0', '64.9', '48.3', '', '2', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095001752', 'Mermelada de Melocoton', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014347104675', 'Crème de Vinaigre balsamic de moden', '', '', '0', '0', '65', '48', '', '2', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095001820', 'Mermelada Extra De Fresa Helios', 'fresa azúcar espesante pectina acidulante acido cítrico', '0', '0', '44', '42.7', '1.3', '0.5', '0', '0', '', '0');
+VALUES ('8014356002436', 'Fromage vegetal', 'SPÉCIALITÉ ALIMENTAIRE ET : Eau, (huile de coco), Amidons modifiés, Stabilisants (carraghénane, phosphate de calcium, fibre d\'agrume, graines de caroube), Sel, Arôme, Cobant (bêta-carotène), Consewateur (acide sorbique), Conserver au réfrigérateur entre +30 C et +60 C. Ne pas percer l\'emballage. À consommer avant.te: voir la date estampillée.', '', '25', '23', '18', '0', '2', '0.5', '0.93', '0.366141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095001882', 'Mermelada de Frambuesa', 'Ciruela, azúcar, ácido cítrico (E-330), pectina (E-440), especias, caramelo (E150a). ', '0', '0', '44', '39.8', '2.2', '0.5', '0.025', '0.00984251968503937', '', '0');
+VALUES ('8014396000393', 'Schweppes Tonic 1 l, 6 Bouteilles', '', '', '0', '0', '8.9', '8.9', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095001936', 'Helios Blackberry Jam', 'Mûres, sucre, pectine, acide citrique', '0', '0', '44', '42.1', '1.9', '0.5', '0', '0', '', '0');
+VALUES ('8014396000423', 'Oasis Tropical 1.5L', 'acqua minerale naturalea 0%), succhi di frutta da concentrqo 12% (arancia 7%, limone 3%, ananas 1 9%, maracu•a 0,1%), zucchero, acidificante: aci o citrico, aromi, antiossidante: acido ascorbico, colorante: El 60e.', '', '0.1', '0.1', '10.2', '9.9', '', '0.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095001967', 'Helios Blueberry Jam Extra Preserve', '', '0', '0', '44', '42.8', '', '0.5', '', '', '', '0');
+VALUES ('8014396000430', 'Oasis Orange 1.5L', '', '', '0', '0', '9.8', '9.7', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095002063', 'Confiture De Pomme 280g', '', '0', '0', '6.3', '5', '', '0.5', '', '', '', '1');
+VALUES ('8014396000690', 'Oasis Vitalise Multifruit', 'Thé vert 60% menthe 30% arômes naturels de menthe.', '', '0', '0', '9.7', '9.6', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095002162', 'Cereza negra', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014396000867', 'Oasis Arancia e Carota Pet ML. 1500', '', '', '0', '0', '9.5', '9.4', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095002858', 'Mermelada de fresa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014396000942', 'Scheppes Limone', 'Acqua, succhi di fruti da concentrato 12% (limone 11%, pompelmo 1%), zucchero, anidride carbonica, aroma naturale limone con altri aromi naturali, acidifiante: acido citrico, correttore di acidità: sodio citrato, conservante: potassio sorbato.', '', '0', '0', '12.1', '11.4', '', '0.1', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095003534', 'Mermelada de melocotón', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014396001024', 'Schweppes-pompelmo Rosa Pet ML. 1000', '', '', '0', '0', '10', '10', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095004029', 'Picos de crema de fresa', 'Fresa, azúcar, jarabe de glucosa y fructosa, espesantes: pectina (E-440) y goma de garrofín (E-410); acidulante: ácido cítrico (E-330) y conservadores: benzoato sódico (E-211) y sorbato de potasio (E-202); ácido ascórbico (E-300) (vitamina C). Elaborado con 50 g de fruta por 100 g. Contenido en azúcares: 64 g por 100 g.', '0', '0', '64', '62.9', '1.1', '0.4', '0', '0', '', '0');
+VALUES ('8014396001277', 'Oasis Arancia Rossa', 'Senza Glutine Bibita analcolica al gusto diarancia tossa CINGREDI minerale naturale fl\'arancia 12,5% da concentrato (arancia 12%, succo d\'arancia ross 0,5%), zuccher0/ ocidificonte: ac o citri(0/ aromi, stabi)izzante: El 450, antiossidante: acido ascorbico, sale, colprante naturale cocciniglia. LOTTO Dl PRODUZIONE E DA CONSUMARSI PREFERIBILMENTE ENTRO IL: VEDERE INDICAZIONI TAPPo E/o BOTTIGLIA. in luogo asciutto e PUIit0 a/ riporo do\'la luce solare e da fonti di colore. Dopol\'apertura il prodotto si conserva in frigo solo per 2-3 giorni.', '', '0.1', '0', '10.1', '10', '0', '0.1', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095004043', 'Picos de crema de membrillo', 'Membrillo, azúcar, jarabe de glucosa y fructosa, espesantes: pectina (E-440) y goma de garrofín (E-410); acidulante: ácido cítrico (E-330) y conservadores: benzoato sódico (E-211) y sorbato de potasio (E-202); ácido ascórbico (E-300) (vitamina C). Elaborado con 50 g de fruta por 100 g. Contenido en azúcares: 64 g por 100 g.', '0', '0', '64', '61', '3', '0.4', '0', '0', '', '0');
+VALUES ('8014396001390', 'Oasis Orange', '', '', '', '0', '', '10', '0', '0.1', '0.0299999999999999', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095004050', 'Picos de crema de melocotón', 'Melocotón, azúcar, jarabe de glucosa y fructosa, espesantes: pectina (E-440) y goma de garrofín (E-410); acidulante: ácido cítrico (E-330); conservadores: benzoato sódico (E-211) y sorbato de potasio (E-202); ácido ascórbico (E-300) (vitamina C). Elaborado con 50 g de fruta por 100 g. Contenido en azúcares: 64 g por 100 g.', '0', '0', '64', '63.3', '0.7', '0.4', '0', '0', '', '0');
+VALUES ('8014396001475', 'Schweppes-agrumi Pet ML. 1000', 'Bibita analcolica gassata al gusto dtagrumi con zuccheroa Ingredienti: acqua, zucihero, S succo d\'arancia (2%) da concentratot anidride carbonica, acidificante: acido citrico, — conservante: potassio sorbato, aromi naturali di agrumi (arancia, pompelmo, limetta e -mandarino) con altri aromi naturali, stabilizzanti (E1450, E445), antiossidante: acido ascorbico. LOTTO Dl PRODUZIONE E DA CONSUMARSI PREFERIBILMENTE ENTRO LA FINE: VEDERE INDICAZIONI SUL TAPPO 0 SUL COLLO BOTTIGLIA. Conservare in luogo asciutto e pulito, al riparo dalla luce solare e da fonti di calore. Recipiente in pressione, aprire con cautela.', '', '0', '0', '10.7', '10.6', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095004104', 'Lemon curd', '', '18', '11.8', '46', '46', '', '0.93', '0.04', '0.015748031496063', '', '0');
+VALUES ('8014396001697', 'Tonic', '', 'https://static.openfoodfacts.org/images/products/801/439/600/1697/front.3.400.jpg', '0', '0', '8.9', '8.9', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095004210', 'Dulce de membrillo ecológico', 'Membrillo (ecológico), azúcar (ecológico), acidulante: ácido cítrico. Preparado con 50 g de membrillo por 100 g.', '0', '0', '65', '61.8', '3.2', '0.5', '0', '0', '', '0');
+VALUES ('8014396001819', 'Oasis orange carotte', '', '', '0', '0', '9.5', '9.4', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095007006', 'Helios Tomate Frite', 'TOMATE. OIGNON, HUILE TOURNESOL, SUCRE, SIROP DE GLUCOSE ET  FRUCTOSE, AMIDON ET ÉPICES', '3.3', '0', '19', '8', '0.7', '0.4', '1.5', '0.590551181102362', '', '0');
+VALUES ('8014396002311', 'Oasis ananas', 'ANANAS Senza Glutine BIBITA ANALCOLICA AL SUCCO D\'ANANAS Ingredienti: acqua minerale naturale (80%), d\'ananas da concentrato (12%), zucchero, acidificante: acido citrico stabilizzante: E1450, aromi, antiossidonte: aci o ascorbico, colorante: LOTTO Dl PRODUZIONE E DA CONSUMARSI PREFERIBILMENTE ENTRO VEDERE INDICAZIONI TAPPO E/O BOTTIGLIA. Conservare aS(iUtt0 polito, al riparo dalla luce solare e da fonti di (clore. Dopo l\'apertura il prod6tto si conserva in frigo solo per 2-3 giorni. DICHIARAZIONE per per ml 200 ml 367 kJ 43 kcal dl cui rassi saturi', '', '0', '0', '10.3', '10.2', '0', '0.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095007013', 'Tomate Frito', 'Tomate, cebolla, aceite de girasol, azúcar, jarabe de glucosa y fructosa, almidón modificado de maíz, sal, acidulante: ácido cítrico y especias.', '3.3', '0', '14', '10', '1.3', '1', '1.5', '0.590551181102362', '', '0');
+VALUES ('8014396002458', 'Schweppes Limone', 'Acqua, succhi di frutti da concentrato 12% (limone 11%, pompelmo 1%), zucchero, anidritde carbonica, aroma naturale limone con altri aromi naturali,  acidificante: acido citrico, correttore di acidità: sodio citrato, conservante: potassio sorbato', 'https://static.openfoodfacts.org/images/products/801/439/600/2458/front.3.400.jpg', '0', '0', '12.1', '11.4', '0', '0', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095008430', 'Diet Mermelada Extra De Fresa, Erdbeere', '', '0', '0', '17', '4.2', '6.4', '0.5', '0', '0', '', '1');
+VALUES ('8014396002465', 'Schweppes Gusto Agrumi', 'làaanalcolica gassata al gusto d\'agrumi con zucchero. Ingredienti: Illaconcentrato, anidride carbonica, acidificante: acido citrico, conservante: agrumi (aranciat pompelmo, limetta e mandarino) con altri aromi acido ascorbico. LOTTO Dl PRODUZIONE E DA INDICAZIONI SUL TAPPO O SUL al riparo dalla luce solare e da fonti di calore, Recipiente in 100 ml 330 ml *', '', '0', '0', '10.7', '10.6', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095008461', 'Marmelade de pêche', '', '0', '0', '17', '5.4', '', '0.5', '', '', '', '1');
+VALUES ('8014396002519', 'Oasis Multifrutta Vitalise Pet ML. 1500', 'Senza Glutine Bibita analcolica vitaminizzata al succo di frutta • acqua minerale naturale di frutta da concentrati (arantia, mela, pesca, limonet ananas, uva bianca, mango, olbicocca, pera, banana)t zucchero, acidifcante: O(ldo (itrico, vitamine (PP, E, B5, Provitamina A, B6, BI, Bq, H, BI 2), antiossidante: acido ascorbi(0, stabilizzanli Dl PRODUZlONFfDA CONSUMARSI PREFERIBILMENTE INDICAZIONI TAPP0 E/o Conservate in IU0go asciutto e pulito, al riparo dalla luŒ s010Ïe e da fonti di calore. Dopo l\'apertura il prodotto si conserva in frigo solo per 2-3 giorni. DICHIARAZIONE NUTRIZIONALE per ml 200 ml (200ml) 167kJ 334kJ 40 kcal 81 kcal cuiacidigrcssi saturi Og dig tui zuccheti 19,4g 9,6g 19,29 ne Pet 100 ml 2,4 mg', '', '0', '0', '9.7', '9.6', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095010006', 'Sauce napolitaine', '', '3.3', '0', '14', '4', '', '0.5', '15', '5.90551181102362', '', '0');
+VALUES ('8014396002816', 'Schweppes Tonic', '', '', '0', '0', '8.9', '8.9', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095107430', 'Zanahorias en conserva', 'Zanahorias, agua, azúcar, sal.  ', '0', '0', '4', '3.5', '1.8', '0.5', '0.6', '0.236220472440945', '', '1');
+VALUES ('8014396003080', 'San Benedetto Schweppes Cedrata Pet LT 1', '', '', '0', '0', '12.1', '12.1', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095107454', 'Brotes de judía mungo en conserva', 'Brotes de judía mungo, agua, azúcar, sal, acidulante: ácido cítrico (E-330) y antioxidante: ácido ascórbico (E-300).', '0', '0', '2', '1', '1', '1.5', '0.2116582', '0.08333', '', '1');
+VALUES ('8014396003165', 'Schweppes', 'Bibita analcolica gassata al pompelmo con zucchero. \'ent\\•. acqua, succo di pompelmo (12%) da concentrato, zucchero, aniùide carbonxca, acidificante: acido citrico, aromi, conservante: potassio sorbato, antiossidante•. acido ascorbico, stabilizzante: E 1450, colorante: beta carotene. LOTTO Dl \'RODUZIONE E DA CONSUMARSI PREFERIBILMENTE ENTRO LA FINE\'.VEDERE INDICAZIO$II SUL TAPPO O SUL COLLO BOTTtGLlA. Conservare in luogo asciutto e pulito, a\' riparo dalla luce solare e da fonti di calore. Recipiente in pressione, aprire con cautela. DICHIARAZIONE NUTRIZIONALE 100 ml', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095107850', 'Habas en conserva', 'Habas, agua,sal. ', '0', '0', '6', '1', '4.8', '4.5', '0.4', '0.15748031496063', '', '1');
+VALUES ('8014396003271', 'Schweppes Agrumi Zero CL60 Pet', '', '', '0', '0', '0.3', '0.2', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095500736', 'Helios Mermelada Ecológica Albaricoque', 'NUTRICIONAL medes por I oog Valor energé:xo Gra*s de 0,0g Hidratosdecarbono 148,0g de los cœlesAzücares IJ,7g', '0', '0', '48', '46.7', '1.3', '0.5', '0', '0', '', '0');
+VALUES ('8014396003332', 'Schweppes Bitter Lemon LT1', 'Bibita analcolica g\'assata con succo di limone. Ingredienti: acqua, S zucchero, succo ed estratto di limone da concentrato (6%), anidride carbonica, acidificante: acido citrico, aromi naturali, conservante: potassio sorbato, stabilizzanti: E1450, E445, E444, antiossidante: acido ascorbico, aroma: cloridrato di chinino. LOTTO Dl PRODUZIONE E DA CONSUMARSI PREFERIBILMENTE ENTRO IL: VEDERE INDICAZIONI TAPPO E/O BOTTIGLIA. Conservare in luogo asciutto e pulito, al riparo dalla luce solare e da fonti di calore. Recipiente in pressione, aprire con cautela.', '', '0', '0', '10.2', '10', '', '0', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095500743', 'Mermelada de ciruela ecológica &quot;Helios&quot;', 'Ciruela*, azúcar*, espesante: pectina (E-440) y acidulante: ácido cítrico (E-330). (* Ingredientes procedentes de la agricultura ecológica).  Preparado con 55 g de fruta por cada 100 g. Contenido total en azúcares: 48 por 100 g', '0', '0', '48', '46.8', '1.2', '0.5', '0', '0', '', '0');
+VALUES ('8014443049108', 'Sfilacii di carne equine', '', '', '4.71', '1.86', '0.9', '0.9', '', '35.84', '1.761', '0.693307086614173', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095500750', 'Mermelada de fresa ecológica &quot;Helios&quot;', 'Fresa*, azúcar*, espesante: pectina (E-440) y acidulante: ácido cítrico (E-330). (* Ingredientes procedentes de la agricultura ecológica). Preparado con 55 g de fruta por cada 100 g. Contenido total en azúcares: 48 por 100 g', '0', '0', '48', '46.7', '1.3', '0.5', '0', '0', '', '0');
+VALUES ('8014502210494', 'Alberti Olia Extra Verginr Di oliva', '', '', '99.9', '15.5', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095500767', 'Mermelada de naranja amarga ecológica &quot;Helios&quot;', 'Naranja*, azúcar*, espesante: pectina (E-440) y acidulante: ácido cítrico (E-330). (* Ingredientes procedentes de la agricultura ecológica).  Preparado con 40 g de fruta por cada 100 g. Contenido total en azúcares: 58 por 100 g', '0', '0', '58', '', '1.5', '0.5', '0', '0', '', '1');
+VALUES ('8014502210876', 'Pesto rosso con basilico genovese Dop', 'CREMAABASEDI POMODORO E BASIIICO DOP (25%) , mm(xlom (an, olio exraverginediofratoliodismi anacardl, é, forma. diÀdratato (latte, é, mntiene N)ima da uovo) ,Grana Padano DOP contienelivimada del latte, aglio,', '', '29', '4.8', '4.2', '3.3', '', '4.8', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095500880', 'Helios Mel Antigoteig', 'HELIOS MIEL DE FLEURS 400G Mélange de miels provenant de rtJE Miel pasteurisé Le miel pur à tendance à se solidifier, si vous souhaitez le consommer liquide, placez la bouteille dans au bain„marie pendant une minute Conserver dans un endroit frais et sec à temperature ambiante à rabris des rayons du soleil. Sans gluten. Valeurs nutrltlonnelles pour 100q: Valeurs énergétlques 321kcal/1365kJl Protélne 0,3gl Gluclde 80g dont sucres 80gl Lipide O.Og dont acides gras saturés O.0gl Sel O.0g A consommer de préférence avant te : volr bouchon. MEJOR DOSIFICACIÔN ENVASE BOCAABAJO A SOLIDIFICARSE. S', '0', '0', '80', '80', '0', '0.3', '0', '0', '', '0');
+VALUES ('8014502211132', 'Huile d\'olive extra vierge', '', '', '99.9', '15.5', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095501450', 'HELIOS TOMATE FRITE a L\' HUILE D\' OLIVE EXTRA VIERGE (5%) 560G', '', '5', '0', '14', '5', '', '0.5', '1.5', '0.590551181102362', '', '0');
+VALUES ('8014502435767', 'Pâté Di olive', '', '', '39', '5.7', '4', '4', '', '1.4', '2.17', '0.854330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095505564', 'Helios Fig Jam Extra Preserve', '', '0', '0', '44', '42.5', '', '0.5', '', '', '', '0');
+VALUES ('8014512000115', 'Pesto Ligure, Basilikumpesto', 'extra virgin olive oil 67%, jBasilico Genovese DOP&quot; concentrated* 28%/ salt, pine nuts, garlic, wine vinegar. Acidulants: joctic ace, citric ac. *deprived ot water. BASILIKUMPESTO - Zutaten: Natives Olivenôl extra 67%, getrocknetes Basilikum* 28%1 Salz, Pinienkerne, Knoblauch, Weinessig.', '', '67.7', '10.3', '1.5', '1.5', '', '1.2', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095505731', 'Helios Confiture De Lait 350GRS', '', '', '0', '', '57', '0', '7', '0', '0', '', '0');
+VALUES ('8014512000122', 'Pesto Ligure ROI', '', '', '67.7', '10.3', '1.5', '1.5', '', '1.2', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095506219', 'Helios Raspberry Jam S / Free', '', '0', '0', '17', '4.8', '', '0.5', '', '', '', '1');
+VALUES ('8014512000795', 'Olio extra vergine di oliva', '', '', '14', '2', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095506226', 'Helios Mermelada Diet Arandano X 280G []', '161028 INNOVATINCSlNCEIh&gt; sANSSUCRES AJOUTÉS / CONVIENT POUR DIABÉTIQUES AVEC ÉDULCORANTS. ING REDIENTS: MYRTILLE, EAU, FIBRE, EPAISSISSAW PECTINE, ACIDULANT: ACIDE CITRIQUE, AVEC 60g DE POUR I oog. APRÈS OUVERTURE, À CONSERVER AU RÉFRIGÉRATEUR . • DE PRÉFÉRENCE AVANT FI N : VOIR COUVERCLE. FABRIQUÉ EN ESPAGNE. 03 présents 0522970102 20100 47195 Arroyo de la Encomienda (Valladolid) www.heliosesvida.e; DULCES Y CONSERVAS 185kJ/ Olog POIDS NET : 280g [314 8 410095 47', '0', '0', '17', '3.7', '8', '5', '0', '0', '', '1');
+VALUES ('8014512007022', 'Olio Extra Vergine D’Oliva - Cultivar', 'HUILE VIERGE HUILE D\'OLIVE DE CATÉGORIE SUPÉRIEURE DES OLIVES ET PAR', '', '13.7', '2.1', '0', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095506233', 'Mermelada de melocotón ecológica &quot;Helios&quot;', 'Melocotón*, azúcar*, espesante: pectina (E-440) y acidulante: ácido cítrico (E-330). (* Ingredientes procedentes de la agricultura ecológica). Preparado con 55 g de fruta por cada 100 g.', '0', '', '48', '', '', '0.5', '', '', '', '1');
+VALUES ('8014515330189', 'Tomates Pelees', '', '', '', '0.1', '', '2.6', '0', '1.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095506301', 'Mermelada extra de fresa', '', '0', '0', '48', '47', '', '0.5', '0', '0', '', '0');
+VALUES ('8014515330585', 'Passata di Pomodoro', '', '', '0.2', '0', '6.5', '5', '', '1.3', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095506424', 'Mermelada de ciruela ecológica &quot;Auchan&quot;', 'Ciruela*, azúcar*, gelificante: pectina (E-440) y acidulante: ácido cítrico (E-330). (* Ingredientes procedentes de la agricultura ecológica). Preparado con 55 g de fruta por cada 100 g.', '0', '', '48', '', '', '0.5', '', '', '', '1');
+VALUES ('8014519002419', 'Merlot', 'Rotwein Merlot', '', '', '', '', '', '', '', '', '', '12', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410095506455', 'Confiture d\'Oranges amères', '', '0', '0', '58', '58', '', '0.5', '', '', '', '0');
+VALUES ('8014531200039', 'trofiette', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410097500017', 'Mousse de Pimientos', '95% pimientos, 4% aceite de oliva, 1% especias.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014531200565', 'Olio Extravergine di Olivia e limoni', 'huile d\'olive vierge 99%, citron 1%', '', '92', '15', '0', '0', '0', '0', '0', '0', '0', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410097500062', 'Mousse de aceituna', '80% aceitunas, 5% pepinillos, 5% alcaparras, 5% cebollitas, 4,5% aceite de oliva, 0,5% especias', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014531202323', 'Frantoio Sant Agata Pate Rucola E Tonno GR90 Olio Extra Vergine', '', '', '51', '7.6', '0.8', '0.6', '', '8.3', '2.9', '1.14173228346457', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099571442', 'PAN BRIOCHE REBANADAS BELLA EASO', '', '12', '6.2', '55', '12', '', '8.4', '0.68', '0.267716535433071', '', '1');
+VALUES ('8014531203702', 'Gourmet Basilikumpesto', 'Huile d\'olive extro vierge 63% basilic de Gênes IOP 26%, pignons de pin, sel, Pormigiono Reggiano AOP affiné (lait, sel, présure), 011, vinaigre, correcteur d\'acidité: ccide Iodique, acide citrique', '', '63', '8.5', '3.2', '2.2', '', '4.5', '4.2', '1.65354330708661', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099571459', 'La Bella Easo Weikis Chocolate 6 Uds.', '', '15', '6.5', '49', '15', '', '8.1', '0.83', '0.326771653543307', '', '1');
+VALUES ('80145424', 'Oran-Soda l\'aranciata', 'Eau, 12 % de jus d\'orange, sucre, sirop de glucose-sirop, dioxyde de carbone, acidifiant: acide citrique, arômes.', '', '0', '0', '13', '13', '0', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099571824', 'PAN BRIOCHE CHOCOLATE BELLA EASO', '', '13', '7', '57', '15', '', '7.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('80145431', 'Lemonsoda Pet ML. 1500', '', '', '0', '0', '13', '13', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099573576', 'Magdalenas La Bella Easo', '( FR )MADEL INE - Ingré ients: Farines (29%) (blé, seigle, orge, avoine, riz), SUCre, huilé e soja, Oeu liquide pasteurisé (17%), eau, humectants(E422, 420i), poudre à lever (E 450i( E 500ii), émulsifiant (E 471) (blé), stabilisant Ç M 5) etearôme. contenir d', '24', '3.2', '52', '29', '1.7', '4.4', '0.56', '0.220472440944882', '', '0');
+VALUES ('80145455', 'Lemon Soda', '', 'https://static.openfoodfacts.org/images/products/80145455/front.7.400.jpg', '0', '0', '13', '13', '0', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099573637', 'Magdalenes Bella Easo Artesanes', '-PRODUCTO DE PASTELERiA. MAGDALENA. Ingredientes:Harinas(28%)(TRlGO CENTENO, CEBADA, AVENA, arroz), azücar, HUEVO liquido pasteurizado (18%), aceite vegetal (girasol), agua, humectantes (glicerina, jarabe de sorbitol), almidon de maiz, LECHE desnatada en polvo, aromas, gasificantes (E 450i/ E 500i, E 500ii), ernulgente (mono y diglicérido de los écidos grasos) (TRIGO) y sal, Puede de SOJA y avellana', '21', '3.1', '47', '24', '4.1', '5.6', '0.78', '0.307086614173228', '', '1');
+VALUES ('8014599012049', 'Aceto Balsamico Di Modena Igp', 'Mosto cotto*, aceto di vino*. *biologico', '', '0', '0', '49.1', '0', '0', '0.6', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099573675', 'Brioche pepites de chocolat', '', '15', '6.6', '47', '17', '', '8.6', '0.9', '0.354330708661417', '', '1');
+VALUES ('8014599012056', 'Vinaigre Balsamique De Modene Rouge', 'Cooked grape must*, wine vinegar*. Zutaten: Traubenmost*, weinessig*. Ingrédients: Vinaigre de vin*, moût cuit de raisin*. Ingredientes: Mosto de uva cocinado*, vinagre de vino*. *biologico / organic / biologique', '', '0', '0', '49.1', '49.1', '', '0.6', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099573767', 'La Bellacaso Pan De Leche Cereales175g', '', '12', '6.1', '51', '14', '', '9.5', '0.9', '0.354330708661417', '', '1');
+VALUES ('8014599012445', 'Crème de vinaigre balsamique de modène', '', '', '0', '0', '55.3', '50.8', '0.5', '0.8', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099573903', 'Magdalenas Bella Easo', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014599015088', 'Balsamico Bianco ( Klar)', '', '', '0', '0', '49.3', '43.9', '', '0', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099573989', 'La Bellacaso Croissants Cereale240g', 'Conservar en lugar fresco yseco BAKERY DONUTS IBERIA S.A. U Carretera de Sabadell a Mollet, Y n Santa Perpetua de Mogoàà/ Barcelona Atencién al consumidor 902 585 677 De IUfies a viernes de9 a 18h CROISSANTS • Pr0ducto de Pasteleria - IngredienteS: Harinas (4%) (TRIGOI CEBADA, CENTENOI AVENA), agua, grasa vegeçal (palma)pzécar, HUEVO liquido pasteurizado (7,6%), aceite vegetal gluten de TRIGO, masa madre (1%), levadurPt MANTEQIJILLA (0,6%), sal, emuIgenteS (mono y diglicéridos delos grasos, E481/ E 472e)l estabilizante (goma gÙar)j corrector de acidez (âido citrico) y agente de tiatamiento de la harina (écido ascérbico).', '24', '12', '44', '13', '2.7', '7.6', '0.5', '0.196850393700787', '', '1');
+VALUES ('8014599015095', 'Vinaigre Balsamique Superieur Blanc', 'Concentrated grape must*, white wine vinegar*. Ingrédients: Moût de raisin*, vinaigre de vin*, Ingredientes: Mosto concentrado de uva*, vinagre de vino*. *biologico, organic, biologique', '', '0', '0', '49.3', '49.3', '0', '0.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410099574054', 'La Bella Easo Pa De Llet', '(blé, seig!e, avoine Otge), eurma+dèresgraissesethuilevé étales noix de coco, de gliscose.fructose oeu li ui$epasteurise (5 6%) sucre, laitécreméen éroulsifi4?E471 flé), E481 (fié),', '12', '6.1', '51', '14', '2.6', '9.5', '0.93', '0.366141732283465', '', '1');
+VALUES ('8014599015255', 'Vinaigre balsamique', 'Moût cuit de raisin, vinaigre de vin.', '', '0', '0', '49.1', '49.1', '', '0.2', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100000152', 'La Lechera Llet Condensada', 'IR: Ingesta de referencia deun adulto medio (8400 kJ 12000 kcal) vs Catalans, 25-51 pa\'gues de Llobregat (Barcelona) ccndensada. Materia grasa: 8,5%. s: 2034. Ingredjentes: Leche, tapado en el Ablerto conservar 2ntes de 3-4 dias. nte antes del del bote.', '8.5', '4.9', '55', '55', '0', '7.4', '0.2', '0.078740157480315', '', '0');
+VALUES ('8014599015262', 'Balsamico bianco', '', '', '0', '0', '49.3', '49.3', '', '0.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100000169', 'Leche condensada.', '', '8.5', '4.9', '55', '55', '', '7.4', '0.2', '0.078740157480315', '', '0');
+VALUES ('8014601025234', 'Caputo Cuoco Flour - Caputo Farina Tipo &quot;00&quot; Cuoco 5KG', '', '', '1.5', '0.3', '70', '0.01', '', '13', '0.018', '0.00708661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100000220', 'Leche Condensada La Lechera Tubo 9% Materia Grasa', '', '8.5', '4.9', '54.7', '54.7', '', '7.7', '0.26', '0.102362204724409', '', '0');
+VALUES ('8014601026354', 'Caputo Flour 00 Pizza Chef 1KG', 'farine de ble tendre &quot;450 Bestandeils: weichweizenmehl type &quot;405&quot; - fngredientes: harina de trigo blando T-45 Senza aggiunta di additivi ed enzimi. Pub contenere tracte di SQiÀ.G1utine. Without adding additives and enzyrnes Sons ajouter les additifs et enzymes Ohne zugabe von zusatzstoffen und enzymen - Sin anadir aditivos y enzimas It may contain traces of soy, gluten - Peut des traces de soya, gluten Es kann sìuren von soja, gluten Puede trazas de soja, gluten Umidità massima 15,503% Hunidity 15,50 % - Humidite Luftfeuchtigkeit 15,50 - Himedad 15,b0 Conservareinluog itescoeasciutto Storeinacoolanddry-Mag dans unendroitfraisèfset cken?G rentrescoyseÉo Kuhlundtrc centrol utaimpressa di preferibilment Bestbefore.tseede date Aliqxees.xk*dupaquet de preference la datt hdtbar.siehe Oben packung - Cons nir', '', '1.5', '0.3', '70', '1', '3', '13', '0.018', '0.00708661417322835', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100002002', 'La Lechera', '', '8.5', '4.9', '54.7', '54.7', '', '7.7', '0.26', '0.102362204724409', '', '0');
+VALUES ('8014601028747', 'Caputo Wheat Flour 00 (1KG)', 'Ingredientes: Superfine sottwtvat flm.r • tnUedients: farine de ble tendre &quot;45&quot; Bestandeils: weichweizènmehl type\' 405• \'Ingredientes: harina de trigo blando T-4', '', '1', '0.1', '73', '0.01', '0.25', '12', '0.017', '0.00669291338582677', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100002231', 'La Lechera Caramel, Nestle, Caramel', 'Dulce de leche, 97,2% Leche condensada (lec.he, azùcar), agua, establlizante (fosfato disodico). Unavez abierto ei bote, conservar tapado enla nevera, y consumir antes de 2 semanas. Envasado en atmôsfera protectora.', '7.8', '4.5', '53.6', '53.6', '0', '7.2', '0.21', '0.0826771653543307', '', '0');
+VALUES ('8014640950108', 'Le blé cuisiné à la tomate et au basilic', '', '', '5.5', '0.7', '25.6', '2.3', '', '5', '0.76', '0.299212598425197', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100002378', 'Leche desnatada en polvo', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80146643', 'Panna Da Cucina (granarolo), Sahne', '', '', '21', '14', '4', '4', '', '2.6', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100006390', 'Ratatouille', '', '1.8', '0.2', '5', '3.2', '2.2', '1.4', '0.63', '0.248031496062992', '', '1');
+VALUES ('8014678003029', 'Kiwi Hayward', 'kiwi hayward cal 46 cat 2 fr 15 65/70 gr', '', '2', '1', '1', '0', '', '2', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100011363', 'Nesquik Petit', 'Crème (31.2 %), lait entier (28.3 %), fromage frais (10 %), sucre, sirop de glucose-fructose, lait écrémé en poudre, amidon modifié, cacao maigre (1.8 %), correcteur d\'acidité (E331), émulsifiant (E471), sel, arôme vanille, cannelle.', '10.7', '', '25.9', '', '', '4.4', '', '', '', '1');
+VALUES ('80146797', 'Mozzarella', '', '', '20', '13', '1.5', '1.5', '', '22', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100012636', 'Sveltesse', 'Lait écrémé en poudre, carbonate de calcium, - culture de bifidus (B. lactls) et autres ferments lactiques, vitamines E, A, K et D.', '1', '0', '51.9', '0', '0', '35.9', '0', '0', '', '1');
+VALUES ('80147282', 'Berni Original Condiriso (condiriso L\'originale)', '', '', '9.8', '1.2', '3.1', '0.8', '', '0.4', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100012643', 'Nestlé Lait De Croissance Céréales', '', '', '1', '', '5.8', '0.16', '2.3', '0.0699999999999999', '0.0275590551181102', '', '1');
+VALUES ('80147312', 'Joghurt Natur', 'Yaourt', '', '3.5', '2.4', '4.8', '4.8', '0.1', '4', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100012711', 'Lait Écrémé Sveltesse', '', '0.2', '0.1', '10.8', '10.8', '', '7.3', '0.3', '0.118110236220472', '', '1');
+VALUES ('80147374', 'Gelato Vanille', '_Lait_ entier frais* 71%, sucre, sirop de glucose, dextrose, _crème_ fraîche*, extrait de vanille et gousse de vanille de Madagascar 0.35%, émulsifiants : mono- et diglycérides d\'acides gras, stabilisants : farine de graines de caroube, gomme guar, extraits de Carthamus. *Lait sans lactose (&lt;0.1%)', '', '4.1', '2.7', '26', '26', '', '2.8', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100013275', 'Farinetes Nestle 8 Cer. a / Bifidu', '', '1.4', '0.3', '82.8', '26.3', '', '10.1', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8014737503750', 'LA MADONNINA CHIANTI CLASSICO', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100013619', 'Nestlé Papilla Cereales Sin Gluten Con Bífidus', '', '3', '1', '81.5', '17.6', '', '7', '0.125', '0.0492125984251968', '', '1');
+VALUES ('8014737517504', 'LA MADONNINA LA PALAIA 2012 CHIANTI CLASSICO', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100013695', 'Nestlé Papilla 8 Cereales Con Miel y Bífidus', '', '1.9', '0.4', '81.1', '31', '', '9.8', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8014737617501', 'VILLA FRANCHI CHIANTI CLASSICO 2013', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100013756', 'Nestlé junior', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014737727507', 'Santavenere Vino Nobile di Montepulciano', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100016610', 'Tarrito Nestlé Naturnes Jardinera De Ternera', '', '', '0.6', '', '1.7', '1.5', '2.3', '0.038', '0.0149606299212598', '', '1');
+VALUES ('8014737767503', 'Da Sangallo Vino Nobile Di Montepulciano DOCG 2011', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100017556', 'Iogolino Fresa', '_Leche_ (81,5%), azúcar, maltodextrina, puré de fresa (3,5%), almidón modificado de maíz, _nata_, proteínas de _leche_, agua, concentrado de sales minerales _lácteas_, sales minerales (cloruro de magnesio y sulfato de zinc), estabilizante (pectina), correctores de acidez (ácido láctico e hidróxido potásico), fermentos lácteos y aroma de fresa.', '3.4', '2.2', '15.7', '10', '0.5', '3', '0.088', '0.0346456692913386', '', '1');
+VALUES ('8014745013814', 'burratina', '', '', '22', '16', '0.5', '0.5', '', '12', '0.38', '0.149606299212598', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100017563', 'Yogolino Platano', '', '3.4', '2.2', '16', '10.3', '', '3', '0.088', '0.0346456692913386', '', '1');
+VALUES ('8014745013852', 'Burratina', '', '', '12', '9', '0.5', '0.5', '', '13', '0.54', '0.21259842519685', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100020549', 'Nescafé Classic', 'Café soluble.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014745044047', 'Burratina', 'Fromage', '', '18', '12', '1.25', '1.25', '0', '13', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100020556', 'Nescafe', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014770050020', 'Miel de Mille Fleurs', 'Miel de fleurs', '', '0', '0', '', '82', '', '0.2', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100020570', 'Café soluble Classic', '100% café.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80148012', 'Cedrata', '', '', '0', '0', '16.4', '16.4', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100021546', 'Nescafe clàssic descafeinado', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014914001277', 'Yogurt e mirtilli', '', '', '3', '1.8', '28.7', '28.4', '', '3.2', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100022154', 'Eko', '', '0.4', '0.1', '73.7', '5.5', '', '5.7', '0.23', '0.0905511811023622', '', '1');
+VALUES ('8014914001550', 'Lampone sorbet framboise', '', '', '0', '0', '32', '30', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100022178', 'Eko', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014914014321', 'Fior di soja', '', '', '9', '8', '25.3', '23.1', '', '0.7', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100022543', 'Cappucino', 'sucre, lait écrémé en poudre (20,7%), sirop de glucose, préparation de café soluble et café moulu torréfié naturel (13,8%), graisse végétale (huile de coco), lactose, régulateur d\'acidité  (E340), sel, stabilisants : E331, E452', '0.625', '0.51', '5.55', '4.18', '0.35', '0.7', '0.072', '0.0283464566929134', '', '1');
+VALUES ('8014921037238', 'Canestrelli', '', '', '27', '16', '61', '18', '', '6.5', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100024202', 'Nestle', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8014941000014', 'Rustic Crackers', 'Wheat flour, pomace olive oil, salt, rosemary, extra virgin olive oil, brewer\'s yeast, wheat malt.', '', '12.5', '1.79', '67.86', '3.57', '3.6', '10.71', '2.72034', '1.071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100024356', 'Café molido mezcla natural y torrefacto', 'Café y jarabe de glucosa. Café molido tueste natural 70% y torrefacto 30%', '12.7', '2.8', '0.3', '0.3', '43.4', '11.4', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8014941000021', 'Focaccine With Black Olives Rustic Crackers', 'Wheat flour, pomace olive oil, black olives, salt, extra virgin olive oil, brewer\'s yeast, wheat malt, artificial black olives flavour.', '', '12.5', '1.79', '67.86', '3.57', '3.6', '10.71', '2.72034', '1.071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100024950', 'Nescafé Cappuccino Café Soluble Descafeinado 10 Sob X 12,5G', 'ESCA Cappu&c no DeSçafei do Por sobre (12,5g + 150ml agual 10 • . Grasas Saturadas Azücares Sal Ene ia 47 0,9g 0,8g 6,9g 0,1g SOBRES 4% 8% 201. 1% de ta de un adulto SUGERENCtA DE Valor energético por 100g: 1601 kJ | 379 k PRESENTACléN', '4', '1', '8', '3', '3', '2', '2', '0.78740157480315', '', '0');
+VALUES ('8014941000038', 'Focaccine Rustic Crcakers', 'Wheat flour, pomace olive oil, salt, extra virgin olive oil, brewer\'s yeast, wheat malt.', '', '12.5', '1.79', '67.86', '3.57', '3.6', '10.71', '2.72034', '1.071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100024998', 'CAPUCCINO DESCAFEINADO NESCAFE', 'Descafeinado', '6.9', '6.3', '66.9', '55.3', '5.1', '8.7', '0.9', '0.354330708661417', '', '0');
+VALUES ('8014941000069', 'Rustic Crackers', 'Wheat flour, pomace olive oil, tomato, salt, onion, oregano, extra virgin olive oil, brewer\'s yeast, wheat malt.', '', '12.5', '1.79', '67.86', '3.57', '3.6', '10.71', '2.72034', '1.071', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100025131', 'Nesquik', 'Azúcar, cacao desgrasado (21,6%), minerales (carbonato de magnesio, pirofosfato férrico, sulfato de zinc), sal/ vitamin (C/ BI/ D), aceite de girasol/ aromat canela, emulgente (lecitina de _soja_)', '39', '9.3', '53.1', '31.9', '2.2', '3.3', '0.499999999999999', '0.196850393700787', '', '0');
+VALUES ('8014941050118', 'Sfogliette With Garlic & Parsley', 'Wheat flour, pomace olive oil, potato granules, salt, garlic, extra virgin olive oil, parsley, brewer\'s yeast, wheat malt.', '', '14.29', '1.79', '67.86', '3.57', '3.6', '0', '2.63144', '1.036', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100025155', 'Nesquik', '', '3.8', '1.6', '79.2', '75.7', '7.2', '5.1', '0.37', '0.145669291338583', '', '0');
+VALUES ('8014941050125', 'Sfogliette Crackers', 'Wheat flour, pomace olive oil, potato granules, salt, artificial balsamic vinegar flavour, extra virgin olive oil, brewer\'s yeast, wheat malt.', '', '14.29', '1.79', '67.86', '3.57', '3.6', '0', '2.63144', '1.036', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100025438', 'Cacao Nesquik 400 GRS', 'Ingredientes: Azücar, cacao desgrasado (22,1 vitaminas (C, minerales (pirofosfato férrico, sulfato de zinc), aromat canela, sal, girasol, emulgente (lecitina de soja), consumir preferentemente antes del fin de: ver base Conservar en lugar fresco y secoa', '3.8', '3.6', '75.2', '75', '7.2', '4.8', '0.31', '0.122047244094488', '', '0');
+VALUES ('8014941051115', 'Focaccine avec olives noires', 'Farine de _blé_ tendre, huile de grignons d\'olive, olives noires 3,3 %, sel, huile extra vierge d\'olive 0,8 %, levure de bière, malt de _froment_, arôme olives noires.', 'https://static.openfoodfacts.org/images/products/801/494/105/1115/front.4.400.jpg', '12.4', '1.7', '66.9', '2.3', '3.8', '11', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100026312', 'Cereales Chocapic De Chocolate', '2,02 mg 1,57 Acido pantoténico (B5) 5,23 mg (87%) 295 mg 479 mg (60%) tl Calcio/Câlcio 11170 mg (84%) Hierro/Ferro *VRN - Valores de Refercncia Nutrientes. *VRN -Valores de Referência Nutriente. INGREDIENTES: (61 integral de trigo (31,8%), harina de trigo semolina de maiz chocolate en polvo (22,2%) (azücar, cacao), azücar, jarabe de glucosa, extracto de malta de cebadaj grasa de palma, emulgente (lecitina de girasol), sal, aromas (vainillina y canela). VITAMINAS Y MINERALES: (D, tiamina, riboflavina, niacina, B6, écido félico, écido pantoténico), carbonato câlcico, hierro. PIJEDECONTENERLECHECACAHUEŒYFRIJŒSECOS. INGREDIENTES: Cereais (61 farinha de trigo integral (31 farinha de trigo (1 5,8%), sêmola de milho chocolate em pô (22,2%) (açücar e cacau)t açücar, xarope de glucose, extrato de malte de cevada, ôleo de palma, emulsionante (lecitina de girassol), sal, aromas (vanilina e canela). VITAMINAS E MINERAIS: Macina, Pantoténico, Riboflavina (B2), B6, Tiamina (BI), Âcido Félico, D, célcio conter LEITE, AMENDOINS e FRUTOS SECOS DE CASCA RIJA. Cada 100g de este producto contiene 31,8g', '4.5', '1.8', '75.8', '28.8', '6.2', '8.1', '0', '0', '', '0');
+VALUES ('8014941051238', 'Sfogliette With Tomato & Chilli', 'Wheat flour, pomace olive oil, potato granules, salt, artificial tomato and chilli flavor, extra virgin olive oil, brewer\'s yeast, paprika, wheat malt, tomato powder.', '', '14.29', '1.79', '67.86', '3.57', '3.6', '0', '2.63144', '1.036', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100026824', 'Chocapic Original', 'INGREDIENTES: Cereales (61,9%) [harina integral de _trigo_ (31,8%), harina de _trigo_ (15,8%), semolina de maíz (14,3%), chocolate en polvo (22,2%) (azúcar, cacao), azúcar, jarabe de glucosa, extracto de malta de _cebada_, grasa de palma, emulgente (lecitina de girasol), sal, aromas (vainillina y canela).  VITAMINAS Y MINERALES: (D, tiamina, riboflavina, niacina, B6, ácido fólico, ácido pantoténico), carbonato cálcico, hierro. ', '4.5', '1.8', '75.8', '28.8', '6.2', '8.1', '0.379999999999999', '0.149606299212598', '', '0');
+VALUES ('8014952256615', 'Grana padano grattugiato fresco ', '_Latte_, sale, caglio, conservante : lisozima (da _uovo_).', '', '29', '18', '0', '0', '', '33', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100027463', 'Nestle Chocapic', '— Coq CEREALES INTEGRALES COM CEREAIS INTEGRAIS Pyraacnde30g/Porporcaode3Cg Erqa 493 kJ 117kal 1,39 0,6g 8,6g 0,1g', '4.5', '1.8', '75.8', '28.8', '6.2', '8.1', '0.38', '0.149606299212598', '', '0');
+VALUES ('8015057000059', 'Gnocchi Di Patata, Natur', '', '', '0.4', '0.2', '37.6', '0.2', '', '4.5', '0.87', '0.34251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100030722', 'CRUNCH', ' Azúcar, manteca de Cacao, cereales tostados 16% (harina de arroz y maíz, azúcar, cacao en polvo, dextrosa, sal),  Leche,  cacao, suero de leche en polvo, emuigente (Lecitina de girasol), aroma natura de vainilla,  Cacao: 30% mínima. ', '26.3', '15', '62.5', '48.3', '1.5', '6.7', '0.45', '0.177165354330709', '', '0');
+VALUES ('8015057000400', 'Gnocchi de pomme de terre', 'Purée de pomme de terre (eau, flocons de pomme de terre et fécule correspondant à 98 % de pomme de terre), sel, arômes naturels, farine de riz, conservateur : E200.', '', '0.3', '0.2', '31', '0.4', '', '2.3', '0.84', '0.330708661417323', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100030883', 'Chocolate Nestlé Negro Sin Azãºcar', '', '19', '19', '1', '0', '', '6', '', '', '', '1');
+VALUES ('8015057000424', 'Chicche de Pomme de Terre Tricolores', 'Purée de pomme de terre (eau, flocons de pomme de terre et fécule correspondant à 95 % de pomme de terre), épinards déshydratés 1 % (uniquement dans les gnocchis verts), betterave déshydratée 1 % et tomate déshydratée 0,7 % (uniquement dans les gnocchis rouges), sel, arômes naturels, farine de riz, conservateur : E200.', '', '0.3', '0.1', '35.7', '5.2', '', '2.7', '0.76', '0.299212598425197', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100030890', 'Nestle Milk Sugar Free', '', '32.1', '18.9', '54', '10.6', '', '7.8', '0.15', '0.0590551181102362', '', '1');
+VALUES ('8015057000431', 'L\'Italie des Pâtes Gnocchi farcis au fromage la barquette de 400 g', 'Purée de pomme de terre [eau, flocons de pomme de terre et fécule (correspondant à 78% de pomme de terre sur le produit fini)], RICOTTA pasterurisée 8% (LACTOSERUM, LAIT), mélan e de FROMAGES [EDAM, CHEDDAR (LAIT, ferments lactiques, présure), eau, graisses végétales non hydrogénées (de alme et de tournesol), protéines de LAIT, DOP (LAIT de vache, ferments, sel, présure de veau), acidifiant: E330, sel, fécule, arômes], huile de tournesol, eau, Gorgonzola DOP 0.8% (LAIT, ferments lactiques, sel, présure, Penicillium moule), fromage 0.8% (LAIT, sel, présure), sel, arômes, farine de riz, conservateur: 11200. A consommer jusqu\'au: voir sur le dessus de la barquette. A conserver au réfrigérateur entre OOC et +60C. Aprés ouverture, à conserver au réfrigérateur et à consommer sous 3 jours. A consommer après cuisson. Ne pas percer l\'emballage. Conditionné sous atmosphere protectrice. Conseils de préparation\'. Portez à ébullition I litre d\'eau pour 100 g de gnocchi. Ajoutez un peu de sel et versez les gnocchi. Laissez cuire pendant 2 minutes, égouttez et assaisonnez selon votre goût.', '', '3.7', '2.4', '26.9', '1.7', '', '4.3', '1.25', '0.492125984251969', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100032399', 'Pizza MICRO Proscuitto', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015057000806', 'Gnocchi farcis tomate et mozzarella', 'Purée et pomme de terre (eau, flocons de pomme de terre et fécule correspondant à 78 % de pomme de terre), RICOTTA pasteurisée (LACTOSÉRUM, LAIT), sauce tomate 5,4 % (tomates, acidifiant : E330), mélange de FROMAGES (EDAM, CHEDDAR (LAIT, ferments lactiques, présure), eau, graisses végétales non hydrogénées (de palme et de tournesol), protéines de LAIT, GORGONZOLA DOP (LAIT de vache, ferments, sel, présure de veau), acidifiant : E330, sel, fécule, arômes), MOZZARELLA 0,8 % (LAIT, sel, présure, ferments lactiques), sel, tomate déshydratée 0,3 %, huile de tournesol, betterave rouge déshydratée, origan, arômes naturels, farine de riz, conservateur : E200.', '', '2.5', '1.4', '28.6', '2.9', '', '3.6', '0.94', '0.37007874015748', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100034027', 'Chocolat Nestlé Extra fino', '', '31.1', '17.9', '58.4', '57.5', '', '6.3', '0.16', '0.062992125984252', '', '0');
+VALUES ('8015057002985', 'Potato Gnocchi', '', 'https://static.openfoodfacts.org/images/products/801/505/700/2985/front.5.400.jpg', '0.4', '0.2', '37.8', '0.2', '', '4.5', '0.87', '0.34251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100034065', 'Tableta de chocolate con leche', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015057003098', 'Gnocchi de Pomme de Terre', 'Purée de pommes de terre (eau et flocons de pommes de terre correspondant a 70% de pommes de terre), farine de BLE tendre 00, sel, arômes naturels, saupoudrage de farine de riz, Correcteur d\'acidité : E575. Conservateur : E200.', '', '0.4', '0', '34.3', '0.2', '0', '4.2', '0.84', '0.330708661417323', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100034140', 'Chocolate negro para repostería', 'Azucar, cacao, manteca de cacao, emulgente (lecitina de girasol), aroma natural de vainilla. Cacao 52% mínimo.', '34.7', '20.9', '50.6', '46.7', '7.4', '4.9', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8015057003760', 'Ñoquis de patata', 'Puré de patatas 80% (agua y copos de patata [emulgente E471]), harina de _trigo_ extrafina, sal, aromas naturales, polvo de harina de arroz. Acidulante: E575, Conservador: E200. Contiene: _gluten_.', 'https://static.openfoodfacts.org/images/products/801/505/700/3760/front.3.400.jpg', '0.4', '0.2', '37.6', '0.2', '', '4.5', '0.87', '0.34251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100034348', 'Chocolate con leche extrafino pasión de almendras ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015103002723', 'Black Truffle Sauce', '', '', '11.3', '3.2', '1.7', '0', '', '3.2', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100034416', 'chocolate blanco ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015118075064', 'Piazzo Dolcetto d\'Alba 2013', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100036021', 'Tableta de chocolate negro 49% cacao', 'Azúcar, cacao, manteca de cacao, emulgente: lecitina de girasol (E-322) y aromas naturales de vainilla. Cacao: 49% mínimo', '29.7', '18.5', '54.9', '50.4', '7.9', '6.5', '0.05', '0.0196850393700787', '', '0');
+VALUES ('8015197010017', 'Iris Spaggeti Simigdali Sitou', '', '', '1.8', '0.4', '71.8', '3', '', '11.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100036069', 'Tableta de chocolate negro 49% cacao', 'Azúcar, cacao, manteca de cacao, emulgente: lecitina de girasol (E-322) y aromas naturales de vainilla. Cacao: 49% mínimo.', '29.6', '18.2', '54.3', '50.4', '7.9', '5.2', '0.0254', '0.01', '', '0');
+VALUES ('8015197010031', 'Pasta di semola grano duro italiano', '', '', '1.8', '0.4', '71.8', '3', '', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100036601', 'Dolca Chocolate Con Leche', '', '27.8', '16.1', '62.9', '61.8', '', '5.3', '0.15', '0.0590551181102362', '', '0');
+VALUES ('8015197011038', 'Pasta di semola di grando duro italiano tricolore', '', '', '1.5', '0.38', '72.3', '3.77', '', '10.8', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100036618', 'Chocolate negro 44% cacao', 'Azúcar, cacao, manteca de cacao, emulgente: lecitina de girasol (E-322), aroma natural de vainilla. Cacao 44% mínimo.', '27.5', '16.1', '58.2', '54.6', '6.9', '5.7', '0', '0', '', '0');
+VALUES ('8015197012011', 'Iris Spaggeti Sitou Olikis', 'semoule de blé dur complet*, eau. Contient du gluten. Il peut contenir des traces de soja. *Biologique', '', '2.1', '0.5', '64.7', '3.8', '', '12', '0.006', '0.00236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100042008', 'Junior Milk', '', '3', '0.8', '9.1', '5.4', '', '1.6', '', '', '', '1');
+VALUES ('8015197012059', 'Pasta di semolo integrale di grano duro italiano', '', '', '2.1', '0.5', '65', '3.8', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100051147', 'Piccolonis', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015197024878', 'Torsades sans gluten 100% mais', 'Ingrédients.\' semoule de maïs jaune 100% biologique', '', '2', '0.3', '74', '0.9', '', '6.5', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100053646', 'CACAO SOLUBLE BOLSA NESQUIK', '', '3.8', '1.6', '79.2', '75.7', '', '5.1', '0.37', '0.145669291338583', '', '0');
+VALUES ('8015197030084', 'Passata di pomodoro', '', '', '0.2', '0', '4.5', '3.3', '', '1.5', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100056401', 'Sveltesse light', '', '0.6', '0', '5.5', '5.3', '', '5.5', '0.2', '0.078740157480315', '', '1');
+VALUES ('8015197041226', 'Pasta di semolato', '', '', '1.9', '0.6', '69.1', '4', '', '11.3', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100059662', 'Mousse Au Café 8,9 %', '', '7.7', '5.3', '19', '16', '', '2.7', '0.18', '0.0708661417322835', '', '1');
+VALUES ('8015197041486', 'Spaghetti bio complet', '', '', '2.1', '0.5', '65', '3.8', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100059679', 'Mousse Citron 6,1 %', 'purée de citron (rème(u de IAITécrémé, sirop de glucosB ructcs Vs de citrorç amidon rr&quot;fié, gélatine émulsifiant (E472b), époijsis\'dnts graines de caroube, pectine), arôm? (onseryoteur (E202)t correcteurs d\'acidit E331, 524). Poids net : 59 g 44.212.001 Volume net : 12 Cl Compass@ rgistered Trademark of Société dl stits Nestlé SA Vevey (Switzerland', '5.4', '3.7', '18', '18', '', '4.2', '0.3', '0.118110236220472', '', '1');
+VALUES ('8015197041530', 'Fusilli', '', '', '1.5', '0.4', '72', '4.3', '', '11', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100059839', 'Petit Nesquik Xoco', 'Lait entier (58,8%), crème (lait) (10,6%), sucre, poudre de lait écrémé, amidon modifié,sirop de glucose déshydraté, poudre de cacao maigre (1,5%), cannelle, correcteurs d’acidité (E331, E333iii), vitamine D.', '7.2', '4.7', '27.8', '22.7', '0.5', '4.5', '0.54', '0.21259842519685', '', '1');
+VALUES ('8015197041554', 'Iris Spaggeti Ntinkel Imi Olikis', '', '', '2', '0.4', '71.6', '3.5', '', '11.6', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100060507', 'Jugo seasoning', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015197045507', 'Tagliatelle aux épinards', 'Semoule de blé dur *, épinards en poudre* (1,8%) *Issu de l\'agriculture biologique. Peut contenir des traces de soia,', '', '1.6', '0.4', '73', '3.6', '3.6', '11.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100061009', 'Maggi Glaçons De Caldo 24ud.', 'Caldo de verduras deshidratado. Ingredientes: Sal, potenciadores del sabor (E621 , E627, E631), grasa de palma, extracto de levadura, maltodextrina, cebolla, colorante El 50c, aromas (con apio), zanahoria, cürcuma, tomate, perejil, Puede contener trazas de leche, huevo, soja, gluten y mostaza.', '11.2', '7.4', '6.8', '1.3', '', '17.3', '64.7', '25.4724409448819', '', '0');
+VALUES ('8015197045903', 'Penne blé complet', '', '', '2.1', '0.5', '64.7', '3.8', '', '12', '0.006', '0.00236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100062105', 'Maggi Sopa Poll.-fide.', '', '4.9', '2', '59.7', '5.2', '', '15.7', '9', '3.54330708661417', '', '0');
+VALUES ('8015197045910', 'Fusilli', '', '', '2.1', '0.5', '64.7', '3.8', '', '12', '0.006', '0.00236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100063904', 'Fusian pasta oriental sabor curry', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015197045934', 'Línea attiva spaghetti', '', '', '2.1', '0.5', '64.7', '3.8', '', '12', '0.006', '0.00236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100063911', 'Pasta Oriental Gamba Maggi', '', '21.9', '11', '51.2', '0.6', '', '7.6', '3.23', '1.27165354330709', '', '0');
+VALUES ('8015197045941', 'Tagliatelle aux oeufs', 'Semoule de blé dur* , oeufs* (19,36). *Issu de l\'agriculture biologiqye.', '', '3.3', '1', '69.6', '1.7', '3.8', '13.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100063935', 'Pasta Oriental Pollastre Maggi', 'PASTA ORIENTAL SABOR POLLO reparado alimenticio de harina de trigo y condimento leshidratado sabora pollo. Ingredientes: ideos (93,7%): harina de trigo (69,7%) grasa de palma, sal, btenciador del sabor (E621 ), ajo en polvo, corrector de acide -3001), estabilizante (E452), cürcuma. :ondimento 6 % : sal, potenciadores del sabor (E621,E621 631), azücar, almidén de maiz, preparado alimenticio Ijarai e glucosa, grasa de palma parcialmente hidrogenada, abilizantes (E331, E340), proteinas lâcticas, emulgente (EO tiaglomerante (E551 ), colorante (El 60a)I, hortalizas ashidratadas (0,3%) (col, cebolla, ajo, apio), aromas, espet engibre, cürcuma, pimienta negra), extracto de levadura, oteinas de soja hidrolizadas, corrector de acidez (30), u•eite de girasol, colorante (EIOI ). Puede contener huevo, i_.ostaza y sésamo. Conservar en lugar fresco y seco.', '22.1', '11', '51.4', '1', '0.3', '7.5', '3.22', '1.26771653543307', '', '0');
+VALUES ('8015197047785', 'Macarrones Espelta Semi Integral Bio Iris', 'Farine d\'_épeautre_ demi-complet (triticum dicoccum), eau.', '', '2', '0.4', '71.6', '3.5', '2.9', '11.6', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100064932', 'Fabada asturiana litoral', '', '83', '3.1', '7.3', '0.7', '', '6.4', '0.87', '0.34251968503937', '', '0');
+VALUES ('8015197047792', 'Espirales De Espelta Semi Integral Bio Iris', 'farine d\'épeautre semi-complet (triticum dicoccum)*, eau. Contient du gluten. *Biologique', '', '2', '0.37', '71.6', '3.49', '', '11.6', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100065106', 'Puré de patatas', '', '0.8', '0.5', '75', '2.5', '', '7.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015197047891', 'Spaghetti kamut', 'Semoule demi blé khorasan KAMUT@ de l\'agriculture biologique. Peut contenir des traces de soja', '', '1.7', '0.5', '66.6', '4.4', '4.6', '14.4', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100065113', 'El puré', 'Patata deshidratada (99%), emulgente (mono y diglicéridos de ácidos grasos), aromas, especia, antioxidante (extractos de romero). Puede contener _leche_.', '0.8', '0.5', '75', '2.5', '6.8', '7.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015197051362', 'Gnocchetti Sarda', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100065144', 'Puré de patatas', '', '0.8', '0.5', '75', '2.5', '', '7.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015197051423', 'Sauce Tomate Bio Avec Légumes 340GR', '', '', '0.21', '0', '4.2', '3.5', '', '2.5', '0.27', '0.106299212598425', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100068176', 'Nestle Sveltesse chocolat', 'Lait à 0,9 % de matières grasses (86,1 %), chocolat en poudre (5,5 %)(sucre, poudre de cacao), inuline, poudre de lait écrémé, amidon de maïs, amidon modifié de tapioca, lactose (lait), fructose, gélifiant (carraghénanes), cacao maigre, arômes, correcteur d\'acidité : E331(iii), édulcorants (acésulfame K, cyclamate de sodium, néohespéridine DC).', '1.3', '0.8', '11.9', '10', '0', '4.1', '0.2', '0.078740157480315', '', '1');
+VALUES ('8015197051430', 'Sauce Tomate Bio Avec Basilic 340GR', '', '', '0.21', '0', '4', '3.5', '', '1', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100068183', 'Sveltesse', '', '1.1', '0.7', '10.7', '9', '', '3.5', '0.19', '0.0748031496062992', '', '1');
+VALUES ('8015197054783', 'Spaghetti Bio Classique', '', '', '1.8', '0.4', '71.8', '3', '', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100068206', 'Ferme et Fondant, Saveur Pistache', '_Lait_ à 0,9% de matières grasses (88,9%), sucre, poudre de _lait_ écrémé, inuline, fructose, glucose, _lactose_ (_lait_), amidon de maïs, amidon modifié de tapioca, gélifiant (carraghénanes), arômes, colorants [E141ii, rocou], correcteur d\'acidité (E331), édulcorants (acésulfame K, cyclamate de sodium, néohespéridine DC).  ', '0.8', '0.7', '10.7', '9.5', '2', '3.5', '0.19', '0.0748031496062992', '', '1');
+VALUES ('8015197054806', 'Semola di grano duro', '', '', '1.8', '0.4', '71.8', '3', '', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100071350', 'Grand Chocolat Pâte d\'Amande Noir', 'pâte d\'amande 36,6% (amandes, sucre, sucre inverti, amandes amères), pâte de cacao, sucre, beurre pâtissier (lait), beurre de cacao, émulsifiant (lécithine de tournesol), arôme naturel de vanille.', '31.1', '14.1', '48.6', '38.4', '5.6', '6.9', '0', '0', '', '0');
+VALUES ('8015197054851', 'Fusilli Bio Blé Complet', '', '', '2.2', '0.4', '68', '3.4', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100074757', 'Junior Fruit Stick', '', '6', '2.3', '72', '46', '3.2', '3', '0.13', '0.0511811023622047', '', '0');
+VALUES ('8015197054875', 'Trafilatura al bronzo', '', '', '1.7', '0.5', '67', '4.4', '', '14', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100076379', 'Il latte condensato ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015197054882', 'Kamut demi complet', '', '', '1.7', '0.5', '67', '4.4', '', '14', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100076423', 'Lait concentré sucré', '_Lait_ entier, sucre.', '8', '5', '55', '55', '0', '7.5', '0.3', '0.118110236220472', '', '0');
+VALUES ('8015197054899', 'Spaghetti', '', '', '2', '0.2', '71.6', '0.4', '', '11.6', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100077246', 'Nescafe select extra', '', '0.2', '0.1', '9', '9', '27', '7', '0.254', '0.1', '', '1');
+VALUES ('8015197054912', 'Épeautre demi complet', '', '', '2', '0.4', '71.6', '3.5', '', '11.6', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100078953', 'Nestlé Classic Amêndoas', 'açúcar, manteiga de cacau, leite (15%), amêndoas (15%), cacau, soro lácteo em pó, emulsionante (lecitina de girassol), aroma.', '34', '17.3', '52', '48.5', '2.4', '8.6', '0.2032', '0.08', '', '0');
+VALUES ('8015197054929', 'Pâtes &quot;grains anciens&quot;', '', '', '2', '0.4', '66', '3.3', '', '13.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100093314', 'Lait concentré sucré', '_Lait_ frais pasteurisé, sucre', '8', '5', '55', '55', '0', '7.5', '0.3', '0.118110236220472', '', '0');
+VALUES ('8015197054967', 'Lasagne', '', '', '1.5', '0.3', '0', '0', '', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100096186', 'Nestle kondensierteVollmilch', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015197065376', 'Sauce tomate au basilic tomate cultivée en plein champ', '', '', '0.5', '0.1', '4', '3.5', '', '1.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100097565', 'MAXIBON POPS', '', '24.7', '19.2', '28', '26.8', '0.9', '3.7', '0.19', '0.0748031496062992', '', '0');
+VALUES ('8015197068933', 'Passata di pomodoro', '', '', '0.2', '0', '4.5', '3.3', '', '1.5', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100098524', 'Nestlé Classic Amêndoas', 'açúcar, manteiga de cacau, leite (15%), amêndoas (15%), cacau, soro lácteo em pó, emulsionante (lecitina de girassol), aroma.', '34', '17.3', '52', '48.5', '2.4', '8.6', '0.2032', '0.08', '', '0');
+VALUES ('8015260030928', 'Fromage brebis', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100098531', 'Nestlé Classic Avelãs', 'açúcar, manteiga de cacau, avelãs (15.6%), leite em pó (15%), cacau, soro lácteo em pó, emulsionante (lecitina de girassol), aroma.', '36', '17.2', '51.1', '49.3', '2.8', '7.4', '0.2032', '0.08', '', '0');
+VALUES ('8015282001036', 'Organic Hulled Millet Cereals', '100% organic hulled millet', '', '4.25', '0.72', '72.5', '5', '8.8', '11.25', '0.0127', '0.005', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100099095', 'Cerelac Ble Kg,', '', '10', '4.1', '67.4', '34.1', '2.2', '15.5', '0.3', '0.118110236220472', '', '0');
+VALUES ('8015287163029', 'Risotto alla Milanese', '?. Extra fine Camaroli rice, onion, turmeric, saffron, Granulate seasoning (onion, carrot, garlic, yeast extracti satt, sunflower oil), (variable proportions). llay contains traces of gluten, soy, milk', '', '1.21', '0.31', '77.5', '0.96', '1.58', '8.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100135106', 'Squeezy', '', '8', '5.2', '56', '56', '', '7.3', '0.43', '0.169291338582677', '', '0');
+VALUES ('8015290236789', 'Yaourt au lait de brebis', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100181509', 'Nestle Mixed Fruits & Wheat With Milk Baby Cereal', '', '10', '3.7', '67.3', '35', '', '14.5', '0.33', '0.12992125984252', '', '0');
+VALUES ('8015312001395', 'Tagliolini Con Funghi', 'Semoule de blé dur,eau,champignon porcini 2%', '', '2.65', '1.15', '73.5', '2.5', '', '14.6', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100184661', 'Tablette 150G Chocolat Coeur Croquant Caramel Nestle', '', '35.1', '19.6', '54.6', '51', '', '5.9', '0.4', '0.15748031496063', '', '0');
+VALUES ('8015312774084', 'Pesto de Basilic Pourpre', 'Préparation au basilic rouge (basilic rouge, huile de tournesol, sel), basilic total 44 %, huile de tournesol, _noix de cajou_, tofu (eau, _soja_), _pignons de pin_, acidifiant : acide lactique, ail, arôme naturel.', '', '43', '4.9', '2', '0', '0.8', '2.7', '2.4', '0.944881889763779', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100186627', 'Ferme et fondant caramel', '', '0.9', '0.6', '13.1', '10.3', '1.9', '3.3', '0.2', '0.078740157480315', '', '1');
+VALUES ('8015312774091', 'Pesto d\'olive verte', '', '', '33', '4.4', '1.3', '0', '', '1.7', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100197302', 'Sveltesse Ferme & Fondant (Citron - Fraise des bois - Vanille - Coco)', 'Lait écrémé (93,7%), protéines laitières, ferments lactiques, poudre de lait écrémé, gélatine porcine, arômes, colorant (carmins), édulcorants (aspartame, acésulfame K). Contient une source de phénylalanine.', '0.1', '0', '4.7', '4.3', '0', '4.4', '0.15', '0.0590551181102362', '', '1');
+VALUES ('8015312774923', 'Crème avec PARMIGGIANO et TRUFFES', '', '', '15', '6.7', '1.3', '0', '', '10', '0.45', '0.177165354330709', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100200736', 'Squashums Strawberry Yoghurt Drinks', 'Low Fat Yogurt (from _Milk_), Sugar, Strawberry Puree 1%, Flavouring, Modified Maize Starch, Milk Mineral Concentrates, Thickener: Pectin, Colour: Beetroot Red, Vitamin D ', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015312775890', 'PESTO alla GENOVESE sans ail', '', '', '46', '7.6', '2.2', '0.4', '', '3.4', '3.3', '1.2992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100202228', 'Fruits Rouges', 'Lait partiellement écrémé (1.1% matière grasse), sucre, fruits rouges 2% (purées de fraises, framboises et cerises), ferments lactiques (avec Lactobacillus johnsonii La1), sirop de glucose et fructose, amidon modifié, arôme, antioxydant (ascorbate de calcium), colorant (E120).', '0.8', '0.5', '14', '14', '0', '2.5', '0.15', '0.0590551181102362', '', '1');
+VALUES ('8015312776019', 'Pesto alla Genovese', 'Préparation au basilic (basilic, huile de tournesol, sel), basilic total 43 %, huile de tournesol, _noix de cajou_, _fromage_ 4 % (dont Pecorino 0,5 %), _crème_ en poudre, _pignons de pin_, ail, acidifiant : acide lactique.', '', '43', '5.5', '2.3', '0', '1.8', '3.3', '2.9', '1.14173228346457', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100202631', 'LC1 Multi Fruits', '', '0.9', '0.6', '15', '15', '0', '2.5', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015312776057', 'Pesto avec Tomates Séchées Bio', 'Tomates séchées réhydratées 42 %, huile de tournesol, préparation au basilic (basilic, huile de tournesol, sel), basilic total 6 %, concentré de tomate, tofu (eau, _soja_), _noix de cajou_, sel, vinaigre de vin (vin, eau, contient _sulfites_), acidifiant : acide lactique, fibres de lin, épices.', '', '35', '3.9', '6.6', '4.2', '1.6', '2.4', '0.84', '0.330708661417323', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100323312', 'Lait concentré sucré &quot;format malin&quot; 2 tubes', '', '8', '5', '55', '55', '', '7.5', '0.26', '0.102362204724409', '', '0');
+VALUES ('8015312776088', 'Sauce Tomates et Poivrons', 'Pulpe de tomates 59 %, poivrons 15 %, eau, oignons, carottes, _céleri_, huile de tournesol, sucre, sel, fibre végétale, ail, épices.', '', '2.2', '', '4.6', '2.9', '1.2', '1.1', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410100851464', 'Nestle Bonka Estilo Italiano Coffee', 'un de Intenso al estilo italiano, werpo y un que enel patadar. I Œnsurnir preferentemente oantes del tin de. Ver precinto', '11.7', '5.3', '0.1', '0.1', '37.1', '13.8', '0.01', '0.00393700787401575', '', '1');
+VALUES ('8015312776118', 'Sauce all\'Arrabbiata Bio', 'Pulpe de tomates 86 %, huile de tournesol, oignon, sel, piment 0,7 %, ail.', '', '6.9', '1.1', '4', '2.4', '1.6', '1', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410102101109', 'Bonito del norte', 'Bonito del norte, aceite de oliva y sal', '13.95', '2.4', '0', '0', '', '24.9', '0.775', '0.30511811023622', '', '1');
+VALUES ('8015312776125', 'Sauce Tomates et Basilic Bio', 'Pulpe de tomates 94 %, sucre, huile de tournesol, sel, préparation au basilic (basilic, huile de tournesol, sel), basilic total 0,2 %, plantes aromatiques.', '', '1.9', '0.2', '6.2', '4.7', '1.2', '1.1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410102201779', 'Filet d\'anchois', 'FILETES ANCHOAS DE GIRASOL Ingrdentes: Anchoas, Azeite de girasol y sal Peso Neto: g Peso Escumdo: 280 g. Fabricado en Espafia SEMICONSEP/A - +50C +120C. Dl ACCiUGHE 0110 GiflASOLE IrÜecfienti: Acdugho, e sale. PEO Netto: 5@gPeto Socce:o: 230 g. Fabbricato in Spagna. FILETS D\'ANCHOIS A TOURNESOL Arsct•« da tomeol et sel. Poids .Net g Pcd3 Egu\'.é 280 g. Importe de Spagne SEMIOONSERŒ. ENTREPOSER AU FROID ENTRE +120', '9.7', '2.2', '0', '0', '', '28.9', '9.2', '3.62204724409449', '', '0');
+VALUES ('8015312776132', 'Sauce Tomates et Légumes Bio', 'Pulpe de tomates 61 %, légumes variés en prop. var. 27 % (courgettes, aubergines, oignons, _céleri_, carottes, poivrons, olives), huile de tournesol, sel, fécule de pomme de terre, persil, basilic, épices.', '', '7.2', '1.1', '4.2', '3.4', '1.4', '1.3', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000016', 'Chocolate puro 52% cacao', 'Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322), aroma. Cacao: 52 % mínimo.', '33.4', '21.1', '50', '47.4', '', '6.2', '0.08', '0.031496062992126', '', '0');
+VALUES ('8015328030051', 'Riso Arborio', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000023', 'Chocolate puro 52% cacao', 'Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322), aroma. Cacao: 52 % mínimo.', '33.4', '21.1', '50', '47.4', '', '6.2', '0.08', '0.031496062992126', '', '0');
+VALUES ('8015352301103', 'Antica Modena Aceto Balsamico Invecchiato', 'Vinaigre de Vin, moût de raison concentré, moût de raisin cuit, colorant: caramel E150d, antioxydant (anhydride sulfureux).', '', '0.1', '', '34', '', '', '0.9', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000061', 'Valor', 'Azúcar, manteca de cacao, pasta de cacao, leche en polvo (15%), emulgente: lecitina de soja, Aromas (Cacao mínimo 34%)', '31.5', '20', '54.5', '53.5', '', '7.3', '0.35', '0.137795275590551', '', '0');
+VALUES ('8015352301158', 'ANTICA MODENA Vinaigre Balsamique de Modena', '', '', '0.1', '0.02', '24', '0', '', '0.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000078', 'Valor Xoco Llet Ametll', 'Milk chocolate (sugar, cocoa butter, chocolate, milk, whey, soy lecithin: an emulsifier, artificial flavors), almonds. total cacao components in milk chocolate: 34%.', '39', '16', '41', '41', '4.8', '11', '0.26', '0.102362204724409', '', '0');
+VALUES ('8015352303701', 'ANTICA MODENA Condimento Bianco', '', '', '0', '0', '28', '22', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000085', 'Tableta de chocolate negro con almendras 52% cacao', 'Azúcar, pasta de cacao, _almendras_ (25%), manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma. Cacao: 52 % mínimo.', '40', '17.2', '38', '35.9', '', '9.9', '0.0635', '0.025', '', '0');
+VALUES ('8015352303855', 'Crème à Base De &quot;Aceto Balsamico Di Modena Igp&quot;', '', '', '0', '0', '58', '35', '', '0.6', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000108', 'Tableta de chocolate negro a la taza 38% cacao', 'Azúcar, pasta de cacao, harina de arroz, manteca de cacao y emulgente: lecitina de _soja_ (E-322), aroma. Cacao: 38 % mínimo.', '24', '15', '61', '50', '', '5.3', '0.06', '0.0236220472440945', '', '0');
+VALUES ('8015352304258', 'ANTICA MODENA ACETO BALSAMICO', '', '', '0', '', '75', '', '', '1.88', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000115', 'Chocolate puro avellanas 52% cacao', 'Azúcar, pasta de cacao, _avellanas_ (20%), manteca de cacao, emulgente: lecitina de _soja_, aroma. Cacao: 52 % mínimo.', '40', '18', '41', '38', '', '8.4', '0.07', '0.0275590551181102', '', '0');
+VALUES ('8015352304357', 'Aceto Balsamico', 'Vinaigre de Vin, Moüt de raisin concentré, Mout de raisin cuit. Colorant: caramel E 150d, antioxydant (anhdride sulfereux)', '', '0.1', '0', '34', '0', '0', '0.9', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000528', 'CACAU VALOR VALORCAO', '', '3', '1.5', '78', '62', '', '6.8', '0', '0', '', '0');
+VALUES ('8015352307556', 'Balsamico Glaze', '', '', '0', '0', '58', '35', '', '0.6', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000542', 'Tableta de chocolate negro 70% cacao', 'Pasta de cacao, azúcar, cacao desgrasado en polvo, manteca de cacao y emulgente: lecitina de _soja_ (E-322). Cacao: 70 % mínimo.', '35.8', '22.6', '34.1', '28.9', '', '11.1', '0.100076', '0.0394', '', '0');
+VALUES ('8015352307952', 'Aceto Balsamico di Modena IGP', '', 'https://static.openfoodfacts.org/images/products/801/535/230/7952/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000610', 'Chocolate Valor En Polvo', 'VALOR', '3', '1.5', '78', '62', '', '6.8', '0.01', '0.00393700787401575', '', '0');
+VALUES ('8015352310150', 'Aceto Balsamico Di Modena', '', '', '', '0', '', '19', '0', '1.1', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000658', 'Cacao puro en polvo desgrasado', 'Cacao en polvo desgrasado. Manteca de cacao: 16%.', '16', '10', '16', '0.7', '', '26', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8015352310457', 'Acetum Balsamic Blaze Fig', '', '', '0', '0', '58', '43', '', '1.2', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109000726', 'Tableta de chocolate negro con almendras 70% cacao', 'Pasta de cacao, _almendras_ (25%), azúcar, cacao desgrasado en polvo, manteca de cacao, emulgente: lecitina de _soja_ (E-322). Cacao: 70 % mínimo.', '41.8', '18.4', '26.1', '22.1', '', '13.6', '0.08001', '0.0315', '', '0');
+VALUES ('8015352314202', 'FINI', '', '', '0', '0', '34', '32', '', '1.3', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109001389', 'Chocolate puro con almendras', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015352315001', 'Glassa all\'aceto balsamico di Modena IGP', '-', 'https://static.openfoodfacts.org/images/products/801/535/231/5001/front_en.34.400.jpg', '0', '0', '55', '41', '', '1.3', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109001938', 'Cacao puro en polvo desgrasado', 'Cacao magro, manteca de cacao 16%', '16', '10', '16', '0.7', '0', '26', '0.03', '0.0118110236220472', '0', '1');
+VALUES ('8015352316701', 'Aceto balsamico di modena', 'tettificato da otganismo contralto dal Ltrnistgro e Farcstali Ingted\'cntc accto dg vsno, contentnto. mosto cattoe caramello E150d Caaüene soft', '', '1', '1', '1', '1', '1', '1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109002157', 'Tableta de chocolate negro 52% cacao', 'Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina. Cacao: 52 % mínimo.', '50.5', '', '32.8', '', '', '6.1', '', '', '', '0');
+VALUES ('8015352317708', 'Antica Modena Condiment Blanc Douce', '', '', '0', '', '32', '30', '', '0.5', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109002164', 'Tableta de chocolate negro con almendras 70% cacao', 'Pasta de cacao, azúcar, _almendras_ tostadas (23%), cacao desgrasado en polvo, emulgente: lecitina de _soja_ (E-322), manteca de cacao y aroma: vainillina. Cacao: 70 % mínimo.', '41.5', '', '26.5', '', '', '13.4', '', '', '', '0');
+VALUES ('8015352317760', 'Fini modeba', '*ülngrédients: Vinaigre \'Balsamique de &quot;Aceto Balsamico dilodena [G.P. \'t\'61% (vinaigre de vin, moût de entré, colorant: caramel i fl 50d), tvloufr•tuaisin concentré, Amidon de maïs modifié. Contient des Sulfites, Itigredients: Balsamic Vinegar of Modena &quot;Aceto Balsam;co di Modertd I.G.P,&quot; 60010 (wine vinegar, conceotfâted grape must. colour: caramel E150d), oncentrated grape must, modified corn starch. Contains Sulphifs, VALEURS NUTRITIONNELLES POUR 100 ML / NUTRITION DECLARATION per ml Énergie/Energy 1264 kJ /298 kcal Og Matières grasses/Fat dont acides gras saturés] 09 of which Satufates 70 g Glucides/Carbohydrate', '', '0', '0', '70', '0', '', '1', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109002720', 'Chocolate negro con avellanas 52% de cacao', 'Azúcar, pasta de cacao, _avellana_ (17%), manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina. Cacao: 52 % mínimo.', '38.1', '', '42.6', '', '', '8', '', '', '', '0');
+VALUES ('8015352317784', 'Antica Modena Condimento Rosé', 'Vinaigre de vin, moût de raisin, colorant: caramel, antioxydant (anhydride sulfureux).', '', '0', '', '22', '', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109002775', 'Tableta de chocolate negro para cobertura 52% cacao', 'Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma: vainillina. Cacao: 52 % mínimo.', '32.6', '', '50.6', '', '', '6.19', '', '', '', '1');
+VALUES ('8015352318095', 'Acetum Balsamic Vinegar Of Modena 500Ml', '', '', '0', '0', '15.9', '15.3', '', '0.7', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003161', 'Tableta de chocolate negro edulcorado 52% cacao', 'Edulcorante: maltitol (E-965), pasta de cacao, manteca de cacao, emulgente: lecitina de _soja_ (E-322), aroma. Cacao: 52% mínimo', '32.6', '20.6', '50.5', '0.1', '7.8', '6.2', '0.08636', '0.034', '', '1');
+VALUES ('8015352318132', 'Blaze Balsamic Glaze', 'Balsamic Vinegar of Modena &quot;Aceto Balsamico di Modena I.G.R 60% (wine vinegar, concentrated grape must, colour: caramel E150d), Concentrated grape must, Modified corn Starch. Contains sulphites, Valeurs Nutritionnelles pour 100 ml Nutritional Information for 100 ml / Energy 1264 kJ/ 298 Kcal Matières grasses / Fat dont: Acides gras satures /', '', '0', '0', '70', '55', '', '1.1', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003178', 'Tableta de chocolate negro con almendras edulcorado 52% cacao', 'Edulcorante: maltitol (E-965), pasta de cacao, _almendras_ (25%), manteca de cacao, emulgente: lecitina de _soja_ (E-322), aroma. Cacao: 52% mínimo', '39.5', '16.8', '38.3', '0.5', '9', '9.9', '0.06604', '0.026', '', '0');
+VALUES ('8015352318583', 'Aceto Balsamico', 'Ingrédients: Vinaigre de vin, moût de raisin concentré, moût de raisin cuit, colorant: caramel E150d, antioxydant (anhydride sulfureux).', '', '0', '0', '34', '32', '', '0.9', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003208', 'Valor chocolat lait amandes sans sucre ajouté', '', '40', '17', '39', '6.9', '', '12', '0.17', '0.0669291338582677', '', '0');
+VALUES ('8015352318996', 'Fini', '', '', '0', '0', '58', '35', '', '0.6', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003222', 'Chocolate negro sin azúcares añadidos 70% cacao', 'Pasta de cacao, edulcorante: maltitol (E-965), cacao desgrasado en polvo, manteca de cacao, emulgente: lecitina de _soja_ (E-322), edulcorante: glucósidos de esteviol (E-960) (0,012%), aromas. Cacao: 70% mínimo', '36', '23', '31', '0.5', '', '11', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015352319306', 'Aceto balsamico di modena I. G. P.', '', '', '0', '0', '27', '26', '', '1', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003253', 'Chocolate puro', '', '35', '22', '51', '49', '', '5.3', '0.07', '0.0275590551181102', '', '0');
+VALUES ('8015355000126', 'Tarallini peperoncino', '', '', '19', '2.9', '63', '1.4', '', '9.2', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003789', 'Chocolate Puro Mousse de Trufa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015360503216', 'Pistachio Cream', 'Organic pistachio (57%), cane sugar', '', '28.57', '3.57', '50', '42.86', '7.1', '10.71', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109003833', 'Xocolata Per Postres Sense Sucre Valor', 'Sweetener: maltitol, cocoa mass, cocoa butter, emulsifier: soya lecithin, sweetener: stevjol glycosides(0,003%)*, flavouring. May contain traces of almonds, hazelnuts and milk. Cocoa solids: 52% minimum.', '33', '21', '50', '0.5', '', '6.2', '0.08', '0.031496062992126', '', '1');
+VALUES ('8015369000136', 'Mozzarella di bufala campana', '', '', '23', '16', '0.8', '0', '', '13', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109004830', 'Chocolate con leche y almendras sin lactosa', 'Azúcar, _almendras_ 25%, manteca de cacao, _leche_ en polvo sin lactosa, pasta de cacao, emulgente: lecitina de _soja_, aroma natural de vainilla', '41.1', '18', '41.3', '40.7', '', '9.7', '0.12', '0.047244094488189', '', '0');
+VALUES ('8015369001058', 'Mozzarella di Bufala Campana AOP Treccia', '_Lait_ de bufflonne pasteurisé, _petit-Lait_, sel et présure.', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109005110', 'Tableta de chocolate negro 70% cacao', 'Pasta de cacao, azúcar, cacao desgrasado en polvo, manteca de cacao y emulgente: lecitina de _soja_ (E-322). Cacao: 70 % mínimo.', '35.8', '22.6', '34.1', '28.9', '', '11.1', '0.1058164', '0.04166', '', '0');
+VALUES ('8015369002017', 'Mozzarela di bufala campana', '', '', '23', '16', '0.8', '0', '', '13', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109005158', 'Xocolata Pur Valor Sense Sucre', '', '33', '21', '50', '0.5', '', '6.2', '0.08', '0.031496062992126', '', '1');
+VALUES ('8015393001024', 'Vigna Pedale Castel del Monte (riserva 2009)', 'Vin (_sulfites_)', 'https://static.openfoodfacts.org/images/products/801/539/300/1024/front.6.400.jpg', '', '', '', '', '', '', '', '', '13', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109008852', 'Chocolate negro 70% cacao con naranja', 'Pasta de cacao, azúcar, cacao desgrasado en polvo, manteca de cacao, pulpa de naranja (5%), manzana, fibra de piña, emulgente: lecitina de _soja_ (E-322), estabilizadores: alginato de sodio (E-401) y fosfato de sodio (E-339), acidulante: ácido cítrico (E-330), aroma. Cacao: 70% mínimo', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015410000108', 'Torta Tre Monti', '', '', '', '14', '', '38', '4.5', '6.3', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109050387', 'Milk Chocolate With Almonds', 'Milk chocolate, (sugar, cocoa butter, bitter chocolate, milk, whey, soy lecithin - an emulsifier, artificial flavors), almonds. total cacao components: 34% in the milk chocolate.', '36.36', '18.18', '48.48', '42.42', '6.1', '9.09', '0.30734', '0.121', '', '0');
+VALUES ('8015488200370', 'Marguerites au Chocolat', 'Farine de BLÉ tendre type &quot;00&quot;, crème chocolat-NOISETTE 19%, sucre, BEURRE, ŒUFS, AMANDES, vanille. Poudres à lever: diphosphate disodique, carbonate acide de sodium, amidon maïs.', '', '26.52', '11.43', '65.17', '29.11', '', '9.52', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109050509', 'Dark Chocolate, 70% Cocoa, Chocolat Noir', 'Chocolate, sugar, cocoa processed with alkali, cocoa butter, soy lecithin:an emulsifier, total cacao components:70%', '36.36', '24.24', '48.48', '30.3', '15.2', '12.12', '0.1143', '0.045', '', '0');
+VALUES ('8015493002082', 'Delfino Anchovy Filtering From Cetara', '', '', '2.1', '0.3', '0', '0', '', '2.1', '7.3', '2.8740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109050523', 'Dark Chocolate', 'Semisweet chocolate (chocolate, sugar, cocoa processed with alkali, cocoa butter, soy lecithin - an emulsifier), sugar, orange pulp, apple, pineapple fiber, sodium alginate, sodium phosphate, citric acid, natural orange flavor, total cacao components in s', '30.3', '18.18', '54.55', '36.36', '12.1', '9.09', '0.19304', '0.076', '', '0');
+VALUES ('8015493017024', 'Capres au gros sel', '', '', '3.3', '0.1', '33', '0.3', '', '16', '31.8', '12.5196850393701', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109050882', 'Valor 70% chocolate negro', '', '36', '23', '34', '29', '', '11', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015502003888', 'Biscotte di Farro', '', '', '5.5', '0.5', '63', '1', '', '15.5', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109050974', 'Chocolat au lait et gaufrette', 'Chocolat au lait [sucre, _lait_ entier en poudre, beurre de cacao, chocolat traité à l\'alcali, lactosérum, émulsifiant : lécithine de _soja_, arômes artificiels], gaufrette [farine de _blé_, sucre, _beurre_ déshydraté, graisse végétale (_soja_, palme, colza), lactose, protéines du _lait_, sel, farine de malt d\'_orge_, agent levant: bicarbonate de sodium].', '30.3', '21.2', '57.6', '51.5', '3.03', '6.06', '0.346', '0.136', '', '0');
+VALUES ('8015510003641', 'Premium Limoncello', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109051247', 'Dark Chocolate', '', '36.4', '24.2', '42.4', '30.3', '15.2', '12.1', '1.15', '0.455', '', '0');
+VALUES ('8015559000489', 'Pesto rosso', '', '', '43.2', '5.4', '3.6', '3.1', '', '3.8', '1.79', '0.704724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109052596', 'Dark Chocolate With Almonds', 'Sugar, butter chocolate, almonds, cocoa butter, soy lecithin - an emulsifier, natural flavor.', '40.48', '16.67', '47.62', '35.71', '9.5', '9.52', '0.06096', '0.024', '', '0');
+VALUES ('8015559001103', 'Pesto aux tomates sechees', '', '', '33.4', '3.2', '4.2', '3.6', '', '2.8', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109100532', 'Cacao Puro 340 GR. Valor', 'Cocoa butter: 16%', '16', '10', '16', '0.7', '', '26', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8015559017425', 'Bruschetta aux tomates séchées', '', '', '33.4', '3.2', '4.2', '3.6', '', '2.8', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109100648', 'Valor', '', '40', '17', '38', '36', '', '9.9', '0.06', '0.0236220472440945', '', '0');
+VALUES ('8015559057414', 'Carciofini interi', 'Artichauts 55%, huile de tournesol avec arômes naturels, sel de cuisine, vinaigre de vin, acidifiants: acide citrique et acide lactique, antioxydant: acide ascorbique.', '', '10', '1', '2.5', '0.6', '4', '2', '2', '0.78740157480315', '0', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109101911', 'Chocolate a la taza listo para tomar', '_Leche_ desnatada reconstituida, agua, azúcar, cacao desgrasado en polvo (5%), almidón modificado, estabilizador: E415, emulgente: lecitina de _soja_, sal, aromas', '0.7', '0.4', '17.8', '17', '', '3.2', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015559066850', 'Pesto alla genovese', 'Huile d\'olive 35 % (origine : Union européenne), basilic frais 32 % (origine : Italie), _noix de cajou_, _noix_ 7 %, huile d\'olive vierge extra 6 %, _fromage_ Grana Padano AOP 3 % (contient lysozyme d\'_oeuf_), pignons 3 %, _fromages_ râpées à pâte pressée (contient lysozyme d\'_oeuf_), sel, acidifiant : acide lactique, ail 0,5 %, fibre végétale.', '', '49.9', '7.5', '7.9', '0.6', '', '5.6', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109102246', 'Tokke', '', '23.8', '17.1', '52.4', '43.9', '', '6.2', '49.5', '19.488188976378', '', '0');
+VALUES ('8015559076033', 'Sauce à l’artichaut', 'artichauts 37 %, purée de tomate 30 %, huile de tournesol, huile d\'olive, oignon, FROMAGE (contient lysozyme d\'ŒUF), sucre, sel, ail 0,3 %, persil, poivre, acidifiant : acide lactique.', '', '21.9', '2.5', '6.2', '4.3', '', '1.9', '2.23', '0.877952755905512', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109103205', 'Chocolate 82% negro', 'Pasta de cacao, cacao desgrasado en polvo, manteca de cacao, azúcar, emulgente: lecitina de soja, aroma natural de vainilla. Cacao: 82% mínimo.', '44', '28', '22', '16', '', '12', '0', '0', '', '0');
+VALUES ('8015559076040', 'Pesto rosso', 'Tomates séchées 32 % (SULFITES), huile de tournesol, FROMAGE Grana Padano AOP (conservateur : lysozyme d\'ŒUF), basilic 7 %, sauce tomate 7 %, sucre, huile d\'olive, sel, FROMAGE pecorino 2 %, pignons 1 %, ail 0,3 %, vinaigre de vin (SULFITES), antioxydant : acide ascorbique, acidifiant : acide lactique.', '', '39.2', '5.4', '5.4', '4.1', '', '4.3', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109105445', 'Chocolate negro 70% con almendras', 'Pasta de cacao, almendras (25%), edulcorante: maltitol, cacao desgrasado en polvo, manteca de cacao, emulgente: lecitina de soja, edulcorante: glucósidos de esteviol (0.01%), aromas. Cacao 70% mínimo.', '42', '18', '26', '0.6', '', '13', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8015559076057', 'Pesto noix et ricotta', 'Tomates séchées 34 %, huile de tournesol, FROMAGE ricotta 19 %, huile d\'olive, NOIX 4,6 %, basilic 2,5 %, FROMAGE Grana Padano AOP 2 % (contient lysozyme d\'ŒUF), sel, sucre, pignons 1,5 %, ail 0,3 %, amidon de maïs, acidifiant : acide lactique, antioxydant : acide ascorbique, conservateur : ANHYDRIDE SULFUREUX.', 'https://static.openfoodfacts.org/images/products/801/555/907/6057/front_en.3.400.jpg', '38.4', '5.9', '5.1', '4.2', '', '4.9', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109106657', 'Chocolatissimo Valor', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015559076668', 'Pesto alla calabrese', 'SAUCE AUX POIVRONS ET RICOTTA Ingrédients poivrons rouges 38% (SULFITES), huile de tournesol, RICOTTA double concentré de tomate, fromage (LAIT, OEUF), huile d\'olive extra vierge, sucre, oignon, sel, acidifiant: acide lactique de maïs, PECORINO ROMANO Piment, origan. Peut contenir. traces de fruits [acoque celerj et poisson conserver au réfrioérateur après l\'ouvertu(?', '', '17.1', '2.4', '4.1', '3.4', '', '3.2', '2.43', '0.956692913385827', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109106817', 'Chocolate con leche : cookies y caramelo', '', '28', '18', '62', '58', '', '5.4', '0.49', '0.192913385826772', '', '0');
+VALUES ('8015559152072', 'Pesto rosso', 'SAUCE AUX TOb{ATES ET Ingrédients . Puree de tomates 35%, hulJedf tournesol, tomates séchées 12 % Grana Padano et Pecorino DOP 11 % (LAIT, OEUF NOIX DE CAJOU basilic, sucre, Poudre d\'ail, acidifiant . acide citrique, arôme, antioxydant . acide acorbique, piment Peut contenir traces de autres fruits à coque Celeri DORQnn_af —ci i ififpa', '', '32', '5.2', '9.1', '7.5', '', '6.5', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109106824', 'Chocolate 70% negro', '', '37', '24', '32', '27', '', '11', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015559201800', 'Tomate seco en aceite', '47% tomates desecados, aceite de girasol 5%, aceite de oliva, sal, especias, ajo, vinagre de vino (_sulfitos_), corrector de acidez: ácido láctico, antioxidante: ácido ascórbico', 'https://static.openfoodfacts.org/images/products/801/555/920/1800/front.13.400.jpg', '9.7', '1.2', '8.8', '5.9', '', '3.1', '8.2042', '3.23', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109107272', 'Chocolate negro 70%', 'Pasta de cacao. azúcar, cacao desgrasado en polvo, manteca de cacao, emulgente: lecitina de _soja_. Cacao: 70% mínimo.', '36', '23', '34', '29', '', '11', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015559300091', 'Pesto alla genovese', '', '', '45.5', '5.9', '7.5', '4.3', '', '4.8', '2.74', '1.07874015748032', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109108392', 'Cacao puro desgrasado en polvo', 'Cacao puro desgrasado en polvo. Manteca de cacao: 16%', '16', '10', '16', '0.7', '', '26', '0.0299999999999999', '0.0118110236220472', '', '1');
+VALUES ('8015559301500', 'Pesto ROSSO', '', '', '32', '5.2', '9.1', '7.5', '', '6.5', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109108408', 'A La TAZA', '', '0.7', '0.4', '18', '17', '', '3.2', '0.09', '0.0354330708661417', '', '1');
+VALUES ('8015559554166', 'Pomidory Platan Suszon Alla Calabrese 285G', '', '', '11.9', '1.4', '7', '6.4', '', '3', '2.72', '1.07086614173228', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109109825', 'Chocolate negro naranja 70', '', '35', '22', '34', '1.1', '', '10', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015559562147', 'Artichauts aux aromates', '', '', '6.4', '0.7', '3.2', '0.5', '', '1.4', '1.99', '0.783464566929134', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109109832', 'Chocolate negro', '', '49', '31', '19', '0.5', '', '11', '0.12', '0.047244094488189', '', '0');
+VALUES ('8015559567142', 'Olives vertes denoyautees', '', '', '13.2', '2.2', '0.2', '0', '', '0.9', '2.65', '1.04330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109110524', 'Chocolate Negro Naranja 70%', 'Pasta de cacao, azúcar, cacao desgrasado en polvo, manteca de cacao, naranja deshidratada (1,5%), emulgente: lecitina de _soja_, aroma. Cacao: 70% mínimo.', '35', '22', '34', '29', '', '10', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015559573143', 'Poivrons en filets', '', '', '0.1', '0', '5.2', '5.1', '', '0.3', '2.23', '0.877952755905512', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109111231', 'Bombones', '', '34', '21', '51', '9.5', '', '7.5', '0.2', '0.078740157480315', '', '1');
+VALUES ('8015559576014', 'Pesto Z Bazylii Alla Genovese Platan 190G', '', '', '38', '5.4', '4', '2.9', '', '5.4', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410109113020', 'Chocolate negro 92%', '', '50', '32', '13', '7.2', '', '12', '0.16', '0.062992125984252', '', '0');
+VALUES ('8015559580240', 'Poivrons aigre douc', '', '', '0.2', '0', '8.6', '8.3', '', '0.5', '1.71', '0.673228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111000707', 'Atun C / Tomate Isabel', 'Thon 65 et sauce tomate 35 (eau, hui\\e de soja, concentré de tomate, glucose, sucre, sel et arôme).', '8.5', '1.5', '2.7', '2', '0.4', '17', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565000251', 'Cantucci con cioccolato', '', '', '3.2', '0.5', '18', '1', '', '1.9', '12', '4.7244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111001063', 'Sardinas', '', '12', '2.4', '0', '0', '', '23', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565010021', 'Cantucci al limoncello', '', '', '8.5', '3.5', '70.8', '35.8', '', '8', '0.11', '0.0433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111001094', 'Octopus In Garlic Sauce', 'Cephalopods, vegetable oil (soy or sunflower oil), garlic and salt.', '25', '1.79', '1.79', '0', '0', '12.5', '1.27', '0.5', '', '0');
+VALUES ('8015565010472', 'Cantucci Alle Mandorle', '', '', '16', '1.6', '66', '33', '', '9.8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111002794', 'Atun Isabel Lomitos En Aceite De Soya 170 G a F', 'Thon, huile de tournesol et sel.', '10', '1.5', '0', '0', '0', '2', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565010915', 'Grissinetti mini breadsticks', 'Mini gressins Ingrédients\'. farine de BLÉ, huile de tournesol, huile d\'olive, sel marin, levure de bière. A conserver au frais et au sec,', '', '14', '5.9', '67', '1', '3.4', '10', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111002893', 'Atãºn En Aceite De Girasol Isabel 400G', '', '10', '1.5', '0', '0', '', '27', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565010984', 'Biscuits amande cacao Cantucci', '', '', '16.5', '4.8', '65.8', '33.6', '', '9.5', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111003197', 'Sardines à la tomate', '_Sardines_, eau, concentré de tomate (7%), huile de tournesol, sel, sucre, arômes', '8.7', '1.8', '2.4', '1.9', '0.3', '17', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565010991', 'Cantucci al Ciocolate', '', '', '2.5', '1', '21', '11', '', '2', '0.35', '0.137795275590551', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111004101', 'Mejillones en salsa vieira', 'Moules,tomate,huile végétale,sel,sucre et arômes naturels', '15.3', '1.7', '4.5', '1.24', '', '10', '1.55', '0.610236220472441', '', '0');
+VALUES ('8015565030203', 'Crackers Romero Laurieri', '', '', '11.8', '1.7', '68.3', '2.3', '', '10.3', '2.4', '0.94488188976378', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111004576', 'Mejillones Al Natural 13-18 Piezas Isabel', '', '3', '0.8', '1.9', '0', '', '17', '1.5', '0.590551181102362', '', '0');
+VALUES ('8015565030210', 'Crackers Olivas LAURIERI', 'Valor Energético I Valoare Energeticà I Wartofene e ana Grassi I Fat I Graisses I Fett I Vetteo I Fedt Fett Grasas Gràsime-T}usza di cui acidi grassi saturi I ofwhich saturates I dont acides gras saturés I davon gesàttigte Fettsàuren I waarvan verzadigde vetzuren I hvoraf mattede fedtsyrer I varav màttat fett I de las cuales acidos grasos I din care acizi gra;i saturati I vom kwasy t}uszaowe na cone Carboidrati I Carbohydrate I Glucides I Kohlenhydrate I Koolhydraten I Kulhydrat I Kolhydrat I Hidratos de carbono I Glucide W owodan di cui zuccheri I ofwhich sugars I dont sucres I davon Zucker I waarvan suikers I herafsukkerarter I varav sockerarter I de los cuales azücares I din care zaharuri I w cu Proteine I protein I Protéines I Eiweig I Eiwitten I Protein I Protein I protefnas I Proteine Sale I Salt I Sel I Salz I Zout I Salt I Salt I Sal I Sare I.Sél', '', '3.5', '0.5', '20.5', '0.5', '1', '3', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111004842', 'Isabel', 'Thon, huile de tournesol et sel. EN DE GIRASOL - Atün, aceite de girasol y sal. TUNA IN sunflower oil and salt', '10', '1.5', '0', '0', '0', '27', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565030258', 'Crackers Pizza Laurieri', 'PIZZA na calout-1f01S KO preset•M', '', '3.5', '0.5', '21', '0.5', '1', '3', '0.28', '0.110236220472441', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111005573', 'Pasta Salad With Chunk Light Tuna', 'Mix of vegetables (38%): sweet corn, carrot and tomato; pasta (wheat, egg); tuna (18%), olive oil (7%), sunflower oil, vinegar, salt, guar gum and natural flavors.', '15.29', '2.35', '10.59', '2.35', '1.2', '8.24', '0.98552', '0.388', '', '1');
+VALUES ('8015565030333', 'Tarali', '', '', '22.6', '3.1', '59.7', '1.2', '', '8.8', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111005580', 'Isabel, Vegetable Medley With Chunk Light Tuna', 'Mix of vegetables (68%): carrots, red pepper, peas,and onion; tuna (18%), olive oil (4%), sunflower oil, vinegar, water, sugar, salt, guar gum and natural flavor.', '4.71', '1.18', '7.06', '4.71', '2.4', '4.71', '0.83566', '0.329', '', '1');
+VALUES ('8015565030524', 'Frollini', '', '', '11.5', '1', '76.6', '25.2', '', '7.8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111005597', 'Tuna Salad With Vegetable', 'Mix of vegetables (43%): potato, carrot, peas, pepper, pickles, and olives; sauce (39%): water, sunflower oil, (vinegar, sugar, salt, modified corn starch, egg yolk powder, polysorbate 60, guar gum, xanthan gum, natural flavors and tuna (18%).', '16.47', '2.35', '7.06', '2.35', '1.2', '4.71', '0.83566', '0.329', '', '1');
+VALUES ('8015565030548', 'Galleta a La Miel Laureri', '', '', '11.9', '1.2', '76.6', '25.2', '', '8.7', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111005627', 'Pasta Salad With Chunk Light Tuna', 'Mix of vegetables (42%), sweet corn, carrot and tomato; pasta (wheat, egg); tuna (18%), olive oil (7%), sunflower oil, vinegar, salt, guar gum and natural flavors.', '15.29', '2.35', '10.59', '2.35', '1.2', '8.24', '0.98552', '0.388', '', '1');
+VALUES ('8015565030555', 'Grissinetti', 'WHEAT oil, sunflower oil, sea sait. brewefs yeast, onion, oregano, rosemary, CONTAINS in a dry place.', '', '3.5', '0.5', '21', '1', '1', '3', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111005856', 'THON ISABEL', '', '8.5', '1.5', '2.7', '2', '', '17', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565035123', 'Crespini', '', '', '3.5', '0.5', '21', '1', '', '3', '0.36', '0.141732283464567', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111006198', 'Solid Light Tuna In Water', 'Light tuna, water and salt.', '1.32', '0', '0', '0', '0', '25', '0.93472', '0.368', '', '1');
+VALUES ('8015565035147', 'Crespini rosmarini', '', '', '11', '1.6', '69', '2.6', '', '11', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111006228', 'Solid Light Tuna In Extra Virgin Olive Oil', 'Light tuna, extra virgin olive oil and salt.', '10.53', '1.32', '0', '0', '0', '27.63', '1.40462', '0.553', '', '0');
+VALUES ('8015565035154', 'Crespini', '', '', '11.1', '1.6', '69.1', '2.6', '', '10.8', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111006471', 'Ragout de thon', 'Mélange de légumes (46%) (Pomme de terre, oignon, poivron), thon(25%), bouillon végétal (pomme de terre, eau, carottes, oignon, chou, sucre et sel), huile d\'olive, concentré de tomate et sel.', '4.52', '0.72', '9.6', '1.72', '0.8', '6.72', '1.52', '0.6', '', '0');
+VALUES ('8015565035215', 'Scrocchi', '', '', '13', '2', '69', '1.2', '', '10', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111006723', 'Solid Light Tuna In Sunflower Oil', 'Tuna, sunflower oil and salt.', '10.71', '1.79', '0', '0', '0', '26.79', '1.31572', '0.518', '', '0');
+VALUES ('8015565051444', 'Crespini Brödpinnar Med Vitlök', '', '', '15', '5', '55', '4', '', '12', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111006785', 'Solid White Albacore Tuna In Olive Oil', 'White albacore tuna, olive oil and salt.', '10.53', '1.32', '0', '0', '0', '27.63', '1.40462', '0.553', '', '0');
+VALUES ('8015565060194', 'SCROCCHI SEMI DI SESAMO E PAPAVERO LAURIERI', 'farina di _GRANO_ tenero, olio d\'oliva, semi di _SESAMO_ (7%), olio di semi di girasole, semi di papavero (2,5%), sale marino, lievito di birra.', '', '16', '2', '66', '1.1', '3', '10', '2.4', '0.944881889763779', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111007591', 'Filets de Sardines au Naturel', 'Sardines, eau et sel', '8', '2.4', '0', '0', '0', '23', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565060200', 'Scrocchi', '', '', '4.7', '1.6', '19.9', '0.3', '', '3', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111007607', 'Sardine au naturel', '', '8', '2.4', '0', '0', '', '23', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565060460', 'LAURIERI CHOCOLATE CHIP COOKIES', 'farine de BLÉ tendre, sucre, hui tournesol, pépites de chocolat (sucre, de cacao, pâte de cacao, cacao en émulslflant : lécithine de SOJA), agents de (b\\tarbonate d\'ammonium, bicarbonat? atomes. conserver au frais et au Fein zut{erc Schokolade Kaka&lt;Ji l.tctthIÙSSeé?ç pteferibilmente entro I Bessg&quot; da avutt I 30.09.2018', '', '6.2', '1.4', '20.2', '8.5', '', '2.1', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111111205', 'Gelbflossen-thunfisch Hohen öl Oleicol Ro-85 GRS', '', '10', '1.5', '0', '0', '', '27', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565080338', 'Tarallucci', '', '', '24.6', '11.9', '59.7', '1.2', '', '8.8', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111211202', 'Atun', '0 0\'o son1eA', '10', '1.5', '0', '0', '0', '27', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565113012', 'Amaretti', 'sucre, farine de blé tendre, amandes, blanc d\'œuf, noyaux d\'abricot, arômes Ce produit contient du gluten, des amandes et des œufs. Fabriqué dans un atelier qui utili des noisettes et du sésame. Conserver au frais et au sec.', '', '7.8', '0.8', '76.6', '64.4', '0', '5.7', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111212209', 'Thon à l\'huile végétale', 'Thon, huile végétale, sel', '10', '1.5', '0', '0', '0', '27', '1.27', '0.5', '', '0');
+VALUES ('8015565113104', 'Frolletti al  Limone', '', '', '16.3', '2.3', '67', '24.2', '', '6.7', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111216009', 'Cons.atun Isabel 1 KG.', '', '10', '1.5', '0', '0', '', '27', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565113173', 'Almond biscotti', '', '', '16.5', '4.8', '65.8', '33.6', '', '9.5', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111603304', 'Sardines In Olive Oil', 'Sardines, olive oil and salt.', '12.35', '2.47', '0', '0', '0', '23.46', '1.37922', '0.543', '', '0');
+VALUES ('8015565113180', 'Nocciolato', 'ed hazetnuts (10%), eggs,c0CQ b—booate). Th Se a I blé tendre. huile de pa!me, noisette e-g de levage dammonium, Ce pro&t g,uten, des noisettes et des œufs. Fabriq-i Ltfrse de ei du sésamte. Conser«er au frais et au sec. Zutèten: L .Haselnüsg', '', '16.5', '6.2', '69', '23', '', '7.4', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111613037', 'Sardines à l\'huile de tournesol', 'Sardines, huile de tournesol, sel.', '12', '2.2', '0', '0', '0', '23', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015565113197', 'Krochi coconut cookies', 'Wheat flour, Sugar, Sunflower oil, Dessicated coconut (4%), Raising agents (ammonium bicarbonate, sodium bicarbonate),', '', '5', '1', '20', '7', '1', '2', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111633301', 'Sardines In Tomato Sauce', 'Sardines, tomato, vegetable oil (soy or sunflower oil), sugar, salt and natural flavors.', '8.93', '1.79', '1.79', '1.79', '0', '16.07', '1.27', '0.5', '', '0');
+VALUES ('8015565113227', 'Scrocchi aux olives', '', '', '5', '1', '0', '0', '', '3', '2.9', '1.14173228346457', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111761202', 'Moules Escabèches Tripack Isabel', '', '8.5', '1.6', '2', '0', '', '20', '1.5', '0.590551181102362', '', '0');
+VALUES ('8015565113463', 'Cantucci', 'farine de blé tendre, sucre, pépites de chocolat (suce, beurre de cacao, cacao en poudre, émulsifiant: lécithine de soja), huile de palme, œufs, agents de levage (bicarbonate d\'ammonium, bicarbonate de sodium), arômes. Ce produit contient du gluten, des œufs et de la soja. Fabriqué dans un atelier qui utilise des amandes des raisins et du sésame Conserver au frais et au sec.', '', '15.8', '4.9', '67.4', '33.5', '', '8.9', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111762209', 'Mejillones en escabeche', 'Mejillones, aceite de girasol, vinagre, sal, aromas naturales', '8.5', '1.6', '2', '', '0.4', '20', '1.5', '0.590551181102362', '', '0');
+VALUES ('8015565113500', 'Cantucci', 'flour, Sugar, almonds (18%), 011, eggs, cocoa powder (1.050K), agents (ammonium bicarbonate, sodium This contains wheat, gluten, aimonds and eggs. in a plant that also processes hazelnuts and sesame. Store in a cool dry place, amandes et au I farine de blé tendre, sucre, amandes (18%), palme œufs, cacao en poudre (1,5%), agens de levage (bicarbonate darnmonium, de sodum), arômes ce du gluten, des amande et \'Coisettes du sésame. Conserver au frais et au sec. und Weizenmehl, Zucker, Mandeln ikar- bond), kromen.ùesesProdukt enthàk Mandeln und Eier. Hergestellt in einem auchHase\\nüsse und Sesam vefatbeitet werden. -Trocken und kühl lagern. met amande\\en en cacao I Ingrediënten: iarwebloem, suiker, amandelen eieren, cacaopoeder (1,5%), bakpoeder (ammonium bicarbonaat; bevat gluten, arnandelen en ei. Geproduceerd in ookhazelnoten en sesam worden verwerkt. Koel en droog bewaren. Kager med mandler og kakao Ingredienser?. hvedemel, sukker, mandler (18%), es, kakaopu\\ver 0,5% hevemiddel (ammoniUm bikarbonat, natrium bikarbonat), aromastoffer. Dette produkt indeholder gluten, mandler og eg. Fremstillet i loka\\ehvor der ogsàbehand\\es hasselnadder og sesamfra. Opbevares tort og kaligt. Kakor med mandel och kakao I .lngredienser: vetemj61, socker, mandel (18%), palmolla, àgg, kakaopulver (1,5%), jasningsmedel (hjorthornssalt; natriurnbikarbonat), aromer. Denna produkt innehàller gluten, mandler OCh àgg. Producerad i samma fabrik som anvànder Och hanterar hasselnôtter och sesamfrôn. Fôrvaras svalt och torrt. Galletas y I Ingredientes: harina de trigo, azÜcar, almendras (18%), de palma, hue,eo, en potvo (1,5%), levadura en POIVO Gicarbonato de amoni0\' de Este productocon?ene gluten, almendrasyhueva Elaborado n-qkapszenna, migdaly (18%), olej palmowy w do pieaenia (WOdor0W9glan amonU, wodorowqglan Pro&kzaviera gluten, migda*y i jaja. Produko w %ryce, kt6ra r6wnieZ w miejsar. i seza?n. Biscuiçi cu migda\\e cacoa \\ Ingrediente: fàinà de grau, zahàr, migdale (18%)? u\\ei de palmier, pudrà de cacao agençi de afânare (bicarbonat amoniu, bicarbonat de sodiu), arome. rodusul conçine glUten, migdale Acest produs poate conçine urme de alergeni: alune si susan. A se lot ,l.sslv , .\'.ZJ..*.S consumarsi preferibitmente entro I Best before A consommer de préférence I Mindestens haltbar bis I Tenminste 30.09 I ti I Bast fore I', '', '5', '1.5', '20', '10', '1', '3', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111772208', 'Mussels In Pickle Sauce', 'Mussels, vegetable oil (soy or sunflower oil), vinegar, salt and natural flavors.', '8.5', '1.6', '2', '0', '0', '20', '1.5', '0.590551181102362', '', '0');
+VALUES ('8015592000101', 'Taralli gusto classico', '', '', '17.2', '11.2', '64.2', '10.1', '', '8.15', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111812102', 'Calamars Sauce Américaine Isabel', 'Calamars à la sauce américaine : ingrédients: calamars (65%), tomate, huile de tournesol, oignon, (7%), vin blanc, sucre, sel et arômes naturel.', '8.7', '1.1', '5.7', '2.7', '0.5', '11', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015592000569', 'Taralli Classici', 'Farine de BLÉ, vin blanc, huile de tournesol riche en acide oléique, huile extra vierge d’olive 2%, sel, arôme naturel', '', '17', '3.3', '65', '1.3', '2.9', '9.4', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111822200', 'Calamars à L\'encre Isabel', '', '8.7', '1.1', '5.7', '2.7', '', '11', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015592000576', 'Fiore Di Puglia Taralli Mediterr. gr. 250', '& huile de tourzol en lepices (m,n 05%, rorarim de et pat huile effa de tomates 1,3%, returel PRÉSERVER DANS UN ENDROIT ET SEC, LOIN DE DIRECTE ET DU PRODUIT EN ITALIE', '', '16', '2.9', '63', '1.4', '3.6', '9.4', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111852207', 'Octopus In Vegetable Oil', 'Cephalopods, vegetable oil (soy or sunflower oil) and salt.', '25', '1.79', '1.79', '0', '0', '12.5', '1.27', '0.5', '', '0');
+VALUES ('8015592000590', 'Fiore Di Puglia Taralli Peperonc. gr. 250', '', '', '17', '2.9', '64', '1.4', '', '9.3', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111862107', 'Octopus In Marinera Sauce', 'Cephalopods, vegetable oil (soy or sunflower oil), natrual flavors and salt.', '25', '1.79', '1.79', '0', '0', '12.5', '1.27', '0.5', '', '0');
+VALUES ('8015592000989', 'Fiore Di Puglia Taralli Finocchio GR. 250', 'Farine de blé, vin blanc, huile de tournesol riche en acide oléique, huile extra d\'olive 2%, sel, graines de fenouil 0.5%, naturel. Allergènes: Peuvent contenir de sèsame, sulfites. PRÉSERVER DANS UN ENDROIT FRAIS ET SEC, LOIN DE LA LUMIÉRE DIRECTE ET DU CHALEUR.', '', '18.4', '7', '65', '1.4', '3.1', '8.6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111903800', 'Vegetable Medley With Chunk Light Tuna', 'Mix of vegetables (68%): carrot, red pepper, onion and peas; tune (18%), olive oil (3%), sunflower oil, vinegar, water, sugar, salt and natural flavors.', '4.71', '1.18', '0', '4.71', '2.4', '4.71', '0.83566', '0.329', '', '1');
+VALUES ('8015592100177', 'Taralli', '', '', '16.5', '2.9', '63', '1.4', '', '9.4', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111923808', 'Ensalada Isabel Milanesa', 'Thon, maïs, carotte, champignon, poivron rouge, huile d\'olive, huile de tournesol, eau, vinaigre, sucre, sel et arômes naturels.', '7.8', '0.8', '4.1', '1.7', '1.4', '9', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015592789105', 'Taralu', '', '', '18.7', '2.5', '1.52', '1.52', '', '8.3', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111933807', 'Tuna Salad With Vegetables', 'Mix of vegetables (43%): patata, carrot, peas, pepper, pickles and olives; sauce (39%); water, sunflower oil, vinegar, sugar, modified corn starch, egg yolk powder, polysorbate 60, guar gum, xanthane gum, natural flavors and tea (18%).', '16.47', '2.35', '7.06', '2.35', '1.2', '4.71', '0.83566', '0.329', '', '1');
+VALUES ('8015592789303', 'Taralli Cipole e Olive', '', '', '18.7', '7.5', '65', '1.52', '', '8.3', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410111953805', 'Salade provençale de thon', '', '5.8', '0.7', '9.1', '6', '', '4.1', '1.2', '0.47244094488189', '', '0');
+VALUES ('8015602000015', 'Fusilli', 'semoule de _blé_ dur, eau, (rouge) poudre de tomates (2%), (vert) poudre d\'épinard (2%).', '', '1.5', '0.4', '74', '3.3', '5', '10.5', '0.037', '0.0145669291338583', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410113000880', 'Spanish Torres Campos Ibericos Rioja', '', '0.1', '0.1', '0.1', '0.1', '', '0.1', '', '', '', '1');
+VALUES ('8015602000022', 'Coquillettes complètes Bio (Gomitini)', 'Semoule complète de _blé_ dur*, eau. * Produit issu de l\'agriculture biologique certifiée.', 'https://static.openfoodfacts.org/images/products/801/560/200/0022/front.4.400.jpg', '2.4', '0.6', '70', '3.1', '8', '11.5', '0.007', '0.00275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410113001122', 'Vina Esmeralda 2013', 'sulfites', '', '', '', '', '', '', '', '', '11', '0');
+VALUES ('8015602000039', 'Spaghetti integrale', 'Sémola de _trigo_ duro integral*. (* Agricultura ecológica)', 'https://static.openfoodfacts.org/images/products/801/560/200/0039/front.5.400.jpg', '2.4', '0.6', '70', '3.1', '8', '11.5', '0.007', '0.00275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410113001924', 'TORRES NATUREO De-alcoholised MUSCAT', 'qATUREO VITT VIN omfcl ttadeforskning som Terres i frontenjòr avalkoholiserade viner av helt av Muscat. Efter att vinet harjâst; Noholenfiirsiktigt, jòr att bevara z Muscat passar titmürk\'t som aperitifmenà och rtsrütter. fleskens nedre kant Fdrvaring: Torrt svalt och mjrkt jppr± kkchclltit vin gjort pâ Muscatdruvor / Konserveringsmedel Tores / 08-54583390 kW.torŒs.se www.clubtorres.com 100 ml = det dagliga rekomenderade kaloriintaget •Referensintag fjr en genomsnittlig vuxen (80 kJ/2000 kcal) e75cI TORRES I', '4', '4', '0', '0', '', '0', '0', '0', '', '1');
+VALUES ('8015602000060', 'Gomitini - Coquillettes Blanches', 'Semoule de _blé_ dur, eau.', '', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410113003904', 'IBÉRICOS CRIANZA 2010 Rioja', 'Uvas negras: Tempranillo', '', '', '', '', '', '', '', '', '14', '0');
+VALUES ('8015602000077', 'Spaghetti', 'semoule de _blé_ dur, eau.', '', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410117000060', 'Chocolate negro suave 52% cacao', 'Pasta de cacao, azúcar, manteca de cacao, emulgente: lecitina de _soja_ (E-322) y aroma de vainilla. Cacao: 52 % mínimo.', '31', '19', '49', '48', '', '5.5', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015602000107', 'FUSILLIS COMPLETS', 'semoule complète de blé due, eau. OProduit issu de l\'agriculture biologique certifiée.', '', '2.4', '0.6', '70', '3.1', '8', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410117000084', 'Chocolat noir', '', '19', '19', '49', '48', '', '5.5', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8015602000138', 'Fusilli', 'semoule de _blé_ dur, eau.', '', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410117000169', 'Lindt milk chocolate', '', '32', '19', '56', '55', '', '7', '0.25', '0.0984251968503937', '', '0');
+VALUES ('8015602000145', 'Spaghetti tricolore', 'Semoule de blé dur, (rouge) poudre de tomates (2%), (vert) poudre d\'épinard (2%).', '', '1.5', '0.4', '74', '3.3', '3', '10.5', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410117618807', 'Lindor', '', '47', '35', '44', '43', '', '4.9', '0.23', '0.0905511811023622', '', '0');
+VALUES ('8015602000169', 'Penne', 'semoule demi complète de _blé_ dur, eau.', '', '1.6', '0.4', '73.5', '3.2', '4.2', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118012536', 'Sauce au Piment Rouge', '', '', '0.1', '', '0.1', '0', '0.6', '7.4', '2.91338582677165', '', '0');
+VALUES ('8015602000206', 'Farfalle', 'semoule de _blé_ dur, eau.', '', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118022344', 'Salsa kétchup', 'Tomates* (173 g por cada 100 g de ketchup), azúcar*, vinagre de vino*, sal, almidón de tapioca* y especias*. (* Ingredientes procedentes de la agricultura ecológica)', '0.2', '', '22.5', '', '', '1.9', '', '', '', '1');
+VALUES ('8015602000244', 'Coquillettes demi complètes', 'Semoule demi complète de _blé_ dur.', '', '1.6', '0.4', '73.5', '3.2', '4.2', '11.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118023938', 'Vinaigrette de cidre', '', '0', '0', '9.4', '7.2', '', '0.7', '4', '1.5748031496063', '', '0');
+VALUES ('8015602000367', 'Lasagne blanche', 'Semoule de _blé_ dur.', '', '1.4', '0', '73', '3', '2.8', '11', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118024904', 'Salsa Brava', 'salsa Brava. INGREDIENTES: Tomate, jarabe de glucosa-fructosa, vinagre, sal, almidôn modificado, aroma, acidulante (écido citrico), estabilizantes (goma y potâsico y benzoato Stelco) y potenciûdcr del (E 621 INAv.boItonci:e.ccrn CONTENIDO 320g e', '0', '0', '16', '11', '', '1.2', '3.6', '1.41732283464567', '', '0');
+VALUES ('8015602000398', 'Lasagnes aux épinards Bio - 250G', 'Béchamelsàs och riven ost. Gratinera i ugnen 35 minuter vic 2000C. [DKI PASTA AF DURUMHVEDE SEMULJE MED SPINATPULVER Ingredienser: Durumhvede semulje*, spinatpulver* (2%). * Okologisk Jordbrug. SKAL IKKE FORKOGES: et lag ukogte lasagnaplader lagges i et smus ovnfr besciamella-sovsen eller tomatsaucer over. Dette gentages nogle gange. Det overste la besciamella-sovs eller revet ost. Fadet bages nu i en forvarmer ovn pi 2000C i 35 minutt [ESI PASTA DE SÉMOLA DE TRIGO DURO ESPINACAS EN POLVO Ingredientes : Sémola de trigo duro*, espinacas en polvo* (2%). * Agricultura Ec016g NO PRECOCER : extienda una capa de lasafia cruda en el fondo de un molde refractario A continuacién, una capa de salsa bechamel bien liquida o de salsa de tomate. Continüe cada vez una capa de lasafia. Termine con una capa de salsa que cubra completament rayado y Ileve al horno precalentado a 2000C durante 35 minutos.', '', '1.4', '0.3', '73', '3', '3.2', '11', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118026359', 'Salsa kétchup Clásico con 6 vitaminas', 'Tomate (159 g por cada 100 g de ketchup), jarabe de glucosa y fructosa, vinagre, sal, almidón de maíz modificado, aroma, conservantes: sorbato potásico (E-202) y benzoato sódico (E-211); y vitaminas (niacina, ác. pantoténico, B6, B2, B1 y biotina). ', '0.5', '0', '18.7', '17.4', '', '1.4', '2.1082', '0.83', '', '0');
+VALUES ('8015602000404', 'Penne, deegwaren van volkoren durum tarwegriesmeel', 'Volkoren griesmeel van harde tarwe, water', '', '2.4', '0.6', '70', '3.1', '8', '11.5', '0.007', '0.00275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118028742', 'Ketchup sans gluten', 'Tomate (159 g por cada 100 g de kétchup), jarabe de glucosa - fructosa, vinagre, sal, almidón modificado, aroma y conservadores (sorbato potásico y benzoato sódico).', '0', '0', '19', '17', '', '1.4', '2', '0.78740157480315', '', '0');
+VALUES ('8015602000435', 'Penne blancs Bio', 'semoule de _blé_ dur, eau.', 'https://static.openfoodfacts.org/images/products/801/560/200/0435/front.11.400.jpg', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '5e-06', '1.96850393700787e-06', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118041147', 'Mostaza Original', '', '4.7', '0.9', '7.6', '2.8', '', '3.3', '3.9', '1.53543307086614', '', '0');
+VALUES ('8015602000442', 'La Bio Idea Vermicelli Wit', 'semoule de blé dur, eau. *Produit issu de l\'agriculture biologique certifiée.', '', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118041574', 'Mostaza Original', 'Agua, vinagre, grano de _mostaza_, jarabe de glucosa-fructosa, sal, especia (cúrcuma) y aroma natural. ', '4.7', '0.3', '7.6', '2.8', '', '3.3', '3.9', '1.53543307086614', '', '0');
+VALUES ('8015602000480', 'Spaghetti Semolato Demi Complets Bio', 'Semoule demi complète de blé dur*. * Produit issu de l\'agriculture biologique certifiée.', 'https://static.openfoodfacts.org/images/products/801/560/200/0480/front.13.400.jpg', '1', '0.4', '74', '3.2', '4.2', '11.5', '0.00762', '0.003', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118041581', 'Mostassa Dolç Prima 330G', '', '3.5', '0.2', '16', '16', '', '2.6', '2.8', '1.10236220472441', '', '0');
+VALUES ('8015602000497', 'Fusilli', 'semoule demi complète de _blé_ dur, eau.', '', '1.6', '0.4', '73.5', '3.2', '4.2', '11.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118042397', 'Kétchup Original', 'Tomate (159 g por cada 100 g de kétchup), jarabe de glucosa - fructosa, vinagre, sal, almidón modificado, aroma y conservadores: sorbato potásico (E-202) y benzoato sódico (E-211).', '0', '0', '19', '17', '', '1.4', '2', '0.78740157480315', '', '0');
+VALUES ('8015602000619', 'Epicerie / Céréales, Graines, Pâtes, Riz / Pâtes Blanches', 'durum vheat semolina0, Vater. 00rganic farrning. BLARcs, nmoule de blé dur. Ingrédients.\' semoule de blé dur\', eau. O?toduit Issu de l\'agriculture biologique ceflifiée. Hassef. landbau. SPtRELUe durumyetegtrn. dururnyetegryn0, yatterL %hJordbruE If SXRUEk.', '', '1.2', '0.3', '75', '3.3', '2.6', '10.5', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118042465', 'Kétchup Prima', 'Kétchup. IUGREOIEUTES: Tomate (159g pot cada 1000 de kétchupy, • fructosa, jatabe de fitucosa Vinagtc , modificadoe atoma y consctvad3tcs (sarbato potislco y sàdso). Consgmir gc:etcntemente antes Una vez conservat en el frigorifico. Con ptecinto de', '0', '0', '19', '17', '', '1.4', '2', '0.78740157480315', '', '0');
+VALUES ('8015673023159', 'Pizza poulet pesto', '', '', '6.9', '2.7', '28.7', '8.8', '', '9.1', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410118042755', 'Salsa ligera', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015673023913', 'Pizza blanche aux 3 fromages', '', '', '10', '5.6', '30', '2.5', '', '10', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410121060296', 'Café soluble', 'Café soluble tueste natural.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015673024095', 'Pizza', '', '', '5.6', '2.7', '30', '5.4', '', '6.6', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410121060333', 'Café soluble descafeinado', 'Café soluble descafeinado.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015721003010', 'Frijarielli', '', '', '16.5', '2.7', '3', '0.1', '', '3.2', '0.26', '0.102362204724409', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410124006475', 'Escuris Thon Blanc Entier A L\'Huile D\'Olive', '', '10', '1.6', '0.6', '0.5', '0', '25', '1.3', '0.511811023622047', '', '0');
+VALUES ('8015793001143', 'Orogiallo Fresh Pasta', 'Durum wheat semolina, water.', '', '0.32', '0.08', '60.56', '2.64', '1.6', '8.64', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410124006499', 'Escuris WEISSER THUNFISCH IN OLIVENOEL', 'THON BLANC, HUILE D\'OLIVE, SEL', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015793001327', 'Fusilli', '', '', '0.6', '0.1', '77.6', '3', '', '11.28', '0.025', '0.00984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410125245170', 'Figaro Olive Oil', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015793005127', 'Durum Wheat Semolina Fresh Pasta', 'Durum wheat semolina, water.', '', '0.32', '0.08', '60.56', '2.64', '1.6', '8.64', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410125602102', 'Spanish Olive Oil', 'Refined olive oil and extra virgin olive oil.', '93.33', '13.33', '0', '', '', '0', '0', '0', '', '0');
+VALUES ('8015794000121', 'Croccantelli Al gusto d\'aglio', '_farine de blé tendre _, huile d\'olive 14%, sel, levain, arômes naturels à l\'ail', 'https://static.openfoodfacts.org/images/products/801/579/400/0121/front.5.400.jpg', '14.1', '2.3', '74.2', '1.7', '5', '11.7', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410125877845', 'Lentille de corail', '', '4.2', '0.5', '55.9', '0', '', '9.4', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8015794000244', 'Crouton A L Huile D\'olive', 'CROCCANTELI A L\'HUILE D\'OLIVE  FARINE DE BLE TENDRE - Huile d\'oflve 14% - sel • Levain, Produit de boulangerie - Conserver en lieu sec et frais, Ne pas exposer du soleil. Produit en Italie', '', '14.1', '2.3', '74.2', '1.7', '5', '11.7', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410125877869', 'Lentilles vertes', 'Herkunftslàndt 900 g e S 410125 S 77 S 6 0 YES(L friiERC!MEK I GRONE LINSEN LENTILLES VERTES', '1.3', '0.3', '57.4', '0', '3.1', '23.7', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015794001494', 'Croccantelli', 'BRUSCHETTE G TRADITION FARINE DE BLÉ •Huile d\'olive Sel - Levain. PRODUIT DEBOULANGE /e Conserver en lieu sec et fraiseriepase Produit en Italie Poids net:', '', '14.1', '2.3', '74.2', '1.7', '5', '11.7', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410125912317', 'Ensaladas', 'haricot rouge 48% legumes en proportions variablés 48% (haricots verts,carottes mais),eau,sel,antioxydantF3d5 Consommer de preférence avant le A/0ir emballage A conserver dans un endroit frais et sec Valeurs nutritionnelles pour 100a:energie 73,08Kcal/ 31039kJ,matières grasses &lt;05g dont acides glas saturés Oa,glucides 13,87g dont sucres $g,protéines 4 4g, fibres 3,92gjsodium 0,26g', '13.87', '0.5', '0.5', '0.5', '3.92', '4.4', '0.3', '0.118110236220472', '', '1');
+VALUES ('8015794001531', 'Croccantelli AL ROSMARINO.', 'WHEATFLOUR-O/iveoi/(f4%), Yeast - Rosemary (0,5%). BAKERYPRODUCT. Keep cool and dry. Do not expose to sunlight. Product of Italy Net Weight: 150 g (5,2 oz), BRUSCHETTE AU ROMARIN nrédients?. FARINE DE BLÉ. Huile diolive (12 - Levain - Romarin (0,5%). sev DUITDEBOULANGER/E PRO en lieu sec et frais. Ne pas exposera solev,it en Produ poids net: 50 g (5,2 BRUSCHETTE MIT Zutaten: Rosmarin (0,5%). -n A vorso nnenticht schùt; 150g (5,2 OZ)', '', '14.1', '2.3', '74.2', '1.7', '5', '11.7', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410125950500', 'Pois chiches', 'Pois chiches, eau, sel, antÌoxugène E-385, E-224 (sulfite). Consumir preferentemente antes del fin VER TAPA A consommer de préférence avant Ie: 10rÌgine:/Lot: VOIR SUR LE COUVERCLE Peso Neto: Peso Escurrido: Poids net: Poids net égoutté 295ge 185gËÛ', '2.26', '0.36', '14.67', '0', '3.54', '6.21', '0.625', '0.246062992125984', '', '1');
+VALUES ('8015794001548', 'Croccantelli Alle Olive', '', '', '14.1', '2.3', '74.8', '1.7', '', '11.7', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127010257', 'Harina fina de Mais', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015794001593', 'All\'aglio', '', '', '14.1', '2.3', '74.2', '1.7', '', '11.7', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127012183', 'Flanín Vainilla Maizena', '', '2', '1.3', '29', '25', '', '4.2', '1.4', '0.551181102362205', '', '0');
+VALUES ('8015854014143', 'Tulipani di pasta sfoglia', '', '', '29.8', '14.3', '54.9', '18.2', '', '6.7', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127012626', 'Maizeba potax', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854015379', 'Gecchele Fiamme Al Cocco 250G', '', '', '20.3', '18', '57.9', '45.6', '', '3.4', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127041473', 'Crema Deshidratada De Espárragos Knorr', '', '0.9', '0', '4', '0', '3.5', '0.6', '0.8', '0.31496062992126', '', '1');
+VALUES ('8015854020694', 'Crostata Alla Ciliegia', '', '', '12', '6.1', '67.2', '31.9', '', '4.5', '0.79', '0.311023622047244', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127044757', 'Sopa Deshidratada Maravilla Knorr', '', '0.5', '0.1', '4.1', '0.5', '', '0.9', '0.83', '0.326771653543307', '', '1');
+VALUES ('8015854020700', 'Crostata all albicocca', '', '', '12', '6.1', '67.2', '34.9', '', '4.5', '0.79', '0.311023622047244', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127045334', 'Sopa De Fideus En Sobre Knorr', '', '0.5', '0.1', '3.7', '0.5', '', '0.8', '0.7', '0.275590551181102', '', '1');
+VALUES ('8015854021233', 'Ciambella zuccherata', '', '', '21.1', '3', '51', '27.2', '', '6.8', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127045556', 'Sopa doce verduras deshidratada', 'Verdurasy  hortalizas (30%) (zanahorias, cebolla, puerro, judías verdes, raíz de apio, guisante, coliflor, nabo, chirivía, calabaza, perejil), fécula de patata, sal, patata (9%), azúcar, grasa y aceite vegetales, sales minerales naturales*, extracto de levadura, aromas (contiene apio, soja y trigo), especias, jarabe de caramelo (E-150a). *Sales minerales con menos sodio que la sal común debido a su contenido natural en potasio.', '6', '2.5', '46', '16', '9', '7', '21.336', '8.4', '', '0');
+VALUES ('8015854021288', 'Gecchele Ciambella Yogurt GR. 400', 'farine de blé, sucre, oeufs, huile de tournesol, yaourt 8%, poudres à lever: E450, E500, amidon de blé, protéines de lait, eau, sel, émulsifiant: E471, arôme, Peut contenir des traces de fruits à coques et de soja', '', '21.1', '3', '51', '27.2', '', '6.8', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127050482', 'Mayonnaise 225 ML.', 'Aceite de soja (64%), agua, yema de HUEVO, vinagre de vino blanco, azùcar, sal, almidòn modificado de maìz, aroma, zumo de limòn concentrado, antioxidante (E385), colorantes (extracto de pimentòn, carotenos).', '61', '9.7', '2', '1.4', '0', '0.7', '1.1', '0.433070866141732', '', '0');
+VALUES ('8015854032260', 'Grissini Torinesi', 'Farine de _blé_, huile de palme (11 %), extrait de malt (_orge_ et gruau de maïs), sel, levure.', '', '11', '4.2', '69', '5.2', '4', '10', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127050819', 'Salsa Mayonesa Vidrio Hellmann\'s', 'Ingredientes: Aceite de soja (64%), agua, yema de HUEVO, vinagre de vino blanco, azücar, sal, almidon modificado de maiz, aroma, zumo de limón concentrado, antioxidante (E385), colorantes (extracto de pimentón, carotenos)', '61', '9.7', '2', '1.4', '0', '0.7', '1.1', '0.433070866141732', '', '0');
+VALUES ('8015854040432', 'Tostarelli', '', '', '12.3', '1.8', '67.9', '3.4', '', '11.8', '2.45', '0.964566929133858', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127066414', 'Pastilles De Caldo De Peix Knorr', 'sel, matières grasses et huiles végétales (huile de palme, huile de palme totalement hydrogénée, huile d\'olive vierge), glutamate de sodium, inosinate disodique, guanylate disodique, poisson en poudre 5,4%, extrait de levure, sucre, épices, poudre d\'oignon déshydratée, caramel, extrait de vin blanc, arômes', '22', '14', '3.7', '2.3', '0.5', '13', '54.8', '21.5748031496063', '', '0');
+VALUES ('8015854040449', 'Tostarelli', 'Informazioni nutrizionali medie per 100 g Energia 1832 kJ / 435 kcal Grassi g - di cui acidi grassi saturi 2,5 g Carb01drati 68,4 g - di cui zuccheri 3,6 g Fibre 2/9 - Proteine 12,1 g- Sale 3,3 g II Fornaio del Casale S.P.A. 31032 casaie sui Sile (N) Tel. 0422/788053 Prodotto e confezionato nello stabilimento di via Ferrata, 21-37040 Caselle di Pressana (VR) Contattaci su: www.gecchele.com', '', '11.9', '2.5', '68.4', '3.6', '2.9', '12.1', '3.3', '1.2992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410127101900', 'Spaghetti bolonesa', '', '0.7', '0.2', '21', '2.3', '', '4.1', '0.93', '0.366141732283465', '', '1');
+VALUES ('8015854040791', 'Bruschetta', 'Farine de _blé_ tendre, eau, huiles de tournesol 2,5 %, levure, sel, farine de _blé_ malté. Traité à l\'alcool éthylique.', '', '3.4', '0.7', '47.3', '1.1', '', '8.3', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128000400', 'Agua mineral natural', 'Agua mineral natural. Manantial Trescasas', '', '', '', '', '', '', '0.00033', '0.00013', '', '1');
+VALUES ('8015854040845', 'Piadina sottile', 'Farina de blès eau, huile d\'olive vierge extra 40,61 huile de tournesol, sel, poudre à levere: carbonates de sodium, arntqon de mais, djphosphates, cconservateur: sorbate de potassium/Peut contenir des traces de soja,', '', '7.8', '1.1', '50.6', '1.5', '3', '7.3', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128001186', 'Pascual Low Fat Strawberry Yogurt', 'Nfftion Declaration per g/ Informacién EglValorenergéticolÉnergiel FatlGragslMatièresgrasseslLipidos Ofhhich/Delascuales/Dont/Dosquais/14i4 Saturates/Saturadas/Acidesgrassaturés/ Ados arb*ateIHidratosdeCarbono/Gluddesl HidratosdeCarbono/œJl»y.sll SaltiSallSellSal/', '1.1', '0.7', '17', '15', '', '2.8', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015854110739', 'Casereccio', '', '', '16.3', '8.5', '69.9', '27.1', '', '6.1', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128001209', 'Pascual L / Fat Peach / Passion X4', '', '1.1', '0.7', '17', '17', '', '2.8', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015854110753', 'Zuppino integrale', '', '', '14.4', '6.7', '57.9', '25.4', '', '7.4', '0.86', '0.338582677165354', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128002800', 'Bebida de Café + Soja Cappuccino', 'Agua, semillas de _soja_ (11%), azúcar, a-ciclodextrina, extracto de café (0,3%), fosfato tricálcico, estabilizantes: celulosa, carboximetilcelulosa, fosfato disódico y carragenato, cacao desgrasado (0,2%), extracto de café descafeinado, aromas, sal, edulcorantes (acesulfamo K, sucralosa), antioxidante: E-306, vitaminas A y D.', '1.9', '0.5', '6.2', '5.6', '1.6', '3.1', '0.12', '0.047244094488189', '', '1');
+VALUES ('8015854113181', 'Boudoirs Savoiardi', '', '', '3.8', '1.1', '76.5', '42', '', '8.5', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128010096', 'Leche entera', '', '3.6', '2.5', '4.8', '4.8', '', '3', '0.12', '0.047244094488189', '', '1');
+VALUES ('8015854113211', 'Savoiardi sardi gustosi', 'uova 50%, zucchero, farina di _grano tenero tipo 00_', '', '7.2', '2.2', '62.5', '37.2', '3.7', '9.8', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128010119', 'Leche semidesnatada Pascual', '\'VRN: Valor de Referencia de Nutrientes/ \'VRN: Valor de Referência do Nutriente/ NRV: Nutrient Reference Value. Una Vez abierlo conservar et envase cerrado en nevera y consumir antes de 3 dias./ Depois de abertae conservar a embatagem fechada no frigorifico e consumir antes de 3 dias./ Keep container clos•ed and refrigerated after opening and consume within 3 days. ES ES 15.00220/BU 15.05401 /B CE CE Toste & Ouatity Institute.', '1.6', '1.1', '4.9', '4.9', '0', '3', '0.12', '0.047244094488189', '', '1');
+VALUES ('8015854114034', 'Amaretti', '', '', '', '1', '', '67.5', '3', '7', '0.13', '0.0511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128010157', 'PASCUAL CALCI SENC.', '', '3.6', '2.5', '5.7', '5.7', '', '3.9', '0.2', '0.078740157480315', '', '1');
+VALUES ('8015854120257', 'Cantucci Del Casale Gr.250', '', '', '12.5', '5', '73.7', '47.7', '', '9.7', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128010195', 'Leche Calcio natural', '', '0.3', '0.2', '5.7', '5.7', '', '3.9', '0.2', '0.078740157480315', '', '1');
+VALUES ('8015854120530', 'Allegria', '', '', '28', '16', '61', '27', '', '5.1', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128010225', 'Leche', '', '0.3', '0.2', '5', '5', '', '3.1', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8015854121339', 'Ventaglini-clarinetti Di Sfogl', 'Prodotto dolciario da forno Ingredient[• farina di frumento, grassi ed oli vegetali (palma e girasole), zuccheroj malto di frumento in polvere, sale, emulsionante: E471t aromi. Può contenere tracce di frutta secca a guscio e soia. Informazioni nutrizionali medie per 100 g Energia 2164kj/ 518 kcal Grassi 29,8 g - di cui acidi grassi saturi 14,3 g Carbojdrati 54,9 g di cui zuccheri 18,2 g Fibre 13g- Proteine g- Sale 0,83 g Conservare in luogo fresco ed asciutto. j Da consumarsi preferibilmente entro il: vedi il lato della confezjone. Il Fornaio del Casale S.pA Vta M, Buonarroti 5 31032 0422/788053 Prodottoeconfezionato stabilimento di Via 10 Maggio,8- 26010 Pouaglio ed Uniti (CR) 8 015854 121339', '', '29.8', '14.3', '54.9', '18.2', '1.8', '6.7', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128030711', 'Zumo de naranja exprimida sin pulpa &quot;Pascual Sólo Zumo&quot;', '100% naranja exprimida', '0.1', '', '9.4', '', '', '0.6', '', '', '', '1');
+VALUES ('8015854123418', 'Kalimero al cioccolato', 'Farine de _blé_, sucre, huiles et graisses végétales (palme, sal, colza, karité, mangue), pâte de cacao, beurre de cacao, poudre de _lactosérum_, poudre à lever : E500, E450, E503, sucre inverti, _oeuf_ en poudre, sel, arôme naturel, colorant : E100, émulsifiant : E322 (de _soja_).', 'https://static.openfoodfacts.org/images/products/801/585/412/3418/front.7.400.jpg', '19.87', '10.36', '64.4', '36.59', '3.15', '5.55', '0.32', '0.125984251968504', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128110741', 'YOGUR PASCUAL SABOR NATURAL PACK-4', '', '2.3', '1.6', '6.4', '4.5', '', '3.3', '0.12', '0.047244094488189', '', '1');
+VALUES ('8015854123920', 'Carrefour Madelines', '', '', '18.4', '1.6', '60.8', '29.3', '', '5.5', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128112806', 'Lemon/limon', '', '2.1', '1.4', '15', '13', '', '3', '0.11', '0.0433070866141732', '', '1');
+VALUES ('8015854124255', 'Coni per gelato', '', '', '3.1', '2.4', '80.4', '3.1', '', '9.8', '0.54', '0.21259842519685', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128112905', 'Yaourt', 'd noJ61cn\'5', '2.1', '1.4', '15', '13', '', '3', '0.11', '0.0433070866141732', '', '1');
+VALUES ('8015854140255', 'Crostella', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128112936', 'Yaourt', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('8015854140415', 'Gecchele PLUMCAKE Variegato GR. 300', '', '', '21.1', '3', '51', '27.2', '', '6.8', '0.88', '0.346456692913386', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128113261', 'Creamy low fat', 'coour: errot pasteuriüdo dépoés&é de futafrresa 74?é), \'arabe Apreso production 2sàëi25', '1.1', '0.7', '17', '15', '', '2.8', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015854140453', 'Torta Treccia Cioc. gr300 Gecch', '', '', '6.8', '3.3', '35', '20.1', '', '8.3', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128113285', 'Pascual Peach & Passion Fruit Low Fat Yoghurt 125G X', 'Low fat paqeŒised fruit Ingred!€nti; desptles ngré écrémé concednetrtf recqnstituel ens pesQ4 heùes, logurte meio o ermentaçao com pêssego e maracu\' ln steuriza ocentrado,. reconstituiao, Bssegj e, tenoura, pasteurizad ll(Eljà2) Ploquction bèfor 10 et01Poi sNèt/Pso', '1.1', '0.7', '17', '15', '', '2.8', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015854140866', 'Chambellan Bicolore', 'Farine de _blé_, sucre, _œufs_, huile de tournesol, _yaourt_ 8 %, poudres à lever : E450, E500, amidon de _blé_, cacao maigre en poudre 1 %, protéines de _lait_, eau, sel, émulsifiant: E471, arôme.', '', '21', '3', '51', '27', '', '6.8', '0.88', '0.346456692913386', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128113292', 'Low fat creay', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854140880', 'Ciambella Limone', 'Farine de _blé_ tendre, sucre, _oeufs_, huile de tournesol, _yaourt_ 8 %, poudres à lever : E450, E500, jus de citron 1 %, protéines de _lait_, eau, sel, émulsifiant : E471, arôme.', '', '21', '3', '50.9', '27.2', '', '6.9', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128113445', 'pascual lite 0%', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854141283', 'Torta del fornaio al limone', '', '', '13.8', '4.1', '56.3', '25', '', '4.7', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128113476', 'Pascual Yogurt Fruit Salad Non Fat', 'cote cmml( Sd(ld www.pascuaigroup.com', '0.5', '0.2', '9.1', '7', '', '3.3', '0', '0', '', '1');
+VALUES ('8015854142037', 'Brownies au Cacao', 'Sucre, farine de _blé_, eau, huile de tournesol, poudre de cacao 8 %, pépites de chocolat 6 % (sucre, pâte de cacao, beurre de cacao, émulsifiant: lécithine de _soja_), _œufs_ en poudre, _beurre_ en poudre (_beurre_, maltodextrine, protéines de _lait), émulsifiants mono et diglycérides d\'acides gras, esters de 1,2-propanediol d\'acides gras, mono et diglycérides d\'acides gras, sirop de glucose, _lait_ écrémé en poudre, agents agents levants: carbonates de sodium, diphosphates.', '', '17.6', '8.4', '51.3', '31.9', '', '7', '0.51', '0.200787401574803', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128120979', 'Pascual Creamy Greek Style Estilo Griego 125G 1X4 Pack', 'ta per 100g/lnformaci6n NuticbnajplÜ 12E 111*6yassesILipidŒ _/ù$Jj fitàlDebscuales/Dont/Dosquais/tëa elHldrabsdeCarbono/Glucides/ DOS', '6.5', '4.4', '13', '12', '', '2.9', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015854142266', 'Gecchele Rotolo GR.', '', '', '17.7', '9.7', '57', '35.7', '', '5.1', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128121303', 'Fruit Yogurt PASCUAL 4X125G - Non-fat STRAWBERRIES', 'Lait concentré entier reconstitue et crème (9,3%) pasteurisés, sucre (7,9%),amidon modifié (E-1422), gélatine et ferments lactiques.', '8', '6', '16', '15', '', '4', '0', '0', '', '1');
+VALUES ('8015854142426', 'Gecchele Mr. plunk Plum Cake', '', '', '22', '5.1', '51.2', '28.9', '', '6.6', '0.82', '0.322834645669291', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128121365', 'Yaourt lite 0%', '', '1', '1', '4', '1', '', '8', '1', '0.393700787401575', '', '1');
+VALUES ('8015854142464', 'Dark Plunk al Cacao', 'Farine de _blé_, sucre, _œufs_, huiles de tournesol, pépites de chocolat 7 % (sucre, pâte de cacao, beurre de cacao, émulsifiant : E322 (de _soja_)), _yaourt_, cacao maigre en poudre 4 %, poudres à lever : E450, E500, E503, amidon de _blé_, eau, protéines de _lait_, sel, émulsifiant : E471, arômes.', '', '22.5', '12.6', '48.6', '16.4', '', '7.6', '1.08', '0.425196850393701', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128121372', 'Lite 0% Mélange de fruits', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854142501', 'Gecchele Quadrone Variegato 400G', '', '', '20.3', '2.2', '52.2', '23.3', '', '6.2', '0.625', '0.246062992125984', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128121556', 'Fruit Yogurt PASCUAL 4X125G - Low Fat Cherries & Berries', '', '1.5', '1', '22', '19', '', '4', '0.5', '0.196850393700787', '', '1');
+VALUES ('8015854142563', 'Plumcake Int / Yog. gr300 Gecchel', 'sucre, oeufs 15 0%, farine de blé entier, farine de blé, huile de tournesol, yaourt 6 % , sucre de canne, poudres à lever: E450, E500, E503, amidon de blé ; eau, inuline, protéines du lait, sel, émulsifiants: E471, arômes . Peur contenir des traces de soja et fruits à coque Conserver au frais et au sec. Valeurs nutritionelles moyennes pour 100 g Énergie 1713 kj ? 409 kcal Matières grasses 19,1 g ? dont acides gras saturés 11 ,9 g Glucides 50,8 g -dont sucres 31 g Protéines 7,4 g -Sel 1,1 g À consommer de preference avant le: voir face avant de l\'emballage IL FORNAIO DEL CASALE SPA Via M Buonarroti, 31032 Casaie sui Sile (TV) - Italie', '', '19.1', '11.9', '50.8', '31.6', '', '7.4', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128121730', 'Pascual greek', '', '8', '6', '16', '15', '', '4', '', '', '', '1');
+VALUES ('8015854143614', 'Opla', '', '', '17.6', '10.6', '55.5', '37.8', '', '5.1', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128160319', 'Agua mineral natural', 'Agua mineral natural. Manantial Trescasas', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854164107', 'Focaccia Pomodoro e Olive', '', '', '8', '1', '46', '4', '', '8', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128160623', 'Agua Bezoya', 'Agua Mineral', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854165326', 'Rustegone gressins', 'Grissino di tipo &quot;0&quot; con olive Ingredienti: farina di grano tenero tipo olio di palma, olive nere olio d\'Oliva 3%, lievito, sale, farina di frumento maltato, aromi. Contiene glutine. Pub contenere tracce di semi di sesamo.', '', '12.8', '4.7', '64.3', '1.3', '7.1', '11.3', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128168179', 'Bio frutas Zero pascual', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854165340', 'Sesamone', '', '', '19.2', '2.9', '57', '2.6', '', '10.4', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128168506', 'Bi frutas Zero Mediterraneo', '', '0', '0', '2.6', '2.6', '', '0.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015854165449', 'Grissini Al Sesamo Fornaio Del Casale', '', '', '15', '2.5', '65', '5', '', '11', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128168568', 'Bi frutas zero pacifico', 'Catt6n FSC FSco c014047 I -formacitfi nutricional. Nutrition in ormation Averageya Iles er 100 ml Og e las dosquais ofwhjclu• Saturados Saturateç 0 H±tosdeûrbonolœb h drate 2,2g \' Suqrs: 12 g Fibra alimentaria/ Fibril fibre:', '0', '0', '0', '0', '0.5', '0.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015854166385', 'Pan di sfoghlia', '', '', '5.6', '0.53', '54.5', '5.5', '', '8', '1.77', '0.696850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128168650', 'Bi frutas fresa y platano', '', '0', '0', '2.6', '2.3', '', '0.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015854169683', 'Taralli', 'tarine de BLÉ « vin blanc% huile de LOt.trrÌQ801 oléique, sel* huile d\'olive extra vie I % , G LUTEN contenir (Es traces SULFITES, GRAINES DE À LAIT ei mgsAxluits à buse de LAIT. nelEs kJ / 324 4435 e ont mt&btes fi}\'011segver$Altuis ct L(Yr DE\'PRODUCTICjN( À CONSOMMER DE AVA»r LE: LI 7352', '', '12.76', '1.76', '44.85', '0.45', '1.23', '6.78', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128168681', 'Bi Frutas Zero Mediterraneo', 'lecheccnedulccnnteyconvitìMinaiAICyE. (pectìtlà), acidulante (cido .citrico A, edulconnte (suctàl ycolwte 60ai).Atérgenosen negitlfiazüaresaia \'dosContieneuüar$ naturalmenteptesefites Bebidarefrescantenistadesumodefiutase e. è leite edulconnteecorn delnn•a pess g Semaçücaresadicionados(ontemaçücar$ naturalwtepresentes. Refreshin beveragewithablendoffruitiuice and sweetenerandvitamins.A,C andElngredients;water, fruit jure (orange, peachandcarrot•uicefronl milk 330', '0', '0', '2.6', '2.6', '0.6', '0.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015854170344', 'Snack à base de pdt', '', '', '26.8', '2.6', '62.4', '1.2', '', '3.3', '2.82', '1.11023622047244', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128168834', 'Original', '', '2.3', '1.6', '6.4', '4.5', '', '3.3', '0.12', '0.047244094488189', '', '1');
+VALUES ('8015854170368', 'Tubini', 'Potato starch 31%, sunflower seed-oil 30%, dried potatoes 27%, rice flour, salt, vegetables extracts (paprika, turmeric), dehydrated garlic, onion powder, flavourings, dextrose.', 'https://static.openfoodfacts.org/images/products/801/585/417/0368/front_en.7.400.jpg', '34.5', '3.2', '56.4', '1', '', '3.3', '2.3368', '0.92', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128169176', 'Bebida de soja sabor avellanas', 'agua, semillas de _soja_ (11%), azúcar, fosfato tricálcico, estabilizantes (E-460, E-466 y E-407), aroma, sal, edulcorantes (acesulfamo k y sucralosa), antioxidante (E-306) y vitaminas A y D.', '1.6', '0.3', '2.3', '2', '0.7', '3', '0.08', '0.031496062992126', '', '1');
+VALUES ('8015854170399', 'Casalinghe', '', '', '35.6', '4.1', '49.1', '0.9', '', '4.4', '2.95', '1.16141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128169886', 'Bebida de arroz', 'Water, rice (12%), sunfiower oil, tricalcium phosphate, stabiliser (gellan gun), potassium chloride, salti flavouring, anti-oxidant (tocopherol-rich and Vitamin D. May contain gluten, soya and nuts. Allergens in bold. Shake before Keep container dosed and refrigerated after opening and consume within3 days, Informad6n nutricionaLValores medios por:/ Dedaraçâo Nutricional. Valores médios:/Nutritionalinformatio', '1', '0.1', '9.7', '7.1', '0', '0.2', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015854171051', 'Salted Peanuts', '', '', '48.87', '3.7', '18.4', '4.9', '', '19.57', '1.85', '0.728346456692913', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128169916', 'Vive Soy De Pascual Bebida De Almendra', 'esbbilizantes(gomagelana y goma garrofin)t fosfato tricilcico, sal, ernulgente (Htina de girasol), aroma, antioidante (eftacto rico en tocoferoles), difosfato férrico y vitamina Dé Puede contener gluten y soja. Alérgenos en negrita. Agitar antes dé seryirq Una Vez abiertoconservarelenvasecerradoenneverayconsumirantesde3dias.', '1.2', '0.1', '3.4', '3.3', '0.3', '0.5', '0.12', '0.047244094488189', '', '1');
+VALUES ('8015854171358', 'Salatini mix', '', '', '20', '2', '60', '7', '', '10', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128169947', 'Bebida de avena', 'Agua, _avena_ (14%), fosfato tricálcico, estabilizante (goma gelana), aroma, biotina y vitamina D.', '0.9', '0.2', '6.3', '4.7', '0.5', '1.3', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015854300574', 'Pettegolezzi di Colombina', 'Farine de _blé_ tendre, _œufs_ 22 %, huile de tournesol 20 %, sucre, _lait_ écrémé, marsala, farine de _soja_, _beurre_ 1,5 %, sel, amidon de maïs, graisses végétales non hydrogénées (sel et cacao), rhum, arômes.', '', '26.3', '3.4', '58.4', '16.5', '', '7.8', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128191160', 'Batido Okey Cacao', '', '1.3', '0.9', '11', '11', '', '2.2', '0.21', '0.0826771653543307', '', '1');
+VALUES ('8015854300680', 'Le Bugie Di Brighella GR.', '', '', '34.5', '4.3', '50.5', '13.6', '', '10.2', '0.74', '0.291338582677165', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128191702', 'Colacao Energy', 'IfCHE /ngtedientes: Leche parcialmente cacao desgrasado. minerales (fosfato bicàtcico y sulfato estabilizantes (E 339. E 471. E 1071, sal. INFORMACIÔN', '0.75', '0.5', '12', '11', '0.3', '3', '0.15', '0.0590551181102362', '', '1');
+VALUES ('8015854301403', 'Galani dei dogi', 'farine de blé, oeufs, huile de tournesol 20%, sucre, lait écrémé, marsala, farine de soja, beurre sel, amidon de maïs, qraisses végétales non-hydrogénées (sal et cacao), fiqueur Rhum, arôme. Peut contenir des traces de fruits à coques, Valeurs nutritionelles pour 100g Energie 2119 kJ - 507 kcal Matières grasses 26,3 g - dont acides gras saturés g Glucides 58,4 g - dont Sucres 16,5 g Fibre 2,5 g - Protéines 7,8 g - Sel 0,8 g Conserver au frais et au sec À consommer de préférence avant le: voir face avant de l\'emballage. Il Fomaio del Casale S.P.A. Via M. Buonarroti n. 5 31032 casaie sui Sile (TV) -Tel. 0422788053 www.gecchele.com', '', '26.3', '3.4', '58.4', '16.5', '2.5', '7.8', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128191825', 'Okey fresa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015854740509', 'CROSTATA CERISES', 'Farine de blé, purée de cerises 28%(sirop glucose fructose, purée de cerises 35%, sucre, gélifiant: pectine, colorant:cochenille, arômes), sucre, margarine végétale(huile de palme, huile de tournesol), beurre, œufs frais, poudres à lever: carbohydrates de sodium, diphosphates, carbonate d’ammonium, lait écrémé en poudre, sel, arômes, dextrose', '', '12', '6.1', '67.2', '31.9', '', '4.5', '0.79', '0.311023622047244', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128270018', 'Bifrutas Tropical P / 3x33CC', 'freüsconüuiaryedu!coranteconitamiiüs A,CyElngdienteg (616021)klévosenneyitl Bebida de Refrëhin;beveragewithablendofmlkand fruitjulcewithsugarandsweetenerand vitaminsAlCandE.IngedientSh2ter, andman ofromconcentrate)su ,sab', '0', '0', '4.8', '4.8', '0.5', '0.3', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8015944009523', 'Burger con verdure agli asparagi ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128270056', 'Bifrutas Pascual Tropical', 'water skimmed milk mango from concentrate , stabiliser ( ectin), flavouring aadity rqulatortcitricacid)vitamnsAC E ensinbold Adar an 09GAranda de (Burgos) ? EspafialEspanhaISpain www.calidadpascual.com Pascual www.bifrutas.com', '0', '0', '4.8', '4.8', '0.5', '0.3', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8015949001720', 'Risotto Aux Champignons PASTAROTTI', '', '', '4', '0.0007', '74', '5', '', '8', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128270070', 'zumo Bi frutas', 'Agua, leche desnatada 10%, zumo de frutas 7% (piña y mango a partir de concentrado), Azucar, pectina, aroma, ácido cítrico, vitaminas A, C y E, Sucralosa, colorante (E-160a i)', '0', '0', '4.8', '4.8', '0.5', '0.3', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8015949001744', 'Risotto a La Milanaise Pastarotti', '', '', '2.9', '0.67', '74.3', '7', '', '7.6', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128270179', 'Zumo Bi frutas', 'Agua, zumo de frutas 18% (zumo de naranja a partir de concentrado, puré de melocotón y zumo de zanahoria a partir de concentrado), leche desnatada 10%, Azucar, pectina, aroma, ácido cítrico, vitaminas A, C y E, sucralosa, colorante (E-160a i)', '0', '0', '6.6', '6.6', '0.6', '0.4', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8015949001775', 'Risotto à la napolitaine', '', '', '2.8', '0.65', '74', '10', '', '8.8', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128271497', 'Bifrutas S / Azucar Tropical P-3UNDES', '', '0', '0', '1.8', '1.8', '', '0.3', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8015949001812', 'Fusilli con funghi', '', '', '5', '1', '65', '7', '', '12', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128416188', 'Yogikids', '', '2.6', '1.7', '15', '13', '', '2.3', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015949005193', 'Minestrone alla ligure', '', '', '3', '1', '57.6', '21.3', '', '13', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128416225', 'Yogur', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015949006312', 'Zuppa riso rosso e verdure', '', '', '1.5', '0.3', '56.2', '4.7', '', '13.5', '1.24', '0.488188976377953', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128480585', 'Zumosol', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8015973000010', 'Forcetti al burro', '', '', '20.3', '13.6', '64.4', '21.9', '', '8.1', '0.62', '0.244094488188976', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128480677', 'Zumo Pascual Naranja Pulpa', '100% SQUEEZED ORANGE JUICE AND ORANGE PULP', '0.1', '0', '9.4', '9.4', '', '0.6', '0.001', '0.000393700787401575', '', '1');
+VALUES ('8015979020029', 'Pasta di semola di grano duro', '', '', '1.3', '0.3', '68.9', '3.2', '', '13.4', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128650018', 'Bebida de zumo y soja &quot;ViveSoy&quot; Naranja', 'Agua, zumo de naranja a partir de concentrado (11%), azúcar, semillas de soja (2,7%), pectina (E-440), acidulante: ácido cítrico (E-330), aroma, antioxidante: ácido ascórbico (E-300), colorante: betacaroteno (E-160a i). ', '0.4', '0.05', '9.9', '9.6', '0.4', '0.7', '0.0254', '0.01', '', '1');
+VALUES ('8015979044735', 'I Monumenti', '', 'https://static.openfoodfacts.org/images/products/801/597/904/4735/front.3.400.jpg', '2.6', '0', '71.8', '0', '', '11.2', '0.73', '0.28740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128650117', 'Bebida de zumo y soja &quot;ViveSoy&quot; Piña', 'Agua, zumo de piña a partir de concentrado (11%), azúcar, semillas de soja (2,7%), pectina (E-440), acidulante: ácido cítrico (E-330), aroma, antioxidante: ácido ascórbico (E-300).', '0.4', '0.04', '10.1', '9.8', '0.3', '0.7', '0.0254', '0.01', '', '1');
+VALUES ('8015987001058', 'Cuneesi', '', '', '27', '16', '49', '42', '', '4.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128650216', 'Bebida de zumo y soja &quot;ViveSoy&quot; Melocotón', 'Agua, zumo de melocotón a partir de concentrado (11%), azúcar, semillas de soja (2,7%), pectina (E-440), acidulante: ácido cítrico (E-330), aroma, antioxidante: ácido ascórbico (E-300), colorantes: carotenoides (E-160a ii) y curcumina (E-100). ', '0.4', '0.05', '10', '9.7', '0.4', '0.8', '0.0254', '0.01', '', '1');
+VALUES ('8015987003243', 'Sapori di Aurore Violette', '', '', '38', '23', '53', '53', '', '5.8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128650315', 'Bebida de soja Natural', 'Agua, semillas de _soja_ (13%), fructosa, estabilizantes: celulosas (E-460) y carboximetil celulosa (E-466), fosfato tricálcico (E-341 iii), aromas, sal, antioxidante: extracto rico en tocoferol (E-306), vitamina A y vitamina D.', '1.7', '0.3', '2.9', '2.6', '0.7', '3.1', '0.1058418', '0.04167', '', '1');
+VALUES ('8015990931533', 'Sfoglie croccanti', 'Amido di mais, fecola di patate, amido di riso, lievito, olio extravergine di oliva 3&, olio di girasole alto oleico 3%, farina di riso integrale 3%, destrosio, semi di chia (Salvia Hispanica) macinati a freddo 2%, sale iodato, farina di quinoa, addensante: idrossipropilmetilcellulosa, olio di riso, aroma.', '', '12', '1.5', '78.5', '3.5', '3', '2', '1.86', '0.732283464566929', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128651046', 'Bebida de zumo y soja &quot;ViveSoy&quot; Naranja. Pack de 3', 'Agua, zumo de naranja a partir de concentrado (11%), azúcar, semillas de soja (2,7%), pectina (E-440), acidulante: ácido cítrico (E-330), aroma, antioxidante: ácido ascórbico (E-300), colorante: betacaroteno (E-160a i). ', '0.4', '0.05', '9.9', '9.6', '0.4', '0.7', '0.0254', '0.01', '', '1');
+VALUES ('8015997000027', 'Amaretti', 'Erine de blé. amandes de 13È\' blinc d\'œuf, sucre et du Laic (artüète Peut contenir des traces de fruits à coque. da À en', '', '6.9', '0.5', '77.8', '63.1', '', '6.8', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128651084', 'The goods rojo', '', '0.2', '0.1', '10.3', '10.2', '', '0.8', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8015997000638', 'Sfogliatine Glassate', 'farine de froment,gtace graisses végétales palme et tournesol, eau, ém*nt mono et diglycérides d\' acides gras), décoration à l\'abricot (glucose-fructose syrup, sucre, purée d\'abricots, eau, amidon modifié, gélifiant pedne), beurte, sirop de glucose, sel, malt (blé et orge), aches natuATeniraufraisetauRNepasexposerausote{ f', '', '27', '11.5', '62', '30', '1.8', '6', '0.63', '0.248031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128651114', 'Smoothie verde', '', '0.1', '0', '6', '5.7', '', '0.4', '0.02', '0.0078740157480315', '', '1');
+VALUES ('8016017000492', 'White Balsamic Vinegar', 'etiJJe Co:d PRODOTTO IN ITALIA HERGESTELLT IN ITALIEN Prodotto e confezionato per / Produced Hergestellt Für / Produit et mis en ALICO s.r.l. - Via Barsanti, 3 - SORBAIA.ML info@alicosrl.com nello stabilimento di Via Provo S. Potito, 7/9 48022 SF Ingredienti/ Ingredients / Zutaten / Ingèdients: Aceto di vino, mosto concentrato rettificato,', '', '0', '0', '23.1', '21.7', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128651145', 'Bebida de zumo y soja &quot;ViveSoy&quot; Piña. Pack de 3', 'Agua, zumo de piña a partir de concentrado (11%), azúcar, semillas de soja (2,7%), pectina (E-440), acidulante: ácido cítrico (E-330), aroma, antioxidante: ácido ascórbico (E-300).', '0.4', '0.04', '10.1', '9.8', '0.3', '0.7', '0.0254', '0.01', '', '1');
+VALUES ('8016017000744', 'Creme De Vinaigre', 'CRÉDIENTS: Moût de raisin cuit, Vinaigre 32%, (Vinaigre de vin, moût de de raisin cuit, colorant\'. caramel), :don modifié de mais, colorant:', '', '0', '0', '53', '40', '', '0.55', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128651190', 'Smoothie calabaza', '', '0.2', '0', '7.6', '7.3', '', '0.8', '0.02', '0.0078740157480315', '', '1');
+VALUES ('8016017001178', 'Aceto balsamico di modena', 'di IGP ...i coaceatrato, ( solfiti. nr of \'*fodena Grape must. ( sulfites. Vinaigrre de &quot;todène • concentre, Jill. Contient des sulfites. Balsamessig slodena Ztlt(2ten: rierter Traubenmost, Enthiilt sulfite.', '', '10', '1', '2', '1', '2', '9', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128651312', 'Vivesoy Papaya-mango', 'water, fruit juice papaya juice and 4% mango purée from concentrate), sugar, soya beans dextrose, stabiliser: E 4140, acidity regulator; E 330, flavouring, antioxidant E 300, cotour: E 160 a. Allergens in bold, Agitar antes de servir, Una vez abierto conservar el envase cerrado en nevera y consumir antes de 3 dias ? Agitar antes de servire Depois de aberta, conservar a embalagem fechada no frigorifico e consumir no prazo de 3 dias Shake well before serving. Keep contatner closed and and', '0.4', '0.1', '10', '10', '0.5', '0.7', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8016017001215', 'Aceto Balsamico Di Modena', 'Concentrated grape must, wine vinegar.', '', '0', '', '40', '40', '', '0', '0.01778', '0.007', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128660031', 'Bebida de soja ligera', 'Agua, semillas de _soja_ (9%), azúcar, fosfato tricálcico (E-341 iii), estabilizantes: celulosas (E-460) y carboximetil celulosa (E-466) y carragenatos (E-407); aroma, corrector de acidez: fosfato monopotásico (E-340i), sal, antioxidante: extracto rico en tocoferol (E-306), vitaminas A y D.', '1.1', '0.2', '1.8', '1.7', '0.5', '2.2', '0.09', '0.0354330708661417', '', '1');
+VALUES ('8016017001222', 'Balsamic Vinegar Of Modena', 'Concentrated grape must, wine vinegar', '', '0', '', '40', '40', '', '0', '0.01778', '0.007', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128661076', 'Bebida de soja &quot;ViveSoy&quot; Natural. Pack de 3', 'Agua, semillas de soja (13%), fructosa, estabilizante: celulosa (E-460), sal de calcio, aromas, sal, antioxidante: extracto rico en tocoferoles (E-306), vitamina A y vitamina D.', '1.7', '0.26', '4.1', '2.7', '0.5', '3.1', '0.1524', '0.06', '', '1');
+VALUES ('80160281', 'Rubra', '', '', '0.2', '0.1', '23.5', '19.5', '', '1.7', '2.6', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128661137', 'Bebida de soja sabor original', 'agua, semillas de _soja_ (13%), fructosa, fosfato tricálcico, estabilizantes: E460 y E466, aroma, sal, antioxidante: E306 y vitaminas A y D.', '1.7', '0.3', '2.9', '2.6', '0.7', '3.1', '0.1', '0.0393700787401575', '', '1');
+VALUES ('80160397', 'le lenticchie', '', 'https://static.openfoodfacts.org/images/products/80160397/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128670016', 'Bebida de soja &quot;ViveSoy&quot; Chocolate', 'Agua, semillas de soja (11%), azúcar, cacao desgrasado (1%), fosfato tricálcico (E-341 iii), estabilizantes: celulosas (E-460) y carboximetil celulosa (E-466) y carragenanos (E-407), aromas, sal, edulcorantes: Acesulfamo K (E-950), sucralosa (E-955), antioxidante: extracto rico en tocoferol (E-306), vitamina A y vitamina D.', '1.6', '0.3', '6.1', '5.8', '1.1', '3', '0.105664', '0.0416', '', '1');
+VALUES ('8016042021028', 'Gelees con succhi di frutta', '', '', '0', '0', '85', '63', '', '0', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128670054', 'Vive soy Vainilla', 'Agua, semillas de _soja_ 11%, azúcar, fosfato tricálcico, estabilizantes (E-460,E-466 y E-407), aroma, sal, edulcorantes (acesulfamo k, sucralosa), antioxidante (E-306) y vitamindas A y D', '1.6', '0.3', '2.3', '2', '0.7', '3', '0.08', '0.031496062992126', '', '1');
+VALUES ('8016225055031', 'mascobado', '', 'https://static.openfoodfacts.org/images/products/801/622/505/5031/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128670184', 'Vive Soy Cappuccino', 'Agua, semillas de soja (11%), azúcar, extracto de café 0,3 %, fosfato tricálcico (E-341 iii), estabilizantes: celulosas (E-460) y carboximetil celulosa (E-466) y carragenanos (E-407), cacao desgrasado (0,2%), extracto de café descafeinado, aromas, sal, edulcorantes: acesulfamo K (E-950), sucralosa (E-955), antioxidante: extracto rico en tocoferoles (E-306), vitamina A y vitamina D.', '1.7', '0.3', '6.2', '5.8', '0.9', '3.1', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8016225069793', 'Tè Nero', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128670238', 'Leche de almendras', 'Agua, azúcar, almendra (2%), estabilizadores: goma gelana (E-418) y goma garrofín (E-410), fosfato tricálcico (E-341 iii), sal, emulgente: lecitina de girasol (E-322), aroma, antioxidante: extracto rico en tocoferoles (E-306), difosfato férrico y vitamina D.', '1.2', '0.1', '3.4', '3.3', '0.3', '0.5', '0.127', '0.05', '', '1');
+VALUES ('8016225112529', 'Bio  cajita', '', '', '27', '4', '60', '56', '', '6', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128670290', 'Bebida de arroz', 'Agua, arroz (12%), aceite de girasol,  fosfato tricálcico (E-341 iii), estabilizante: goma gelana (E-418), cloruro de potasio (E-508), sal, aromas, antioxidante: extracto rico en tocoferoles (E-306) y vitamina D. Nota: el producto especifica que es 100% vegetal, por lo que se supone que la vitamina D es de origen no animal.', '1', '0.1', '9.7', '7.1', '', '0.2', '0.06', '0.0236220472440945', '', '1');
+VALUES ('8016225138260', 'Blocco di cioccolato Extra Fondente 60%', '', 'https://static.openfoodfacts.org/images/products/801/622/513/8260/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128670351', 'Pascual Batido De Chocolate', '', '1.1', '0.7', '12', '12', '', '3.4', '0.16', '0.062992125984252', '', '1');
+VALUES ('8016225138277', 'Cioccolato fondente extra 85%', '', 'https://static.openfoodfacts.org/images/products/801/622/513/8277/front.3.400.jpg', '53', '32', '20', '13', '13', '10', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128712013', 'Clara líquida pasteurizada', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016225138291', 'Dattes Medjoul de Palestine', '', '', '0.6', '0.2', '63.1', '63.1', '', '2.7', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128750008', 'Leche semi sin lactosa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016225246187', 'Zucchero integrale di canna', 'E\' confezionato al/ \'origine. Ctm attromercato, organizzazione non profit di commercio equo e con i produttori al sud del mondo relazioni paritarie e conti equi, finanziamenti anticipati e sostegno a progetti di sviltjg (I) Zucchero integrale di canna da Agricoltura biologica (EN) Whole Cane Sugar - organic farming VALORIHUTRIZIOHALI PER PERI % GDA• PER', '', '0', '0', '97.1', '97.1', '0.1', '0.2', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128750039', 'Pascual Leche Sin Lactosa Semidesnatada - Paquete De 6 X 1000 ML - Total: 6000 ML', 'SiN LXToSA INGREDIENTES Leche semidesnatada, lactasa y vitamina B6. Atérgenos en negrita. INGREDIENTES Leite meio-gordot lactase e vitamina 86. Alergénios a negrito. INCREDIENTS Semi-skimmed milk, lactase and vitamin 86. Allergens in bold.', '1.7', '1.2', '4.9', '4.9', '', '3.3', '0.12', '0.047244094488189', '', '1');
+VALUES ('8016225246385', 'Biofrolle alla quinoa', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410128891169', 'Bi frutas', '', '0', '0', '4.8', '4.8', '', '0.3', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8016225247092', 'Riso java', '', '', '1.9', '0', '77.4', '1.2', '', '7.5', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131000916', 'Atún Claro Natural Rianxeira 3 Ud De', '', '1', '0.3', '1', '0.5', '', '21', '1.1', '0.433070866141732', '', '0');
+VALUES ('8016225261715', 'Sucre De Canne Mascobado Bio & équitable, 5 KG', '', '', '0', '0', '97.1', '97.1', '', '0.2', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131012490', 'Rianxeira Ventresca De Tonyina Amb Oli D\'oliva', '', '11', '2.6', '0.7', '0.5', '', '25', '1.4', '0.551181102362205', '', '0');
+VALUES ('8016225286657', 'Crema spalmabile vegan nocciole e anacardi', '', '', '29', '5', '56', '45', '', '0.5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131025841', 'Sardines à l\'huile de Tournesol', '', '22', '4.6', '1.6', '0.5', '', '19', '0.68', '0.267716535433071', '', '1');
+VALUES ('8016225286886', 'Bio cajita', '', '', '27', '4', '60', '56', '', '6', '0.07', '0.0275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131028538', 'Coques', '', '1', '0', '0', '0', '', '14', '2', '0.78740157480315', '', '0');
+VALUES ('8016225843232', 'Muesli esotico', '', '', '9', '4', '70', '25', '', '7', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131028774', 'Sardines a la tomate', 'Sardins sauce de tomate (eau, concentré de tomate (7,696), huile de', '7.3', '2.2', '1.2', '0.5', '0', '17', '0.78', '0.307086614173228', '', '1');
+VALUES ('8016225918756', 'Irudi', '', '', '19', '6.4', '60', '3.5', '', '9.8', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131031453', 'Crispy Oignons Original', 'oignons, farine enrichie en vitamines et fer (farine de blé, niacine, fer réduit, mononitrate de thiamine, riboflavine, acide folique), huile de tournesol, sel (0,5%). Peut contenir des traces de soja, de lait, de fruits à coque, de moutarde et de sulfites. INGREDIÈNTEN : uien, meel verrijkt met vitaminen en ijzer (tanvemeel, niacine, gereduceerd ijzer, thiaminemononitraat, riboflavine, foliumzuur), zonnebloemolie, zout (0,5%). Kan sporen van soja, melk, noten, mosterd en sulfieten bevatten.', '44', '3.1', '42', '2.5', '2.4', '5.9', '0.59', '0.232283464566929', '', '0');
+VALUES ('8016225920155', 'Panettone', 'Farine de _blé_, raisins secs 19%, _oeufs_, _beurre_, sucre de canne 10,5%, _lait_ entier pasteurisé, pépites de chocolat 5% (sucre de canne, pâte de cacao, beurre de cacao, émulsifiant : lécithine de _soja_, extrait naturel de vanille. Cacao min. 45%), levain naturel (_blé_), émulsifiant : mono et diglycérides des acides gras, beurre de cacao, sel, arômes.', '', '16', '11', '52', '29', '', '5.8', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131031460', 'Crispy Oignons Ail et Poivre', 'Oignon, huile végétale, farine de _blé_ enrichie (farine de _blé_, niacine, fer élémentaire, vitamine B1, vitamine B2, acide folique), ail (0,6%), sel, poivre noir (0,5%), cassonade, poivron, persil.', '42', '2.9', '43', '2.6', '3', '6.1', '1.2', '0.47244094488189', '', '0');
+VALUES ('8016225920926', 'Miscela Espresso macinata', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131031545', 'Croûtons grillés &quot;original&quot;', '', '', '1.5', '', '2.8', '0', '13', '2.8', '1.10236220472441', '', '0');
+VALUES ('8016225952279', 'Budino Al Cacao - Bio', '', '', '2.2', '0', '80', '52.4', '', '4.4', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131031552', 'Ail et Fromage', 'Farine enrichie en vitamines et fer (farine de _blé_, farine d\'_orge_ maltée, niacine, fer réduit, mononitrate de thiamine, riboflavine, acide folique), huile de tournesol, _gluten_ de _blé_, levure, sel, _lactosérum_ en poudre, sucre, maltodextrine, _fromage_ en poudre 1.26%, extrait de levure, poudre d\'ail 0.35%, persil déshydraté, arôme (_blé_), poudre de vinaigre d\'alcool, correcteur d\'acidité (acide citrique), épices', '17', '1.8', '61', '3.7', '2.1', '13', '2.4', '0.944881889763779', '', '0');
+VALUES ('8016225993975', 'I tondi gallette croccanti ', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131031569', 'Méditerranéenne', 'Farine enrichie (farine de _blé_, farine d\'_orge_ malté, niacine, fer élémentaire, mononitrate de thiamine, riboflavine, acide folique), huile de tournesol, sel, gluten de _blé_, levure, _lactosérum_ en poudre, sucre, extrait de levure, dextrose, oignon déshydraté, herbes, persil déshydraté, poudre de tomate, ail déshydraté, correcteur d\'acidité (E330), poudre de carotte, épices (_céleri_), arômes, poudre de vinaigre d\'alcool (vinaigre d\'alcool), maltodextrine), exhausteur de goût (E635)', '17', '1.5', '61', '4.5', '2.2', '13', '3.4', '1.33858267716535', '', '0');
+VALUES ('8016323015029', 'Semi Di Chia Loto 400 G', 'ngedienti: semh di chia bio (Salvia Hispanica). Porione iomaliera suggerita log. Non superare la dose giornahera di 15g. Provali nello yogurt, nelle insalate o in preparazioni da forno. Si ricorda l\'importanza di una dieta varia ed equilibrata ed uno stile di sano. orinutrizio • m per 100 g: Può contenere tracce di cereali con Energia 2344 kJ / 564 kcal - Grassi glutine, soia, sesamo e frutta a 30,5 g- di cui acidi grassi saturi 0,4 g- al riparoda luceefontidicalore. Carboidrati 37,4 g - di cui zuccheri 4,5 g - g-Pmteine223 g-Sale0,03g Da consumarsi preferibilmenteentroil: *20,3 g di acido alfa linolenico su 100g VEDI CONFEZIONE. di rodotto (100 kcal = 3,6 g) Organismo di controilo autorizzato dal 014 Operatore controltato n. 7053 Agncoltura non UE NON DISPERDERE Prodotto confezionato I fior di loto protettiva nello stabilirne M.ÙAntona 5, Rivalta di Tor. conto di Il Fiordi Loto S.r.l. S.I.TO Prima Strada I/A Orbas Semora con {e info@fiordiloto.it - www.fiordiloto.it', '', '30.5', '0.4', '37.4', '4.5', '25.1', '22.3', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131031576', 'Salade Caesar', 'Farine enrichie en vitamines et fer (farine de _blé_, farine d\'_orge_ maltée, niacine, fer réduit, mononitrate de thiamine, riboflavine, acide folique), huile de tournesol, sel, _gluten_ de _blé_, levure, maltodextrine, sucre, _lactosérum_ en poudre, poudre d\'ail, oignon en poudre, _fromage_ en poudre (_lait_, sel, ferments lactiques, présure), plantes aromatiques, levure en poudre, arôme, correcteur d\'acidité (acide citrique), exhausteur de goût (5\'-ribonucléotide disodique), épices, extrait d\'épices', '17', '1.5', '62', '3.5', '2.3', '12', '3.1', '1.22047244094488', '', '0');
+VALUES ('8016323016354', 'Semi di Canapa Decorticati Bio', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131035932', 'Crispy Poivrons Original', 'Poivrons rouges (40 %), farine de blé enrichie (farine de _blé_, niacine, sulfate ferreux, vitamine B1, acide folique), huile végétale, sel.', '54', '4.3', '35', '0.8', '2', '7', '0.508', '0.2', '', '0');
+VALUES ('8016323026827', 'Fior Di Loto 100% Lenticchie Rosse Fusilli', '', '', '2.2', '0.4', '48.4', '1.9', '', '25', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131045153', 'Ciabatta', '83% pain (farine enrichie (farine de _blé_ (_gluten_), farine d\'_orge_ maltée (_gluten_), niacine, fer, mononitrate de thiamine, riboflavine, acide folique), sel, sucre, ail déshydraté, levure), huile de tournesol, 5% assaisonnement (sel, poudre de fromage (_lait_), poudre d\'ail, poudre de lactosérum (_lait_), sucre, épuces, poudre d\'oignon, persil déshydraté, 0.4% basilic déshydraté, arôme naturel)', '13', '1.5', '69', '4.4', '4.6', '9.5', '2.7', '1.06299212598425', '', '0');
+VALUES ('8016323029262', 'Flocons de Pois vert', '', '', '2.5', '0.1', '53.3', '2.9', '', '23.6', '0.007', '0.00275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131047263', 'Sardines au naturel', 'Sardines, eau et sel.', '12', '3.9', '0.8', '0.5', '', '23', '0.65', '0.255905511811024', '', '1');
+VALUES ('8016323036406', 'Teff', '', '', '2.4', '0.5', '59.8', '1.8', '', '13.3', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131048413', 'Sardines à l\'escabèche', '_Sardines_, huile de tournesol, vinaigre de vin, eau, sel et arôme naturel d\'escabèche.', '10', '2.4', '1.1', '0.5', '', '21', '1.9', '0.748031496062992', '', '0');
+VALUES ('8016323037380', 'Biscotti Fioccchi D\'avena Frutta', 'BISCOTTI BIOLOGICI CON FloccHl E fiocchi d\'avena bio 32%, farina di frumento integra\\e bio, olio di semi di girasole bio, ZUCChero di canna bio, bio 10% (uvetta di Corinto bio 7,3%, mele in cubetti bio 2,3%, di bio 0,4%), sciroppo di glucosio bio, agenti lievitanti (carbonato di sodio, carbonato di ammoniO)/ sale, aromi naturali, antiossidante naturale (estratto di rosmarino bio). PUò contenere tracce di latte, uova, soia e altra frutta a guscio.', '', '16.7', '2.7', '66.7', '19', '6.3', '7.3', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131052052', 'Miettes de Thon Albacore à la Tomate', '_Thon_ albacore, sauce de tomate (huile de tournesol, eau, purée de tomate (10 %), sucre et épices) et sel.', '31', '3.5', '1.4', '0.7', '', '11', '1.1', '0.433070866141732', '', '0');
+VALUES ('8016323045088', 'Frollini', '', '', '22', '2.6', '65', '16', '', '3.7', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131052915', 'Miette de thon', '', '36', '4', '7', '7', '', '13', '9', '3.54330708661417', '', '0');
+VALUES ('8016402000182', 'Vinaigre Balsamique De Modène - Aceto Balsamico Di Modena Igp', 'Wine Vinegar, cooked grapes must. Contains sulphites. Acidity: min. 6%', '', '0', '0', '67', '67', '', '0', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131052922', 'Miettes de thon a la sauce tomate', '', '36', '4.4', '0.7', '0.7', '', '13', '0.95', '0.374015748031496', '', '0');
+VALUES ('8016402001912', 'Vinaigre balsamique', '', '', '0.1', '0.1', '14.2', '0.1', '', '0.2', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410131111131', 'Atún Claro en aceite de Girasol', '', '20', '2.5', '0', '0', '', '20', '1.6', '0.62992125984252', '', '0');
+VALUES ('8016403100126', 'Pane Sardo Bulloni Pane. sardo Carasau KG', '', '', '0.5', '0', '78', '1', '', '14', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410132020449', 'Ram Chocolatíssimo', '', '1.8', '1.2', '20', '17', '', '3.2', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8016419000106', 'Dalla Costa Makaron Spaghetti Czosnek / Papryka', '', '', '1.8', '0.3', '72', '2.5', '4', '12', '0.007', '0.00275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410132106167', 'Xocolata Ram A La Tassa', '', '2.8', '1.2', '40', '18', '', '2.5', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8016419000915', 'Pates', '', '', '1.6', '0.3', '71.1', '4.7', '', '12.4', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133110415', 'Lenteja extrafina', '', '1', '0.2', '48', '1', '', '24', '5', '1.96850393700787', '', '0');
+VALUES ('8016419001059', 'Macarrones integrales', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133122425', 'Alubias negras', 'Alubia negra. Categoría: Extra', '2.5', '', '58.3', '', '', '20', '', '', '', '1');
+VALUES ('8016419001547', 'Dalla Costa 100% Lenticchie', '', '', '1.52', '0.3', '52.5', '3', '', '26.5', '0.001', '0.000393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133129318', 'Judiones cocidos en conserva Tipo Granja', 'Alubias granja cocidas, agua, sal y antioxidante: ácido etilendiaminotetraacético (EDTA) (E-385). Contiene sulfitos.  ', '0.5', '0', '16.5', '2.1', '7.9', '6.5', '0.8', '0.31496062992126', '', '1');
+VALUES ('8016419001554', 'Penne Biologiche', '', '', '2.3', '0.4', '56', '3', '', '20.8', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133129813', 'Alubias rojas cocidas en conserva', 'Alubias roas cocidas, agua, sal, azúcar y antioxidante: ácido etilendiaminotetraacético (EDTA) (E-385).', '0.3', '0.1', '12.1', '0.7', '5.7', '6.4', '0.7', '0.275590551181102', '', '1');
+VALUES ('8016419001561', 'Fucilli Ceci', 'ENS CHICKPEAS FUSILLI j ORGAÀC FOOD ORGANICCHICKPEA$FLOUA. MAY CONTAIN TRACES OF soy ANDCEREALS INCLUDING GLUTEN. BEST (sEÉ DATE PRINTED ON THB SIDEOFTHE BAG)I KEEPIIN ÉREsH AP DRY-PLACÇ FR: FUSILLI POIS CHICHES SPÉCIALITÉ ALIMENTAIRE B€IOLOGIQUE. %ÈlNGRÉb1ENTS: pois ÇHICHÇ BioLqGjQUES€ PEUT COÀTENIR DES TR ACES DE SOJA ÉT CÉRÉALES CONTENANT DU qLUTEN. À CONSOMMER DE PRÉFÉRENCE AVÀNT LE, (VOIR DATE SUR LE CÔTÉ DU SACHET). JCON$ERVER DANS UN SEC, DEJ KICHERERBSEN FUSILLI / BIOLOGISCHE SPEZIALITÂT. ZUTXt7EN; BIOLOGISCHE KICHEREPBSENMEHL ES KANN SPUREN VON SOJA ENTHALTEN:MINDESTENS HALTBAQ BISI (SICHE DAT AM PACKUNGSRAND). KÜHLUNDTAOCKENAU &quot;BEWAHREN. DODOTTO E CON =EZIONATO DA; / EN: ACED AND PACKAGEDUCIDO Y ENVASADO EPRODUCEEPD EN VÈRPAKT DOOR: )COSTA ALIMENTARe S.R.L. VIA DELLA FORNACE, • 023 CASTELMINIO Dl RESANA (TV INFO@DALLACOSTALIMENTA QE.COM', '', '6', '0.9', '50', '2.6', '11.2', '22', '0.009', '0.00354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133132721', '500G Pois . chiches Secs La Asturia', '', '6.5', '1', '57.8', '1', '', '20', '1', '0.393700787401575', '', '1');
+VALUES ('8016419007006', 'Fusilli al Pomodoro e Origano', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133139515', 'Garbanzos con guisantes y zanahoria', 'Garbanzos cocidos (55%), zanahoria, guisantes (en proporción variable), agua, sal y antioxidante: ácido etilendiaminotetraacético (EDTA) (CaNa2) (E-385).', '1.4', '0', '15.1', '2.35', '4.87', '5.3', '0.762', '0.3', '', '1');
+VALUES ('8016419078006', 'Conchiglie ai Cinque Colori', '', '', '1.6', '0.3', '71.1', '4.7', '', '12.4', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410133139911', 'Garbanzos', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016419127001', 'Paccheri', '', '', '1.5', '0.4', '72', '3.8', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134002061', 'MERMELADA MELOCOTON VIEJA FCA.', 'MERMEIADA DE MELOCO Ingredientes: Melocotôn, azûcar, gelificante (pectina), cojrector de aci (acido citrico), consewador (E-202), antioxidante (âcido ascôrbico). Elaborado con 45 g de Melocotôn por Contenido total de azûcares 55 g por I Peso neto: 53 g fria Vez abierto conservar refrigerado.', '0', '0', '55', '55', '0', '0.5', '0', '0', '', '0');
+VALUES ('8016419129005', 'Fusilloni', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134008506', 'Olives vertes denoyautes', '', '15', '2', '0', '0', '', '0.9', '4', '1.5748031496063', '', '0');
+VALUES ('8016419155042', 'Dalla Cost Alinentare, Happy Pasta Goudole', 'Durum wheat semolina, dehydrated spinach 2,5%, dehydrated beetroot 1,5%, dehydrated turmeric 1%, dehydrated tomato 0,5%.', '', '1.79', '0', '75', '3.57', '1.8', '12.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134017324', 'Aceit. rell. gigante Fragata', '', '15', '3', '0', '0', '', '1.3', '3.5', '1.37795275590551', '', '0');
+VALUES ('8016419156001', 'Dalla Costa', '', '', '1.06', '0.4', '73', '3.9', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134019441', 'Melmelada De Gerds Diet La Vieja Fã¡brica', 'Ingni(l\'entes: l\'hl lill)llesas, fructosa, cante pectina), corrector (le citrico , consen/tldor Contenjdo total (le il ( ) 280 g [na Vez al)ierlo lot A IM[NI (\'ION,', '0', '0', '40', '40', '', '0.8', '0', '0', '', '0');
+VALUES ('8016419156056', 'Spaghetti Kamut Bio', '', '', '', '0.3', '', '71', '3.3', '12', '0.004', '0.0015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134019472', 'Mermelada Piña Diet', '', '0', '0', '40', '40', '', '1.4', '', '', '', '0');
+VALUES ('8016419156063', 'Spaghetti avec quinoa', 'Semoule de _blé_ dur, farine de quinoa (Chenopodium quinoa) 8%', '', '1', '0.2', '72', '4', '3', '12', '0.004', '0.0015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134019489', 'Mermelada de naranja diet la vieja fabrica', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016419156070', 'Spaghetti Spelt', '', '', '1.8', '0.4', '70', '2', '', '13', '0.002', '0.00078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134019977', 'Higos marmelada', '', '0', '0', '52', '52', '', '0.8', '', '', '', '0');
+VALUES ('8016419156087', 'Spaghetti à la farine d\'épeautre complète', 'farine complète. consommer de préférence avant le: (Voir date sur le côté du sachet).', '', '2', '0.3', '65', '3.3', '6.3', '14', '0.004', '0.0015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134022816', 'Crema de avellanas al cacao', '', '34', '7.5', '54', '53', '', '5.5', '0.15', '0.0590551181102362', '', '0');
+VALUES ('8016419156155', 'Pates Tricolores Animaux Zoo 250G', '', '', '1.6', '0.4', '73', '3.9', '', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134095650', 'Aceitunas negras deshuesadas &quot;Fragata&quot;', 'Aceitunas negras, agua, sal y estabilizador del color: gluconato ferroso (E-579).', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016419156162', 'Tra vel Pasta', '', '', '1.6', '0.4', '73', '3.9', '2.3', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134300303', 'Gherkins', '', '0.4', '0.12', '4.5', '1.4', '', '1.2', '2', '0.78740157480315', '', '0');
+VALUES ('8016419195000', 'Dalla Costa Al Nero Di Seppia (squid Ink) Spaghetti 500g Imported From Italy', 'DURUM WHEAT CUTTLEFISH INK 4,3%, FISH POWDER, LEMON BEST BEFOBC DATE PRINTED ON SIDE).', '', '1.2', '0.2', '73', '0.7', '3.5', '12', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410134603800', 'Alcaparras &quot;Fragata&quot;', 'Alcaparras, agua, sal, acidulante: ácido acético (E-260). Categoría: Primera.', '0.7', '0.2', '2.7', '2.2', '', '0.8', '8.9916', '3.54', '', '0');
+VALUES ('8016419199985', 'Fusilli Bucati', 'Semoule de _blé_ dur.', 'https://static.openfoodfacts.org/images/products/801/641/919/9985/front_en.3.400.jpg', '1.5', '0.4', '72', '3.8', '2.6', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410135001469', 'Ato Natura Leche Uht Entera Brick', 'INFORMAClé NUTRICIONAL VALORI MITJAN/ PER Valorenergètic ...... 264kJ(63 kcal) Greixos . 3,6g dels quals saturats Hidrats de carboni dels quais sucres Proteines . . 3,1g Sal . o,lg Calci *VRN: Valors de Referència de Nutrients ATENClOALCONfUMlDOR 900 30 14 LLET ATO, T.L. COfT A BRAVA N049;', '3.6', '2.4', '4.6', '4.6', '', '3.1', '0', '0', '', '1');
+VALUES ('8016419300206', 'Loggia Dei Grani Gigli Tricolori', 'Semoule de _blé_ dur, tomate déshydratée 1,5%, épinards déshydratés 1,5%.', '', '1.6', '0.4', '72.5', '3.9', '2.6', '12.1', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410135003913', 'Nata De Cuina Bric De Ato', 'INGREDIENT/: Creme MG, EMULGENT (MONO I DIGLICÈRID/ D\'ÀCIDes GRAS) Et STABlLlSANTS (CARRAGENAT I FO/FAT DISODIC)', '18', '12.2', '4', '4', '', '2.5', '0.1', '0.0393700787401575', '', '1');
+VALUES ('8016419400302', 'Dalla Costa Tricolors Disnep Cars Pasta', 'semoule de blé dur, tomate déshydraté 1,5%, épinards déshydraté 1,5%.', '', '1.6', '0.4', '72.5', '3.9', '2.6', '12.1', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148060279', 'Borges Popitas', '', '15', '7', '62', '0.5', '', '8', '2.5', '0.984251968503937', '', '0');
+VALUES ('8016419400319', 'Disney Princess Shaped Pasta 250G Macaroni', '', '', '1.6', '0.4', '72.5', '3.9', '', '12.1', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148060286', 'Popitas al punto de sal', 'maíz. grasa vegetal de palma, sal 2.5%  ', '15', '7', '62', '0.5', '11', '8', '2.5', '0.984251968503937', '0', '0');
+VALUES ('8016419400326', 'Pâte de Semoule Mickey Mouse & Friends', 'Semoule de _blé_ dur.', '', '1.5', '0.4', '72.4', '3.8', '2.6', '12.1', '0.004', '0.0015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148061658', 'Semillas de girasol con cáscara tostadas aguasal', 'Pipas girasol y sal.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016419400357', 'Lumachine', '. F-B-CDN-CH: Pâtes de Semoule de Blé Dur biologique. ingrédients : semoule de blé dur*, eau.', '', '1', '0.2', '72', '4', '3', '12', '0.004', '0.0015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148061788', 'Popitas Palomitas Dulces', '', '', '5.1', '', '0.6', '12', '11', '0', '0', '', '1');
+VALUES ('8016419400364', 'Dalla Costa Mickey Mouse Organic Pasta Bio', 'lot \'inat biologisct). Tomate getrockneter Spinat* 1,5%, getrocknete Tomate alimenticia al iomateya las espinacasbh/dgica. Ingredientes: Sém01a de tri , agua, tomates* deshldratados 1 15%1 espinacas* deshidratadas I ,5%• P de sêmola de trigo duro com tomate e espinafres biolôgica. Ingredientes: \'la de trigo duro*, agua, tomate*desidratados 1 5%, espinafres* desidratados . NL: Biologischegdrooode deegwaar van harde tarwegriesmeelmet tomaat ?inazie. Ingrediënten:harde tarwegriesmeel*, water, geaehydrateerd tomaat* , gedehydrateerdespinazie* 1,5%, coltura biologica / *from ot6da(C agricolture I *biologique / / / ?bi016gica / *van Informazioni Energia energ\' Paleur énergétique • f151ïkJ[ r.azionali / Valori ;crt. Valot energético • energia • energie 1\'57 kcal Brenn per 100 g/', '', '1', '0.3', '73', '4', '4', '12', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148500591', 'Popitas', 'Maa para palomitas saladas para microondas Ingredientes: maiz. sal y maltodextrina. Puede contener de frutos de cascara y de cacahuetes.', '4', '0.6', '58', '0.6', '14', '8', '3.5', '1.37795275590551', '', '0');
+VALUES ('8016419400371', 'Pasta bio', 'Semoule de blé dur, eau, tomates déshydratées 1,5%, épinards déshydratés 1,5%', '', '1', '0.3', '73', '0.3', '4', '12', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148501659', 'Mezcla', 'en fibra i rasas Es importante mantener una', '34', '5.4', '21', '8', '9.1', '21', '1.5', '0.590551181102362', '', '0');
+VALUES ('8016419400388', 'Dalla Costa Winnie The Pooh Organic Pasta Bio', '', '', '1', '0.3', '73', '4', '4', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148501833', 'Borges Nous Califòrnia (pack 2X130G)', '', '67', '7.1', '4.1', '2.6', '', '18', '0.9', '0.354330708661417', '', '0');
+VALUES ('8016419400395', 'Pasta bio', 'grassi - total fat matières grasses • Fett • grassas lipidos - vetten di cui acidi grassi saturi / ofwhich saturates / dont acides gras saturés / davon gesâttigte Fettsâuren / de las cuales saturadas / dos quais saturados/waarvan verzadi d carboidrati - carbohydrate - glucides - Kohlenhydrate - hidratos de carbono - hidratos de carbono - koolhydraten di cui zuccheri / of which sugars / dont sucres / davon Zucker / de las cuales azücares / dos quais açücares / waarvan suikers proteine - protein - protéines - EiweiP3 - roteinas- roteinas - eiwitten sale - salt - sel - Salz - sal - sal - zout fibre alimentari - fibre - fibres alimentaires - Ballaststoffe - fibra alimentaria - fibra- voedin vezels', '', '1', '0.3', '73', '4', '4', '12', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148501949', 'Bolsa De Almendras Tostadas Y Saladas Borges 180GR', '', '52', '4.3', '33', '15', '', '3.9', '0.8', '0.31496062992126', '', '0');
+VALUES ('8016438001016', 'Jus de citron Sicilien', 'jus de citron, conservateur E224 (métabisulfite de potassium)', '', '0.1', '0', '6.5', '1.75', '10', '0.4', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148502373', 'Orejones', '', '0.5', '0.1', '63', '53', '', '3.4', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016438001030', 'Limochef', 'PER VQFDINGSWAARDE PER looml: 28 kcal/120kj Og 0,4g 6/fg 1,79', '', '0.1', '0.1', '1.75', '1.75', '', '0.4', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148503240', 'Semillas de girasol con cáscara tostadas aguasal', 'Semillas de girasol y sal.', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016438001047', 'Jus de citron vert de Temocan', '', '', '0.1', '0', '6.2', '1.6', '', '0.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148503301', 'Cacahuetes', '', '51', '11', '8', '4.5', '', '27', '0.01', '0.00393700787401575', '', '0');
+VALUES ('8016438001078', 'Jus de citron succo limone', 'Jus de citron, conservateur E224.', 'https://static.openfoodfacts.org/images/products/801/643/800/1078/front.8.400.jpg', '0.1', '0', '6.5', '1.75', '', '0.4', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148503660', 'Frutos Secos Crudos Natura Borges', '', '61', '5.2', '4', '3.8', '', '12', '0.01', '0.00393700787401575', '', '0');
+VALUES ('8016438001092', '1L Jus De Citron Jaune', 'Ingredients: jus de citron à base de concentré, conservateur (E224)', '', '0.1', '0', '0', '0', '0', '0.4', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148503684', 'Frutos Secos Crudos Y Frutas Desecadas Natura Borges', '', '43', '4.2', '21', '20', '', '18', '0.01', '0.00393700787401575', '', '0');
+VALUES ('8016438001108', '1L Jus Citron Vert Eurofood', 'lime juice from concentrate, preservative potassium metabi sulfite.', '', '0.1', '0', '6.2', '1.6', '', '0.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148503783', 'Popitas Expansionad. Caramelo', '', '6.3', '0.8', '86', '57', '', '3.8', '0.41', '0.161417322834646', '', '0');
+VALUES ('8016438001115', 'Easy lime bio', '', '', '0', '0', '1.86', '0.48', '', '0.21', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148505930', 'Bebida de arroz y nuez', 'Agua, arroz (14%), _nueces_ (6%), estabilizante: goma gellan, sal marina.', '4', '0.4', '11', '6.1', '1.1', '1.3', '0.08', '0.031496062992126', '', '1');
+VALUES ('8016438001153', 'Pur jus de citron', '100% pur jus de citron biologique.', '', '0.1', '0', '6.5', '1.7', '0.4', '0.4', '5', '1.96850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148506593', 'Western  Corn', '', '19', '2.4', '67', '1.8', '', '8', '1.9', '0.748031496062992', '', '0');
+VALUES ('8016438001184', 'Jus D\'orange', '1 PURJUS Ingrédient IngtedienV canges', '', '0.2', '0.06', '8.5', '7.9', '0.2', '0.8', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410148506616', 'Mr.B', '', '50', '9', '15', '4.8', '', '0', '0.97', '0.381889763779528', '', '0');
+VALUES ('8016438001191', 'Sitruunamehu', 'dans un délai consommer de utronerxsait aus Iconi Zutaten: 100% ZM Nach dem Ôffnen Kuhjschranlc a innerhalb von 10 Tagen', '', '0.1', '0', '6.5', '0.4', '', '0.4', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149001721', 'Thon', '', '10.4', '1.3', '2.1', '0', '', '24', '1', '0.393700787401575', '', '1');
+VALUES ('8016438001320', 'Jus de citron', '', '', '0.1', '0', '6.5', '1.7', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149008027', 'Navajas - Schwertmuscheln In Eigenem Saft', '', '0.8', '0.2', '1.2', '0', '', '20', '0.9', '0.354330708661417', '', '1');
+VALUES ('8016438001375', 'Lemon plus bio', 'Inqrédicnts: Eau, JIIS do Citron•, Antioxydant : Acide Citrique, Huile essentiel de citron extrait à troicr. do l\'agriculturo biologique. Seulement à partir de citrons E,/lccticnnéi ct dans nos Lernotl Plus Bio concile la fraicheur du jul de c,tron naturel avec la traqranco de l\'huilc csscnticl cxttatt à trotd de I a&quot;cotcc des citrons trais. Utiliser Lemon Plus Bio cotnrne alternative aux Citrons Biologiques tral%.', '', '0.03', '0', '1.95', '0.52', '0', '0.12', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149014486', 'Salade de Thon Méditerranée', 'Légumes en proportion variable (58%: carotte, oignon, poivron rouge, petit pois), THON (25%), huile de tournesol, vinaigre, eau et sel.', '5.7', '0.7', '4.7', '0.8', '', '8.6', '1', '0.393700787401575', '', '1');
+VALUES ('8016438001467', 'Jus d\'orange sanguine Bio', '100% jus d\'orange sanguine issu de l\'Agriculture Biologique', 'https://static.openfoodfacts.org/images/products/801/643/800/1467/front.5.400.jpg', '0.2', '', '8.5', '', '0.8', '0.5', '0.00762', '0.003', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019306', 'Sardinillas picantes en aceite de girasol', '_Sardina_ (Sardina pilchardus), aceite de girasol, sal, aroma natural de chili.', '15.2', '4', '0', '0', '0', '19.8', '1', '0.393700787401575', '', '1');
+VALUES ('8016438001603', 'Jus de citron', '', '', '0.1', '0', '6.5', '1.7', '0.4', '0.4', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019450', 'Thon émietté au naturel', '_Thon_, eau, sel.', '0.8', '0.2', '0.5', '0', '', '25.2', '1', '0.393700787401575', '', '1');
+VALUES ('8016438001610', 'Citron Vert Pressé Lime Plus,', 'pur jus de citron , huile essentiel de citron vert extrait à froid bouchon), conservateur.\' métabbulfite de potassium.', '', '0.1', '0', '7', '1.6', '', '0.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019467', 'Thon émietté en sauce tomate', '_Thon_, eau, huile de tournesol, tomate, oignon et sel.', '2.9', '0.6', '4.6', '4.4', '', '17.2', '1', '0.393700787401575', '', '1');
+VALUES ('8016438001696', '25CL Pur Jus Citron Vert Roots', '', '', '0', '0', '7', '0', '', '0.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019573', 'Tapas Calamars dans leur ence', '_Calamars_, eau, huile de tournesol, oignon, tomate, sel, sucre, substitut d\'encre, épices, épaississant (E415, E412).', '10', '4', '2.1', '1.1', '', '10.4', '1.5', '0.590551181102362', '', '0');
+VALUES ('8016438001702', 'Pur jus de citron vert', '', '', '0.1', '0.1', '7', '1.6', '', '0.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019740', 'Moules à l’escabèche', 'L\'ESCABÈCHE S/ POIDS ÉGOUTTÉ: 72 G INFORMATIONS NUTRITIONNELLES 1 portion=56 g. Cette boite contient 2 portions Valeurs moyennes pour: 100 1 Portion 0%2', '18.9', '5.5', '5.6', '0', '', '9.7', '1.6', '0.62992125984252', '', '0');
+VALUES ('8016438001818', 'Jus de citron', '', '', '0.1', '0', '6.5', '1.7', '', '0.4', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019757', 'Moules a l’escabeche piquante', 'Moules à l\'Escabèche piquantes: Moules(l), huile de tournesol, vinaigre, sel, extraits naturels de paprika et arÔmes naturels.', '17', '1.9', '8', '0', '', '10.6', '1', '0.393700787401575', '', '1');
+VALUES ('8016438002006', 'Succo Lime', 'Jus de citron vert, E224 (Métabisulfite de potassium) Pays d\'origine: Mexique, Brésil, et Bolivie.', '', '0.1', '0', '6.2', '1.6', '0', '0.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019764', 'Tapas Calamar à l\'encre', 'Calamar, eau, huile de tournesol, oignon, concentré de tomate, sel, sucre, encre de remplacement (E-153), épices et épaississant E-412, E-415).', '10', '4', '2.1', '1', '', '10.4', '1.5', '0.590551181102362', '', '0');
+VALUES ('8016438002013', 'Citron bio sicilien', 'Jus de citron', 'https://static.openfoodfacts.org/images/products/801/643/800/2013/front.11.400.jpg', '0.1', '', '6.5', '', '0.43', '0.4', '0.00762', '0.003', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019771', 'Calamar sauce americaine', 'Calamars à la sauce américaine: Calamar, eau, huile de tournesol, oignons, concentré de tomate, sel, sucre, épices, épaississant (E-412, E-415).', '19.1', '6.2', '6.7', '2.3', '', '10', '1.5', '0.590551181102362', '', '0');
+VALUES ('8016438002068', 'Jus de citron vert bio', '100% jus de citron vert - issu de l\'Agriculture Biologique', 'https://static.openfoodfacts.org/images/products/801/643/800/2068/front.5.400.jpg', '0.1', '0.02', '6.2', '1.7', '0.5', '0.7', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019795', 'Encornet geant al ajillo', 'Encornet géant &quot;al ajillo&quot;: Tentacules du calamar géant, huile de tournesol, sel, ail, épices.', '7.7', '1.2', '1', '0', '', '20.6', '1', '0.393700787401575', '', '1');
+VALUES ('8016438002075', 'Lime plus', 'Jus obtenuàpattirdecitrons verts sélectionnés, embouteijlé dans nos usines en Siclla Aïoùtaun à tes plats avec Lime Plus Bio. Parfait pour poisson et crustacée, viande, desserts et fruit Lime Plus Bio estlamedteure alterrative aux CitrìnsVerts frais pour tes cocktails et boissons consommer de préférence avant : voir bouchon. et de la lumière. au réfrigérateur et consommer dans le VALEURS NUTRITIONNELS NIOYENNE POUR kJ 169/Kcal 40 Energie Lipides Dont acides gras saturés Glucides', '', '0.1', '0', '7', '1.6', '', '0.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019801', 'Tapas encourent à la galicienne', '', '34.8', '4.2', '0.9', '0', '', '12.1', '1', '0.393700787401575', '', '1');
+VALUES ('8016438004024', 'Citronnade', 'Eau, jus de citron*, sirop de riz déshydraté* *issu de l\'Agriculture Biologique Certifié biologique par: BIOAGRICERT sar.l. Code de contrôles. IT-BlO-007 A27R Produit par: Eurofood Sri, Capo d\'Orlando (ME) Italie www.lemonplus.it Boisson traditionnelle sicilienne typiquement estivale, avec jus de citron de Sicile bio. La rafraîchissante citronnade est une boisson parfaite pour les journées chaudes. Elle contient la pulpe naturelle du fruit. Agiter bien avant l\'emploi et servir fraîche. Après ouverture, conserver au réfrigérateur etconsommer dans les 15 jours. consommer de préférence avant la date indiquee sur le bouchon. reliernent sans gluten. NUTRITIONNELLES MOYENNE', '', '0', '0', '11.6', '11', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019818', 'Encornet géant a la marinière', '', '6.3', '0.8', '1', '0.6', '', '6.9', '0.6', '0.236220472440945', '', '1');
+VALUES ('80164388', 'Mais grillé', '', '', '9.8', '3.8', '67.1', '0.5', '', '8.5', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019979', 'Moules à l\'ail', '_Moules_ d\'Espagne (Mytilus galloprovincialis), huile de tournesol, ail, épices et sel.', '30', '3.6', '2.7', '0', '', '8.4', '1', '0.393700787401575', '', '1');
+VALUES ('8016451261206', 'Salumeria d\'italia', '', '', '25', '11', '0.6', '0', '', '20', '3.8', '1.49606299212598', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149019993', 'Thon (émietté) à la sauce tomate', '_Thon_, eau, huile de tournesol, concentré de tomate, oignon et sel.', '2.9', '0.6', '4.6', '4.4', '', '17.2', '1', '0.393700787401575', '', '1');
+VALUES ('8016451271106', 'Speck', '', '', '19', '6.6', '0.5', '0.5', '', '31', '4.4', '1.73228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149020012', 'Moules à l\'Escabèche', '_Moules_, huile de tournesol, vinaigre, sel, paprika et arôme naturel', '18.9', '5.5', '5.6', '0', '', '9.7', '1.6', '0.62992125984252', '', '0');
+VALUES ('80165477', 'Eau minerale naturelle', '', '', '0', '0', '0', '0', '', '0', '6.2', '2.44094488188976', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149020111', 'Thon à l\'huile de tournesol (émietté)', '_Thon_, huile de tournesol, sel', '21.8', '3.1', '0', '0', '', '23.9', '1', '0.393700787401575', '', '1');
+VALUES ('80165484', 'San Benedetto Ice Tea (lemon, 1.5 L)', 'SAN BENEDETTO ANALCOLICA Dl THÈ AL LIMONE CON ZUCCHERI ED EDULCORANTE. Ingredienti: acqua minerale naturale (80%}, zucchero, fruttosio (0,5% , aromi, acidificante•. acido qitrico, estratto di fog ie di thè (0,1%), succo di lim one (0,1%) da concentrato, antiossldante: acido ascorbico, edulcorante: sucralosio. L\'eventuale deposito sul fondo è dovuto alla presenza dell\'estratto di thès CONFEZIONATO IN ATMOSFERA IN AMBIENTE ASETTICO. NON GASSATX FRESCO', '', '0', '0', '6.8', '6.8', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149020210', 'Salade de thon Méditerranée', 'Légumes en proportion variable (58 % : carottes, oignon, poivron rouge, petit pois), THON (25 %), huile de tournesol, vinaigre, eau et sel.', '5.7', '0.7', '4.7', '0.8', '', '8.6', '1', '0.393700787401575', '', '1');
+VALUES ('80165491', 'San Benedetto Thé, Pesca', 'Ingredienti: acqua minerale naturale (80%), zucchero, fruttosio (0,5%), aromi, acidificante: acido citrico, estratto di foglie di thè (0,1 %), succo di pesca (0,1 %) da concentrato, antiossidante: acido ascorbico, edulcorante: sucralosio. L\'eventuale deposito sul fondo è dovuto alla presenza dell\'estratto di thè.', '', '0', '0', '6.8', '6.8', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149060285', 'Sardinas', '', '11.8', '2.2', '0', '0', '', '22', '1', '0.393700787401575', '', '1');
+VALUES ('8016558000340', 'Mozzarella di bufala campana', '', '', '23', '17.8', '0.8', '0.7', '', '17.4', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149100189', 'Moules a l\'escabeche', '', '18.9', '5.5', '5.6', '0.5', '', '9.7', '1.6', '0.62992125984252', '', '0');
+VALUES ('8016667000965', 'Medium Honey', 'Honey', '', '0', '', '80', '66.67', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149161029', 'Calamares Trozos En Salsa Americana', 'Catamara girasol, cebolla, sal. azücar. especiasy espesante (E-415, E-412.', '19.1', '6.2', '6.7', '2', '', '10', '1.5', '0.590551181102362', '', '0');
+VALUES ('8016667007551', 'Chestnut Honey', 'Honey', '', '0', '', '80.95', '76.19', '', '0', '0.0127', '0.005', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410149171035', 'Pulpo - Oktopus In Marinerasauce &#40;tomate&#41', '', '11.2', '1.4', '1.8', '1', '', '12.4', '1', '0.393700787401575', '', '1');
+VALUES ('8016687018032', 'Panebianco olive verdi', '', 'https://static.openfoodfacts.org/images/products/801/668/701/8032/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000018', 'Antiu Xixona Touron De Jijona Etiquette Noire 300 GRS', 'Amandes grillées 70%, miel (12%), sucre, sucre liquide inverti, blanc d’oeuf. Traces de noix.', '39', '3', '31', '31', '5.3', '13', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016710101014', 'Liotti Lemon Juice 200ml', '', '', '0', '0', '3.3', '3.3', '', '0.15', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000025', 'Turrón de Jijona', 'IracesotnuX INGREDfENTS: (70%), rrüel (12%), gxre rtquj&a', '39', '3', '31', '30', '5.3', '13', '0.0299999999999999', '0.0118110236220472', '', '0');
+VALUES ('8016784111117', 'Burrata Di Bufala', 'dl Ict:e di bofolc Irjgred\\enti: di postcrrzzcto, (onservcre o temperaturo do +4c( a •80C Da (casumarst entro: vedi soprc@BUffGlcm ingredients. pasteurized EuffcÌo tri!kr E\'ffc!o scltt renr,et. Use by see lid Proded of l?ciy \'Â) Berrcta co lait de bufflonne. buff!cane pcsteunse crème de de sel, presure. (caservction: cu te PrcdUit PS) cus SCI\' tierb(hes lg}, E:s: Sie Dedel Hergestejlt in', '', '27', '19', '0.6', '0.6', '0', '11', '0.66', '0.259842519685039', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000124', 'turrón de alicante', '', '35', '2.7', '37', '35', '', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016784151519', 'Fattorie Garofalo Bufala Bocconcino', '', '', '25', '10', '0.8', '0.8', '', '15', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000131', 'Antiu Xixona Turron Alicante Etiquette Noire', '', '35', '2.7', '37', '35', '', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016784161655', 'Mozzarella di Bufala Campana', '_Lait_ de bufflonne pasteurisé, sérum naturel, sel, présure', '', '25', '17', '0.8', '0.8', '', '15', '0.699999999999999', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000155', 'AntiuXixona', 'Tufféli deAlitaÜte de otto€tiit0kdeééScaÌa, rràcéS9fJiutSi et pàin lipìmeeterié/huile Végéfalè détdürrieSojYrratddéfidlF& ,$GèitiückeîtLiStjrWEïweisS 9QkNtCGREDIENÎi; Maylio Œ*olio pataiàjoliyegétalèt de FÂBpÏlCÂf011UPAdNA - PESO Poids Net/Nettogewicht/Pesoòdettô/PesNet/ 200ge -70Z', '35', '2.7', '37', '35', '4.8', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016784171739', 'Mozzarella du Buffala Garofalo', '', 'https://static.openfoodfacts.org/images/products/801/678/417/1739/front.3.400.jpg', '25', '17', '0.8', '0.8', '', '15', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000209', 'Turron Alicante Etiqu. negra Antiuxixona', '', '36', '2.7', '35', '33', '', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016784666150', 'Ricotta Di Bufala \'Buffalo Milk Ricotta\'', 'LRCTOSEROM de bufflonne, sel, correcteur d aciditè: acide citrique. Origine del Iqtte: Italia. Keep MolkenetweiËkâse aus Büffelmilch, mindestens 50% Fett i. Tr. Bei +2 bis +70C mindestens haltbar bis: sicho Boden. A conserver entre OOC et + 40C. Consumare entro: vedi sotto Use by: seo below A consommer jusqu\'au: voir ci-dessous Matières grasses sur produit fini: 13%', '', '13', '9', '3', '2', '0', '7', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152000568', 'Antiuxixona', 'Valor energetico / Ewgy Value / Valeur Energetjque Grasas / Total Fats / Graisse de las coales saturadas / of fats saturated / dont saturée Hidratos de Carbono / Carbohydrates / Hydrates de Càne los coales auares / of htfch ars / M sucre FM a!imentaria / / fibre Protems / / Protéine', '27', '3.3', '51', '51', '2', '11', '0.04', '0.015748031496063', '', '0');
+VALUES ('8016857014000', 'Gnocchi sans gluten', 'Purée de pomme de terre 85% (eau, flocon de pomme de terre, émulsifiers E471 mono et diglycérides d\'acides gras acids, stabilisateur E450i disodique diphosphate, épices, _métabisulfite_ de sodium conservateur E223, antioxydants E304 ascorbyle palmitate, arômes naturels, acidité régulateur acide citrique E330), farine de maïs, fécule de pomme de terre, sel. Recouverte de farine de riz.', 'https://static.openfoodfacts.org/images/products/801/685/701/4000/front.6.400.jpg', '0.31', '', '31.43', '0.16', '', '1.91', '1.17', '0.460629921259842', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001008', 'Turron de Jijona blanc', 'Amandes grillées (64%), sucre liquide inverti, miel (12%), sucre, blanc dioeuf. Traces de noix.', '35', '2.7', '37', '36', '4.8', '12', '0.0299999999999999', '0.0118110236220472', '', '0');
+VALUES ('8016857020094', 'Gnocchi à poêler', 'Purée de pomme de terre 75% (eau, flocons de pommes de terre (arôme naturel, épices, E471, E450i diphosphate disodique, _E223_ métabisulfite de sodium, E304 palmitate d\'ascorbyle, E330)), farine de _blé_ dur, huile de tournesol, fécule de pomme de terre, sel, arômes naturels, E200, farine de riz', 'https://static.openfoodfacts.org/images/products/801/685/702/0094/front.18.400.jpg', '2.44', '', '32', '0.33', '', '3.56', '1.34', '0.52755905511811', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001039', 'Turron de jijona', '', '36', '3', '36', '34', '', '12', '', '', '', '0');
+VALUES ('8016857020117', 'Gnocchi', '', '', '0.35', '0.08', '32.83', '0.06', '0', '3.6', '1.27', '0.5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001121', 'Nougat de Alicante', '', '33', '2.5', '0', '0', '', '11', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8016857020186', 'Gnocchetti di patate', 'purée de pommes de terre 80% (eau, flocons de pommes de terre ), farine de blé T55 (granite), fécule de pommes de terre 6%, sel, arômes naturels, agent conservateur E200 acide sorbjque, Saupoudrés de farine de riz.', '', '0.35', '0.08', '32.83', '0.06', '0', '3.6', '1.27', '0.5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001152', 'Turrón de Alicante', '(62', '34', '2.6', '38', '36', '4.7', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857020193', 'Gnocchi', 'purée de pommes de terre 60 % (eau, flocons de pommes de terre émulsifiants E471 mono- et diglycérideg d\'acides stabilisants E450i diphosphate disodique, épices, agent conservateur E223 métabisulfite de sodium, antioxydants E304 palmitate d\'ascorbyle arôme naturel, correcteur d\'acidité E330 acide citrique farine de blé dur T 55 (granite), fécule de pommes de terre 6% sel, arômes naturels, agent conservateur E200 acide sorbique Saupoudrés de farine de riz Produit contenant du gluten et des sulfites. Peut contenir des traces de œufs, des fruits à coque, soja et lait.', '', '0.23', '0.05', '31.85', '0.06', '', '3.1', '1.27', '0.5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001473', 'Turron Trufa', '', '38', '17', '48', '47', '', '6.2', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8016857021015', 'Trofie', '', '', '0.86', '0.15', '55.6', '1.62', '2.11', '7.74', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001602', 'Turrón Yema Tostada', '', '27', '3.3', '51', '51', '', '11', '0.04', '0.015748031496063', '', '0');
+VALUES ('8016857021114', 'Pates fraiches orecchiette', '', '', '0.86', '0.15', '55.6', '1.62', '', '7.74', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001718', 'Antiu Xixona Touron Jijona Etiquette Blanche', 'Amandes grilléés (640,6), sucre liquide Inverti, miel blanc d\'oeuf Traces de noix', '35', '2.7', '37', '36', '4.8', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857021268', 'Gnocchi', '', '', '1.78', '1.78', '31.29', '0.81', '0', '4.47', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001732', 'Turron de Alicante', 'Amandes grillées (60%), sucre liquide inverti, sucre, miel (12%), blanc d\'oeuf, pain azime (fécule de pomme de terre, huile vegetale de tournesol). Traces de noix.', '33', '2.5', '44', '38', '4.7', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857021329', 'Gnocchi ripieni', 'INGREDIENTS purée de pomme de terre 80% (eau, fbcons de pommes de terre (émutmants E471 mono et digycérides d\'acides gras acids, stabjjsateur.• E450j djsodâue diphosphate épices, conservateur E223 métablSULF!TE de sodium, antbxydants: E304 ascorbyE pahRate, arômes naturels acdìé réguhteur.• E330 acide cÏrjque)1, farine de BLÉ T55, ricotta de vache (LACTOSÉRUM LAIT de vache, crème du LAIT, sel, correcteur d\'acidité.\' acide cftrâue), cèpe edujs), fecuE de pomme de terre mozzare/h (LAIT, sel, ferments Ectâue, presuréï anti-aggbmérant: arndon de maïs), pommes fbcons, pecorino (LAIT de chèvre, sel presuré) LACTOSÉRUM sel arômes naturels noix de muscade, conservateur E 200 acide sorbique Saupoudrése de farine de rh Peut contenir des traces de NOIX, OEUF et de SOJA', '', '0.94', '0.66', '31', '1.05', '', '4.52', '1.48', '0.582677165354331', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001831', 'Antiu Xixona Touron Alicante Etiquette Blanche', 'Amandes grillées (60%), sucre liquide inverti, sucre, miel (12%), blanc d\'oeuf, pain azime (fécule de pomme de terre, huile végétale de tournesol). Traces de noix.', '33', '2.5', '44', '38', '4.7', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857021411', 'Lasagne fresche all’uova', 'sémoule de grain dur; œuf (18%), Produit conditionné sous atmosphère eau. protectrice, ne pas percer le sachet. Une fois ouvert consommer dans les 48 heures. Mode de cuisson.\' Sans précuisson: disposer directement les feuilles de lasagnes dans le plat avec une quantité généreuse de béchamel ainsi que l\'assaisonnement choisi, faire cuire au four préchauffé à 1800C pendant 25/30 minutes. pour obtenir des pâtes plus Précuisson moelleuses, faire bouillir litres d\'eau salée pour 100 g de lasagnes. Faire cuire les feuilles pendant 1 minute. Égoutter et préparer les pâtes au \'four avec l\'assaisonnement choisis Faire cuire au four préchauffé à 1800 C pendant 20 minutes environ. À CONSOMMER AVANT LE: voir la date imprimée sur l\'emballage,', '', '2.9', '0.8', '52.4', '1.1', '2.5', '11.9', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001879', 'Turrón chocolate con almendras', 'iNGRÉDlENTS: Edulcorant (maltitol) fourré aux amandes grillées (23%), kit en poudre, beurre de cacao, pâte de cacao, émulsifiant (lecithine de soja) arôme, edufcorant (E-950), Cacao: 34% minimum. Traces de noix. SANS AJOUTÉS / CONTIENT DES SUCRES NATURELLEMENT PRÉSENT.', '38', '16', '42', '5', '3.7', '11', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8016857021510', 'Tagliatelle fresche all\'uovo', 'FRAÎCHES DE SÉMOULE DUR ET FARINE DE BLÉ A L\'ŒUF-— _/NGhEDlENIS: sémou!e de-grairf dur, farine de blé 155 (granite), œuf (18%), eau. Produit conditionné sous atmosphère ne oas_petcer-le consommer dans les 48', '', '2.9', '0.8', '52.4', '1.1', '2.5', '11.9', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001909', 'Turron Imperial Con Almendra 200 G.', '', '33', '23', '42', '3', '', '12', '3', '1.18110236220472', '', '0');
+VALUES ('8016857024016', 'Tortelloni ricotta e spinach', 'DES PÂTES: semoule de blé dur, oeufs des pâtes), eau. INGRÉDIENTS DE FARCE: ricotta de vache (6096 de la farce) lactosérum, latt de vache, crème du lait, sel, correcteur d\'acidité\'. acide citrique], chapelure (farine de blé tendre T65, eau, sel), épinards (13% de la farce), fromage râpé (latt, sel, présure, agent w?csetvateur: lysozyme (protéine naturelle extraite de l\'?uf)], lactosérum, mozzarelle (lait, sel, ferments de lait, présure, antiaglomérant: amidon de maïs), sel, naturels, glutamate monosodique E621, noix de muscade.', '', '3.8', '3.52', '49.8', '1.9', '2.3', '9.8', '1.14', '0.448818897637795', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152001978', 'Praliné à la Crème Catalane/Crème Brûlée', 'Édulcorant (maltitol), graisse végétale, _amande_, _lait_ (15%), jaune d’_œuf_ (7%), sérum de _lait_, émulsifiant (lécithine de _soja_), arômes, colorant (E-100)', '38.5', '20.8', '35.8', '6.8', '0.3', '9.2', '0.2286', '0.09', '', '0');
+VALUES ('8016857024214', 'Gnocchis Ricotta Epinards', '', '', '3.8', '3.52', '49.8', '1.9', '', '9.8', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152002715', 'Antique Xixona', '?. Toasted almonds (62%), sugar, honey (1 2%), invert sugar solution, white of egg, wafer (potato starch, vegetable sunflowerxoil Traces of -ANGREDlÉiqg?. Amandes grillées (62%); sucre, miel (1 liquide inverti, blandd S pain azime (fécule de pomme de terre, huile végétale.detournesol).h Traces de \'ribixl INFqyAC16N NUTRICIONÀÙ) Valores ediosporcada 1 oog de prog NUTRITIONAL INFORMATIO Values per 100g of prodÙcvt 2139 Valor energético Ï Energy Value (512 kcal) arasas Fats', '35', '2.7', '37', '35', '4.8', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857025112', 'GNOCCHIS à la VIANDE de BOEUF', '', '', '7.09', '3.29', '42', '0.98', '', '12.22', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152002784', 'Antiu Xixona Tortas Imperial Etiquette Noire', '', '3.5', '2.7', '37', '35', '', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857025341', 'La Raviole de Giovanni', '', '', '5.61', '2.61', '44.54', '1.05', '', '12.54', '1.99', '0.783464566929134', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152004924', 'Antiu Xixona', '', '26.3', '11.1', '59.1', '32.7', '', '6.8', '0.05', '0.0196850393700787', '', '0');
+VALUES ('8016857028014', 'Gnocchi au jambon ru', 'DES PÂTES: semoule blé dur, oeufs (16,6% Ides pâtes), eau. INGRÉDIENTS DE LA FARCE.? viande euite (viance de b?uf, viande de porc, carottes, oignons, vin, sei épices (34% de la farce)], mortadelle [(22% de la farce) porc, tripes de porc, graisse de porc, sel, épices, arômes\' antioxydant E301, E316; E25ù conservateur], chapelure (farine de blé tendre T65, eau, sel), jambon cru ((9% de la farce) viande de porc, sel, agent conservateur E2521, ricotta de vache (lactosérum, lait de vache, crème du lait, sel, correcteur d\'acidité: acide citrique), fromege râpé [lait, sel, présure, agent conservateur (protèine naturelle extraite de l\'?uf)], bouillon végétal (sel, graisse végétale de palme partiellement l\'antioxydant butylhydroxyanisol, hydrogénée contenant exhausteur de goût, glutamate monosodique, extrait de \'evure, extrait de plante, légumes, céleri ), arômes naturels, loix de muscade, poivre noir, cannelle. Produit conditionné', '', '5.61', '2.61', '44.54', '1.05', '2.6', '12.54', '2.01', '0.791338582677165', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152006089', 'WAFER STICKS FILLED WITH TURRON', '', '19', '3.5', '61', '1.4', '', '6', '0.2', '0.078740157480315', '', '1');
+VALUES ('8016857030611', 'Tagliatelles', 'fraiches de semoule de gram dur a t\'œut. Ingredtents semoule de GRAIN dur • ŒUFS- 18%,eau • produit biologique', '', '2.52', '0.65', '57.39', '2.96', '2.8', '10.06', '0.06', '0.0236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152006201', 'Antiu Xixona Cigarettes Fourrees 200 GRS Etiquette Noire', 'Sugar, Wheat flour, toasted almond, skimmed milkoowder, salt. colourings (E-150d emulsi antioxidants (E- 304, E-306). Traces ofnuts andpeanuts. Contains 60% nougat cream filling.', '20', '7.4', '67', '48', '2', '5.9', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8016857040047', 'Gnocchi de pomme de terre', 'Purée de pommes de terre* 60% [eau, flocons de pommes de terre* (flocons de pomme de terre&gt;99.9%, extrait de romarin)], farine de _blé_ tendre*, fécule de pommes de terre*,curcuma*. Saupoudrés de faine de riz*. *Produit biologique.', '', '0.36', '0.08', '33.62', '0.15', '', '3.96', '1.17', '0.460629921259842', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152006225', 'Turron ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016857040177', 'Gnocchi', 'purée de pommes de terre\' 85% (eau, flocons de pommes de terre* )J. farine de fécule de pommes de terre sel Saupoudrés de farine de riz produit biologiques', '', '0.31', '0.07', '31.43', '0.16', '', '1.91', '1.17', '0.460629921259842', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152012004', 'Turron', '', '36', '2.8', '35', '34', '', '12', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016857040191', 'Gnocchetti Courge', '', '', '1.62', '0.72', '29.11', '1.92', '', '4.62', '1.92', '0.755905511811024', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152020108', 'Chocolat au Lait Extra-Fin', 'Sucre, _lait_ en poudre, beurre de cacao, pâte de cacao, pâte de _noisette_, émulsifiant (lécithine de tournesol), arôme (vanilline). 30% de cacao minimum.', '33', '19', '54', '53', '2.3', '7.5', '0.2', '0.078740157480315', '', '0');
+VALUES ('8016857040207', 'Gnocchetti All\'Aglio Orsino', '', '', '6.23', '0.6', '38', '0.3', '', '3.5', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152020252', 'Antiu xixona', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016861151081', 'PROSECCO MASOTTINA Extra Dry', 'CONTIENT SULFITES', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152039513', 'Turrón duro', '', '25', '1.9', '53', '51', '', '8.9', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8016874000000', 'Sauce à l\'Arrabbiata', 'Tomate (96%), huile d\'olive extra vierge, ail, persil, piment fort (0,2%), sel (0,28%).', 'https://static.openfoodfacts.org/images/products/801/687/400/0000/front.6.400.jpg', '3.1', '0.38', '2.93', '2.93', '0.94', '1.2', '0.28', '0.110236220472441', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152039636', 'Turron imperial', '', '25', '1.9', '53', '2.7', '', '9', '0.03', '0.0118110236220472', '', '1');
+VALUES ('8016874000017', 'Sauce Rustique Au Basilic', 'Tomate (88 th), oignon, hei!e diclive extra vierge, basilic (l Oh) sel', '', '4.35', '0.57', '3.11', '3.11', '0.95', '1.13', '0.54', '0.21259842519685', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152040618', 'Turron de cacahuete', '', '29', '5', '43', '43', '', '16', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016874000048', 'Sauce au Thon', '', 'https://static.openfoodfacts.org/images/products/801/687/400/0048/front.10.400.jpg', '4.2', '', '2.7', '', '', '2.7', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152040625', 'Turrón', 'Roasted peanut (60%), sugar, white of egg, Contams peanut and egg. @ INGRÉDIENTS: Cacahuète sucre, blanc d\'oeuf. Contient es arachides Ëtd\'oeuf }rua1d?es @ZUTATEN: Gerôstete Erdnuss (60%), Invertzucker-Lôsung, Zucker, EiweiL. Eflthilt Erdnuss tJfld Ei. Spuien von Nüssen. INGREDIENTI: Arachide tostate (60%), zucchero liquido invertito, zucchero, Chiara d\'ouvo, Cotitiene arachidi e uova. Tracce di frutta a guscio. @INGREDIENTES: Amendoim (60%)\' rija. - NET WEIGHT POIDS NET/ / PESO NETTO / PESO LIQUIDO?. 250 ge - 8.8 OZ', '29', '5', '44', '43', '4.9', '16', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8016874000079', 'Sauce a La Roquette Sauvage', '', '', '5.21', '0.69', '2.91', '2.91', '', '1.08', '0.22', '0.0866141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152050112', 'Turrón de jijona', 'E \\7TS: Amandes grillées (64%), sucre nn:.e! ( 12%), sucre, blanc dioeuf.', '35', '2.7', '37', '36', '4.8', '12', '0.0299999999999999', '0.0118110236220472', '', '0');
+VALUES ('8016874000093', 'Pesto alle Cime di Rapa', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152050228', 'Turron de Alicante', '', '25.3', '1.9', '53.4', '51.4', '3.5', '8.9', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8016874004084', 'Sauce Puttanesca', 'PRòûNA ppéûNA Conserver dans un endroit frais ets Après l\'ouverture garder au réfrigérateur et consommer dans Ohne Konservierungsstoffe hergestetlt. An trockenen Ort aufbewahren, Nach dem Ofnen im Kjhlschran Déclaration nutritionelle/ Valeurs nutritional moyenne pour 100 g Durchschnittliche Nàhrwerte por 100g 252 56 kJ Valeur énergétique 60,9\'1 kcal Ener iewert Matières Grasses/ Fett dont acides gras saturésldavon gesattigte fettsauren 2 80 g', '', '4.6', '0.67', '2.8', '2.8', '1.04', '1.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152050235', 'Torrone De Alicante La Fama', '', '25', '1.9', '53', '31', '', '8.9', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8016874006101', 'Pesto Rosso (pesto Rouge) 180GR', 'Tomates séchées (36%). huile d\'otive, carottes basilic, cacahuètes, noisettes, pignons, ail, sel (0,87%) vinaigre (contient des sutfites), sucre. ZUTATEN: Getrocknete Tomaten (36%) Olivenôl, Karotten Basilium, Erdn?se, Pinienkem Knoblaucht, salz (0,87%), Essig (enthâlt Sulfite), Zucker. Mode ftmploi: Il faut réchauffer la sauce dans une casserole avec un peu d\'eau et ta verser sur les pâtes, faire sauter et servir chaude. on peut la tartiner sur du pain grillé ou des croûtons ou l\'utiliser pour assaisonner ta salade. Gebtauchsanwelsung: Die Sope in einer Pfanne erwàrmen und die bissfesten Teigwaren dazugeben, kurz umrühren und warm seNieren. Wtr empfehlen diesen Pesto als Beijage, als Brotaufstrich und zu Crostini. Fabriqutéenftatiepar. PR&LÜNA srl Hergesteltth tta!ien Z.I. 73020 (te) Ita}/ 14+39 (0)836.439833 www.pralinasrt.it SuoKi', '', '30.59', '4.37', '12.84', '9.53', '2.92', '3.76', '0.87', '0.34251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152050334', 'Turron de alicante', 'Amandes grillées (60%), sucre, sucre liquide inverti, miel (12%), blanc d\'oeuf, pain azime (fécule de pomme de terre, huile végétale de tournesol). Traces de noix.', '47', '2.5', '40', '33', '4.6', '12', '0.0299999999999999', '0.0118110236220472', '', '0');
+VALUES ('8016874006118', 'Crema di pomodori secchi', '', '', '25.9', '3.89', '20.64', '14.59', '', '4.69', '0.44', '0.173228346456693', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152052604', 'Turron de Chocolate con Almendras', 'Edulcorant (maltitol), fourré aux _amandes_ grillées (25%), _lait_ en poudre, beurre de cacao, pâte de cacao, émulsifiant (lécithine de _soja_), arôme, édulcorant (E-950) / Cacao 34% minimum.', '38', '16', '42', '5', '3.7', '11', '0.1', '0.0393700787401575', '', '0');
+VALUES ('8016874006316', 'Pesto Au Basilic', 'PESTO AU BASILIC • BASILIKUMPESTO NGRÉDIENTS: Basilic (33%), huile d\'olive, huile de tournesol, ânedeanacarde, flocons de pommes de terre, fronace mix (Grana- Înageprésure, conservateur. fisozyma à pahir œufs / fromage PecofI,T a seltfromage présure), Rudre de fromage (lait sel, fromage présure), fibresvégétales, arômede mage, ail, sel (1,48%), pignons. Correcteur d\'acidité: acide lactique. ZUTATEN: Basilikum (33%), Olivenôl, Gluiose, Sonnenblumenôl, Kashew.pulver, Kartoffelflocken, Kâse Mix (Grana Kâse-Mibt Salz, Lab, KneNierungsmittel: lisozyma aus Elem / Pecorino Kàse Knoblauch, Romen, ftmploi: • Il faut réchauffer la sauce dans une casserole et la verser ! les pâtes, faire sauter et servir chaude. On peut lutiliser pour assaisonner du Poisson, on peut la tartiner sur des croûtons, in einer Pfanne envârmen und de biss— ren und warm auftraaen. Wr empiehlen desen Pesto ais Beilage zu Pisch, als Brotaufstrich und zu Crostini: sri z.i. 73020 Melpignano (Le) - www.pralinasrl.it', '', '42.01', '6.24', '12.12', '9.9', '0.22', '3.62', '1.48', '0.582677165354331', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152052635', 'Turrón au Massepain Caramélisé Sans Sucres Ajoutés', '_Amandes_ 46 %, édulcorants (lactitol, sorbitol, E950), poudre de jaune d\'_oeuf_ 10 %, poudre de _lait_ entier, arôme, conservateurs (E200, E202).', '25', '3.4', '47', '2.5', '3.1', '12', '0.05', '0.0196850393700787', '', '1');
+VALUES ('8016874020091', 'Bruschetta Aux Artichauts', '', '', '11.48', '1.62', '1.17', '0.29', '1.59', '0.83', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152053059', 'Tarte au Turrón d\'Alicante', '_Amandes_ grillées 42%, sucre, sucre liquide inverti, miel 12%, blanc d\'_oeuf_, pain azyme (fécule de pomme de terre, huile végétale de tournesol).', '25', '1.9', '53', '51', '3.5', '8.9', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8016874020121', 'Bruschetta Aux Poivrons', '', '', '12.7', '1.81', '8.96', '8.75', '', '0.73', '1.36', '0.535433070866142', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410152053069', 'Torta turron de alicante', '', '25', '1.9', '53', '51', '', '8.9', '0.02', '0.0078740157480315', '', '0');
+VALUES ('8016874020152', 'Bruschetta Aux Champignons', 'thampignons (70%), huile d\'olivet persil, tomates séchées, ! vinaigre de vin blanc, sel (l ail, arôme de cèpes.', '', '16.75', '2.42', '2.27', '1.71', '2.05', '2.98', '1.24', '0.488188976377953', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410153000734', 'Turrón blando', '', '27.5', '2.1', '50', '49.6', '', '9.5', '0.03', '0.0118110236220472', '', '0');
+VALUES ('8016874020213', 'Bruschetta Aubergine', 'Aubergines (61 %), huile d\'olive, olives vertes, moutarde, vinaigre de vin blanc (contient solfites), persil, ail, menthe, sel (1,01%) piment fort.', '', '21.72', '2.88', '2.64', '1.89', '2.26', '1.7', '1.01', '0.397637795275591', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410154002003', 'Mermelada de fresa', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016874020329', 'Bruschetta Aux Tomates Fraîches', '', '', '19.1', '2.75', '2.94', '2.72', '', '1.01', '0.51', '0.200787401574803', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410154005103', 'Melocotón light sin azúcares añadidos', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('8016874030014', 'RISTORANTE italiano SUGO arrabbiata', 'Pulpe de tomates, tomates purée. huile de tournesol, persil ail, sel. piment fort 0.2% CONSIGLI CY USO: Scaldare il sugo in padella e condire la pasta cotta al dente saltare e servire caldo. Aggiungere a piacere del prezzcmolo tritato fresco. MODE CYEMPLOI: Il faut réchauffer la sauce dans une casserole et la verser sur les pâtes, faire sauter et servir chaude. Ajouter du persil frais haché. Prodotto senza conservanti. Conservare in luogo fresco e asciutto. Tenere in frigorrfero dopo l\'apertura e consumare entro 5 giorni. Conserve Produit sans conservateurs. dans un endroit frais et sec. Apres Itouverture garder au réfrigérateur et dans les 5 jours.', '', '3', '0.3', '2.9', '2.9', '1.2', '1.3', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410154005202', 'Melocotón en almíbar', 'Moitiés d\'abricot, eau, sucre, acidifiant: acide citrique:', '0', '0', '18', '16', '', '0.5', '0', '0', '', '1');
+VALUES ('8016904033459', 'Piadissima Coppa Parma IGP e Pecorino Dolce', 'Piadina 71 %: Farine de blé tendre 00, eau, saindoux, sel, levure E 450 E 500, amidon de maïs. Farce 29 %: Coppa di parma IGP 19 %: Coppa de porc, sel, dextrose, épices, antioxydant E 301. conservateur E 252, E 250. Pecorino dolce 10 %: Moutons lait pasteurisé, Sel, Presure.', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410154005301', 'Abricot', '', '0', '0', '18', '16', '', '0.5', '0', '0', '', '1');
+VALUES ('8016926946805', 'Sale Atisale Fino Iodat Marn PLS Sparg', '', '', '0', '0', '0', '0', '', '0', '100', '39.3700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410154012002', 'Mermelada de fresa sin azucares añadidos', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80169307', 'Scamorza', '', 'https://static.openfoodfacts.org/images/products/80169307/front.4.400.jpg', '25.5', '15.5', '0.6', '0.6', '', '23.8', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410154014006', 'Mermelada de ciruela Light', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('80169314', 'From.scamorza Fumee 300G.,', '', 'https://static.openfoodfacts.org/images/products/80169314/front.3.400.jpg', '26.5', '18.8', '0.1', '0.1', '', '23.5', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410155010038', 'Huevas de Bacalao', '', '5.7', '0.5', '1.3', '0.5', '', '12', '1.4', '0.551181102362205', '', '0');
+VALUES ('8016953001324', 'Il pinguino alla Viola', 'LAIT concentré sucré, eau, enrobage de cacao 10% (huile de noix de coco, sucre, cacao en poudre 1,5%, émulsifiant: lécithine de SOJA, arômes), émulsifiant: E 471, stabilisateurs: E 410, E 412, E 407, arômes, couleurs: E 120, E 133. Peut contenir des traces de cacahuete, oeuf, et autre fruits secs. SANS GLUTEN', '', '11', '8.1', '27', '22', '0.08', '4.3', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410155020839', 'Filetes de melva en aceite de oliva', '', '25', '3.8', '0.8', '0.5', '', '22.6', '0.7', '0.275590551181102', '', '1');
+VALUES ('8016979521400', 'Gallette di sfoglia', '', '', '13.3', '1.2', '65.2', '3.3', '', '14.4', '1.45', '0.570866141732283', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410155040295', 'La Gula del Norte Salteada al ajillo', '', '19.6', '2.4', '8.4', '1.3', '', '8.6', '2.2', '0.866141732283465', '', '0');
+VALUES ('8016979522735', 'Lasagne al Ragù di soia', '', '', '19', '0.7', '17', '3.4', '', '2.5', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410155052519', 'Filetes de caballa del sur en aceite de oliva', '', '12.6', '3.3', '0.4', '0.5', '', '24.5', '1', '0.393700787401575', '', '1');
+VALUES ('8017054006928', 'Snack Sticks Goût Sésame - Proti Fibre', '', '', '7.2', '1.4', '31', '1.7', '', '37', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410155064000', 'Higado de Bacalao ahumado', 'Ingredientes: Higado de bacalao y sal.', '42.7', '8.6', '2.5', '0.5', '', '8.5', '1', '0.393700787401575', '', '0');
+VALUES ('8017070361155', 'Foglie D\'autunno Fattora', '', '', '1.5', '0.6', '73.5', '2.1', '', '13', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410155082318', 'Filetes de caballa del Sur en tomate', '', '5.3', '1.6', '3', '1.1', '', '21.6', '1', '0.393700787401575', '', '1');
+VALUES ('8017070361162', 'Nerelli Noir De Seiche FATTORA', '', '', '1.5', '0.6', '73.5', '2.1', '', '13', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410156072578', 'GALLETAS MINIS SIMPSON ARLUY', '', '21', '12', '63', '27', '', '6.1', '0.8', '0.31496062992126', '', '0');
+VALUES ('8017070611762', 'Trece dell\'orto', 'semoule de _blé_ dur avec l\'ajout, dans des proportions variables, des ingrédients suivants spéciaux : carotte déshydratée, bette rouge déshydratée, curcuma en poudre, épinards déshydratés, basilic déshydraté, tomate déshydratée, noir de _seiche_ (noir de _seiche_, eau, sel).', '', '1.5', '0.6', '73.5', '2.1', '1.9', '13', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410156072868', 'Pastas Artesanas', 'ASSORTIMENT DE GATEADX ngeédients farine e i gras aniale sindoux) sure choolat sucre pate de cacao, beure de cacao, actose lait matières grasses laitères lait émulsifian lecit ines s aromenature ch at an 4% cre beurredecaca aitecremeenpoudre matières grasses laitières lait) émulsifiant (lécithines sojal) aromes).cerises confites (cerises sucre sirop de glucpse-fructose régulateur d\'aciaité acide citrique,colorant (EV2T) agent onservate hiudfidesu nurewx\'),vin amandes arine de soja, euj pasteurisé, eau de rie sel, nouille sulbstitut d chocolat (sucre, graisses végétale partiellementhydrogéne de coco et de palmiste, cacao maigre en poudre sirop de glucose, stablisant gomme d acacia,amidon, emulsitiant llecthines sola agents d\'enr bage(E904 E5)3B), ar mes aitécremeenpoudre su pdeg ucose alb n cannelle. colorant lcaramel antiorydants lextraits riches en tocophérols gallate de propvle, palmitate d\'ascobyle, acide ctriquel care Cantient dluten oeuf soja, li suites ruitsque a coqlue', '27', '11', '61', '19', '', '6.7', '0.13', '0.0511811023622047', '', '1');
+VALUES ('8017070611816', 'Coriandoli', 'semoule de _blé_ dur avec l\'ajout, dans des proportions variables, des ingrédients suivants spéciaux : carotte déshydratée, bette rouge déshydratée, curcuma en poudre, épinards déshydratés, basilic déshydraté, tomate déshydratée, noir de _seiche_ (_mollusque_).', '', '1.5', '0.6', '73.5', '2.1', '1.9', '13', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410156072882', 'The Simpsons Minis 5 Céréales', 'Flour (Wheat .3314%t rice rye barley oats and Wheat blan 0 9%), extrad), Contains gluten andmilk. May éontain traces of soya, sesame. BISCUITS AU CHOCOLAT AVEC 6 VITAMINES FER ET CALCIUM. INGREDIENTS: Farine blé riz seigle 4%, et graisse végétale (palme), maltosextrine, cacao en poudre, lactosérum en poudre, sirop de glucose, sel, pâte de cacao, sels minéraux (fer, calcium) oudres à lever (carbonate acide de softm carbonate acide d\'ammonium), émulsifiant lécithine de tournesol), m{elPde fleurst vitamines (A, BII B2, B3 (PPj, 861 D), arômes, antioxydants (palmitate \'ascorbyle, extraits riches en tocophérols). Contient du gluten et du lait. Il confient traces le soja, le sesame. BOUCHAS SABOR CHOCOLATE COM 6 VITAMINAS, FERRO E INGREDIENTES: Farinha 47 trigo 33,48 arroz centeio cevada aveia09% e farelo de tri c actcart gordura vegetai (pa ma), maltodextrina, cacau em pi, soro de leite em po xarope de sal, pasta e sais mineraÉ (ferrot célC10), levedantes quimicos (hidro enocarbonato de fidrogenocar onato de améniol emulsionante (lecitina de gtrassol)g mel de flor, Vitaminas BP, 82 83 (PP), 861 D), aromas, antioxidantes (palmitato e ascorbi101 extrado rico em tocoferois). (ontém gliten e elfe. Pote conter vestigios de soja, gergelim.', '21', '12', '63', '22', '3.5', '6.1', '0.78', '0.307086614173228', '', '1');
+VALUES ('8017070611823', 'Arcobaleno', 'Pâtes de semoule de blé dur a ajouté, dans des proportions variables, des ingrédients s#ciaux suivants: carotte déshydratée bette rouge déshydratée, curcuma en poudre, epinards déshydratés, basilic déshyàraté, tomate déshydratée, noir de seiche. lnyédients semoule de blé dur avec l\'ajout, dans des proportions variables, des ingrédients gvanbspécialescarottedéshydratée, betterouge déshydratée, curcuma en udre, épinards', '', '1.5', '0.6', '73.5', '2.1', '1.9', '13', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410156073568', 'Siro Festival Mini Crackers GR. 350', '', '24', '16', '63', '6.3', '', '7', '3.3', '1.2992125984252', '', '0');
+VALUES ('8017070611830', 'Spaghetti à l’encre de seiche', 'semoule de blé dur, noir de seiche (Mollusque) (1%), (noir de seiche, eau, sel). Avec gluten et noir de seiche (Mollusque).', '', '1.5', '0.6', '73.5', '2.1', '1.9', '13', '0.05', '0.0196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8410156073582', 'Siro Mini Stick & Pretzel GR. 300', '', '7.3', '3.8', '71', '4', '', '9', '5', '1.96850393700787', '', '0');
+VALUES ('8017070742213', 'Focaccia', '', '', '12.2', '2.1', '66.5', '2.4', '', '9.8', '3.2', '1.25984251968504', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070742398', 'Mini Bruschetta Tomate Basilic FATTORA', 'Wheat flour, olive-pomace oil, Italian extra virgin salt, Wheat brewer?s yeast, dehydrated tomato 1 basil 0,6%. It maycontain tracesofsesame seeds, nuts, soybeans, milk and eggs Since they are processedin the same plant I Produit de biscuiterie avec italienne huile d\'olive vierge Ingrédients: Farine de blé tendre, huile de grignons d\'olive, italienne huile d\'olive vierge extra 3,5%, sel, malt de froment, levure de bière, tomate déshydratée basilic Il pourrait contenir traces de graines de sésame, fruitsàcoque,soja, lait et oeufs puisque ils sont travaillés dans le même établissement Ingredientes: Harina de trigo, aceite de orujo, italiana de aceite extra virgen de Oliva 3,51, sal, malta de trigo, levadura, tomate seco 1 %, albahaca 0,6%. Puede contener trazasde fruta seca. soja leche y huevos procesados en el mismo establecimiento, Backware mit italienische nativem Olivenôl extra Tomate (1%) und Basililllihl Zutaten: Weizenmehl, Oliventresterôl, italienische nativem Olivenôl Sall. Weizenrnalzmehl, Hefe, Tomatenpulver (1 0%), Basilikum (0,6%1 Ka Sesarn, Schalenfrüchten, Soja, Milch und Ei enthalten.', '', '13.5', '2.1', '68.5', '3.9', '2.2', '8.5', '1', '0.393700787401575', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070742404', 'Mini Bruschette', '', '', '5', '1.5', '20', '0', '', '3', '2.4', '0.94488188976378', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070742497', 'Biscoito Salgado Tradicional Don Peppino', 'Farine de blé tendie. huile de grignons d\'olive, huile d\'olive vierge extra italien sel malt de froment, levure de bière. Contient gluten. II pourrait contenir traces ce graines de sésame, fruits à coque, soja, lait et oeufs puisque ils sont travaillés dans le même ment. Producto para homo con aceite extra virgen de Oliva italiano \\ l)gredientes: Harina de trigo, aceite de orujo. aceite extra virgen de Oliva (3.5%). sal. malta de trigo, levadura. Contiene gluten. Puede contener sésamo, fruta seca, soja, leche y hueyos procesados en et mismo Nento. mit italienische nativem Olivec5t extra OWentrester0L italie:ische (3.5%), Ahalzraeht. Hefe. Enthalt Gluten. Kacn va Sesamt', '', '12', '3', '0', '0', '2.6', '9.1', '2.5', '0.984251968503937', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070742657', 'Sfogliette', 'Wheat flour, dehydrated potatoes (12%) (contains sulphites and spices), olive-pomace oil, italian extra virgin olive oil (3%), salt, malt flour, brewer\'s yeast, tomato powder (1%), oregano (0.6%), onion.', '', '15', '3.33', '70', '0', '3.3', '10', '2.794', '1.1', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070744217', 'Bruschette tradizionali', '', '', '12.1', '1.8', '65', '2.2', '', '11.2', '2.3', '0.905511811023622', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070744224', 'Bruschette', '', '', '12.1', '1.8', '65', '2.2', '', '11.2', '2.37', '0.933070866141732', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070744231', 'Bruschette', '', '', '12.1', '1.8', '65', '2.2', '', '11.2', '2.3', '0.905511811023622', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017070744743', 'Lasanha', '', '', '1.2', '0.5', '58.1', '1.8', '', '9.3', '', '', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017104010165', 'Friggitelli Grigliati', '', '', '0.1', '0', '7.6', '7.6', '', '1.8', '', '', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017124511710', 'Il Vero Di Santeramo, Extra Virgin Olive Oil, Mediterranean', 'Extra virgin olive oil', '', '93.33', '13.33', '0', '', '', '0', '0', '0', '', '0');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017130002011', 'Hafterflocken Zart', '_Hafer_', '', '5.5', '1.1', '62', '1', '8.3', '13', '0.01', '0.00393700787401575', '', '1');
+
+INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
+VALUES ('8017139100046', 'Marmelade d\'orange sanguine de Sicile 370g', '', '', '0.3', '0', '60', '58', '', '0.6', '', '', '', '0');
 
