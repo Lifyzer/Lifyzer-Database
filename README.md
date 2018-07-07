@@ -11,7 +11,7 @@ Finally, the **Lifyzer Database** is available under SQL format (unlike OpenFood
 
 ## DB Version
 
-June 18, 2018  <!-- Update it each time a newer OpenFoodFacts DB has been used -->
+July 1, 2018  <!-- Update it each time a newer OpenFoodFacts DB has been used -->
 
 
 ## Who Did This...? 😉
