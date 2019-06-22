@@ -1,2811 +1,2751 @@
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700065302', 'Flan Pâtissier aux oeufs', 'sucre, amidon, _oeuf_ entier (1,4%), arôme, colorants : rocou et riboflavine.', 'https://static.openfoodfacts.org/images/products/872/270/006/5302/front.15.400.jpg', '1.5', '0.9', '23', '15', '0.5', '3.1', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701091753246', 'Quinoa blanc bio', '', 'https://static.openfoodfacts.org/images/products/370/109/175/3246/front_fr.4.400.jpg', '6.07', '0.71', '58.1', '0', '', '14.1', '0.013', '0.00511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700067672', 'Bouillon de poule (offre saisonnière)', 'Sel, fécule de pomme de terre, graisses végétales (palme, palme totalement hydrogénée), exhausteurs de gout : glutamate de sodium, inosinate de sodium et guanylate de sodium, sucre, arômes, huile d\'olive vierge extra, graisse de poule (antioxydant : extrait de romarin), oignon : 1%, viande de poule : 1%, extrait de levure, épices et aromates (graines de _céleri_ : 0,3%, ail, persil : 0,1%, curcuma), caramel, maltodextrine', 'https://static.openfoodfacts.org/images/products/872/270/006/7672/front.7.400.jpg', '0.5', '0.2', '0.5', '0.3', '2', '1', '0.9', '0.354330708661417', '', '1');
+VALUES ('3701091753840', 'Sauce tomate bio au tofu', '', 'https://static.openfoodfacts.org/images/products/370/109/175/3840/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700068501', 'Bouillon de poule dégraissé', 'sel, exhausteurs de goût : glutamate de sodium, inosinate de sodium, guanylate de sodium, fécule de pomme de terre, graisse de palme, arômes (dont _oeuf_), extrait de levure, viande de poule 2.4% (antioxydant : extrait de romarin), épices et aromates (curcuma, estragon, persil, cerfeuil, ciboulette, noix de muscade, poivre), carotte, caramel, maltodextrine.', 'https://static.openfoodfacts.org/images/products/872/270/006/8501/front.10.400.jpg', '0.5', '0.1', '0.5', '0.1', '', '0.5', '0.95', '0.374015748031496', '', '1');
+VALUES ('3701091754694', 'Natureo', '', 'https://static.openfoodfacts.org/images/products/370/109/175/4694/front_fr.4.400.jpg', '0.1', '0', '55.7', '55.7', '', '0.3', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700069027', 'Thé vert mandarine orange', 'Thé vert, arôme (14 %), écorces de mandarine (2,9 %), écorces d\'orange (2,9 %).', '', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701091754762', 'Coquillettes mes pates blanches', '', 'https://static.openfoodfacts.org/images/products/370/109/175/4762/front_fr.4.400.jpg', '1.5', '0.3', '75', '1.5', '', '12.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700069034', 'Infusion élimination  & bien-être', 'queues de cerise 35.5%, hibiscus, pomme, feuilles d\'oranger, arôme 9.1%, feuilles de frêne, baies de cassis 1.8%, reine des près 1.8%', 'https://static.openfoodfacts.org/images/products/872/270/006/9034/front.6.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701091756476', 'Ma confiture d\'abricots à l\'ancienne', 'Abricots 52,5 %*, sucre de canne non raffiné 47,3 %*, agar-agar*. * Ingrédients issus de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/370/109/175/6476/front_fr.11.400.jpg', '0.1', '0', '55.8', '55.3', '0.8', '0.4', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700069041', 'Infusion Alpes', 'Églantier, arôme naturel 17,2 %, réglisse 16,3 %, hibiscus, cannelle, feuilles d\'oranger, citronnelle, écorces d\'orange, maltodextrine, framboise 0,2 %, myrtille 0,2 %, mûre, cassis.', 'https://static.openfoodfacts.org/images/products/872/270/006/9041/front.7.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701091763474', 'Ma sauce tomate bio aux olives', '', 'https://static.openfoodfacts.org/images/products/370/109/176/3474/front_fr.4.400.jpg', '6.3', '1', '6.6', '5', '', '1.6', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700069225', 'Bouillon aux légumes méditerranéens', 'Sel, exhausteur de goût: glutamate de sodium, matière grasse végétale, légumes : 7.1% (oignon. carotte, poivron rouge : 1.2%, chou-fleur, tomate : 0.4%, courgette : 0.4%), extrait de levure, fécule de pomme de terre, épices et aromates : 3.l% (persil, origan, basilic, livèche, curcuma, graines de fenouil, graines de célerie, romarin), sucre, maltodextrine, arômes, lactose.  ', 'https://static.openfoodfacts.org/images/products/872/270/006/9225/front.5.400.jpg', '10', '7', '14', '7', '2.5', '12', '51.054', '20.1', '', '0');
+VALUES ('3701091764297', 'Ma Chair de tomates bio', 'Pulpe de tomate* 99,4%, sel marin. Ingrédient issu de l\'agriculture biologique', 'https://static.openfoodfacts.org/images/products/370/109/176/4297/front_fr.4.400.jpg', '0.3', '0.09', '4.8', '4.8', '', '1.5', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700069256', 'Gâteau incroyablement moelleux', 'Préparation (415 g) : Sucre, farine de _blé_, amidon de _blé_, poudre à lever : E575 et carbonates de sodium, émulsifiants : mono- et diglycérides d\'acides gras, E472a, E472b, E472e et E470a, maltodextrine, protéines de _lait_, épaississant : gomme xanthane, arôme. Décor (20 g) : sucre glace, amidon.', 'https://static.openfoodfacts.org/images/products/872/270/006/9256/front.7.400.jpg', '11', '6.4', '50', '30', '0.8', '5.2', '0.5', '0.196850393700787', '', '0');
+VALUES ('3701091765782', 'Mon sucre de canne blond non raffiné', '', 'https://static.openfoodfacts.org/images/products/370/109/176/5782/front_fr.4.400.jpg', '0', '0', '100', '100', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700069546', 'Tartine & Cuisson Doux', 'Huiles végétales 59%, eau, poudre de babeurre (_lait_), émulsifiants : mono- et diglycérides d\'acides gras et lécithine de tournesol, sel 0,3%, conservateur : sorbate de potassium, correcteur d\'acidité : acide citrique, colorant : bêta-carotène, arôme naturel, vitamines A et D.', 'https://static.openfoodfacts.org/images/products/872/270/006/9546/front.7.400.jpg', '59', '18', '0.5', '0.5', '0.5', '0.5', '0.3', '0.118110236220472', '', '0');
+VALUES ('3701091769872', 'Sucre de canne roux', '', 'https://static.openfoodfacts.org/images/products/370/109/176/9872/front_fr.4.400.jpg', '0', '0', '100', '100', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700072508', 'Magnum Bomboniera Classic', '', '', '', '15', '', '32', '0', '4.2', '0.13', '0.0511811023622047', '', '0');
+VALUES ('3701091774593', 'Spaguetti semi-complets', 'Semoule de blé dur semi-complète*, eau', 'https://static.openfoodfacts.org/images/products/370/109/177/4593/front_fr.11.400.jpg', '1.9', '0.6', '69', '2.5', '', '12', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700072904', 'Bouillon de legumes mediterraneen tablette', 'ingrédients : sel, exhausteur de goût : glutamate de sodium, graisse de palme, légumes : 7,1% (oignon, carotte, poivron rouge : 1,2%, chou-fleur„tomate : 0,4%, courgette : 0,4%), extrait de levure, fécule de pomme de terre, épices et aromates : 3,1% (persil, origan, basilic, livèche, curcuma, fenouil, graines de CÉLERI, romarin), sucre, maltodextrine, arômes, lactose (lait). Peut contenir : blé, œuf', '', '0.5', '0.2', '0.5', '0.5', '0', '0.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701091775149', 'Mes pates blanches', '', 'https://static.openfoodfacts.org/images/products/370/109/177/5149/front_fr.10.400.jpg', '1.5', '0.3', '75', '1.5', '', '12.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700081029', 'Moelleux au chocolat', 'Chocolat en poudre : 33 % (sucre, cacao), sucre, farine de BLÉ, amidon de BLÉ, poudre à lever : E575 et carbonates de sodium, émulsifiants : mono- et diglycérides d\'acides gras, E472a, E472b, E472e et E470a, maltodextrine, protéines de LAIT, épaississant : gomme xanthane, arôme.', 'https://static.openfoodfacts.org/images/products/872/270/008/1029/front.3.400.jpg', '13', '7', '46', '29', '2', '6', '0.5', '0.196850393700787', '', '0');
+VALUES ('3701091782147', 'Ma pâte feuilletée bio', '', 'https://static.openfoodfacts.org/images/products/370/109/178/2147/front_fr.4.400.jpg', '18', '9.1', '37', '2.8', '', '6.1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700082163', 'Moelleux nature', '', '', '', '6.4', '', '30', '0.8', '5.2', '0.46', '0.181102362204724', '', '0');
+VALUES ('3701091782352', 'Ma boisson bio Riz nature', '', 'https://static.openfoodfacts.org/images/products/370/109/178/2352/front_fr.4.400.jpg', '0.9', '0.2', '13.1', '8.5', '', '0.2', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700082194', 'Flan pâtissier', 'Sucre, amidon, oeuf entier (1,4%), colorants : rocou et riboflavine, arômes', 'https://static.openfoodfacts.org/images/products/872/270/008/2194/front.5.400.jpg', '1.5', '0.9', '23', '15', '0.1', '3.1', '0.13', '0.0511811023622047', '', '1');
+VALUES ('3701091782666', 'Ma sauce bio aux légumes du soleil', '', 'https://static.openfoodfacts.org/images/products/370/109/178/2666/front_fr.4.400.jpg', '3.5', '0.4', '7', '6.6', '', '1.6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083160', 'Aspergecrèmesoep 515ml', '', '', '', '0.2', '', '0.7', '0.5', '0.8', '0.78', '0.307086614173228', '', '1');
+VALUES ('3701091784134', 'Sucre de canne roux', '', 'https://static.openfoodfacts.org/images/products/370/109/178/4134/front_fr.4.400.jpg', '0', '0', '100', '100', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083177', 'Groentensoep Met Balletjes+vermicelli 515ml', 'Eau, léoumes 24% (carotte, tomate, CÉLER(, oignon, pois, haricot, pomme de terre, poireau), boulettes de viande len 9t3% (viande de porc, viande de boeuf, eau, amidon de pomme de terre, sel, poivre, coriandre, extrait de viande de boeuf,maltodextrine, graisse de palme, extrait de noix de muscade), vermicelles 4,5% (semoule de BLE dur, blanc d\'OEUF déshydraté), amidon de pomme de terre modifié, set, huile de colza, exhausteurs de E627 EOI), extrait de levure, arôme, noixde muscade. tion Valeurs nutritionnelles après prépara', '', '1', '0.3', '2.5', '0.5', '0.4', '1.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701091784264', 'Soja calcium', 'Jus de soja* (eau, graines de soja* 8%), concentré de jus de raisin, sucre de canne, extrait d\'algue Lithothamnium calcareum, sel, stabilisants: carraghénanes *Ingredients issus de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/370/109/178/4264/front_fr.17.400.jpg', '2.1', '0.4', '4', '3.6', '', '3.7', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083368', 'Kippensoep met malse kip', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701091784622', 'Boisson bio soja nature', 'Jus de soja* (Eau, graines de soja* 8%) Ingrédient issu de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/370/109/178/4622/front_fr.4.400.jpg', '2.1', '0.4', '1.4', '0.7', '', '3.8', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083375', 'Bisque de Homard', '', '', '3.5', '0.3', '5.4', '1.3', '', '2.3', '1', '0.393700787401575', '', '1');
+VALUES ('3701091784677', 'Torsades semi-complètes', 'Semoule de blé dur semi-complète, eau.', 'https://static.openfoodfacts.org/images/products/370/109/178/4677/front_fr.10.400.jpg', '1.9', '0.6', '69', '2.5', '', '12', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083412', 'Crème de tomates', '', 'https://static.openfoodfacts.org/images/products/872/270/008/3412/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701091786244', 'Mon coulis bio de tomates', '', 'https://static.openfoodfacts.org/images/products/370/109/178/6244/front_fr.4.400.jpg', '0.2', '0.08', '8.5', '7.4', '', '2.1', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083436', 'Tomatensuprême 515ml', '', 'https://static.openfoodfacts.org/images/products/872/270/008/3436/front.3.400.jpg', '', '0.2', '', '2.9', '0.6', '1.2', '0.91', '0.358267716535433', '', '1');
+VALUES ('3701091786411', 'Pois cassés bio', '', 'https://static.openfoodfacts.org/images/products/370/109/178/6411/front_fr.4.400.jpg', '1.44', '0.23', '52', '2.75', '', '22.8', '0.051', '0.0200787401574803', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083450', 'Crème de volaille', '', 'https://static.openfoodfacts.org/images/products/872/270/008/3450/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701091787265', 'Mon sucre de canne blond', '', 'https://static.openfoodfacts.org/images/products/370/109/178/7265/front_fr.4.400.jpg', '0', '0', '100', '100', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700083467', 'Soupe Cerfeuil avec Boulettes', 'Eau, cerfeuil 19 %, boulettes de viande 9,3 % (viande porc, viande de bœuf, eau, amidon de pomme de terre, sel, épices, extrait de viande de bœuf, maltodextrine, extrait de noix de muscade), légumes 9,3 % (poireau, amidon de maïs modifié, sel, huile de colza, LAIT écrémé en poudre, exhausteur de goût E621, arôme, épices (dont CÉLERI), acidifiant E300.', 'https://static.openfoodfacts.org/images/products/872/270/008/3467/front.5.400.jpg', '1', '0.3', '2.5', '1', '0.7', '1.5', '1', '0.393700787401575', '', '1');
+VALUES ('3701091789016', 'Concentré de tomates  bio', '', 'https://static.openfoodfacts.org/images/products/370/109/178/9016/front_fr.4.400.jpg', '0.5', '0.08', '19.2', '11', '', '5.3', '0.23', '0.0905511811023622', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700084198', 'Secret de Grand-Mere tomates, carottes, oignons', 'légumes2 : 77% (tomate : 3796, pomme de terre (antioxydant : E 320), CÉLERI, carotte : 2,2%, oignon : 1,9%), sucre, sel, graisse de palme, chlorure de potassium, protéines végétales hydrolysées, arômes, épices et aromates (aiF, basilic : 0,1%, poivre, feuilles de CÉLERI), arôme de fumée. Peut contenir : blé, lait, moutarde, œuf 21ngrédients issus de Itagriculture durable,', '', '0.02', '0.02', '5.6', '2.9', '1', '0.9', '0.63', '0.248031496062992', '', '1');
+VALUES ('3701091798216', 'Mes Graines bio de Chia', '', 'https://static.openfoodfacts.org/images/products/370/109/179/8216/front_fr.4.400.jpg', '30.7', '3.33', '7.72', '0', '', '19.5', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700084952', 'Soupe de legumr', 'Preparado desidratado para sopa de vegetais (54%). Ingredientes: batata (33%), amido, sal, cenoura (5,9%), ervilhas (5,9%), gordura de palma, puré de tomatel (3,996), cebola, proteinas vegetais hidrolisadas, alho francês (1,6%), cloreto d potissi02, fe0io verde (0396), LACTOSE, de levedura, prote(nas do LEITE, espedarias, alho, salsa, antioxidante (BHA). Pode conter glüten, ovo, aipo e mostarda. Produzido a partir de tomate de origem sustentével. Z Substituto do sal ECOPONTO', '', '0.5', '0.2', '3.5', '0.5', '0.5', '0.5', '0.68', '0.267716535433071', '', '1');
+VALUES ('3701095000018', 'Lait pour nourrisson', '', 'https://static.openfoodfacts.org/images/products/370/109/500/0018/front_fr.4.400.jpg', '3.2', '1.2', '7.3', '6.1', '', '1.4', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700085072', 'Italian chunky tomato soup', '', 'https://static.openfoodfacts.org/images/products/872/270/008/5072/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701095000025', 'Lait de suite 2e âge', '', 'https://static.openfoodfacts.org/images/products/370/109/500/0025/front_fr.4.400.jpg', '22.5', '8.52', '58.6', '49.3', '0', '12', '0.15', '0.0590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700089131', 'Herbal infusion Mint', '', '', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701095000032', 'Lait de croissance bio', '', 'https://static.openfoodfacts.org/images/products/370/109/500/0032/front_fr.4.400.jpg', '3', '1.1', '7.9', '6.7', '', '1.6', '2.59999999999999', '1.02362204724409', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700089148', 'Herbal Infusion Rosehip', 'Rosehip (60 %), hibiscus.', '', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701096800020', 'Terrine au lapin aromatisée au Cognac', '', 'https://static.openfoodfacts.org/images/products/370/109/680/0020/front_fr.4.400.jpg', '43.7', '16.6', '1.2', '0.02', '', '15.8', '4.4', '1.73228346456693', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700089179', 'Herbal infusion camomile', 'camomile 100%', 'https://static.openfoodfacts.org/images/products/872/270/008/9179/front_en.17.400.jpg', '0', '0', '5', '0.5', '0', '5', '0', '0', '', '1');
+VALUES ('3701096800105', 'Graton de canard a l\'echaloe', '', 'https://static.openfoodfacts.org/images/products/370/109/680/0105/front_fr.4.400.jpg', '50.2', '16.48', '0.4', '0.1', '', '17.5', '1.55', '0.610236220472441', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700090144', 'Knorr Hollandaise Saus Met Witte Wijn', '', '', '', '5', '', '1.5', '0.5', '0.7', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701098302584', 'Succre de coco', '', 'https://static.openfoodfacts.org/images/products/370/109/830/2584/front_fr.4.400.jpg', '1.49', '0', '88.26', '88.26', '', '0.00194', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700090182', 'Sauce Moutarde', 'Crème 51%, eau, moutarde 14% (eau, graines de MOUTARDE, vinaigre, sel, sucre, arôme, poivre), échalote 1,9%, vin blanc, sel, huile de tournesol, amidon de maïs modifié, vinaigre de vin blanc, jaune d\'OEUF, son de graines de MOUTARDE, curcuma, poivre de cayenne, extrait de levure, sirop de caramel, pâte d\'ail, épaississant (E412, E415), émulsifiant E472e, arôme. ', '', '19', '10', '5.1', '2.6', '', '2.4', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701100200044', 'Lait fleur de sel', '', 'https://static.openfoodfacts.org/images/products/370/110/020/0044/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700090335', 'Crema de zanahoria, puerro y cebolla', 'Agua, verduras y hortalizas (33%) [zanahoria (55%), puerro (14%), judías verdes, tomate, cebolla (7%), espinacas], patata (7%), almidón modificado de maíz, sal, aceites vegetales, azúcar, aromas, extracto de levadura, especia.', 'https://static.openfoodfacts.org/images/products/872/270/009/0335/front.13.400.jpg', '0.5', '0.1', '4', '1.5', '1.5', '0.7', '0.8128', '0.32', '', '1');
+VALUES ('3701100200075', 'Chocolat cranberry et graines', '', 'https://static.openfoodfacts.org/images/products/370/110/020/0075/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700092285', 'Steam Fresh 300gr Carottes Brocoli Et Romanesco', 'Carottes 38%, brocolis 33%, romanesco 21%, eau, huile végetale (huile de cocos, huile de palme**), beurre (lait), bouillon de légumes (sel, glucose, levure, oignons, échalotes, poivrons, tomates), persil, origan, amidon de riz, sel, poivre. *Ce produit contient de l\'huile de palme durable certifiée.', '', '2.9', '1.8', '3.2', '3', '2.4', '2', '0.49', '0.192913385826772', '', '1');
+VALUES ('3701100200662', 'Chocolat noir 72% piment d\'espelette', '', 'https://static.openfoodfacts.org/images/products/370/110/020/0662/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700093145', 'Fond Blanc De Volaille Déshydraté', 'Fonds blanc de volaille de poule), dextrose, jus de égumes concentrés (CELERI, carotte, poireau, oignon), antioxydant : extrait de romarin. Peut contemr : gluten, lait, œuf, moutarde.', '', '0.5', '0.1', '1.3', '0.5', '0.5', '0.5', '0.53', '0.208661417322835', '', '1');
+VALUES ('3701100200679', 'Chocolat noir 72 %', '', 'https://static.openfoodfacts.org/images/products/370/110/020/0679/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700093176', 'Collection exclusive', 'Thé or : thé noie de Ceylan (51%) et d\'autres origines, arôme (7%), pétales de fleur. Earl grey impérial : thé noir, arôme (10%), pétales de bleuet (0,5%), pétales de souci (0,5%). Orange bangalore : thé noir, arôme (11%), écorce d\'orange (6,8%). Sencha Indonésie : thé vert Sencha d\'Indonésie (51%) et d\'autres origines, arôme (9,3%), pétale de rose (1%). Bombay tchal : thé noir, arôme (8,8%), épices (cardamone, cannelle, anis, réglisse) : 4,7%, fruits rouges (fraise, framboise, groseille, mûre, cerise) : 3%.', 'https://static.openfoodfacts.org/images/products/872/270/009/3176/front.8.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701102200257', 'Queues de crevettes cocktail cuites', 'Crevettes, sel, stabilisant: E330, E332. ', 'https://static.openfoodfacts.org/images/products/370/110/220/0257/front_fr.4.400.jpg', '0.8', '0.3', '0', '0', '', '18', '0.269999999999999', '0.106299212598425', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700094883', 'Velouté De Bolets Déshydraté', '', '', '1.7', '1.1', '4.1', '0.6', '', '0.5', '0.75', '0.295275590551181', '', '1');
+VALUES ('3701102200981', 'Crevettes sauvages de Patagonie décortiquées', '_Crevettes_ d\'Argentine crues (_Crustacés_) (Pleoticus muelleri), conservateurs : E222, E223 (contient : _sulfites_).', 'https://static.openfoodfacts.org/images/products/370/110/220/0981/front_fr.8.400.jpg', '0.5', '0.2', '0', '0', '', '16', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700101864', 'Moutarde au vin blanc à l\'oignon grillé et au serpolet Maille', 'Eau, graines de moutarde, vinaigre, vin blanc : 10%, sel, sucre, oignon grillé réhydraté : 10%, serpolet réhydraté : 2,5%, jus de citron concentré, arômes, acidifiant : acide citrique, conservateur : E224 (sulfites).', 'https://static.openfoodfacts.org/images/products/872/270/010/1864/front.14.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701102201117', 'Gambas tropicales', '', 'https://static.openfoodfacts.org/images/products/370/110/220/1117/front_fr.4.400.jpg', '0.8', '0.3', '0', '0', '', '18', '0.27', '0.106299212598425', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700102632', 'Hellmann\'s Real', 'Huile de colza, eau, _Oeuf_ et jaune d\'_Oeuf_ (de poules élevées en plein air) 7,9%, vinaigre, sel, sucre, jus de citron concentré, antioxygène E385, arôme, colorant: extrait de poivron.', '', '73', '5.7', '1.2', '1.2', '0', '1', '1.4', '0.551181102362205', '', '0');
+VALUES ('3701102201148', 'Gambas tropicales', '', 'https://static.openfoodfacts.org/images/products/370/110/220/1148/front_fr.4.400.jpg', '0.8', '0.3', '0', '0', '', '18', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700103301', 'Vanilla Viennetta', 'Ingredients: Reconstituted skimmed MILK, coconut oil, glucose-fuctose syrup, sugar. water, glucose syrup, whey solids (MILK), Fat reduced Cocoa powder, emulsifiers (mono- and di-gIycerides of fatty acids, ammonium phosphatides), stabilisers (iocust bean gum, guargum, carrageenan), Flavouring', 'https://static.openfoodfacts.org/images/products/872/270/010/3301/front_en.3.400.jpg', '14', '13', '27', '21', '', '2.5', '1.016', '0.4', '', '0');
+VALUES ('3701104800318', 'Les fruits croquants', '', 'https://static.openfoodfacts.org/images/products/370/110/480/0318/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700108856', 'Moelleux au bon goût Citron', 'Préparation pour gâteau : Sucre, farine de _blé_, amidon de _blé_, poudre à lever : E575 et carbonates de sodium, émulsifiants : mono et diglycérides d\'acides gras, E472a, b, e et E470a, maltodextrine, protéines de _lait_, épaississants : gomme xanthane, arôme, colorant : rocou. Décor : sucre glace, amidon.', 'https://static.openfoodfacts.org/images/products/872/270/010/8856/front.3.400.jpg', '11', '6.4', '50', '30', '0.8', '5.2', '0.5', '0.196850393700787', '', '0');
+VALUES ('3701104800370', 'Fruits exotiques', '', 'https://static.openfoodfacts.org/images/products/370/110/480/0370/front_fr.4.400.jpg', '17', '14', '10', '9', '', '2', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700109693', 'Fonds brun liés', '', '', '0.5', '0.1', '3.8', '0.8', '', '9.3', '0.05', '0.0196850393700787', '', '1');
+VALUES ('3701104800394', 'Delicieuse mangue', '', 'https://static.openfoodfacts.org/images/products/370/110/480/0394/front_fr.4.400.jpg', '0.31', '0.07', '13.7', '11.3', '', '0.62', '0.013', '0.00511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700109846', 'Jus de veau lié déshydraté', '', 'https://static.openfoodfacts.org/images/products/872/270/010/9846/front.3.400.jpg', '3.5', '2', '79', '8', '', '7', '2.27', '0.893700787401575', '', '0');
+VALUES ('3701107100590', 'Amour d ail', '', 'https://static.openfoodfacts.org/images/products/370/110/710/0590/front_fr.4.400.jpg', '58', '6.9', '12', '5.8', '', '3.3', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700110507', 'Knorr - Pastaria', '', 'https://static.openfoodfacts.org/images/products/872/270/011/0507/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701107100606', 'Amour d\'ail Aie! Aie!', '', 'https://static.openfoodfacts.org/images/products/370/110/710/0606/front_fr.4.400.jpg', '58', '6.9', '12', '5.8', '', '3.3', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700113348', 'Ketchup', 'Tomates (144 g de tomates pour 100 g de ketchup), sucre, vinaigre d\'alcool, fibres de tomate, sel, arômes naturels, épices.', 'https://static.openfoodfacts.org/images/products/872/270/011/3348/front.13.400.jpg', '0.5', '0.1', '23', '22', '0', '1.2', '2.2', '0.866141732283465', '', '0');
+VALUES ('3701107100682', 'Amour d\'ail', '', 'https://static.openfoodfacts.org/images/products/370/110/710/0682/front_fr.4.400.jpg', '58', '6.9', '12', '5.8', '', '3.3', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700113935', 'Maizena Browniesmix', 'SE Ingredien;er: (325 (3,6%), E466j,fâ amne(El\'50cIgàrkelsetmvahillim Kan Glasfl80 druwker,kakao bakpuller 5011 Kan innehallasparavmpkaggrhglutert', '', '6', '3', '80', '58', '4.5', '6', '0.44', '0.173228346456693', '', '0');
+VALUES ('3701107100699', 'Amour d\'ail', '', 'https://static.openfoodfacts.org/images/products/370/110/710/0699/front_fr.4.400.jpg', '58', '6.9', '12', '5.8', '', '3.3', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700114185', 'Mayonnaise de Dijon', 'Huiles végétales, jaune d\'œufs de poule élevées en plein air 8%, vinaigre de vin blanc, eau, moutarde de Dijon 5,3% (eau, graines de moutarde, vinaigre, sel, acidifiant : acide citrique), sucre, sel, épaississant : E1422 et dextrine, arômes, colorants : extrait de paprika, lutéine (extrait de tagète).', 'https://static.openfoodfacts.org/images/products/872/270/011/4185/front.11.400.jpg', '73', '7', '2.5', '1', '0', '1.5', '1.27', '0.5', '', '0');
+VALUES ('3701109400018', 'Delice de fleur meleze', '', 'https://static.openfoodfacts.org/images/products/370/110/940/0018/front_fr.4.400.jpg', '0.1', '0.1', '60', '60', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700114703', 'Sauce barbecue', 'Eau, sucre, vinaigre, purée de tomates mi-concentrée, mélasse, amidon modifié, sel, arômes (dont arôme de fumée), sauce Worcestershire (eau, sirop de glucose, vinaigre de malt (_ORGE_), sucre, sel, arômes, épices, pâte d\'anchois (_ANCHOIS_, sel, eau, huile d\'olive, vinaigre), jus de citron concentré, huile de tournesol), huile de tournesol, épices, farine de _MOUTARDE_, épaississant : gomme xanthane; conservateur : acide sorbique.', 'https://static.openfoodfacts.org/images/products/872/270/011/4703/front.5.400.jpg', '0.7', '0.1', '29', '26', '', '0.7', '1.6', '0.62992125984252', '', '0');
+VALUES ('3701109400032', 'Délice de fleur de Genepi', '', 'https://static.openfoodfacts.org/images/products/370/110/940/0032/front_fr.4.400.jpg', '0', '0', '60', '60', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700117704', 'Tè nero', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701109400070', 'Délice de fleur de pissenlit', '', 'https://static.openfoodfacts.org/images/products/370/110/940/0070/front_fr.4.400.jpg', '0', '0', '60', '60', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700118497', 'Magnum Menthe', '_Lait_ écrémé réhydraté, sucre, beurre de cacao, pâte de cacao, huile de coco, sirop de glucose, sirop de glucose-fructose, _lait_ en poudre entier, _lait_ écrémé concentré, _beurre_ concentré, émulsifiants (E471, lécithine de _soja_, E476), _lactose_ et protéines de _lait_, stabilisants (E410, E412, E407), arômes (dont _lait_), arôme naturel de menthe.', 'https://static.openfoodfacts.org/images/products/872/270/011/8497/front.22.400.jpg', '18', '12', '32', '30', '', '3.2', '0.11', '0.0433070866141732', '', '0');
+VALUES ('3701109400230', 'Confiture Airelles sauvages', 'Airelles sauvages, sucre. Pectine. Acidifiant. Gomme Xanthane.', 'https://static.openfoodfacts.org/images/products/370/110/940/0230/front_fr.4.400.jpg', '0', '0', '60', '60', '', '0.25', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700119173', 'Knorr Pasta e Lenticchie', 'Minestra preparata disidratata Ingredienti: lenticchie 49%, pasta alltuovo 33% (semola di GRANO duro, UOVO), pomodoro sale, cipolle, SEDANO RAPA, estratto per brodo, estratto di lievito, olio extravergine di diva, zucchero, porri 0,6%, carote, cloruro di potassio, succhi vegetali concentrati (SEDANO, carota, porro, cipolla), spezie (aglio, pepe), piante aromatiche (prezzemolo, salvia, rosmarino), aromi. Pub contenere latte e senape.', '', '0.6', '0.1', '11', '1.3', '1.9', '3.9', '0.85', '0.334645669291339', '', '1');
+VALUES ('3701109400308', 'Confiture argousier bio', 'Pulpe d\'argousier bio, sucre, pectine, acidifiant, gomme xanthane.', 'https://static.openfoodfacts.org/images/products/370/110/940/0308/front_fr.4.400.jpg', '3.1', '1', '60', '50', '8.9', '0.2', '0.015', '0.00590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700119760', 'Vinaigrette légère nature', 'Eau, huile de colza 25%, vinaigres de vin rouge et de vin blanc, sel, sucre, amidon modifié, épaississant: gomme xanthane, farine de MOUTARDE, arômes, protéines de LAIT, jus de citron concentré, colorant : lutéine (extrait de tagète)', 'https://static.openfoodfacts.org/images/products/872/270/011/9760/front.7.400.jpg', '26', '2', '3', '1.5', '', '0.5', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701109400346', 'Confiture Lait Bio Chèvre d\'Orcières', 'Lail de Chevre Blo d\'Orcieres, sucre. Pectine. Graines de Vanille, Gomme xanthane.', 'https://static.openfoodfacts.org/images/products/370/110/940/0346/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700119838', 'Vinaigrette Moutarde', '', 'https://static.openfoodfacts.org/images/products/872/270/011/9838/front_en.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701110000009', 'Miel de forêt', '', 'https://static.openfoodfacts.org/images/products/370/111/000/0009/front_fr.4.400.jpg', '0', '0', '100', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700119883', 'Le fromage blanc 1%', 'Eau, huile de colza 25%, vinaigre de vin rouge et de vin blanc, sucre, sel, amidon modifié, son de _moutarde_ 0,6%, arômes, épaississant : gomme xanthane, protéines de _lait_, jus de citron concentré, extraits concentrés de pomme, d\'hibiscus et de mélasse, farine de _moutarde_ 0,1%, colorant : lutéine (extrait de tagète).', 'https://static.openfoodfacts.org/images/products/872/270/011/9883/front.16.400.jpg', '1', '0.7', '3.9', '3.9', '1.67', '8.1', '0.09', '0.0354330708661417', '', '1');
+VALUES ('3701111002958', 'thé noir Earl Grey Jasmin', '', 'https://static.openfoodfacts.org/images/products/370/111/100/2958/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700119975', 'Sauce Crudités Caesar 33% MG', 'Eau, huile de tournesol, vinaigre, fromage 5% (Lait, sel, conservateur : E1105 (oeuf)), oignon, ail, jaune d\'oeuf, sucre, sel, amidon modifié, anchois, acidifiant : acide lactique, farine de moutarde, épaississant : gomme xanthane, persil, émulsifiant : E435, poivre, antioxydant : E385.', 'https://static.openfoodfacts.org/images/products/872/270/011/9975/front.10.400.jpg', '33', '4.5', '4', '2', '', '2.5', '1.6002', '0.63', '', '0');
+VALUES ('3701112101353', 'Sirop artisanale Melon', '', 'https://static.openfoodfacts.org/images/products/370/111/210/1353/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700120001', 'La légère sauce crudités', 'Eau, vinaigre, huile de tournesol 12 %, sucre, LAIT fermenté, oignon, amidon modifié, sel, LAIT écrémé en poudre, jaune d\'OEUF, jus de citron concentré, épaississants : E405, homme xanthane, acidifiant : acide lactique, farine de MOUTARDE, ciboulette, arôme, antioxydant : E385.', 'https://static.openfoodfacts.org/images/products/872/270/012/0001/front.5.400.jpg', '14', '2.5', '11', '9', '', '0.9', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701112102176', 'Confiture artisanale abricot fraise', '', 'https://static.openfoodfacts.org/images/products/370/111/210/2176/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700120063', 'Sauce crudités ', 'Eau, huile de colza, vinaigre, jaune d\'_œuf_, sucre, sel, amidon modifié, protéines de _lait_, jus de citron concentré, arômes, épaississant : gomme xanthane, acidifiant : acide tartrique, extraits concentrés de pomme et d\'hibiscus, antioxydant : E385.', 'https://static.openfoodfacts.org/images/products/872/270/012/0063/front.3.400.jpg', '30', '3.5', '3', '2', '', '0.7', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701115810047', 'Crocodiles', '', 'https://static.openfoodfacts.org/images/products/370/111/581/0047/front_fr.4.400.jpg', '0', '0', '78', '62', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700120155', 'Vinaigrette Légère échalotes', 'Eau, huile de colza 25%, vinaigres de vin rouge et de vin blanc, échalotes 3%, sel, sucre, amidon modifié, épaississant : gomme xanthane, arômes, protéines de LAIT, jus de citron concentré, jus de carotte concentré, colorant : lutéine', '', '26', '2', '2.5', '1.5', '', '0', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701115810344', 'Confiserie', '', 'https://static.openfoodfacts.org/images/products/370/111/581/0344/front_fr.4.400.jpg', '0.1', '0.1', '77.4', '52.7', '', '5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700120476', 'Moutarde préparée aux 3 Herbes Maille', 'Eau, vinaigre, graines de moutarde, sel, herbes aromatiques 3% (ciboulette, persil, basilic), sucre, épices (dont céleri), acidifiant : acide citrique, épaississant : gomme xanthane, arôme, conservateur : E224 (sulfites), colorants : E131, E150C.', 'https://static.openfoodfacts.org/images/products/872/270/012/0476/front.14.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701115820046', 'Gourmandises fantaisies', '', 'https://static.openfoodfacts.org/images/products/370/111/582/0046/front_fr.4.400.jpg', '0', '0', '78', '62', '', '0', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700122029', 'ETUI 180G FLAN AU CARAMEL ALSA', '', 'https://static.openfoodfacts.org/images/products/872/270/012/2029/front_en.6.400.jpg', '', '0.9', '', '13', '0.5', '3.5', '0.16', '0.062992125984252', '', '1');
+VALUES ('3701115820206', 'Gourmandise fantaisie', '', 'https://static.openfoodfacts.org/images/products/370/111/582/0206/front_fr.4.400.jpg', '0', '0', '78', '69', '', '4', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700122821', 'Bouillon moelleux huile tablette', 'sel, exhau#eur de goût} glutamate de so.dium, aime totalement hydrogénée, sucre plantes aromatiques : 3,1% persil, ail, origan, laurier, thym), hui(e d\'olive vier e extra : 2%, actose (LAIT), fécule de pomme de terre, arômes, extrose.', '', '17', '0.2', '0.5', '0.5', '0', '0.5', '0.98', '0.385826771653543', '', '1');
+VALUES ('3701115820275', 'Pierre et Marinette', '', 'https://static.openfoodfacts.org/images/products/370/111/582/0275/front_fr.4.400.jpg', '0', '0', '78', '62', '', '5.5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700125174', 'Sauce burger', 'Eau, huile de soja, purée de tomates mi-concentrée 14%, vinaigre, sirop de glucose-fructose, moutarde (eau, graines de moutarde, vinaigre, sel, épices, arômes), amidon modifié, sauce Worcestershire (eau, sirop de glucose, vinaigre de malt (Orge), sucre, sel, arômes, épices, pate d\'anchois (anchois, sel, eau, huile d\'olive, vinaigre), jus de citron concentré, huile de tournesol), jaune d\'oeuf, sucre, épices 1.3%, sel, arômes, colorant : curcumine, stabilisant : gomme xanthane, antioxydant : E385.', 'https://static.openfoodfacts.org/images/products/872/270/012/5174/front.14.400.jpg', '21', '3.3', '11', '6.9', '', '1.1', '1.3', '0.511811023622047', '', '0');
+VALUES ('3701116100017', 'Huile de Tournesol Raffinée', '', 'https://static.openfoodfacts.org/images/products/370/111/610/0017/front_fr.4.400.jpg', '100', '12', '0', '0', '', '0', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700125297', 'Hot Ketchup', 'Tomates (170g de tomates pour 100g de ketchup), sucre, vinaigre d\'alcool, sel, fibres de citron, piment de Cayenne 0,4 %, oignon, ail, poivre noir, laurier.', 'https://static.openfoodfacts.org/images/products/872/270/012/5297/front.3.400.jpg', '0.5', '0.1', '24', '23', '', '1.2', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701116100055', 'Saint Maurice', '', 'https://static.openfoodfacts.org/images/products/370/111/610/0055/front_fr.4.400.jpg', '100', '12', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700125334', 'sauce Burger', '', '', '21', '3.5', '12', '7', '', '1', '1.4', '0.551181102362205', '', '0');
+VALUES ('3701117100122', 'Volnay 2014', '', 'https://static.openfoodfacts.org/images/products/370/111/710/0122/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700126119', 'Sorbet Carte d’or Vanille', 'Ingrédients \' cerise griotte (46%) (jus* et morceaux), eau, sirop de glucose-fructose, sucre, jus de citron*, colorants (carmins, anthocyanes), stabilisants (farine de graines de caroube, pectine, carraghénane$ protéines de lait et lactose, arôme.', '', '0.1', '0', '22', '22', '0.5', '0.3', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701117102683', 'Vin', '', 'https://static.openfoodfacts.org/images/products/370/111/710/2683/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700126249', 'Mini Almond', '_Lait_ écrémé réhydraté, sucre, beurre de cacao*, _lait_ en poudre écrémé, _lactose_ et protéines de _lait_, _amandes_, huile de coco, sirop de glucose, _beurre_ concentré, sirop de glucose-fructose, pâte de cacao*, émulsifiants (E471, E442, E476), stabilisants (E410, E412, E407), gousses de vanille épuisées broyées, arôme naturel de vanille avec autres arômes naturels, arôme, colorant (E160a). *Vérifié Rainforest Alliance.', '', '23', '14', '32', '30', '', '5.1', '0.17', '0.0669291338582677', '', '0');
+VALUES ('3701120000112', 'Macadamia', '', 'https://static.openfoodfacts.org/images/products/370/112/000/0112/front_fr.4.400.jpg', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700126515', 'Balsamic Vinaigrette', 'Water, Aceto Balsamico di Modena IGP 22% (Wine Vinegar, Grape Must), Sugar, Spirit Vinegar 5%, Extra Virgin Olive Oil 2.5%, Salt, Thickener (Xanthan Gum), Malt Extract (from Barley), Lemon Juice Concentrate, Black Pepper.  ', 'https://static.openfoodfacts.org/images/products/872/270/012/6515/front_en.8.400.jpg', '2.5', '0.5', '11', '11', '', '0.5', '1.6002', '0.63', '', '0');
+VALUES ('3701120000273', 'Leave in conditioner', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700127338', 'Moelleux au chocolat (Offre économique)', 'chocolat en poudre 33% (sucre, cacao), sucre, farine de _blé_, amidon, poudre à lever (E575, bicarbonate de sodium), émulsifiants : mono et diglycérides d\'acides gras, E472a, E472b, E472c, E470a, maltodextrine, protéines de _lait_, épaississant : gomme xanthane, stabilisant : phosphates de calcium, arôme Ingrédient du décors : sucre glace, amidon', '', '4.5', '3.5', '81', '51', '4', '4', '0.6', '0.236220472440945', '', '0');
+VALUES ('3701121900183', 'Helvii ( au nougat)', 'eau malt d\'orge (contient du gluten) crème de nougat 1.5% (amandes émondées grillées, sucré, sirop de glucose, miel, arôme naturel de vanille, Albumine d\'oeuf, pain azyme) Houblons et levures Présence possible de fruits à coque', 'https://static.openfoodfacts.org/images/products/370/112/190/0183/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700127468', 'Maionese Top Down', 'Ingredientes: água, ólio de colza (25 -oh), vinagre de •vinho, amido de milhò modificado, OVO (3,2 Oh), açücar, sal, NATI em gema de OVO pasteurizada (1 0%), fibras de citrinost aroma natural de MOSTARDA, espessantes (Qoma guar e goma xantana)/ farinha de MOSTARDA, sumo de limão concentrado, antioxidante ŒDTA de sédio e cálcio), extrato natural de pimentâo e éleo de girassol,', '', '27', '2.6', '6.1', '2.3', '', '0.7', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701121900251', 'bière', 'eau, malt d\'orge (contient du gluten), houblon, levures', 'https://static.openfoodfacts.org/images/products/370/112/190/0251/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700127765', 'Konfekt', 'Entrahmte _Milch_, Zucker, Kokosfett, Kakaobutter, Kakaomasse, _Molkenerzeugnis_, fettarmer Kakao, Glukose-Fruktose-Sirup, _Vollmilchpulver_, _Butterreinfett_, _Magermilchpulver_, Emulgatoren (Mono- und Diglyceride von Speisefettsäuren, Lecithine (_Soja_), Ammoniumsalze von Phosphatidsäuren, Polyglycerin-Polyricinoleat), Stabilisatoren (Johannisbrotkernmehl, Guarkernmehl, Carrageen), Aromen, Farbstoff (Carotine).', '', '25', '20', '26', '25', '', '3.6', '0.13', '0.0511811023622047', '', '1');
+VALUES ('3701121900398', 'New England IPA', 'Biere elaborée à partir d\'eau, de malt d\'orge, de blé, de Seigle, de houblons et de levures. MALT Pale Ale, Rye (Seigle). Wheat (Froment), Caramunich HOP Columbus, Chinook, Summit', 'https://static.openfoodfacts.org/images/products/370/112/190/0398/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700128328', 'Velour de balsamique', '', '', '0', '0', '28', '28', '', '0', '', '', '', '0');
+VALUES ('3701123500039', 'Ecrase de pomme de terre au boeuf', '', 'https://static.openfoodfacts.org/images/products/370/112/350/0039/front_fr.4.400.jpg', '10.8', '2', '37', '5.9', '', '33.8', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700129219', 'créme patissiére', 'sucre, amidon, ?UF entier : 1,4%, arôme, colorants : rocou et riboflavine. Peut contenir : blé, lait. SANS CONSERVATEUR. A conserver dans un endroit frais et sec. Votre flan pâtissier aux oeufs se conserve au frais et se consomme dans les 48 h qui suivent sa préparatione', '', '1.5', '0.9', '23', '15', '0.5', '3.1', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701123500060', 'Barre chocolat, orange aux croquants d\'amande', '', 'https://static.openfoodfacts.org/images/products/370/112/350/0060/front_fr.4.400.jpg', '24.6', '4.6', '36.2', '19.1', '', '11.8', '0.13', '0.0511811023622047', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700129523', 'Thé vert classique', 'Thé vert, Arôme 5,8%', 'https://static.openfoodfacts.org/images/products/872/270/012/9523/front.5.400.jpg', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701123500121', 'Poulet basquaise et son riz', '', 'https://static.openfoodfacts.org/images/products/370/112/350/0121/front_fr.4.400.jpg', '13.2', '1.5', '41.1', '10', '', '29.5', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700129981', '2 Meunières Tradition', '_Colin d\'Alaska_ 80 % (_poisson_), eau, chapelure (farine de _blé_, eau, levure, sel), farine de _blé_, amidon de pomme de terre, sel, _œuf_ en poudre, farine de riz, persil 0,1 %.', 'https://static.openfoodfacts.org/images/products/872/270/012/9981/front.5.400.jpg', '0.7', '0.2', '8.9', '0.4', '0.4', '14.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701123500190', 'Nutri', '', 'https://static.openfoodfacts.org/images/products/370/112/350/0190/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700130109', 'Les Océanes, 2 Grillades Tomate & Basilic', 'Colin d\'Alaska 90 % (_poisson_), huile végétale (palme**, olive, colza), poudre de tomates 0.8 %, basilic 0.7 %, sel, arôme naturel d\'ail et d\'oignon, dextrose, huile au basilic (huile de tournesol, extrait de basilic), sirop de glucose, amidon de maïs, paprika, piment rouge. **Ce produit contient de l\'huile de palme certifiée durable.', 'https://static.openfoodfacts.org/images/products/872/270/013/0109/front.10.400.jpg', '7.4', '3.6', '1', '0.6', '0.5', '15', '0.9', '0.354330708661417', '', '1');
+VALUES ('3701123500206', 'Barres amande graine de potiron', '', 'https://static.openfoodfacts.org/images/products/370/112/350/0206/front_fr.4.400.jpg', '10', '2', '30', '12', '', '25', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700130123', 'Les Océanes Grillade Herbes et Huile d\'Olive 2,3%', '_Colin d\'Alaska_ 90%, huile de palme, huile d\'olives 2,3%, huile de colza, herbes 0,8% (persil, origan, thym, romarin, estragon, basilic), eau, sel, dextrose, extrait d\'oignon et d\'ail, sucre, poivre noir, épinards.', '', '8.1', '3.6', '0.4', '0.4', '0', '15.2', '0.9', '0.354330708661417', '', '1');
+VALUES ('3701125001060', 'La Française - Eau minérale naturelle', '', 'https://static.openfoodfacts.org/images/products/370/112/500/1060/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700130239', 'My Carte d\'or chocolat', '', '', '7.6', '6.6', '28', '26', '', '3.2', '0.12', '0.047244094488189', '', '0');
+VALUES ('3701125001121', 'La française eau minérale naturelle', '', 'https://static.openfoodfacts.org/images/products/370/112/500/1121/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700132196', 'Levure de boulangerie spécial machine à pain', 'levure de boulangerie déshydratée, émulsifiant : E 491.', '', '0', '0', '38.2', '0.01', '', '38.3', '0', '0', '', '1');
+VALUES ('3701125001152', 'Eau minérale naturelle de montagne', '3,00 CHLORURE CALCIUM 4,50 NITRATES 1,00 3,10 SULFATES SODIUM POTASSIUM 0,40 BICARBONATES Résidus secs totaux à IÜC: 21 mg/l RésisWlté: 35714 / cm - SOURCE 2 PENSEZ I \'DE TRI CCNS:ŒNE PCUVANT LOCALEMENT P', 'https://static.openfoodfacts.org/images/products/370/112/500/1152/front_fr.4.400.jpg', '0.01', '0.01', '0.01', '0.01', '0.01', '1.2', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700133407', 'Linéa, Thé Vert Ananas Et Hibiscus, 46 Grammes, Marque Lipton', '', '', '0.1', '0', '0.3', '0.1', '', '0.2', '', '', '', '1');
+VALUES ('3701125001213', 'Eau minerale naturelle de montagne', '', 'https://static.openfoodfacts.org/images/products/370/112/500/1213/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700133414', 'Linéa Thé Vert Et Agrumes 46 Grammes', '', '', '0', '0', '0.3', '0', '', '0.1', '', '', '', '1');
+VALUES ('3701125001329', 'Eau de source naturelle du tarn', '', 'https://static.openfoodfacts.org/images/products/370/112/500/1329/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700135890', 'Honey & Mustard Dressing', 'Water, Sunflower Oil, Mustard 11% (Water, Mustard Seeds, Spirit Vinegar, Salt, Flavourings, Spices), Honey 7%, Spirit Vinegar, Sugar, Modified Maize Starch, Salt, Pasteurised Egg Yolk, Malt Vinegar (Barley), Citric Acid, Glucose Fructose Syrup, Juice Concentrate (Carrot Juice, Lemon Juice), Safflower Extract, Antioxidant (Calcium Disodium EDTA)', 'https://static.openfoodfacts.org/images/products/872/270/013/5890/front_en.8.400.jpg', '14', '1.5', '15', '11', '', '0.8', '1.6002', '0.63', '', '0');
+VALUES ('3701128701011', 'Miel  de lavande', '', 'https://static.openfoodfacts.org/images/products/370/112/870/1011/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700136101', 'Vinaigrette légère', '', '', '40', '5', '7', '6', '0', '0', '0.5', '0.196850393700787', '', '0');
+VALUES ('3701128701028', 'Miel de lavande', '', 'https://static.openfoodfacts.org/images/products/370/112/870/1028/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700136163', 'Vinaigrette légère - Huile d\'Olive et Pointe d\'Olive Noire', 'Eau, vinaigres de vin blanc et rouge, huile d\'olive vierge extra 16%, huile de tournesol 14%, Aceto Balsamico di Modena (vinaigre balsamique de Modène : vinaigre de vin, moûts de raisin cuit et concentré, colorant : caramel E150d), sucre, sel, arôme, épaississants : gomme xanthane et carraghénanes, olive noire 0,5%, epices, caramel', 'https://static.openfoodfacts.org/images/products/872/270/013/6163/front.14.400.jpg', '30', '4', '6', '4.5', '', '0.5', '1.9', '0.748031496062992', '', '0');
+VALUES ('3701128701080', 'Miel', '', 'https://static.openfoodfacts.org/images/products/370/112/870/1080/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700136194', 'Vinaigre Balsamique de Modène et Pointe d\'orange', 'IWAiLLE@ DEPUIS 1747 VNAIGREITE LÉGÈRE VNAIGRE BALSAMIQUE DE MODÈNE ET PONTE D\'ORANGE Idéale pour vos salades vertes ou de crudités, cette vinaigrette vous étonnera par la richesse de son goût. Son secret : vinaigre balsamique- e Modène, sélectionné pour son caractère et sa douceur, s btilement relevé d\'une touche fruitée. 4 ln rédients : Huile delo rnesol 37%, eau, Aceto Balsamico di balsamiqge de Modène : (SULFITES)), vinaigre de vin blanc, vinaigre de vin rouge, huile sucre, sel, jus dl oranae concentré 1 0%/ épaississants : lanthane et carraphénanes : acide citrique, lalapen01 aromes. llndication Géographique Protégee. Bien agiter avant chaque utilisation. Se conserve au ouverture. Vinaigrette allégée en matières Reduit en matières grasses de par rapport à une vinaigre Par ortion Valeur énergétique Matietésf tusses 1600 kJ/400 40 g saturés Relation consommategf 09 69 32 oo 80 www.mai 20 rue.', '', '40', '5', '7', '7', '0', '0.1', '1.6', '0.62992125984252', '', '0');
+VALUES ('3701128701110', 'Miel de montagne', '', 'https://static.openfoodfacts.org/images/products/370/112/870/1110/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700136224', 'Ligeresa Original', 'Eau, huile de _soja_ 25%, vinaigre de vin, l\'amidon de _blé_, jaune d\'_œuf_, l\'azote, sel, sirop de glucose déshydraté, l\'amidon modifié de maïs, épaississants (gomme de caroube et gomme guar), conservateur (acide ascorbique), colorant (carotènes), arôme.', 'https://static.openfoodfacts.org/images/products/872/270/013/6224/front.6.400.jpg', '26', '4.3', '8.8', '2.3', '', '0.7', '0.99', '0.389763779527559', '', '1');
+VALUES ('3701128701189', 'Miel de châtaignier', '', 'https://static.openfoodfacts.org/images/products/370/112/870/1189/front_fr.4.400.jpg', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700136231', 'Maionesa', 'Amidon modifié de maïs, e385, beta carotene', '', '66', '10', '2', '1.5', '', '0.8', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701130800047', 'Amandine', '', 'https://static.openfoodfacts.org/images/products/370/113/080/0047/front_fr.4.400.jpg', '23', '3.6', '40', '31', '', '6.8', '0.4', '0.15748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700137733', 'Vinaigre Balsamique de Modène', 'Vinaigre de vin, moût de raisin concentré, moût de raisin cuit, colorant : caramel E150d, conservateur : E220 (sulfites).', 'https://static.openfoodfacts.org/images/products/872/270/013/7733/front.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701130800054', 'Croustillants chocolat', '', 'https://static.openfoodfacts.org/images/products/370/113/080/0054/front_fr.4.400.jpg', '17', '4.8', '55', '35', '', '0', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700139201', 'Moutarde douce', 'Eau, graines de _moutarde_, vinaigre, huile de tournesol, sel, dextrose, stabilisant : gomme xanthane, acidifiant : acide citrique, arômes, conservateur : E224 (_sulfites_).', 'https://static.openfoodfacts.org/images/products/872/270/013/9201/front.6.400.jpg', '19', '1.7', '4.8', '4', '0', '5.4', '4.9', '1.92913385826772', '', '0');
+VALUES ('3701130800092', 'Palets Anis', '', 'https://static.openfoodfacts.org/images/products/370/113/080/0092/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700140139', 'Infusao Cidreira 20SAQUETAS', '', 'https://static.openfoodfacts.org/images/products/872/270/014/0139/front.5.400.jpg', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701131700025', 'The original speculoos', '', 'https://static.openfoodfacts.org/images/products/370/113/170/0025/front_fr.4.400.jpg', '19', '8.8', '72.6', '38.1', '', '4.9', '0.92', '0.362204724409449', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700140528', 'Tea Lemon Cytrynowa', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701131700032', 'Chocolat au lait praliné', '', 'https://static.openfoodfacts.org/images/products/370/113/170/0032/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700140542', 'Tea Forest Fruit Owoce leśne', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701131700131', 'Boules sapin de Noël au chocolat au lait', '', 'https://static.openfoodfacts.org/images/products/370/113/170/0131/front_fr.4.400.jpg', '32', '20', '57', '56', '', '6.5', '0.15', '0.0590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700140559', 'Tea blue fruit', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701132200029', 'Detoxella', '', 'https://static.openfoodfacts.org/images/products/370/113/220/0029/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700140986', 'Citrus Sparkling Ice Tea', '', 'https://static.openfoodfacts.org/images/products/872/270/014/0986/front_en.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701132200234', 'Magnesium Malate', '', 'https://static.openfoodfacts.org/images/products/370/113/220/0234/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700145264', 'Sambal Brandal', 'chilipeper, basterdsuiker, zout, melasse, water, ui, plantaardige olie, azijn, maltodextrine, voedingszuur E270, galangawortel, dextrose, trassi (garnalenextract), conserveermiddel E202, citroenblad, chili-extract', 'https://static.openfoodfacts.org/images/products/872/270/014/5264/front.5.400.jpg', '5.9', '', '25', '', '', '2', '', '', '', '1');
+VALUES ('3701132200333', 'Lereca emonctoires', '', 'https://static.openfoodfacts.org/images/products/370/113/220/0333/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700152767', 'Clafoutis', 'Sucre, farine de _blé_, amidon, _œuf_ entier : 1,7%, épaississant : gomme xanthane, sel, arôme, colorants : riboflavine, rocou.', '', '1', '1', '20', '14', '0.9', '3', '0.18', '0.0708661417322835', '', '1');
+VALUES ('3701134762723', 'Cristal vape', 'Monopropylène Glycol (50%), Gloderine vegétale (&lt;50%), Eau,Substances Aromatisantes Naturelles, Preparations Aromatisantes,Nicotine 3 mgh En cas de consultation d\'un médecin, garder à disposton le recipient ou l\'étiquette. Tenir hors de portée des entarts e laver les mains soigneusement après manipulaton Ne 3s manger, boire ou fumer en manipulant le produt EN CAS D\'INGESTION: Appeler un CENTRE ANTI-POISON OU un medecin en cas de malaise Rincer la bouche Node lot 8S1 1MURF4 OLUO: 11/20 2 mm Emissions de nicutine: 0,007 5mg/bouter UE ATTENTION:NOOR EN CAS D\'INGESTION', 'https://static.openfoodfacts.org/images/products/370/113/476/2723/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700153221', 'Fondant au Chocolat', 'sucre, chocolat en poudre : 34% (sucre, cacao), chocolat noir extra-fin à 58% de cacao : 14% (pâte de cacao, sucre, beurre de cacao, émulsifiant : lécithine de _soja_, arôme naturel de vanille), farine de _blé_, épaississant : gomme xanthane.', 'https://static.openfoodfacts.org/images/products/872/270/015/3221/front.3.400.jpg', '24', '14', '41', '35', '2.5', '6.1', '0.13', '0.0511811023622047', '', '0');
+VALUES ('3701134800043', 'Rawmembert', '', 'https://static.openfoodfacts.org/images/products/370/113/480/0043/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700153276', 'Pot noodle - Beef & Tomato', '', '', '5.4', '2.7', '19', '1.5', '', '3.5', '0.58', '0.228346456692913', '', '1');
+VALUES ('3701135700007', 'Huile d\'olive vierge extra', '', 'https://static.openfoodfacts.org/images/products/370/113/570/0007/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700159476', 'Thé fruits des bois avec morceaux de fruits', 'thé, arôme 17.8%, fruits des bois 2.8%(framboise, mûre et myrtille) sur maltodextrine  ', 'https://static.openfoodfacts.org/images/products/872/270/015/9476/front.12.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701135700014', 'Huile olive', '', 'https://static.openfoodfacts.org/images/products/370/113/570/0014/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.002', '0.00078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700160809', 'Caldo para bifes', '', '', '23', '15', '19', '4.5', '', '12', '41', '16.1417322834646', '', '0');
+VALUES ('3701135700021', 'Huile d’olive', '', 'https://static.openfoodfacts.org/images/products/370/113/570/0021/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '0', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700162667', 'Ketchup plaisir +', 'Tomates (170 g de tomates pour 100g de ketchup), vinaigre d\'alcool 14 %, sucre, sel 1,8 %, fibres de citron, épices, arôme naturel, extrait d\'oignon, édulcorant : glycosides de stéviol.', 'https://static.openfoodfacts.org/images/products/872/270/016/2667/front.14.400.jpg', '0.5', '0.1', '12', '12', '', '1.2', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701135700038', 'Huile d\'olive vierge extra de corse', '', 'https://static.openfoodfacts.org/images/products/370/113/570/0038/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700165910', 'Chicken Powder', 'Salt, Lactose, Flavour Enhancers (E621, E531, E627), Modified Corn Starch, Chicken Meat Powder (5.7%), Vegetable Oil, Yeast Extract, Chicken Fat (0.6%), Flavourings (contains milk, egg), Chicken Meat Extract 0.1%, Potato Starch, Colour (E150c), Antioxidants (E320, E310).', 'https://static.openfoodfacts.org/images/products/872/270/016/5910/front_en.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701135700045', 'Huile d\'olive vierge extra', '', 'https://static.openfoodfacts.org/images/products/370/113/570/0045/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700166221', 'Marmite', '', '', '0.5', '0.1', '30', '1.2', '', '34', '10.8', '4.25196850393701', '', '0');
+VALUES ('3701136400005', 'Aragan Biotic P3 Sztress Boîte De', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700166641', 'Poule Vermicelles', 'eau, vermicelle cuit : 8% (semoule de _blé_ dur, blanc d\'_œuf_), légumes : 4,7% (carotte : 1,4%, oignon, _céleri_, poireau), viande de poulet : 3%, amidon modifié, sel, graisse de poule (antioxydant : extrait de romarin), fécule de pomme de terre, extrait de levure, arômes, épices et aromates (cerfeuil, persil, poivre, curcuma), maltodextrine, huiles végétales (maïs, tournesol), sucre liquide inverti, jus de carotte concentré, sucre, jus de citron concentré.', 'https://static.openfoodfacts.org/images/products/872/270/016/6641/front.3.400.jpg', '1', '0.3', '3', '0.5', '0.5', '1.4', '0.82', '0.322834645669291', '', '1');
+VALUES ('3701136400029', 'Slim actifs', '', 'https://static.openfoodfacts.org/images/products/370/113/640/0029/front_fr.10.400.jpg', '7', '1.2', '29.2', '23.5', '', '37', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700168881', 'Levure du Boulanger', 'Levure de boulangerie déshydratée, émulsifiant : E491', 'https://static.openfoodfacts.org/images/products/872/270/016/8881/front.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701136400036', 'Klareline Bio', '', 'https://static.openfoodfacts.org/images/products/370/113/640/0036/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700169864', 'Sauce roquefort', 'Eau, Roquefort (13 %) (FROMAGE), CRÈME fraîche, amidon modifié de maïs, huile de tournesol, émulsifiants (E451i, E472e), cognac, arôme naturel (dont LAIT, CÉLERI), extrait de levure, arôme (dont LACTOSE), sel, ail, en pâte, épaississants (gomme xanthane et gomme guar).', '', '11', '5.3', '4.2', '0.5', '0.5', '3.2', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701138100514', 'Par ici', 'Salade de pommes de terre 58% [pommes de terre roseval, pommes de terre vitelotte (eau, pommes de terre vitelotte, sel), huile de colza, oignon rouge, ciboulette, persil, vinaigre de cidre (jus de pomme concentré, vinaigre de cidre (sulfite)), échalote, sel, piment doux] -Vinaigrette moutarde à l\'ancienne 18% [huile de colza, moutarde à l\'ancienne (eau, graines de moutarde, vinaigre d\'alcool (sulfite), sel, vin blanc (sulfite), sucre, épices, acidifiant : acide citrique, conservateur : disulfite de potassium), eau, vinaigre balsamique blanc (vinaigre de vin, jus de raisin concentré, moût de raisin, conservateur : métabisulfite de potassium (sulfite))] - Salade frisée 13% - Poulet 11% [filet de poulet, huile d\'olive, eau, sel]. Les informations en gras sont destinées aux Personnes intolérantes ou allergiques.', 'https://static.openfoodfacts.org/images/products/370/113/810/0514/front_fr.4.400.jpg', '11.3', '0.9', '6', '0.6', '1.1', '3.5', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700170488', 'Planta fin Oméga 3', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138100828', 'Trofie au pesto', '', 'https://static.openfoodfacts.org/images/products/370/113/810/0828/front_fr.4.400.jpg', '8.2', '3.8', '5', '0.6', '', '4.7', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700170518', 'Beurre', 'Huiles végétales 59 % (tournesol, palme, lin, colza), eau, poudre de babeurre (LAIT), sel 0,3 %, émulsifiants : mono- et diglycérides d\'acides gras et lécithine de tournesol, correcteur d\'acidité : acide citrique, conservateur : sorbate de potassium, arôme naturel, vitamines A et D, colorant : caroténoïdes.', 'https://static.openfoodfacts.org/images/products/872/270/017/0518/front.5.400.jpg', '59', '20', '0.5', '0.5', '', '0.5', '0.32', '0.125984251968504', '', '0');
+VALUES ('3701138101023', 'Salade superfood', '. Salade d\'épeautre lentilles 90% [Epeautre (épeautre*, eau, sel), concombre, tomate cerise, radis, pois chiche assaisonné (pois chiches*, eau, huile de sésame*, basilic, huile d\'olive, gingembre, sumac, poivre, sel), lentille corail (lentille corail*, eau), abricot sec] - Roquette 10%. * Issus de l\'agriculture biologique. Les informations en gras sont destinées aux Personnes intolérantes ou allergiques.', 'https://static.openfoodfacts.org/images/products/370/113/810/1023/front_fr.4.400.jpg', '1.6', '0.2', '9.8', '4.7', '1.9', '2.4', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700171447', 'Fond de Veau', 'fécule de pomme de terre, sel, arômes (dont LAIT), maltodektrine, légumes (tomate, oi non), sucre, viandede veau : 3,1% (antioxydants : 320), huile de palme, chlorure de potassium, protéines végétales hydrol Sées, colorant : caramel E 150c, ail, extrait de vin blanc. eut contenir : blé, céleri/ oeuf.', 'https://static.openfoodfacts.org/images/products/872/270/017/1447/front.3.400.jpg', '9.23', '3', '59.78', '10', '1.3', '8.53', '16.8', '6.61417322834646', '', '0');
+VALUES ('3701138102242', 'Salade frisée champignon de paris lardons', '', 'https://static.openfoodfacts.org/images/products/370/113/810/2242/front_fr.4.400.jpg', '11.2', '1.5', '3.9', '1.6', '', '4', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700172154', 'Lipton Thé Vert Fruits Des Tropiques Sachet x20', '', '', '0', '0', '0.5', '0', '', '0.5', '', '', '', '1');
+VALUES ('3701138102549', 'Salade de pois chiches, chou, oeuf poché, sauce cacahuètes', 'Mélange de carotte, chou rouge et chou vert 42% [carottes râpées (carottes râpées, ciboulette, huile de colza, sel), chou vert, chou rouge (chou rouge, huile de colza, persil, sel)] - Pois chiches 39% [pois chiches, huile de sésame] -Vinaigrette cacahuètes 10% [crème liquide (crème de lait, de colza, cacahuètes, sauce soja (eau, graines de soja, blé (gluten), sel), eau, jus de citron vert (sulfite), coriandre] - œuf poché 9%.', 'https://static.openfoodfacts.org/images/products/370/113/810/2549/front_fr.4.400.jpg', '6.2', '3.1', '8.9', '1.4', '3.1', '5', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700174257', 'Bûche Tradition, Crème Brûlée Vanille Caramel', 'LAIT écrémé réhydraté, CRÈME, sucre, sirop de glucose-fructose, sirop de glucose, LACTOSE et protéines de LAIT, sirop de sucre caramélisé (2,3%), BEURRE concentré, jaune d\'OEUF en poudre, dextrose, beurre de cacao, feuli\\e dorée en chocolat (sucre, pâte de cacao, beurre de cacao, arôme, émulsifiant (lécithine de SOJA), colorants (E171, E172)), émulsifiants (mono- et diglycérides d\'acides gras, phosphatides d\'ammonium), stabilisants (farine de graines de caroube, gomme guar, carraghénanesò, LAIT en poudre entier, arômes (dont ORGE, LAIT), extrait de vanille, gousses de vanille épuisées broyées, LAIT en poudre écrémé ou concentré, colorants (caroténoïdes, extrait de paprika), sucre roux, pâte de cacao, sel. Peut contenir : fruits à coque. CONSERVATION : A conserver à -180C dans votre congélateur***. A consommer de préférence avant fin voir sur le côté de la boîte. CONSEIL : pour profiter de toute la saveur de votre bûche, sortez-la de votre congélateur et de son emballage 10 minutes environ avant dégustation.', '', '9.5', '6.3', '28', '24', '', '3', '0.13', '0.0511811023622047', '', '0');
+VALUES ('3701138102853', 'Salade de pâtes orecchiete au pesto', '', 'https://static.openfoodfacts.org/images/products/370/113/810/2853/front_fr.4.400.jpg', '12', '4.1', '11', '0.8', '', '7.3', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700174264', 'Bûche Tradition, vanille framboise cassis', 'Eau, LAIT écrémé réhydraté, purée de framboise (13%), sirop de glucose-fructose, sucre, CRÈME, purée de cassis (7%), sirop de glucose, morceaux de framboise, LACTOSE et protéines de LAIT, oligofructose, feuille dorée en chocolat (sucre, pâte de cacao, beurre de cacao, arôme, émulsifiant (lécithine de SOJA), colorants (E171, E172)), stabilisants (farine de graines de caroube, pectine, gomme guar, carraghénanes, amidon modifié), jus de citron concentré, protéines de LAIT et LACTOSE, LAIT en poudre entier, arômes, colorants (anthocyanes, caroténoïdes), jus de betterave concentré, émulsifiants (mono et diglycérides d\'acides gras, phosphatides d\'ammonium), pâte de cacao, beurre de cacao, LAIT en poudre écrémé ou concentré, extrait de vanille, gousses de vanille épuisées broyées, BEURRE concentré, cacao maigre en poudre, sel.', 'https://static.openfoodfacts.org/images/products/872/270/017/4264/front.3.400.jpg', '3.8', '2.5', '29', '23', '', '1.5', '0.08', '0.031496062992126', '', '1');
+VALUES ('3701138103058', 'SALADE SUPERFOOD', '', '', '1.9', '0.3', '11', '3.4', '', '3.2', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700174271', 'Bûche Coco Ananas Mangue', 'Eau, jus d\'ananas à base de jus concentré (16%), LAIT écrémé réhydraté, sirop de glucose-fructose, sucre, purée de mangue à base de purée concentrée (5%), pâte de noix de coco (3%), sirop de glucose, morceaux d\'ananas, pâte de cacao, feuille dorée en chocolat (sucre, pâte de cacao, beurre de cacao, arôme, émulsifiant (lécithine de SOJA), colorants (E171, El 72)), stabilisants (farine de graines de caroube, pectines, carraghénanes, gomme guar, amidon modifié), oligofructose, protéines de LAIT et LACTOSE, jus de citron concentré, émulsifiants (mono- et diglycérides d\'acides gras, phosphatides d\'ammonium), colorants (caroténoïdes, curcumine), arômes, BEURRE concentré, cacao maigre en poudre, LAIT en poudre écrémé, sel. Peut contenir : œuf, fruits à coque, blé.', '', '2.6', '2.1', '30', '25', '', '1.1', '0.04', '0.015748031496063', '', '1');
+VALUES ('3701138103157', 'Salade au pesto', '', 'https://static.openfoodfacts.org/images/products/370/113/810/3157/front_fr.4.400.jpg', '10', '5.7', '8.8', '1.1', '', '9', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700174417', 'Buche glacée Tradition 3 chocolats', '(FR) blanc (dont Let), g±ée (dri de au des copeaux de chocolat blanc (3%), re (05%) en chœokt (03,) en ecot I (BE) Glace chocolat noir (dont 2% de gize crocdat au cFxdat au EFS), crème giacée chœolat blatr (dont de chocolat es ctpa•x (3%), J.re au ctxolat et une feuille dorée en chocolat (0,3%) en déca. : EVE, sce, & cacao raye en pudre, dextrose, de LAIT, EEl.RREccrŒrté, de cata, stop de glucose, feuille tere & are, de SOJA), cobranÉ (E171, E172)) dammvn), LAIT en pxdre éréré, stabilisants gares ce rz±e, cara#a-s, rodié), affres, se Ped n±nir Œuf, à coque, blé CONSERVATION : A conserver à -180C dans votre A consommer de préférence avant fin : voir sur le côté de la boîte. CONSEIL : pour profiter de toute la saveur de votre bûche, sortez-la de votre congélateur et de son emballage 10 minutes environ avant dégustation. Iservice: 0800 000 041 (gebührenfrei), hergestellt in der EU. WM.lusso.c il-Malmaison Cedex. Carte d\'Or Relation Consommateurs : 09 69 32 03 anité, B-1190 Brussels. Careline: 078/152214 (vertaagd tarief/tarif réduit) 00ml %*per', '', '6.3', '4.2', '14', '13', '0', '1.8', '0.0699999999999999', '0.0275590551181102', '', '1');
+VALUES ('3701138103256', 'Salade de quinoa, patates douces, tagliatelles de carottes', '', '', '10', '1', '12', '2.8', '', '3.2', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700181859', 'Caldo de galinha', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138103867', 'Salade de saumon mariné, quinoa, petits pois sauce citron', '', 'https://static.openfoodfacts.org/images/products/370/113/810/3867/front_fr.4.400.jpg', '7', '0.7', '9.5', '2', '', '4.3', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700185741', 'Creme glacee vanille CARTE D\'OR', '', '', '10', '0', '27', '0', '', '3', '', '', '', '1');
+VALUES ('3701138103966', 'Salade de poulet', '', 'https://static.openfoodfacts.org/images/products/370/113/810/3966/front_fr.4.400.jpg', '14', '2', '3.8', '1.4', '', '7.7', '0.97', '0.381889763779528', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700187349', 'Butter', 'Vegetable oils in varying proportions (sunflower oil, palm oil, linseed oil, rapeseed oil) (79%), water, _buttermilk_ (12%), salt (1.3%), emulsifiers (sunflower, lecithin, mono- and diglycerides of fatty acids), preservatives (potassium sorbate), natural flavourings (contains _milk_), acid (citric acid), vitamin A, vitamin D, colours (carotene)', 'https://static.openfoodfacts.org/images/products/872/270/018/7349/front_en.10.400.jpg', '79', '19', '0.6', '0.6', '', '0.5', '1.3', '0.511811023622047', '', '0');
+VALUES ('3701138104161', 'Salade Cesar', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4161/front_fr.4.400.jpg', '8.6', '2.6', '3.8', '1.1', '', '12', '0.83', '0.326771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700187721', 'Sauce Aux épices Du Soleil', '', '', '6', '4.5', '9', '2.5', '', '1', '1.6', '0.62992125984252', '', '0');
+VALUES ('3701138104277', 'Duo de carottes râpées, vinaigre de framboise et cacahuètes', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4277/front_fr.4.400.jpg', '8.5', '1', '7.6', '0.8', '', '2.7', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700188438', 'Lipton Tea Rooibos 20zak', '', '', '0', '0', '0.5', '0.5', '', '0.5', '', '', '', '1');
+VALUES ('3701138104475', 'Conchigile au pesto', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4475/front_fr.4.400.jpg', '14.9', '3.04', '17.6', '1.2', '', '6.4', '1.45', '0.570866141732283', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700189992', 'Crumble', '', 'https://static.openfoodfacts.org/images/products/872/270/018/9992/front.8.400.jpg', '5.5', '3.1', '24', '17', '1.5', '1.7', '0.03', '0.0118110236220472', '', '1');
+VALUES ('3701138104574', 'Salade d\'épeautre aux légumes d\'hiver et courge butternut', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4574/front_fr.4.400.jpg', '6.6', '0.5', '15.3', '3.3', '', '3.3', '1.18', '0.464566929133858', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700195917', 'Herbal infusion', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138104680', 'Salade de pâtes orecchiette au pesto et pousse d\'épinard', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4680/front_fr.4.400.jpg', '12', '4.1', '11', '0.8', '', '7.3', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700195924', 'Herbal infusion linden tilia', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138104789', 'Salade de poulet mariné', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4789/front_fr.4.400.jpg', '8', '0.7', '3.7', '2.4', '', '4.4', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700197508', 'Velours de vinaigre Balsamique', 'Aceto Balsamico di Modena IGP 60% (Vinaigre balsamique de Modène : vinaigre de vin, moût de raisin concentré, colorant (E150d) antioxydant ( E220)), moût de raisin cuit, eau, amidon modifié, épaississant (gomme xanthane)', 'https://static.openfoodfacts.org/images/products/872/270/019/7508/front.9.400.jpg', '0', '0', '28', '28', '', '0.5', '0', '0', '', '0');
+VALUES ('3701138104888', 'Salade superfood', '', 'https://static.openfoodfacts.org/images/products/370/113/810/4888/front_fr.4.400.jpg', '1.9', '0.3', '11', '3.4', '', '3.2', '0.46', '0.181102362204724', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700199380', '860G Mousse Framboise Alsa', 'Sucre, sirop de glucose, graisse de palme totalement hydrogénée, framboise (4,2%), émulsifiants (E472a, E471), gélatine de porc, amidon de de terre, protéines de LAIT, acidifiant (E330), stabilisant (E340), jus de betterave, arômes, sel. Peut contenir: gluten, œuf. Ingrediënten: Suiker, volledig gehard palmvet, framtms emulgatoren (E472a, E471), varkensgelatine, gemodificeerd aardappelzetmeel, MELKEIWITTEN, maltodextrine, voedingszuur (E330), stabilisator (E340), rode bietensap, aroma\'s, zout. Kan gluten en ei bevatten.', '', '1.7', '1.7', '8', '7', '0.5', '2.8', '0.02', '0.0078740157480315', '', '1');
+VALUES ('3701138105083', 'Salade de pois chiches eouf poché', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5083/front_fr.4.400.jpg', '8.2', '1.9', '8.7', '1.9', '', '5.2', '0.46', '0.181102362204724', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700199496', 'Préparation pour Pot de Crème à la Noix de Coco', 'Dextrose (maïs), sucre, noix de coco râpée 8,6 %, amidon modifié (maïs), gélifiant : carraghénanes, stabilisant : gomme xanthane, arômes.', '', '6', '5', '87', '83', '2', '0.7', '0.05', '0.0196850393700787', '', '0');
+VALUES ('3701138105281', 'Salade', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5281/front_fr.4.400.jpg', '12', '2.7', '11', '2.8', '', '5.3', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700202301', 'Sofficini findus ', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138105380', 'Salade de poulet, boulgour, patate douce', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5380/front_fr.4.400.jpg', '3.7', '0.5', '16', '2.4', '', '11', '0.72', '0.283464566929134', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700202325', 'Mini Doux et Gourmand', 'Cornichons, sulfites, vinaigre d\'alcool 32 %, sucre, oignon 1,6 %, sel, graines de MOUTARDE, graines de coriandre, arôme naturel.', 'https://static.openfoodfacts.org/images/products/872/270/020/2325/front.5.400.jpg', '0.5', '0.5', '6.4', '5.3', '0', '1.5', '2', '0.78740157480315', '', '0');
+VALUES ('3701138105489', 'Salade Caesar', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5489/front_fr.4.400.jpg', '10', '3.9', '4.3', '0.6', '', '11', '0.74', '0.291338582677165', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700202387', 'Moutarde fine & douce', 'Eau, graines de moutarde, vinaigre, huile de tournesol, sel, dextrose, stabilisant : gomme xanthane, acidifiant : acide citrique, arômes, conservateur : E224 (sulfites).', 'https://static.openfoodfacts.org/images/products/872/270/020/2387/front.5.400.jpg', '20', '1.3', '7.1', '2.7', '0', '5.1', '4.4', '1.73228346456693', '', '0');
+VALUES ('3701138105595', 'Salade de farfalles au basilic et poulet roti', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5595/front_fr.4.400.jpg', '11', '1.7', '13', '1.6', '', '7.7', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700202417', 'Fins gourmets, Pointe de Balsamique', 'Moutarde à l\'ancienne 40% (eau, graine de _moutarde_, vinaigre d\'alcool, sel, sons de _moutarde_, acidifiant : acide citrique, épices (dont _céleri_)),_huile de  tournesol, moutarde de Dijon 26% (eau, graines de _moutarde_, vinaigre d\'alcool,sel, acidiﬁant : acide citrique, conservateur : E224 (_sulfites_), Acelo Balsamico di Modena iGPQ* 4% (vinaigre’ balsamique de Modène: Vinaigre de vin, moût de raisin cuit, moût de raisin concentré, colorant : caramel E150d),sucre,farine de _moutarde_, amidon modiﬁé, stabilisant : gomme xanthane, épices (dont _céleri_)', 'https://static.openfoodfacts.org/images/products/872/270/020/2417/front.10.400.jpg', '34', '3.6', '6.7', '3.4', '', '4.9', '3.9', '1.53543307086614', '', '0');
+VALUES ('3701138105694', 'Salade lentilles, concombres, feta', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5694/front_fr.4.400.jpg', '3.9', '2.2', '5.9', '1.9', '', '5.7', '0.72', '0.283464566929134', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700204374', 'Alsa Creme Brulee', '', 'https://static.openfoodfacts.org/images/products/872/270/020/4374/front_en.8.400.jpg', '', '7.8', '', '20', '0.5', '2.6', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701138105793', 'Salade de saumon au sésame, lentilles, légumes crème a l\'aneth', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5793/front_fr.4.400.jpg', '4.1', '1.3', '7.4', '3.2', '', '6.5', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700205418', 'Bte 20ST Infusion Parfumes Lipton', 'Réglisse : 70,5%, menthe verte : 23,5%, arôme. Contient de la réglisse. Les personnes souffrant d\'hypertension doivent éviter toute consommation excessive. Pomme Cannelle : Ingrédients : Eglantier, feuilles d\'oranger, arôme pomme-cannelle : 15,9%, cannelle : 8,8%, pomme : 5,7%, tilleul, chicorée, hibiscus. Fruits Rouges : Ingrédients : Eglantier, hibiscus, arôme fruits rouges : 15,2%, fruits : (cerise, fraise, framboise, groseille et mûre sur maltodextrine). Agrumes : Ingrédients : Eglantier, écorces d\'orange : 17,4%, arôme : 14,8%, hibiscus, citronnelle, pomme, écorces de citron, de citron vert et de pamplemousse : 1,2%.', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
+VALUES ('3701138105892', 'Salade Romaine', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5892/front_fr.4.400.jpg', '11', '3.3', '11', '1.4', '', '12', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700206071', 'Sucre vanillé bio équitable', 'Sucre de canne (93 %), amidon, grains de vanille (1,1 %), extrait naturel de vanille.', 'https://static.openfoodfacts.org/images/products/872/270/020/6071/front.10.400.jpg', '0.6', '0.1', '99', '93', '', '0.5', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701138105991', 'Salade, saumon au pavot, conchiglie, tomate', '', 'https://static.openfoodfacts.org/images/products/370/113/810/5991/front_fr.4.400.jpg', '4.6', '1.3', '10', '1.2', '', '5.4', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700207399', 'B&J Shty Car C / Chew150ml', '', '', '16', '11', '29', '26', '', '3.5', '0.21', '0.0826771653543307', '', '0');
+VALUES ('3701138106097', 'Salade saumon', '', 'https://static.openfoodfacts.org/images/products/370/113/810/6097/front_fr.4.400.jpg', '11', '1.3', '13', '1.1', '', '7.5', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700210641', 'Green Tea Intense Mint', 'Thé vert, menthe verte (27 %), arôme.', '', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701138106196', 'Salade de saumon, riz, boulgour, julienne de legumed', '', 'https://static.openfoodfacts.org/images/products/370/113/810/6196/front_fr.4.400.jpg', '11', '1.5', '10', '3.7', '', '5.7', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700211143', 'À l\'Ancienne', 'Vinaigre d\'alcool, graines de MOUTARDE, eau, sel, sucre, arôme naturel, acidifiant : acide lactique, conservateur : E224 (SULFITES)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138106295', 'Salade de poulet mariné aux epices, boulgour', '', 'https://static.openfoodfacts.org/images/products/370/113/810/6295/front_fr.4.400.jpg', '4.3', '0.9', '11', '3.4', '', '9.4', '0.74', '0.291338582677165', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700212225', 'A l\' Ancienne', 'Spirit vinegar, _mustard_ seed (27.4%), water, salt, white wine (4.8%) (contains _sulphites_), sugar, flavouring, acidity regulator (lactic acid)', 'https://static.openfoodfacts.org/images/products/872/270/021/2225/front_en.6.400.jpg', '10', '1', '9', '6', '3.5', '7', '5.334', '2.1', '', '0');
+VALUES ('3701138106394', 'Salade de pâtes, légumes et mozzarella', '', 'https://static.openfoodfacts.org/images/products/370/113/810/6394/front_fr.4.400.jpg', '8.4', '4.4', '14', '2.8', '', '9.2', '0.65', '0.255905511811024', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700213024', 'Ben & Jerry\'s Strawberry Cheesecake Ice cream', '_Crème_ 24%, sucre, eau, _lait_ concentré écrémé, fraise 11% (morceaux, purée), huiles végétales (huile de soja, huile de colza), jaune d\'_œuf_, amidon de maïs, farine de _blé_, farine de _blé_ complète, _fromage_ 1%, matière grasse du _lait_, stabilisants (pectines, gomme guar, farine de graines de caroube, carraghénanes, jus de citron concentré, sel, émulsifiant (lécithine de _soja_), mélasse, arôme naturel, miel, poudre à lever (carbonate acide de sodium), jus de sureau concentré, correcteur d\'acidité (acide lactique).', 'https://static.openfoodfacts.org/images/products/872/270/021/3024/front.4.400.jpg', '14', '7', '28', '24', '', '3.5', '0.24', '0.0944881889763779', '', '1');
+VALUES ('3701138106516', 'Salade d\'epautre aux legume d\'hiver et courge butternut', '', 'https://static.openfoodfacts.org/images/products/370/113/810/6516/front_fr.11.400.jpg', '6.6', '0.49', '15.3', '3.3', '', '3.3', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700213031', 'Strawberry Cheesecake ICE CREAM', 'CRÈME (24%), sucre, eau, LAIT écrémé concentré, fraises (purée et morceaux) (11%), huiles végétales (huile de colza, huile de SOJA), jaune d\'ŒUF, amidon de maïs, farine de BLÉ, farine de BLÉ complète, FROMAGE (0.9%), matière grasse du LAIT, stabilisants (pectines, gomme guar, farine de graines de caroube, carraghénanes), jus de citron concentré, sel, émulsifiant (lécithine de SOJA), mélasse, miel, poudre à lever (carbonate acide de sodium), correcteur d\'acidité (acide lactique).', '', '14', '7', '27', '24', '', '3', '0.22', '0.0866141732283465', '', '1');
+VALUES ('3701138106820', 'Conchiglie aux legumes grilles', '', 'https://static.openfoodfacts.org/images/products/370/113/810/6820/front_fr.4.400.jpg', '2.9', '0.6', '10', '2.6', '', '2.1', '0.38', '0.149606299212598', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700214441', 'Mouliné de légumes verts (Lot de 2)', 'Eau, légumes : 42% dont 15% de légumes verts (pomme de terre, céleri, haricot vert, brocoli, oignon, poireau, épinard, cresson, carotte, oseille), amidon, sel, sucre, aromates (cerfeuil, basilic), lactosérum, matière grasse végétale, extrait de levure, arômes.', 'https://static.openfoodfacts.org/images/products/872/270/021/4441/front.16.400.jpg', '0.5', '0.1', '4.5', '1.5', '1', '1', '0.6858', '0.27', '', '1');
+VALUES ('3701138107520', 'Salade, poulet, pâte, comté', '', 'https://static.openfoodfacts.org/images/products/370/113/810/7520/front_fr.4.400.jpg', '11', '3.3', '11', '1.4', '', '12', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700216728', 'Moelleux au citron', '', '', '11', '6.4', '50', '30', '0.8', '5.2', '0.450000000000001', '0.177165354330709', '', '0');
+VALUES ('3701138111381', 'Velouté de chou fleur', '', 'https://static.openfoodfacts.org/images/products/370/113/811/1381/front_fr.4.400.jpg', '2.3', '1.5', '2.4', '0.7', '', '1.2', '0.65', '0.255905511811024', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700216742', 'Fondant au Chocolat', 'Sucre, chocolat en poudre : 34 % (sucre, cacao), chocolat noir extra-fin à 56% de cacao : 14% (pâte de cacao, sucre, beurre de cacao, émulsifiant: lécithine de SOJA, arôme naturel de vanille), farine de BLÉ, épaississant gomme xanthane.', 'https://static.openfoodfacts.org/images/products/872/270/021/6742/front.3.400.jpg', '24', '14', '41', '35', '25', '6', '0.11', '0.0433070866141732', '', '0');
+VALUES ('3701138111480', 'Velouté de Brocolis', '', 'https://static.openfoodfacts.org/images/products/370/113/811/1480/front_fr.4.400.jpg', '2.9', '1.9', '4.5', '0.6', '', '1.3', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700216797', 'Assaisonnement Plein Sud - Secret D\'arômes', 'Assaisonnement déshydrate • sel, épices et aromates : 18% (ori an : persil, basilic : laurier, romarin : noix de muscade), sucre, exhausteurs de goût : Glutamate, inosinate et guanylate de soflum, huile de mais aux épices et aromates : 3,3% (basilic, oignon, clou de girofle, origan, poivre), graisse de palme, extrait de levure. Poids net : Tenir au sec. Fermer après usage', 'https://static.openfoodfacts.org/images/products/872/270/021/6797/front_en.4.400.jpg', '7', '2.5', '26', '24', '3.5', '11', '45.72', '18', '', '0');
+VALUES ('3701138111589', 'Velouté de champignons', '', 'https://static.openfoodfacts.org/images/products/370/113/811/1589/front_fr.4.400.jpg', '2.6', '1', '3', '0.5', '', '1.2', '0.65', '0.255905511811024', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700217121', 'Bouquet Garni Thym, Persil, Laurier', 'Le bouquet garni Knorr@est composé, selon la tradition, d\'un mélange de thym, de persil et de laurier. Ajoutez une tablette dans votre préparation en début de cuisson, ellefond en un clin d\'œil et apporte à votre plat le goût d\'un bouquet garnifrais. INUTILE DE SALER.', '', '24', '17', '8.1', '4.5', '1.5', '13', '43.6', '17.1653543307087', '', '0');
+VALUES ('3701138116393', 'Velouté de Choux-Fleur au Parmesan', '', 'https://static.openfoodfacts.org/images/products/370/113/811/6393/front_fr.4.400.jpg', '5.5', '3.4', '1.7', '0.7', '', '1.4', '0.78', '0.307086614173228', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700218074', 'Rhum Raisins Carte d\'Or', 'lait écrémé réhydraté, crème, eau, sucre, raisins (8%), rhum (5,5%) (rhum à 50% vol.), sirop de glucose-fructose, lactose et protéines de lait, émulsifiant (mono et diglycérides d\'acides gras), stabilisants (farine de graines de caroube, gomme guar, carraghénanes, gomme xanthane), arômes naturels, colorant (caroténoïdes)', 'https://static.openfoodfacts.org/images/products/872/270/021/8074/front.5.400.jpg', '8', '', '24', '', '', '2.5', '', '', '', '1');
+VALUES ('3701138121755', 'Club aux cereales, jambon, emmental', '', 'https://static.openfoodfacts.org/images/products/370/113/812/1755/front_fr.4.400.jpg', '14', '8.2', '27', '3.1', '', '14', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700218401', 'Carte D\'or Vanille 1L', '', '', '9.8', '0', '26', '0', '', '3.5', '', '', '', '1');
+VALUES ('3701138121854', 'Ciabatta aux herbes', '', 'https://static.openfoodfacts.org/images/products/370/113/812/1854/front_fr.4.400.jpg', '9', '3.8', '26', '1.5', '', '8.3', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700219392', 'Sorbet fruit de la passion', 'Eau, jus de fruit de la passion à base de jus concentré (20%), sirop de glucose-fructose, sucre, mangue, jus de citron à base de jus concentré, fructose, protéines de _LAIT_ et _LACTOSE_, stabilisants (farine de graines de caroube, pectines, carraghénanes), arôme naturel de fruit de la passion, jus de citron concentré.', 'https://static.openfoodfacts.org/images/products/872/270/021/9392/front.4.400.jpg', '0.5', '0.5', '33', '28', '', '0.6', '0.054', '0.021259842519685', '', '0');
+VALUES ('3701138121953', 'Sandwich', '', '', '20', '4.3', '30', '4.4', '', '9.2', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700219644', '900ML Glace Carte D\'or Sensation Douceur Vanille / Noix Pecan', '', '', '12', '5', '31', '5', '', '3', '', '', '', '1');
+VALUES ('3701138122462', 'Viennois au poulet houmous carottes pousses d\'epinard', '', 'https://static.openfoodfacts.org/images/products/370/113/812/2462/front_fr.4.400.jpg', '3.6', '1.6', '19', '2.4', '', '10', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700219651', 'Carte d\'Or - Les Sensations - Saveur Crème Brûlée au Caramel croquant', 'Lait écrémé réhydraté, sucre, crème (10%), eau, sirop de glucose, jaune d\'oeuf (3,5), caramel liquide (3,5 %), beurre concentré, lactose et protéines de lait, sirop de glucose-fructose, beurre de cacao, stabilisants (farine de graines de caroube, gomme guar, carraghénanes), émulsifiant (mono- et diglycérides d\'acides gras), arôme, colorant (carotènes mélangés).', 'https://static.openfoodfacts.org/images/products/872/270/021/9651/front.7.400.jpg', '8', '5', '30', '29', '', '2.5', '0.084', '0.0330708661417323', '', '0');
+VALUES ('3701138122776', 'Pain ciabatta aux herbes de provence, poivrons et courgettes', '', 'https://static.openfoodfacts.org/images/products/370/113/812/2776/front_fr.3.400.jpg', '9.3', '2.4', '27', '4.3', '', '6.1', '0.91', '0.358267716535433', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700221906', 'Lipton Green tea', '', '', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701138122875', 'Pain aux graines de courge, poulet roti sauce moutarde', '', 'https://static.openfoodfacts.org/images/products/370/113/812/2875/front_fr.4.400.jpg', '15', '2.6', '23', '3.5', '', '14', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700226383', 'Potage Aux épinards Déshydraté', 'LACTOSE, huileV6five vierge extra, arômes dont LAIT), protenes de LAIT, épices coriandre, noix de muscade, poivre, curcuma), amidon de pois. Peut contenir: oeuf, céleri. VOOR PROFESSIONEEL GEBRUIK / A USAGE PROFESSIONNEL Eerste openingsdatum: / Première date d\'ouverture:', '', '2.4', '1.5', '6', '1', '0.5', '0.8', '0.9', '0.354330708661417', '', '1');
+VALUES ('3701138123070', 'Pain de camapgne aux olived, parmesan,champignons', '', 'https://static.openfoodfacts.org/images/products/370/113/812/3070/front_fr.4.400.jpg', '11', '2.5', '27', '4.2', '', '8', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700227045', 'Flacon Souple 510G Ketchup Nature Amora', 'NTS : Purée de tomates mi-concentrée (59%), sucre, vinaigre, eau, sel, fibres de citron, arômes naturels,', '', '0', '0', '23', '23', '', '1.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701138123889', 'Club BLT bacon laitue tomate', '', 'https://static.openfoodfacts.org/images/products/370/113/812/3889/front_fr.4.400.jpg', '2.7', '1.6', '22', '1.4', '', '9.5', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700227960', 'Lipton Inf Nuit TRANQUIL2', 'Tilleul (35,3%), verveine, lavande, arôme (10,3%), camomille (5,9%), feuiles d\'oranger (5,9%), mélisse.', '', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701138130313', 'Brochette de poulet yakitori', '', 'https://static.openfoodfacts.org/images/products/370/113/813/0313/front_fr.4.400.jpg', '1', '0.8', '19.8', '0.2', '', '9.5', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700229964', 'lipton yellow 100s', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138132430', 'Couscous aux légumes', 'ANALYSE TYPE / : Energie :', 'https://static.openfoodfacts.org/images/products/370/113/813/2430/front_fr.4.400.jpg', '8.3', '0.7', '17.1', '1.4', '0', '2.6', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700231974', 'Helado de hielo Fresa', 'Agua, zumo de fresa a partir de concentrado (15%), azúcar, jarabe de glucosa, jarabe de fructosa, acidulante: ácido cítrico (E-330), estabilizantes: harina de garrofín (E-410), goma tara (E-417), zumo de baya de saúco concentrado, aroma.', 'https://static.openfoodfacts.org/images/products/872/270/023/1974/front.7.400.jpg', '0.5', '0.5', '21', '17', '0.5', '0.5', '0.0127', '0.005', '', '1');
+VALUES ('3701138133154', 'Saumon roti', '', 'https://static.openfoodfacts.org/images/products/370/113/813/3154/front_fr.4.400.jpg', '5.8', '1.9', '14', '0.7', '', '7.1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700231998', 'Calippo Cola', '', 'https://static.openfoodfacts.org/images/products/872/270/023/1998/front_en.3.400.jpg', '', '0.2', '', '20', '0', '0.2', '0.013', '0.00511811023622047', '', '1');
+VALUES ('3701138133253', 'Pâtes Conchiglie, Crème de brocolis, épinards', '', 'https://static.openfoodfacts.org/images/products/370/113/813/3253/front_fr.4.400.jpg', '4.5', '2.1', '14', '1.4', '', '4.3', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700232070', 'Moutarde au vin blanc au pesto et à la roquette Maille', 'Eau, graines de moutarde, vin blanc : 15%, pesto : 7,6% (basilic, fromage, huile d\'olive, huile de tournesol, pignons de pin, ail), sel, jus de citron concentré, sucre, roquette : 2%, poivre blanc, acidifiant : acide citrique, conservateur : E224 (sulfites).', 'https://static.openfoodfacts.org/images/products/872/270/023/2070/front.17.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138133352', 'Cuisine fraiche', '', '', '13', '4.6', '7.4', '1.7', '', '9.1', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700232162', 'Parmesan et Basilic Moutarde au vin blanc', 'Eau, graines de _moutarde_, vin blanc 15% (dont _sulfites_), parmesan rapé 8% (dont _lait_), sel, jus de citron concentré, basilic 2%, sucre, arômes, acidifiant : acide citrique, conservateur : E224 (_sulfites_).', '', '13', '2.5', '5', '4.5', '', '8', '5.1', '2.00787401574803', '', '0');
+VALUES ('3701138133659', 'Effeillé de cabillaud', '', 'https://static.openfoodfacts.org/images/products/370/113/813/3659/front_fr.4.400.jpg', '4.3', '0.3', '12', '0.7', '', '6.3', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700234067', 'Vinaigrette Basilic au Miel d\'Acacia et au Sirop de Gingembre', 'Huile de tournesol, eau, vinaigre de vin aromatisé basilic : 18 % (vinaigre de vin (dont SULFITES), extrait de basilic), huile de maïs au basilic 6,7 %, miel d\'acacia 5 %, vinaigre de vin blanc, sirop de gingembre 2 % (sucre, eau, gingembre), sucre, sel, huile d\'olive vierge extra, épice et aromate (basilic et jalapeno), épaississants : carraghénanes et gomme xanthane.', '', '49', '6', '7', '7', '', '0.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701138133758', 'Mélange légumes + féculents', '', 'https://static.openfoodfacts.org/images/products/370/113/813/3758/front_fr.4.400.jpg', '3', '1.6', '12', '0.9', '', '3.6', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700234098', 'Sauce Vinaigrette Cassis Framboise', '', '', '50', '6', '7', '7', '', '0.5', '0.6', '0.236220472440945', '', '0');
+VALUES ('3701138133857', 'Poulet fermier mariné au citron confit, boulgour,legumes', '', 'https://static.openfoodfacts.org/images/products/370/113/813/3857/front_fr.4.400.jpg', '6.2', '1.3', '11', '1.7', '', '12', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700234128', '1L Sauce Vinaigre Citron / Mandarine Maille', 'SAUCE VINAIGRETTE 1747 Retrouvez tout le savoir-faire de MAILLE QUE MAILLE dans cette sélection exclusive pour les Chefs, qui rassemble une gamme de recettes originales composées d\'ingrédients de qualité. Ingrédienb : huile de toumesol, vinaigre de vin blanc, eau, sucre, miel dlacacia, huile d\'olive vierge extra, jus de citron concenté de mandarine concentré : 1 zeste de citron : 1 épaississant : carraghénanes et gomme xanfrane, arômes naturels, jalapeno,', '', '50', '6', '12', '12', '', '0.5', '0.17', '0.0669291338582677', '', '0');
+VALUES ('3701138134274', 'Poulet, carottes, PDT et sauce à l\'estragon', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4274/front_fr.4.400.jpg', '3.5', '1.85', '7.1', '2.2', '', '8.8', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700234159', '1L Sauce Vinaigrette Sesame Soja Maille', 'Huile de tournesol, vinaigre de vin rouge (dont SULFITES), soja : 15% (eau, graines de SOJA, BLÉ, sel, vinaigre, alcool, sucre), vinaigre de vin blanc, huile de SÉSAME grillé : 6%, sucre, sirop de gingembre (sucre, eau, gingembre), graines de SÉSAME 2%, épaississants : carraghénanes et gomme xanthane.', '', '50', '6', '6.7', '5.6', '', '1.8', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701138134373', 'Risotto au poulet et champignons de paris', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4373/front_fr.4.400.jpg', '14.5', '8.6', '38.3', '0.6', '', '32.8', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700235293', 'Jus de Veau Lié', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138134472', 'Saumon ecrasé de pommes de terre brocolis et cotron', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4472/front_fr.4.400.jpg', '6.2', '0.95', '12.6', '0.6', '', '10.76', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700235811', 'Magnum Pistachio', 'Lait écrémé réhydraté, sucre, sirop de glucose-fructose, beurre de cacao, pâte de cacao, matière grasse végétale, morceaux de pistaches, lait en poudre entier, lactose et protéines de lait, beurre concentré, émulsifiants (E471, lécithine de soja, E476), pâte de pistache, épinards en poudre, stabilisants (E410, E407), arômes, colorant (E100, E141).', 'https://static.openfoodfacts.org/images/products/872/270/023/5811/front.6.400.jpg', '22.1', '15.1', '30.2', '26.7', '1.74', '4.07', '0.118', '0.0465', '0', '0');
+VALUES ('3701138134571', 'Pates aux champignons et pignons de pin', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4571/front_fr.4.400.jpg', '5.7', '3', '21.4', '1.4', '', '6.2', '0.6', '0.236220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700245001', 'Sauce au Roquefort 30cl Knorr®', 'eau, Roquefort A.O.P 13% (FROMAGE), CRÈME fraîche 10%, amidon modifié, huile de tournesol, sel, émulsifiant : E452 et E472e, cognac 0,5%, minéraux du LAIT, arômes (dont LAIT et CÉLERI), extrait de levure, épaississants : gomme xanthane et gomme de guar, ail, colorant : caramel ordinaire, extrait naturel de poivre.Appellation Origine Protégée.', 'https://static.openfoodfacts.org/images/products/872/270/024/5001/front.3.400.jpg', '11.1', '5.33', '4.27', '0.667', '0.667', '3.2', '1.47', '0.577', '', '0');
+VALUES ('3701138134670', 'Écrasé de pommes de terre et saucisse', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4670/front_fr.4.400.jpg', '33.9', '10.3', '17.4', '4.2', '', '22.5', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700247975', 'Becel Cuire et Rôtir Light', 'Ingrédients; huiles végétales (huile de colza, huile de tournesol, huile de lin: en proportions variables), eau, chloride de potassium, acidifiant (citrate de potassium et acide citrique), émulsifiants (lécithine de tournesol et lécithine de SOJA), épaississants (gomme xanthane et gomme de guar), conservateur: sorbate de potassium, protéines de SOJA, arômes, colorant: bêta-carotène, vitamines A et D.', 'https://static.openfoodfacts.org/images/products/872/270/024/7975/front.3.400.jpg', '51', '5', '0.5', '0.5', '0', '0.5', '0.024', '0.0094488188976378', '', '0');
+VALUES ('3701138134779', 'Mac and cheese', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4779/front_fr.4.400.jpg', '10.3', '6.76', '19.9', '1.8', '', '9.8', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700250234', 'Универсальная приправа для первых блюд', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138134885', 'Cabillaud, riz, courgettes au curry et citron', '', 'https://static.openfoodfacts.org/images/products/370/113/813/4885/front_fr.4.400.jpg', '1.4', '0.2', '11.2', '0.5', '', '6.7', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700253549', 'Sauce Salade & Sandwich à la Bulgare', '_lait_ fermenté, eau, huile de tournesol, vinaigre, sucre, _yaourt_ (2%), amidon modifié de maïs, jaune d\'_œuf_, sel, protéines de _lait_, jus de citron concentré, acidifiant (acide lactique), épaississant (gomme xanthane), oignon, antioxydant (E385), extrait de levure, arômes.', 'https://static.openfoodfacts.org/images/products/872/270/025/3549/front.5.400.jpg', '20', '2.5', '9', '7', '', '2.5', '1.6', '0.62992125984252', '', '0');
+VALUES ('3701138135196', 'Hachi parmentier au deux purées et éclats de noisette', '', 'https://static.openfoodfacts.org/images/products/370/113/813/5196/front_fr.3.400.jpg', '15', '4.2', '17', '4.8', '', '11', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700254140', 'Krem supa od povrća', '_pšenično_ brašno, povrće 29% (krompir* 7.4%, _celer_ 6.5%, šargarepa 3.8%, grašak 3.3%, luk u prahu* 2.9%, praziluk 2.7%, karfiol 1.7%, paradajz pire u prahu*), krompirov skrob, jodizovana so, palmina mast, šećer, aroma (sadrži _celer_), so, hidrolizovani biljni proteini, list peršuna* 0.8%, kalijum hlorid, začini (koren selena, seme _celera_, muskatni orha, biber, kurkuma), ekstrakt kvasca, glukozni sirup, _mlečni_ proteini, maltodekstrin, koncentrat soka od povrća (repa, kupus). * iz održivog uzgoja.', '', '0.6', '0.3', '4.3', '0.6', '0.5', '0.6', '0.78', '0.307086614173228', '', '1');
+VALUES ('3701138135394', 'Poulet basquaise au riz pilaf', '', 'https://static.openfoodfacts.org/images/products/370/113/813/5394/front_fr.4.400.jpg', '9.1', '1.8', '12', '2.3', '', '8.2', '0.58', '0.228346456692913', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700260806', 'Vinaigre maille a la mange', '', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
+VALUES ('3701138135592', 'Conchiglie aux legumes grilles', '', 'https://static.openfoodfacts.org/images/products/370/113/813/5592/front_fr.4.400.jpg', '2.9', '0.6', '10', '2.6', '', '2.1', '0.38', '0.149606299212598', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700263081', 'Caldo de verduras en cacitos', 'Agua, sal, verduras y hortalizas (13%)(zanahoria, puerro, pimiento rojo, perejil, apio), grasa vegetal, azúcar, extracto de levadura, espesantes: goma xantana (E-415), harina de garrofín (E-410); aromas, especias (contiene apio), jarabe de caramelo.', 'https://static.openfoodfacts.org/images/products/872/270/026/3081/front.3.400.jpg', '9', '5', '6', '5', '1.5', '2.5', '20.828', '8.2', '', '0');
+VALUES ('3701138135691', 'Risotto verde au parmesan', '', 'https://static.openfoodfacts.org/images/products/370/113/813/5691/front_fr.4.400.jpg', '4.6', '2.2', '16', '1.8', '', '4.7', '0.17', '0.0669291338582677', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700263623', 'Calve\' Maionese', '', '', '68', '8', '0.6', '0.4', '', '0.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701138135714', 'Moussaka au boeuf et feta', '', 'https://static.openfoodfacts.org/images/products/370/113/813/5714/front_fr.4.400.jpg', '13', '4', '2', '1.7', '', '8.7', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700264811', 'Bte 25ST The Earl Grey Rfa Lipton', '', '', '0', '0', '0.5', '0.5', '', '0.5', '', '', '', '1');
+VALUES ('3701138140510', 'Cheesecake au pamplemousse et zestes d’oranges', 'IHGREOIÉHTS : Ci (crème liquide (crème de lait (lait crème, préparation de protér:s d de lactoserum : farine de : hClde ctt,rique). sucre) • Biscuit de blé, Sirop de candi, poudres li de lécithne de beurm • IZ.', 'https://static.openfoodfacts.org/images/products/370/113/814/0510/front_fr.4.400.jpg', '22.5', '14.7', '14.5', '3.2', '0.3', '2.6', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700266877', 'BLLE 75CL VINAIGRE BALSAMIQUE MAILLE', '', '', '14.95', '2', '17.03', '8', '', '0.49', '', '', '', '1');
+VALUES ('3701138142736', 'Riz au lait caramel', '', 'https://static.openfoodfacts.org/images/products/370/113/814/2736/front_fr.4.400.jpg', '6.4', '4.2', '18.4', '14', '', '3', '0.37', '0.145669291338583', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700269083', 'Citron Miel avec des écorces de citron', 'églantier, feuilles d\'oranger, arôme (8.5%), pomme, tilleul, écorces de citron (5%), chicorée, hibiscus, miel (0.9%), maltodextrine.', 'https://static.openfoodfacts.org/images/products/872/270/026/9083/front.10.400.jpg', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701138142835', 'Velour de chocolat', '', 'https://static.openfoodfacts.org/images/products/370/113/814/2835/front_fr.3.400.jpg', '20', '12', '17', '17', '', '4.6', '0.08', '0.031496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700277446', 'Marmite de bouillon legumes', 'eau, sel, légumes 14% (carotte, poireau, poivron rouge, céléri), matière grasse végétale, sucre, extrait de levure, épices et aromates (persil, graines de céléri, liveche, noix de muscade, poivre), épaississants (gomme xanthane,farine de graine de caroube), arômes, caramel, maltodextrine ', '', '9', '5', '6', '5', '1.5', '2.5', '20.3', '7.99212598425197', '', '0');
+VALUES ('3701138142934', 'Oeufs au lait, caramel de citron', '', 'https://static.openfoodfacts.org/images/products/370/113/814/2934/front_fr.4.400.jpg', '4', '1.2', '15', '15', '', '5.2', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700277477', 'Marmite de bouillon de boeuf', 'eau, sel, graisse de bœuf, légumes (carotte, poireau), extrait de levure, sucre, arômes (dont _lait_), extrait de viande de bœuf 1.7%, matière grasse végétale, épaississants : gomme xanthane, farine de graines de caroube, caramel, persil, maltodextrine', 'https://static.openfoodfacts.org/images/products/872/270/027/7477/front.13.400.jpg', '7', '3.5', '4', '2.8', '0.8', '2.9', '21.4', '8.4251968503937', '', '0');
+VALUES ('3701138143498', 'Tiramisu fruits rouges', '', 'https://static.openfoodfacts.org/images/products/370/113/814/3498/front_fr.4.400.jpg', '18.2', '12.2', '31.85', '26.01', '', '2.43', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700277507', 'Marmite de bouillon Poule', 'Bouillon de poule concentré : 59 % (eau, viande de poule : 0,2 %), sel, graisse de palme, sucre, extrait de levure, légumes : 2,2 % (carotte, poireau), graisse de poule, arômes (dont ORGE), épice et aromates (ail : 0,4 %, persil : 0,4 %, poivre), épaississants : gomme xanthane et farine de graines de caroube, caramel, maltodextrine, colorant : caroténoïdes.', 'https://static.openfoodfacts.org/images/products/872/270/027/7507/front.9.400.jpg', '7.6', '3.9', '5.1', '3.6', '0.9', '2.3', '21.1', '8.30708661417323', '', '0');
+VALUES ('3701138143597', 'Mousse au chocolat beurre salé', '', 'https://static.openfoodfacts.org/images/products/370/113/814/3597/front_fr.4.400.jpg', '18', '7', '23', '21', '', '7', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700284154', 'Tradition Framboise Pêche Chantilly', 'LAIT écrémé réhydraté, eau, purée de framboise (15%), purée de pêche (13%), sucre, sirop de glucose-fructose, CRÈME (7%), sirop de glucose, morceaux de pêche, LACTOSE et protéines de LAIT, oligofructose, pâte de cacao, sucre inverti, feuille dorée en chocolat (sucre, pâte de cacao, beurre de cacao, arômes, émulsifiant (lécithine de SOJA), colorants (E171, E172)), stabilisants (farine de graines de caroube, gomme guar, pectines, carraghénanes, amidon modiﬁé), jus de citron concentré, arômes (dont LAIT), jus de betterave concentré, émulsifiants (mono- et diglycérides d\'acides gras, phosphatides d\'ammonium), protéines de LAIT et LACTOSE, BEURRE concentré, cacao maigre en poudre, LAIT en poudre écrémé, colorant (caroténoïdes), correcteur d\'acidité (acide citrique), sel.', '', '3.6', '2.4', '27', '21', '', '1.3', '0.07', '0.0275590551181102', '', '1');
+VALUES ('3701138160020', 'Gaspacho Andalou', '', 'https://static.openfoodfacts.org/images/products/370/113/816/0020/front_fr.4.400.jpg', '2.3', '0.9', '48', '48', '', '16', '11', '4.33070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700284178', 'Buche Vanille Pecan Caramel Et Biscuit Carte D\'or 900ML', 'À LA FLEUR DE SEL & BISCUIT 0, glacÔO : crômo glacéo cararnoj ot floue do sol, cromo glacÔo vanillo avoc dos morceaux do noix do pécan caramélisées au cacao maigro (\'5%), sauce au caramol (5%), biscuit (3%), copoaux do chocolat noir dorés (0,5%) ot fouillo dor60 /t)01òdionts : LAI r éc,ròmò réhydraté, sucro, huiloe, (coco, palme). CRÈME, eau, sirop de glucose, de socro, AVOINE compléto, huilos vôoôtalos (palme, colza), sol, poudro lover (carbonato acido do sodium)), do sucre LACTOSE et protéines do LAIT, cacao mnioro on poudro (0%), NOIX DE PÉCAN dorés (sucro, pâto do cacao, bourro do cacao, oromo, émulsifiant (lécithine do SOJA), colorants (E171 , El 72), agoni d\'oncobaqo on chocolat (socro, pâto do cacao, bourro do cacao, arôme, émulsifiant (lécithine do SOJA), colorants EW2)), (mono- d\'acidos gras, phosphatidos d\'ammonium, esters citriques dos mono- ot diglyc6ridos d\'acidos gras), stabilisants (latino graines do caroube, quar, carraohénanos), colorants (caramel do sulfite caustique, caroténoïdes), fleur de sel (0,1%), sucre roux, arômes, de concentré 6alé, sol, ooussos do vanillo épuisées broyées. Pout contenir : muf, autres fruits à coque. CONSERVATION : A conserver à -180C dans votre congélateur&quot;\'. A consommer de préférence avant s. sur le de la boîte, CONSEIL : pour profiter do toute la saveur de votre bûche, sortez-la de votre congélateur ei de son 10 avant dégustation, Pour faciliter la découpe de votre bûche, passez la lame de votre couteau sous Veau chaude avani de les ergestellt in der EU www.lusso.ch Consommateurs : 09 69 32 03 32 (appel non surtaxé). 9204625', '', '18', '12', '34', '29', '2.5', '2.5', '0.36', '0.141732283464567', '', '0');
+VALUES ('3701138160129', 'Gaspacho de concombre', '', 'https://static.openfoodfacts.org/images/products/370/113/816/0129/front_fr.4.400.jpg', '15', '4.8', '9', '8.2', '', '9', '3.1', '1.22047244094488', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700284185', 'Carte d\'Or bûche crème brulée', 'LAIT écrémé réhydraté, sucre, CRÈME, huiles végétales (coco, palme), sirop de glucose, sirop de glucose-fructose, biscuit (farine de BLÉ, sucre, AVOINE complète, huiles végétales (palme, colza), sel, poudre à lever (carbonate acide de sodium)), LACTOSE et protéines de LAIT, cacao maigre en poudre (1 %), BEURRE concentré, LAIT, jaune d\'OEUF en poudre, dextrose, copeaux de chocolat noir dorés (sucre, pâte de cacao, beurre de cacao, arôme, émulsifiant (lécithine de SOJA), colorants (E171 , E172), anti agglomérant (sillicate alumino-potassique), agent d\'enrobage (shellac)), feuille dorée en chocolat (sucre, pâte de cacao, beurre de cacao, arôme, émulsifiant (lécithine de SOJA), colorants (E171, E172)), émulsifiants (mono- et diglycérides d\'acides gras, phosphatides d\'ammonium, esters citriques des mono- et diglycérides d\'acides gras), beurre de cacao, stabilisants (farine de graines de caroube, gomme guar, carraghénanes), sucre roux, arômes, extrait de vanille, gousses de vanille épuisées broyées, LAIT en poudre écrémé ou concentré, sel, colorant (caroténoïdes). Peut contenir : fruits à coque.', '', '18', '12', '34', '29', '', '2.9', '0.14', '0.0551181102362205', '', '0');
+VALUES ('3701138160334', 'Gaspacho andalou', '', 'https://static.openfoodfacts.org/images/products/370/113/816/0334/front_fr.4.400.jpg', '0.8', '0.3', '16', '16', '', '13', '8.4', '3.30708661417323', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700294047', 'Mûre Myrtille', 'Thé, arôme (16 %) ,mûre (0.9 %), cassis (0.9 %), myrtilles (0.6 %), framboise.', 'https://static.openfoodfacts.org/images/products/872/270/029/4047/front.3.400.jpg', '0', '0', '0.5', '0.5', '0', '0', '0', '0', '', '1');
+VALUES ('3701138160440', 'Sauce olive & balsamique', '', 'https://static.openfoodfacts.org/images/products/370/113/816/0440/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700297413', 'Alsa Levure Chimique Spécial Machine à Pain x6 -50g', 'Poudre à lever : pyrophosphate et bicarbonate de sodium, farine de blé, huile de palme', '', '13.5', '0', '15', '0', '', '48', '0', '0', '', '1');
+VALUES ('3701138170425', 'Merci bocaux! Guacamole au lait de coco', '', 'https://static.openfoodfacts.org/images/products/370/113/817/0425/front_fr.4.400.jpg', '9.1', '3.2', '7.9', '1.1', '', '2.7', '0.97', '0.381889763779528', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700307891', 'Crème de cèpes', '', '', '19', '12', '49', '12', '', '8', '3.5', '1.37795275590551', '', '0');
+VALUES ('3701138171422', 'Hachis parmentier aux deux purees', '', 'https://static.openfoodfacts.org/images/products/370/113/817/1422/front_fr.4.400.jpg', '8', '3.1', '10', '2.5', '', '6.1', '0.94', '0.37007874015748', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700344261', 'Moutarde au vin blanc de Chablis et aux morilles Maille', 'Eau, graines de _MOUTARDE_,  vinaigre d\'alcool, morilles réhydratées 10%, vin blanc de Chablis 8%, (dont _SULFITES_) sel, sucre, jus de citron concentré, échalote, arômes (dont _MOUTARDE_), stabilisant : gomme xanthane et gomme de guar, acidifiant : acide citrique, conservateur : E224 (_SULFITES_).', 'https://static.openfoodfacts.org/images/products/872/270/034/4261/front.15.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138171620', 'Blanquette de dinde', '', 'https://static.openfoodfacts.org/images/products/370/113/817/1620/front_fr.4.400.jpg', '3.5', '1.9', '10', '0.5', '', '8', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700359012', 'Fondant chocolat, chocolat noir extra fin 58% de cacao', '*% d\'Apport de référence pour un adulte-type (8400 kJ / 2000 kcal). - ** 1 portion = 90 g (cette préparation est pour 8 portions). @ ENSEMBLE RÉDUISONS L\'IMPACT ENVIRONNEMENTAL', '', '27', '15', '36', '30', '2.2', '6.5', '0.28', '0.110236220472441', '', '0');
+VALUES ('3701138171927', 'Oeuf au lait caramel citron', '', '', '4', '1.2', '15', '15', '', '5.2', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700422952', 'vinaigrette de vin rouge echalotte et pointe de d oignon rouge', 'Huile de tournesol 37%, vinaigre de vin rouge 35% (dont SULFITES), eau, sucre, huile d\'olive vierge extra 3%, sel, oignon rouge désydraté 0,8%, jus de raisin concentré, épaississants : gomme xanthane et carraghénanes, échalote déshydratée 0,3%, paprika, jalapeno  ', 'https://static.openfoodfacts.org/images/products/872/270/042/2952/front.17.400.jpg', '40', '5', '4.5', '4', '0', '5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701138180011', 'Eau', '', 'https://static.openfoodfacts.org/images/products/370/113/818/0011/front_fr.4.400.jpg', '0.2', '0', '0', '0', '', '0.1', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700430889', 'Mini cornichons', 'Cornichons (dont _sulfites_, vinaigre, épices et aromates (oignons, graines de _moutarde_, graine de coriandre), sel, arôme naturel, sulfites.', 'https://static.openfoodfacts.org/images/products/872/270/043/0889/front.5.400.jpg', '0.5', '0.1', '1.3', '0.5', '', '1', '2.2', '0.866141732283465', '', '0');
+VALUES ('3701138800001', 'Babas au rhum de Marie Galante & a la vanille de Madagascar', 'Baba : farine (gluten), œufs, beurre (lait), lait, sucre, levure, sel Sirop (10.9 0/ovol alc.) : eau, sucre, rhum agricole (16.770), sirop de glucose, vanille (0.01 Z)', 'https://static.openfoodfacts.org/images/products/370/113/880/0001/front_fr.4.400.jpg', '3.7', '2.2', '47', '35.4', '', '1.5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700431237', 'Moutarde douce', 'Eau, graines de moutarde, vinaigre, huiles végétales, sel, dextrose, épaississant (E412), acidifiant (acide citrique), arômes, conservateur (E224 (sulfites)).', 'https://static.openfoodfacts.org/images/products/872/270/043/1237/front.5.400.jpg', '20', '1.3', '7.1', '2.7', '0', '5.1', '4.4', '1.73228346456693', '', '0');
+VALUES ('3701138800025', 'Babas au limoncello et aux citrons', 'Baba : farine (gluten), œufs, beurre (lait), lait, sucre, levure, sel Sirop (14.4%vol alc.) : Limoncello (26.770) eau, sucre, sirop de glucose, alcool, citron (0.22%)', 'https://static.openfoodfacts.org/images/products/370/113/880/0025/front_fr.4.400.jpg', '3.7', '2.2', '50.8', '39.2', '', '1.5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700442844', 'calve', 'huevo,sa fina ema de Ingredientes:Agua, ace tedes a (40%)Avir agrede )vinagre de vino blan Sal HUEVO 3 2%); aimidon modific ad0de maiz, almid0n de TRIGO tasico espesantes(gomagarrotin,goma guar ,aromas(contiene azucar Sdl ro potasico espesantes umode ilmon concentrado, colorante (carotenogs', 'https://static.openfoodfacts.org/images/products/872/270/044/2844/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138800032', 'Babas de St Malo triple sec et oranges de corse', '', '', '3.7', '2.2', '46.9', '35.4', '', '1.5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700442868', 'Mahonesa Casera', '', 'https://static.openfoodfacts.org/images/products/872/270/044/2868/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701138800049', 'Babas à la fleur d\'oranger', '', 'https://static.openfoodfacts.org/images/products/370/113/880/0049/front_fr.4.400.jpg', '3.7', '2.2', '35.1', '26.6', '', '1.5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700443445', 'Préparation pour Tarte Citron Meringuée', 'Préparation pour crème au citron : sucre, amidon, maltodextrine, jus de citron 6,6%, crème, blanc d\'_œuf_, acidifiant : acide citrique, arôme citron, _lait_ écrémé, sel, colorant : bêta carotène. Préparation pour meringue : sucre, blanc d\'_œuf_, dextrose, protéines de _lait_, gélatine, amidon modifié, arômes, épaississant : gomme xanthane. ', '', '5.4', '2.6', '38', '25', '0.5', '4', '0.4', '0.15748031496063', '', '1');
+VALUES ('3701138800063', 'Les babas de saint malo , whisky cafe', '', 'https://static.openfoodfacts.org/images/products/370/113/880/0063/front_fr.4.400.jpg', '3.7', '0', '31.2', '21.4', '', '1.5', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700445456', 'Pot De Crème Au Chocolat-noisette', 'chocolat en poudre: 62,5% (sucre, cacao), dextrose (maïs), praliné noisette: 3% (NOISETTE, sucre), amidon modifié (maïs), sucre, gélifiant: carraghénanes, stabilisant: gomme xanthanc, antioxydant: E304, arômes. Peut contenir: gluten, lait, œuf. Ingrediénten: Chocoladepoeder (62,5%) (suiker, cacao), dextrose (maïs), nazelnootpraliné (3%) (HAZELNOOT. ;uiker), gemodificeerd matiszetmeel, ;uiker, geleermiddel (carrageen), ;tabilisator (xanthaangom), antioxidant', '', '14', '8', '16', '15', '1', '3', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701138800094', 'Babas à l\'amaretto et aux cerises', '', 'https://static.openfoodfacts.org/images/products/370/113/880/0094/front_fr.4.400.jpg', '3.7', '2.2', '39', '28', '', '1.5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700446200', 'Thé Panier de Fruits  Rouges', 'Thé noir, fruits rouges (fraise, framboise, groseille, müe, cerise) : 2,9%, arôme frufrs rouges feuilles de cassis,', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
+VALUES ('3701139801915', 'Le pain vitalité', '', 'https://static.openfoodfacts.org/images/products/370/113/980/1915/front_fr.4.400.jpg', '6.7', '0.84', '36.9', '2.2', '8.1', '14.4', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700448808', 'Calvé Maionese 250ML', '', '', '68', '8', '0.6', '0.3', '', '0.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701139801922', 'Baguette au lin', '', 'https://static.openfoodfacts.org/images/products/370/113/980/1922/front_fr.10.400.jpg', '6.2', '0.7', '46.4', '2.2', '', '10.4', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700449195', 'Vit\'fruit sans cuisson', 'Sucre, gélifiant : carraghénanes, acidifiant : acide citrique', 'https://static.openfoodfacts.org/images/products/872/270/044/9195/front.9.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701139801939', 'Pain muesli', '', 'https://static.openfoodfacts.org/images/products/370/113/980/1939/front_fr.6.400.jpg', '8.5', '0.96', '37.3', '6.5', '', '12.6', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700452522', 'Sorbet Abricot, Back D\'un Litre, Marque Carte D\'or', 'ILe-650ge v.rww.LovelceCream.com', '', '0.5', '0.12', '33', '28', '', '0.6', '0', '0', '', '0');
+VALUES ('3701141300079', 'Nectar de kiwi', '', 'https://static.openfoodfacts.org/images/products/370/114/130/0079/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700452539', 'Sorbet Citron Vert', 'Eau, citron vert (20%) (jus de citron vert à base de jus concentré et pulpe), sirop de glucose-fructose, sucre, écorces de citron (4%), sirop de glucose, stabilisants (farine de graines de caroube, pectine, carraghénanes), protéines de _lait_ et _lactose_, arômes, colorant (chlorophylles).', 'https://static.openfoodfacts.org/images/products/872/270/045/2539/front.19.400.jpg', '0.6', '0.5', '32', '27', '', '0.5', '0.04', '0.015748031496063', '', '0');
+VALUES ('3701142000053', 'Top bar protein', '', 'https://static.openfoodfacts.org/images/products/370/114/200/0053/front_fr.4.400.jpg', '12.8', '6.5', '30.2', '25.4', '', '27.4', '0.52', '0.204724409448819', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700453369', 'Mayonnaise La Légère', 'eau, huile de colza 26%, vinaigre, jaune d\'oeuf de poules élevées en plein air 4,9%, amidon modifié, sucre, moutarde de Dijon (eau, graines de moutarde, vinaigre, sel), sel, fibres de citron, épaississant : gomme xanthane, arômes, jus de citron concentré, acidifiant : acide tartrique, conservateur : acide sorbique, antioxydant, extrait de romarin, colorants : extraits de paprika, luétine (extrait de tagère).', 'https://static.openfoodfacts.org/images/products/872/270/045/3369/front.10.400.jpg', '27', '2.5', '7', '3.5', '0', '0.9', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701142000060', 'Topbar', '', 'https://static.openfoodfacts.org/images/products/370/114/200/0060/front_fr.8.400.jpg', '11.6', '6.2', '19.6', '10.8', '', '27', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700453710', 'Bio Bouillon de Légumes', 'Sel, extrait de levure (dont orge), amidon*, sucre*, matière grasse végétale*, légumes* : 7% (oignon*, carotte*), fécule de pomme de terre*, épices* et aromates* (livrèche*, persil*, ail*, curcuma*, noix de muscade*). * ingrédients issus de l\'Agriculture Biologique', 'https://static.openfoodfacts.org/images/products/872/270/045/3710/front.30.400.jpg', '10', '6', '32', '15', '2', '12', '37.338', '14.7', '', '0');
+VALUES ('3701142000114', 'Top whey', '', 'https://static.openfoodfacts.org/images/products/370/114/200/0114/front_fr.4.400.jpg', '8.8', '2.5', '3.2', '0.3', '', '73', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700453741', 'Bouillon de poule bio', '', 'https://static.openfoodfacts.org/images/products/872/270/045/3741/front.7.400.jpg', '0.5', '0.2', '0.7', '0.5', '', '0.5', '0.7493', '0.295', '', '1');
+VALUES ('3701142000251', 'Top mass', '', 'https://static.openfoodfacts.org/images/products/370/114/200/0251/front_fr.4.400.jpg', '3.4', '1.3', '68.3', '12.8', '', '24', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700454328', 'Thé vert menthe', '', 'https://static.openfoodfacts.org/images/products/872/270/045/4328/front.3.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701142000329', 'Top Balls Protein', '', 'https://static.openfoodfacts.org/images/products/370/114/200/0329/front_fr.4.400.jpg', '17.6', '14.1', '28.9', '16.5', '', '42.9', '0.86', '0.338582677165354', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700455134', 'Marmite de bouillon légumes (offre saisonnière)', 'Bouillon de légumes concentré : 59% (eau, carotte, poireau, poivron rouge, _céleri_), sel, graisse de palme, sucre, extrait de levure, épices et aromates (persil, graines de _céleri_, livèche, noix de muscade, poivre), épaississants : gomme xanthane et farine de graines de caroube, arômes, caramel, maltodextrine, extrait de fenugrec.', '', '9.3', '5.4', '6.4', '5.2', '1.5', '2.3', '20.6', '8.11023622047244', '', '0');
+VALUES ('3701142000381', 'Top muesli protein', '', 'https://static.openfoodfacts.org/images/products/370/114/200/0381/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700455141', 'Marmite de Bouillon Poule (offre saisonnière)', 'bouillon de poule concentré : 59% (eau, viande de poule : 0,2%), sel, graisse de palme, sucre, extrait de levure, légumes : 2,2% (carotte, poireau), laisse de poule, arômes (dont _ORGE_), épice et aromates (ail : 0,4%, persil : 0,4%, poivre), épaississants : gomme xanthane et farine de graines de caroube, caramel, maltodextrine, colorant : caroténoïdes.', 'https://static.openfoodfacts.org/images/products/872/270/045/5141/front.7.400.jpg', '8', '4.5', '4.5', '3.5', '0.9', '2.5', '21', '8.26771653543307', '', '0');
+VALUES ('3701143000014', 'Purée d\'amandes complètes', '', 'https://static.openfoodfacts.org/images/products/370/114/300/0014/front_fr.6.400.jpg', '58.5', '5.6', '19.5', '4.7', '', '0', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700455158', 'Marmite de bouillon ', '', 'https://static.openfoodfacts.org/images/products/872/270/045/5158/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701143000038', 'Purée cacahuete grillée', '', 'https://static.openfoodfacts.org/images/products/370/114/300/0038/front_fr.4.400.jpg', '48.8', '8', '12.8', '5.9', '', '0', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700455448', 'Thé Citron avec écorces de citron', 'Thé, arôme (11,2%), écorces de citron (2,2%).', 'https://static.openfoodfacts.org/images/products/872/270/045/5448/front.7.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701144810513', 'Terroir des dentelles, cru des côtes du Rhône, vacqueyras', '', 'https://static.openfoodfacts.org/images/products/370/114/481/0513/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700458852', 'Douceur legumes du soleil 2x1l prix choc', 'eau, légumesl : 3696 (tomate, aubergine, pomme de terre, oignon), fromage fondu (FROMAGES, eau, BEURRE, LAIT en poudre écrémé, protéines de LAIT, sel), CRÉME fraîche, amidon modifié de maïs, huile de tournesol, sel, sucre, lactosérunt (LAIT) huile d\'olive vierge extra, IAiT en poudre écrémé, épices et aromates (curcuma) thym\', origan, ail), arôme naturel de poivre. Peut contenir : céleri, gluten, moutarde, œuf. llngrédients issus de l\'agriculture :', 'https://static.openfoodfacts.org/images/products/872/270/045/8852/front_en.3.400.jpg', '2.53', '1.1', '4.4', '2', '0.6', '1', '0.67', '0.263779527559055', '', '1');
+VALUES ('3701144900009', 'blonde, provencal pale ale', 'Bière blonde. 33cl Alc. 5% Vol. Brasserie Provence 38 rue du Puits-Neuf 131c Aix-en-Provence Ingrédients Aquae, FR-BIO-15 Maltae, Houblon, Sucre, Levure. UE/NON-UE - logique. Contient du gluten. 0009 AGRICULTURE produits issus de l\'agriculture bio - u8', 'https://static.openfoodfacts.org/images/products/370/114/490/0009/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700459101', 'Douceur de 8 légumes à la crème fraîche (lot de 2)', '', 'https://static.openfoodfacts.org/images/products/872/270/045/9101/front.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701144900047', 'CHARDON', '', 'https://static.openfoodfacts.org/images/products/370/114/490/0047/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700459132', 'Veloute de potiron creme fraiche', '', '', '2', '1.2', '4', '2.3', '', '0.8', '0.8', '0.31496062992126', '', '1');
+VALUES ('3701144900078', 'Nola', 'eau, malt, houblon, sucre, levure', 'https://static.openfoodfacts.org/images/products/370/114/490/0078/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700461937', 'Conimex Mix For Curry Sauce', 'A consommer avant fin / Ten minste houdbaar tot einde: L63191E809 11-2018 (bon trouve de nombreux types de curry différents en Indonésie, parmi lesquels figure le Curry Ayam. Ce dernier, préparé base d\'ingrédients très soigneusement .sélectionnés, a une saveur douce et légèrement Sucrée. Ingrédients Maltodextrine, arnidon de pomme de terre modifié, dextroses sucres sels LACTOSÉRUM de LAIT, amidon. cle pomme deterre, oignon, arôme (contient BLÉ LAIT graisse de palme, LACTOSE, chlorure. de potassium, farine de FROMENT coriandre, huile de tournesoli poudre d\'ait r:ùreumas poivre, cumin, cardamome, poivre de cayenne. Peut contenir: oeuf, céleri, Préparation . - Ajouter 200 ml d\'eau bouille au mélange de saucer - Mélanger jusqu\' à consistance} lisse. (Uln Indonesië zijn er vele verschi j.je,nde curry\'s waarvan Ajam Kerrie er één*u Deze curry, die samengesteld is uit z01tgvu14iB geselecteerde ingrediënteTâ}eeft een milde, lichtzoete smaak, Ingredienten: Maltodextrine, gemodificeerd aardappelzetmeel„dextrosets Se IZ$JIKER MELKWEli aardappelzetmeel, ui, arorna (bevat TARWEi MELW, palmveCT91E kaliumchloride,TARWEBLOEM, koriander, zonnebloemolie, knoflookpoeder; kurkumav', '', '1', '0.4', '15', '7.2', '', '0.9', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701145600168', 'Lactiplus', '', 'https://static.openfoodfacts.org/images/products/370/114/560/0168/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700462491', 'Mayonnaise de Dijon', 'huiles végétales - jaune d\'oeufs de poules élevées en plein air (8%) - vinaigre de vin blanc - eau - moutarde de Dijon 5,3%(eau, graines de moutarde, vinaigre, sel, acidifiant : acide citrique) - sucre - sel - épaississants : E1422, dextrine - arômes - colorants : extrait de paprika, lutéine (extrait de tagète)  ', 'https://static.openfoodfacts.org/images/products/872/270/046/2491/front.10.400.jpg', '73', '7', '2.5', '1', '0', '1.5', '1.27', '0.5', '', '0');
+VALUES ('3701145600229', 'Chronobiane', '', 'https://static.openfoodfacts.org/images/products/370/114/560/0229/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700462958', 'Manteiga de Amendoim Cremosa', 'AMENDOINS (85%), óleos vegetais (colza, soja em proporções variáveis), gordura de palma totalmente hidrogenada, e sal (0,6%).', 'https://static.openfoodfacts.org/images/products/872/270/046/2958/front.3.400.jpg', '58', '8.5', '11', '6.4', '6.6', '21', '0.6', '0.236220472440945', '12', '0');
+VALUES ('3701145650064', 'Chocolat cereales', '', 'https://static.openfoodfacts.org/images/products/370/114/565/0064/front_fr.4.400.jpg', '12.2', '5.6', '33.9', '18.2', '', '27.4', '1.23', '0.484251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700462989', 'Pindakaas, stukjes pinda', '_pinda_ 81%, plantaardige olie (raapzaad, soja, volledig gehard palm), dextrose, zout.', 'https://static.openfoodfacts.org/images/products/872/270/046/2989/front.10.400.jpg', '55', '7.5', '15', '10', '7.9', '20', '0.6', '0.236220472440945', '', '0');
+VALUES ('3701145650088', 'Seronéa', '', 'https://static.openfoodfacts.org/images/products/370/114/565/0088/front_fr.4.400.jpg', '14.6', '7.5', '27', '21.3', '', '23.1', '0.33', '0.12992125984252', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700464952', 'Vinaigrette legere', 'MAILLE\' DEPUIS 1747 VINAIGRETTE LÉGÈRE VNAIGRE DE ROUGE ÉCHALOTES ET IGNONROUGE I Idéale pour vos salades vertes ou de \'tés, cette vinaigrette vous étonnera par son caractère aut ue. Son secret vinaigre de vin rouge sélectionné pour s sance aromatiquç subtilement relevé d\'échalotes et d\'u inte d\'oignon. Huile de tournesol 37%1 vinaigre de fin ro eau, sucrel huile d\'olive vierge extra 306 sel, oignon déshydraté de raisin concentré, épaississants : gomme xanthan carraghénÜ4 échalote déshydratée 0/3%, paprika, jalape Bien agiter avant chaque Utilisation. Se conserve au réfrigérateur I mois après ouverture. Vinaigrette allégée en matières grasses (40%). Réduit en matières grasses de 46% par rapport à une vinaigrette a eurs énergétique 1600 kJ/380 kcal 480U/lj0kcal Matières rasses 12g d011t aci es gras saturés prdopt sucres 05 g sel e', '', '40', '5', '4.5', '4', '0', '0.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701145650095', 'Insunea oxanea', '', 'https://static.openfoodfacts.org/images/products/370/114/565/0095/front_fr.4.400.jpg', '16.5', '5.9', '40.9', '35.5', '', '21.6', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700467342', 'Yofresh', '', '', '26', '2', '13', '10', '', '0.9', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701145650149', 'Mini gressins Nature', '', 'https://static.openfoodfacts.org/images/products/370/114/565/0149/front_fr.4.400.jpg', '14', '2', '26', '0.9', '', '50', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700467359', 'Calvé Yofresh', 'Eau, huile de Colza, YAOURT 15%, sucre, vinaigre blanc aux herbes (vinaigre, extrait d\'herbes), amidon de maïs modifié, sirop de glucose-fructose, jaune d\'OEUF 2,3%, sel, moutarde ( eau, graine de MOUTARDE, vinaigre, sel, épices, arôme), épaississant: gomme xanthane, acide citrique, , acide sorbique, antioxygène E385', 'https://static.openfoodfacts.org/images/products/872/270/046/7359/front_en.3.400.jpg', '26', '2.3', '12', '9.2', '1', '1', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701145650217', 'Biscuits façon petits beurre', '', 'https://static.openfoodfacts.org/images/products/370/114/565/0217/front_fr.4.400.jpg', '16', '7.7', '38', '9.1', '', '31', '0.86', '0.338582677165354', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700471110', 'Tomato Ketchup', '70%semi concentrato di pomodoro,zucchero,aceto d\'alcole,sale,succo di limone da concentrato,fibra d\'agrumi,estratto di lievito,spezie', 'https://static.openfoodfacts.org/images/products/872/270/047/1110/front.9.400.jpg', '0.5', '0.12', '22', '21', '', '1.5', '2', '0.78740157480315', '', '0');
+VALUES ('3701145650224', 'Sylvie p', '', 'https://static.openfoodfacts.org/images/products/370/114/565/0224/front_fr.4.400.jpg', '9', '1.3', '13', '2.9', '', '56', '4.6', '1.81102362204724', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700472148', 'Herbal Infusion Temptation Fruits', '', '', '0', '0', '0.5', '0.5', '', '0', '', '', '', '1');
+VALUES ('3701146300012', 'ginkgo + rutine', '', 'https://static.openfoodfacts.org/images/products/370/114/630/0012/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700472315', 'Te Pyramide Lemon Honey Lipton', '', '', '0', '0', '0.5', '0.5', '', '0.5', '', '', '', '1');
+VALUES ('3701146300029', 'Millepertuis', '', 'https://static.openfoodfacts.org/images/products/370/114/630/0029/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700472322', 'Infusion Tentation Fraise', '', 'https://static.openfoodfacts.org/images/products/872/270/047/2322/front.7.400.jpg', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701151300014', 'Gelule Miniweith', '', 'https://static.openfoodfacts.org/images/products/370/115/130/0014/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700472438', 'Infusion délice de rose', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701151300021', 'Thé vert', '', 'https://static.openfoodfacts.org/images/products/370/115/130/0021/front_fr.4.400.jpg', '0.2', '0.1', '0.2', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700472544', 'Sauce Vinaigrette Balsamique Fraise', 'huile de tournesol, eiu, Acéto Balsamico (vinaigre de vin (dont SULFITES), moût de raisin, colorant\',7dE3 huile d\'olive vierge extra : 8%, vinaigre de vin (vinaigre de vin (dont SULFITES), extrait de concentré : sel, épaississanb : carraghénanes Il} épices (jalapeno, paprika). *Indication géographique protégée Valeurs nutritionnelles - Pour 100ml kcal', '', '51', '6', '12', '11', '', '0.5', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701158200867', 'Algoressence', '', 'https://static.openfoodfacts.org/images/products/370/115/820/0867/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700472575', 'Sauce Salade & Sandwich Caesar', 'Eau, huile de tournesol, vinaigre, sucre, LAIT écrémé en poudre, jaune d\'ŒUF, ail (2.3%), FROMAGE (1.7%), amidon modifié de maïs, sel, arômes (dont LAIT), acidifiants (acide lactique), protéines de LAIT, anchois (0.11%) (POISSON), épaississant (gomme xanthane), extrait de carthame, sucre inverti, antioxydant (E385), jus de citron concentré, conservateur (sorbate de potassium).', 'https://static.openfoodfacts.org/images/products/872/270/047/2575/front.5.400.jpg', '27', '3.9', '11', '8.7', '', '2.6', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701162877017', 'Z Power concentré', '', 'https://static.openfoodfacts.org/images/products/370/116/287/7017/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700477983', 'Mayonnaise', '', '', '', '10', '', '1.5', '0', '0.8', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701163900110', 'Equilibre epatique', '', 'https://static.openfoodfacts.org/images/products/370/116/390/0110/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700479123', 'Planta fin doux tartine & cuisson', 'Huile végétale 60%, eau, poudre de babeurre (lait), émulsifiant : mono-diglycerides d\'acides gras et lécithine de tournesol, sel 0.3%, correcteur d\'acidité : acide lactique, arôme naturel, colorant : bêta-carotène, vitamines A et D. Mono et diglycérides d\'acides gras', 'https://static.openfoodfacts.org/images/products/872/270/047/9123/front.4.400.jpg', '60', '24', '0.5', '0.5', '0', '0.5', '0.32', '0.125984251968504', '0', '0');
+VALUES ('3701164000062', 'Sirop de framboise', '', 'https://static.openfoodfacts.org/images/products/370/116/400/0062/front_fr.4.400.jpg', '0', '0', '90.55', '90', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700479451', 'Light mayonnaise', '', '', '26', '2.6', '6.1', '2.3', '', '0.5', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701171430012', 'Nougat aux noix', '', 'https://static.openfoodfacts.org/images/products/370/117/143/0012/front_fr.4.400.jpg', '19.45', '1.69', '68.58', '55.14', '', '5.01', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700479475', 'Real mayonnaise', '', 'https://static.openfoodfacts.org/images/products/872/270/047/9475/front_en.7.400.jpg', '79', '6.3', '1.4', '1.3', '', '1.1', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701171430036', 'Nougat aux noix', '', 'https://static.openfoodfacts.org/images/products/370/117/143/0036/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700479499', 'Mayonesa', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701171430067', 'Croquants aux noix', '', 'https://static.openfoodfacts.org/images/products/370/117/143/0067/front_fr.4.400.jpg', '19.61', '2.64', '50.58', '30.12', '', '9.29', '0.72', '0.283464566929134', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700481225', 'Purée De Curry', 'Eau, vinaigre d*alcool, maltodextrine (maïs), sel, huile végétale (palme), sucre, curry (4%) (livèche, carvi, poivre, coriandre, ail, graines de fenugrec, macis, racine de livèche, cumin, aneth, oignon, poivre de Cayenne, curcuma), épices (1,7%) (coriandre, curcuma, cumin, poivre de Cayenne, cardamome), fibres d\'agrumes, sirop de glucose, jus d\'ananas en poudre, dextrose, épaississant (gomme xanthane). 0', '', '7', '3', '22', '9', '4', '0.7', '8.9', '3.50393700787402', '', '0');
+VALUES ('3701171430081', 'Sable aux noix', '', 'https://static.openfoodfacts.org/images/products/370/117/143/0081/front_fr.4.400.jpg', '37', '19', '41.5', '18.26', '', '6.5', '0.36', '0.141732283464567', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700482291', 'Thyme Puree', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701171450027', 'Huile de noix vierge traditionnelle', 'Huile de _noix_ 100 %.', 'https://static.openfoodfacts.org/images/products/370/117/145/0027/front_fr.8.400.jpg', '100', '10', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700482475', 'Mixed Peppercorn Puree', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701171460026', 'Moutarde aux noix', '', 'https://static.openfoodfacts.org/images/products/370/117/146/0026/front_fr.4.400.jpg', '2.7', '1.9', '2.7', '2', '', '8.6', '4.63', '1.82283464566929', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700483212', 'Garlic Puree', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701171460040', 'Noix verte à l aigre doux', '', 'https://static.openfoodfacts.org/images/products/370/117/146/0040/front_fr.4.400.jpg', '0', '0', '23', '19', '', '0.8', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700485032', 'Bac 1.5L Carte D\'or Cafe Carte D\'or', '', '', '29', '14', '29', '14', '', '3', '5', '1.96850393700787', '', '0');
+VALUES ('3701171460057', 'Chutney de noix vertes Bio', '', 'https://static.openfoodfacts.org/images/products/370/117/146/0057/front_fr.4.400.jpg', '47.92', '4.49', '29.57', '25.33', '', '10.33', '0.9', '0.354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700485483', 'Green Ice Tea', 'Eau, sucre, fructose, extrait de thé vert (1 ,4g/l), acidifiant (acide citrique), arôme, correcteur d\'acidité (E331 ), antioxidant (acide ascorbique), édulcorant (glycosides de stéviol). ', '', '0.5', '0.5', '4.7', '4.5', '', '0.5', '0.0299999999999999', '0.0118110236220472', '', '1');
+VALUES ('3701171490016', 'Crème de noix traditionnelle', '', 'https://static.openfoodfacts.org/images/products/370/117/149/0016/front_fr.15.400.jpg', '25', '2', '36', '34', '', '5', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700485759', 'Green Ice Tea', '', 'https://static.openfoodfacts.org/images/products/872/270/048/5759/front_en.3.400.jpg', '0.5', '0.5', '4.7', '4.5', '', '0.5', '0.0299999999999999', '0.0118110236220472', '', '1');
+VALUES ('3701171490023', 'Crème de Noix Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/117/149/0023/front_fr.9.400.jpg', '8.47', '1.81', '14.5', '10.66', '', '2.47', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700486794', 'Bouillon', '', '', '0.5', '0.1', '0.5', '0.1', '', '0.45', '0.45', '0.177165354330709', '', '1');
+VALUES ('3701171490054', 'Crème de noix châtaignes beurre salé', '', 'https://static.openfoodfacts.org/images/products/370/117/149/0054/front_fr.4.400.jpg', '3.76', '3.04', '45.57', '37.54', '', '3.39', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700486855', 'Bouillon de légumes déshydraté', '', '', '0.5', '0.1', '1.5', '0.5', '', '0.5', '0.17', '0.0669291338582677', '', '1');
+VALUES ('3701172200027', 'Gynéfam', '', 'https://static.openfoodfacts.org/images/products/370/117/220/0027/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700487180', '500G Gateau Citron Alsa', 'De la graisse de palme, du sucre, de l\'amidon de blé, de l\'œuf, 16% de farine de blé, 8% de stabilisants : glycérol et gomme xanthane, une pincée de poudre à lever : diphosphates et carbonates de sodium, arôme naturel de citron, sel, E202, niboflavine.', '', '25', '14', '54', '23', '0.9', '3.2', '0.48', '0.188976377952756', '', '1');
+VALUES ('3701172700046', 'nos racines', 'Vin biologique, Côtes du Tarn à indication géographique protégée', 'https://static.openfoodfacts.org/images/products/370/117/270/0046/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700487845', 'Moelleux au chocolat avec des pépites', '', 'https://static.openfoodfacts.org/images/products/872/270/048/7845/front.3.400.jpg', '21', '8.8', '44', '38', '', '5', '0.8', '0.31496062992126', '', '0');
+VALUES ('3701172700374', 'Vin de France', '', 'https://static.openfoodfacts.org/images/products/370/117/270/0374/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700491941', 'Crème glacee moka ', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701172701265', 'Chateau lafaurie', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1265/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700492269', 'Moelleux Nature', 'Sucre, graisse de palme, œuf, amidon de blé, farine de blé, stabilisants : glycérol et gomme xanthane, eau, poudre à lever : E 450 et carbonates de sodium, sel, conservateur : E 202.', '', '22', '12', '56', '28', '0.8', '3.9', '0.43', '0.169291338582677', '', '0');
+VALUES ('3701172701326', 'Vin rouge Pays d\'Oc', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1326/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700492825', 'Pâte toute prête fondant chocolat', 'Sucre, huile de palme, œuf, chocolat : 14% (sucre, pâte de•cacao, cacao maigre en poudre, matière grasse du LAIT, beurre de cacao, émulsifiant : lechitine de soja) farine de blé, stabilisant : glycérol, blanc d\'ŒUF en poudre, sel, poudre à lever : E 450 et carbonates de sodium, Conservateur: E202. SANS COLORANT.', '', '31', '13', '45', '31', '2.2', '6.7', '0.55', '0.216535433070866', '', '0');
+VALUES ('3701172701418', 'Terres nouvelles 2016', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1418/front_fr.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700516590', 'Sandwich Delight Nature', 'LAIT écrémé reconstitué (40 %), eau, huile de palme (10 %), huile de noix de coco totalement hydrogénée (10 %), BABEURRE en poudre, amidon modifié de tapioca, épaississants (carraghénanes, farine de graines de caroube), acidifiant (acide lactique), sel, conservateur (sorbate de potassium), arômes (dont LAIT).', '', '20', '14', '5', '4.5', '0.5', '3', '0.44', '0.173228346456693', '', '1');
+VALUES ('3701172701432', 'Haut medoc Lacour Jacquet', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1432/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700547747', 'Lipton Ice Tea Zero sucres saveur pêche (lot de 4 x 1,5 L)', 'eau, extrait de thé noir (1,4 g/l), acidifiants (acide citrique, acide malique), jus de pêche à base de concentré (0,1%), arôme, correcteur d\'acidité (citrate trisodique), édulcorants (acésulfame-K, sucralose), antioxydant (acide ascorbique).', 'https://static.openfoodfacts.org/images/products/872/270/054/7747/front.14.400.jpg', '0', '0', '0.5', '0.5', '', '0', '0.029972', '0.0118', '', '1');
+VALUES ('3701172701906', 'Tos du Roi', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1906/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700547822', 'Lipton Ice Tea saveur pêche (format familial - 4 x 1,5 L)', 'eau, sucre, acidifiant (acide citrique), extrait de thé noir (1,4 g/l), jus de pêche à base de concentré (0,1%), arôme, antioxydant (acide ascorbique).', 'https://static.openfoodfacts.org/images/products/872/270/054/7822/front.14.400.jpg', '0', '0', '7', '6.9', '', '0', '0.0100076', '0.00394', '', '1');
+VALUES ('3701172701913', 'Vin de Bordeaux', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1913/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700616948', 'Bertoli', 'Huile végétale, huile d\'olive compsée d\'huile d\'olive raffinées et huile d\'olivevierge (16%), jaune d\'œuf (7,5%), vinaigre, moutarde, (eau, graines de moutarde, vinaigre, sel ,épices, arôme) sel,sucre, sirop de glucose, épices, antioxigène (E385) colorant (béta-carotène)', 'https://static.openfoodfacts.org/images/products/872/270/061/6948/front.6.400.jpg', '81', '7', '0.6', '0.4', '0.5', '1', '0.7874', '0.31', '', '0');
+VALUES ('3701172701944', 'Chateau Margerots', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1944/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700616993', 'Yogonaise', 'Eau, huile de colza 25%, LAITfermenté traité thermiquement 15%, vinaigre aux herbes (vinaigre, extrait d\'herbes), sucre, amidon de maïs modifié, sirop de (de poules élévées en plein air) 22%, sel, moutarde (eau, graines de MOUTARDE, vinaigre, sel, épices arômes), conservateur: acide setbique, épaississant gomme xanthane, acidifiant. Citrique, antioxygène: E385.', '', '26', '2', '13', '10', '0', '0.9', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701172701968', 'Terres nouvelles', '', 'https://static.openfoodfacts.org/images/products/370/117/270/1968/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700619093', 'Calve\' Top Down Fresca Mayo\'', '25%), acqua,aceto amido di FRUMEHTO tuortod\'UOV0 di guar; fibra diagrumi, colorante: ustoinatteratonel tempo il prodotto è stato pastcrizzatoe non contiene tatti(ivivi.', '', '27', '3.5', '12', '8', '0', '1.5', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701172701975', 'la roupie', 'COTES DE GASCOGNE INDICATION GEOGRAPHIQUE PROTEGE Blane See AB CERTIFIE AB FR - BIO 10 AGRICULTURE FRANCE 2017 AGRICULTURE BIOLOGIQUE iu iol ue Un vin blanc sec fruité avec des notes florales persistantes. D\'une robe pâle et brillante, il vous séduira par sa finesse et son élégance Soccordera parfaitement en apéritif, avec un plateau de fruits de mer ou du poisson cuisine MIS EN BOUTEILLE PAR SAS RAYMOND VFI A F. 33540 SAINT LAURENT DU BS 750 ENT DES SULFITES eou DE FRANCE 3 7011724701975', 'https://static.openfoodfacts.org/images/products/370/117/270/1975/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '12', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700619352', 'CALVE MAYO ONLINE - CALVE\' MAYO\' GR.', '', '', '27', '3.3', '12', '8', '', '1.5', '1.6', '0.62992125984252', '', '0');
+VALUES ('3701172703467', 'Cos du Roy', '', 'https://static.openfoodfacts.org/images/products/370/117/270/3467/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700622215', 'Green lemon ici tea', 'Eau, sucre, acidifiant (acide citrique), extrait de thé vertil) jus de citron partir d\'un concentré (0,1 correcteur d\'acidité (citrate trisodique), arômes, antioxygène (acide ascorbique), édulcorant (glycosides de stéviol), I', '', '0.5', '0.1', '4.6', '4.5', '', '0.5', '0.03', '0.0118110236220472', '', '1');
+VALUES ('3701175200048', 'Chia', '', 'https://static.openfoodfacts.org/images/products/370/117/520/0048/front_fr.4.400.jpg', '32', '3.4', '1.8', '0.2', '', '20.2', '1.27', '0.5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700625988', 'Infusion Nuit Tranquille ', 'verveine, tilleul 26%, lavande, arôme 10%, feuilles d\'oranger 9.8%, camomille 8.9%, mélisse ', '', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701175200109', 'Huile de chia vierge bio', '', 'https://static.openfoodfacts.org/images/products/370/117/520/0109/front_fr.4.400.jpg', '99', '10.5', '0', '0', '', '0', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700626947', 'Sauce Blanche Knorr', 'Farine de froment, fécule de pomme de terre, graisse végétale, sel, poudre de petit lait, poudre de lait écrémé, lactose, extrait de levure, protéines de lait, malto-dextrine, arôme (dont froment), jus de citron, oignon, noix de muscade, macis, huile végétale, extrait de vin blanc.', 'https://static.openfoodfacts.org/images/products/872/270/062/6947/front.6.400.jpg', '3', '2', '10', '5.5', '0.1', '4.5', '1.04', '0.41', '', '0');
+VALUES ('3701175700012', 'Truffe fantaisie caramel au beurre salé', '', 'https://static.openfoodfacts.org/images/products/370/117/570/0012/front_fr.4.400.jpg', '44', '37', '43', '41', '', '3.9', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700633969', 'Mostarda', 'água, mostarda (24%) (água, sementes de mostarda, vinagre, sal, aromas, especiarias), óleo de soja, vinagre, açúcar, amido, ovo e gema de ovo pasteurizada, sal, óleo de colza, corantes (curcumina, beta-caroteno), espessantes (goma xantana), aroma de mostarda', 'https://static.openfoodfacts.org/images/products/872/270/063/3969/front.3.400.jpg', '25', '4', '9', '4.5', '', '1.5', '7.112', '2.8', '', '0');
+VALUES ('3701175700098', 'Truffes', '', 'https://static.openfoodfacts.org/images/products/370/117/570/0098/front_fr.4.400.jpg', '43', '37', '43', '41', '', '3.9', '0.14', '0.0551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700639091', 'Sauce salade Herbes du Jardin', '', '', '46', '7', '6', '2.5', '0.4', '0.4', '2.3', '0.905511811023622', '', '0');
+VALUES ('3701175700159', 'Truffe fantaisie aux cristaux de menthe', '', 'https://static.openfoodfacts.org/images/products/370/117/570/0159/front_fr.4.400.jpg', '44', '38', '40', '38', '', '4', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700641810', 'Vinaigre Balsamique de Modène', 'Vinaigre de vin, moût de raisin cuit, colorant : caramel E150d, conservateur : E224 (sulfites).', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701175700166', 'Truffe fantaisie', '', 'https://static.openfoodfacts.org/images/products/370/117/570/0166/front_fr.4.400.jpg', '46', '39', '41', '39', '', '4.1', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700643685', 'Knorr Crema Con Porcini Ast GR 100', 'Minestra preparata disidratata Ingredienti: grasso di palma, farina di GRANO tenero, amido di patata, sciroppo di glucosio, sale, funahi porcini (Boletus edulis) 3,496, zuccherot farina di maist protekne del LATTE, estratto per brodo, di potassio, cipolla, estratto di lievito, funghi prataioli coltiYèti (Agy ricus bisporus), prezzemolo, funghi pinarelli (Bo!etus luteus)f eglio, estratto di funqhiè aromi. Pub contenere uovo, sedano e senepe.', '', '4', '2.3', '6.3', '0.7', '0.5', '1.1', '0.75', '0.295275590551181', '', '1');
+VALUES ('3701175700180', 'Truffe fantaisie noisette', '', 'https://static.openfoodfacts.org/images/products/370/117/570/0180/front_fr.4.400.jpg', '45', '37', '41', '39', '', '4.4', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700643876', 'Knorr Crema Di Porri Patate', '', '', '2.2', '1.2', '6.9', '1.3', '', '1.1', '0.85', '0.334645669291339', '', '1');
+VALUES ('3701175700203', 'Truffe fantaisie piment', '', '', '45.5', '39', '40.7', '38.9', '', '4', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700691372', 'Bouillon de poule', 'sel, fécule de pomme de terre, graisses végétales (palme, palme totalement hydrogénée), exhausteurs de goût : glutamate, inosinate et guanylate de sodium, sucre, arômes, huile d\'olive vierge extra, graisse de poule (antioxydant : extrait de romarin), oignon : 1%, viande de poule : 1%, extrait de levure, épices et aromates (graines de CÉLERI : 0,3%, ail, persil : 0,1 %, curcuma), caramel, maltodextrine.', '', '0.5', '0.2', '0.5', '0.4', '0.5', '0.5', '0.9', '0.354330708661417', '', '1');
+VALUES ('3701175701224', 'Truffes fantaisie nature', '', 'https://static.openfoodfacts.org/images/products/370/117/570/1224/front_fr.4.400.jpg', '46', '39', '41', '39', '', '4.1', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700692140', 'Pesto Calabrese', '', '', '26', '6', '9', '6', '', '4', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701175701552', 'Truffes fantaisie nature', '', 'https://static.openfoodfacts.org/images/products/370/117/570/1552/front_fr.4.400.jpg', '45.7', '39.1', '40.8', '39', '', '4.1', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700696551', 'Clear Green Big Pack 4x10 Sachets', '@ @AiœsŒatVihreàbe. GREEN TEA CITRIB IngrédmÉ : Thé Et, alims de citron (0,5%), écorces de citon vert (0,5%), écorcB dtorange (05%), de Ingrediënten: Groene thee, aromals, citoenschilletjes (0,5%), limoenschilletjes (0,5%), sinaasappelschilletjes (0,5%), Zutaten: Grüntee, (0,5%), LinËttB)schalBV1 (0,5%), (0,5%), Gr*ruibchalerL @ Ingredieni: verde, ami, sw-ze di limre (05%), di (05%), smze di anncia (05%), swrze di @ Té ver& (0%), aranas, Piel limén (0,5%), Piel lima (0,5%), oiel de naranja (05%), Piel de Chi gra#ukbkal. de lama (0,5%), casca de toranja (05%). @ IngreÉx. Grôntw arom, citŒùal 0,5%, [ratel 0:5%3 , kuoret 0,5%, limen kuoret 05%, ap*iinin kuŒet05%, te, 0,5%, 0,5%, gra*gÉkaller.@ Ingredierx. Grmn te, aroma, 0,5K lirndallff 0,5%, 05%, 00 ELTrŒ11Kd: apqnruec b)cc, Q)todôa )qnvn\') (0,596), Q)a36a rrogt0Kaìnj (0,5%), GRE9\'l TEA ORIENT Ingrédienb : Thé vert, arôme, anis (0,8%), canelle (0,8%), réglisse.@@ Ingrediënten: Groene Olee, aroma, anijs (0,8%), kaneel (03%), z*out O Grüntee, Aroma, Anis (0,8%), (0,8%), SüBholz. @ Ingredienü: tè verde, aromi, anice (0.8%), cannella (0.8%), liquirizia.@Ingredientes: Té verde aromas, especias (2%) (anis, œnela, Ingredientes: CM verde, aroma, anis (0 8%), canela (0,8%), alcaçuz @ Ingredienser. Grôntte, arom, anis 0 8%, kanel 0,8%, lakrits. @ Ainesosat: Vihreâ tee, aromi, anis 0,8%, kaneli lakritsi. Ingredienser: Gron te, aroma, anis 0,8%, kanel 0,8%, lakrids. Ingrediener: Grann t, aroma, anis 0,8%, kanel 0,8%, lakris. EuccŒt1Kd.• npdavo radi, apogat1Kéc Kavaa GREN TF.A Ingrédienb : Thé ved, menfre arôme.@@ Ingrediënten: Groene free, munt (7,8%), aroma.@Zubten: Grüntee, Minze (78%), Aroma @ Ingredienü: Tè verde (84%), aromi, menta (7.8%).@Ingredientes: Té verde (84%), menu (7,8%), aroma@Ingredientes: Châ verde, 9 Ingredienser: Grônt te, mynb 7.8%, arom. @ Vihreâ tee, mn 7.8%, aromi.@Ingredienser.Gron te, mynte 7.&/0, aroma.@Ingredienser.Grannw nynte 736, aroma 00 npdatvo TOdl, gÉvra (7,8%), apugŒrlKÉcb)Œç', '', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
+VALUES ('3701176602032', 'Sardineta', '', 'https://static.openfoodfacts.org/images/products/370/117/660/2032/front_fr.4.400.jpg', '14', '5.7', '3.7', '2.1', '', '14', '0.81', '0.318897637795276', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700696599', 'Ice Tea Zéro Pétillant', '', 'https://static.openfoodfacts.org/images/products/872/270/069/6599/front_en.3.400.jpg', '', '0.1', '', '0.5', '0', '0.5', '0.12', '0.047244094488189', '', '1');
+VALUES ('3701176602346', 'Rillettes Sardines au celeri', '', 'https://static.openfoodfacts.org/images/products/370/117/660/2346/front_fr.4.400.jpg', '16', '8.1', '3.6', '2.3', '', '12', '0.94', '0.37007874015748', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700750116', 'Vegetable Cube', '', '', '0.6', '0.4', '0', '0', '', '0', '0.95', '0.374015748031496', '', '1');
+VALUES ('3701176602728', 'Le petit croisicais', '', 'https://static.openfoodfacts.org/images/products/370/117/660/2728/front_fr.4.400.jpg', '14', '5.4', '3.7', '0.5', '', '16', '0.49', '0.192913385826772', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700750161', 'Knorr 20S Beef Stock Cubes 222G', 'Salt, vegetable fats (palm, shea butter, sal butter), potato starch, sugar, beef extract (4%), yeast extract, flavourings, onion powder, caramel syrup, maltodextrin, parsley, carrots, spices (parsley roots, CELERY seeds).', '', '0.5', '0.3', '0.5', '0.5', '0.5', '0.5', '0.97', '0.381889763779528', '', '1');
+VALUES ('3701178300974', 'Haricots lingots', '', 'https://static.openfoodfacts.org/images/products/370/117/830/0974/front_fr.4.400.jpg', '1.8', '0.5', '13.2', '1', '', '6.7', '1.15', '0.452755905511811', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700750185', 'The chicken cube', 'salt, potato starch, vegetable fats (palm, shea butter, sal butter), yeast extract, sugar, chicken fat 2%, chicken 1%, spices (turmeric, pepper, _celery_ seeds), flavourings, onion powder, maltodextrin, lemon juice powder, parsley, caramel syrup, antioxydants (extract of rosemary)', 'https://static.openfoodfacts.org/images/products/872/270/075/0185/front.11.400.jpg', '0.5', '0.3', '0.6', '0.1', '0.1', '0.1', '0.899999999999999', '0.354330708661417', '', '1');
+VALUES ('3701178301315', 'Rôti de porc confit &quot;enchaud&quot;', '', 'https://static.openfoodfacts.org/images/products/370/117/830/1315/front_fr.4.400.jpg', '9.7', '3.7', '0.3', '0.2', '', '19.8', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700752677', 'Ice Tea Lipton Pessego 1.5LT+0.5 GRT', '', '', '0.5', '0.5', '4.7', '4.5', '', '0.5', '0.053', '0.0208661417322835', '', '1');
+VALUES ('3701178700026', 'Amandes californienne', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0026/front_fr.4.400.jpg', '55.8', '4.7', '6.9', '4.2', '', '21.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700752929', 'Ice Tea Lipton Limão', '', '', '0.5', '0.1', '4.6', '4.5', '', '0.5', '0.057', '0.0224409448818898', '', '1');
+VALUES ('3701178700033', 'Amandes sésame', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0033/front_fr.4.400.jpg', '38.4', '4.8', '39.4', '38.4', '', '14.2', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700752943', 'Ice Tea Lipton Manga 1.5LT+05 GRT', 'BQbida refrigerònte de extrato de cha com sumode manga. Contém açücares e edulcorante. fresco. Bebida sem gis. Ingredientes: Châ (âgua, extrato de (ha preto) açücares (açücart frutose), reguladores de acidez (àcido citricot citrato de sôdio), sumo de manga à base de concentrado (0,196), aromas, antioxidante (i(ido ascérbico), edulcorante (glicosideos de esteviol), Apôs abertura conservar no frigorifico e consumjr de no prazo de 3 dias. Proteger da luz Conservar em local seco e fresco. Consumir de preferência antes do fim de: ver ou garrafa. Custo de chamada local dias üteis, das 10h à5 17h', '', '0.5', '0.1', '4.6', '4.6', '4.5', '0.5', '0.04', '0.015748031496063', '', '1');
+VALUES ('3701178700071', 'Coco bonbon', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0071/front_fr.4.400.jpg', '14.8', '11.3', '53.9', '33.7', '', '3.8', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700766780', 'Calve\' Top Down Maionese Classica ML. 430', 'Maionese. Senza glutine. Ingredienti: olio di semi di girasole (70%), acqua, tuorlo d\'UOV0 pastorizzato (5%), aceto di vino, amido modificato di mais, sale, addensante (gomma di xanthan), succo di limone, aromi.', '', '68', '8', '0.6', '0.5', '', '0.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701178700088', 'Cranberries', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0088/front_fr.4.400.jpg', '1.4', '0.1', '82.4', '65', '', '0.1', '0.001', '0.000393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700769194', 'Knorr Bouillon Töpfli Gemüse', '', '', '0.5', '0.3', '0.5', '0.5', '0.5', '0.5', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701178700149', 'My dry food', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0149/front_fr.4.400.jpg', '0.903', '0.7', '66.7', '49.4', '', '3.47', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700769316', 'Bouillon Töpfli', '60% bouillon de boeuf concentré (eau, extrait de viande de bœuf, graisses de boeuf), sel comestible, légumes (carottes, poireau), extrait de levure, sucre, arômes (dont LAIT), huile de palme, gélifiants (gomme xanthan, farine de graines de caroube), sirop de caramel, persil, maltodextrine. Pasteurisé', '', '0.5', '0.2', '0.5', '0.5', '0.5', '0.5', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701178700170', 'Mydryfood', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700775003', 'Douceur de légumes à la crême fraîche', 'Eau, légumes: 39% (carotte, _céleri_, pomme de terre, oigon, brocoli, tomate, chou blanc, poireau, rutabaga), _beurre_, amidon, _crème_ fraîche: 0,9%, sel, sucre de canne, extrait de levure.', 'https://static.openfoodfacts.org/images/products/872/270/077/5003/front.10.400.jpg', '1.6', '1', '4.6', '1.5', '0.8', '1', '0.7', '0.275590551181102', '', '1');
+VALUES ('3701178700217', 'Noix de cajou grillées salées', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0217/front_fr.4.400.jpg', '49.1', '9.5', '31.8', '5.3', '', '19.8', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700775072', 'Légumes du potager moulinés Bio', 'Eau, légumes* : 42 % (pomme de terre*, carotte*, _céleri_*, oignon*, brocoli*, haricot vert*, brocoli*, poireau*), _crème_ fraîche*, amidon*, sel, extrait de levure. * Ingrédients issus de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/872/270/077/5072/front.16.400.jpg', '1', '0.6', '3.7', '0.9', '1', '1', '0.72', '0.283464566929134', '', '1');
+VALUES ('3701178700224', 'Papaye bonbon', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0224/front_fr.4.400.jpg', '0', '0', '85.5', '71', '', '0.5', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700778288', 'Salat Krönung (Trockenprodukt!), Würzige Gartenkrä...', 'Zubereitung für klares Krauterdressing Zutaten: Maltodextrin, jodiertes Meersalz, Zucker, 8% Krauter (Petersilie, Schnittlauch), SâureregulatorNatriumdiacetat, Sâuerungsmittel Citronensâure, Gewürze (SENFSAMEN, Pfeffer, Knoblauch, Curcuma), Stàrke, MILCHZUCKER, Palmôl, Zwiebeln, Hefeextrakt, Zitronensaftpulver, Speisesalz Kann Spuren von Gluten, Ei und Sellerie enthalten.', '', '46', '6.9', '6.2', '2.5', '0.5', '0.5', '2.3', '0.905511811023622', '', '0');
+VALUES ('3701178700231', 'Pêche bonbon', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0231/front_fr.4.400.jpg', '0', '0', '65', '51', '', '1.5', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700778301', 'Italien', '', '', '46', '6.9', '6.6', '3.5', '', '0.5', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701178700286', 'Bonbons Pommes sèches9', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0286/front_fr.4.400.jpg', '0', '0', '65', '51', '', '1.5', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700779353', 'Velouté de potiron aux châtaignes et girolles', 'Légumes (potiron 34 % carotte oignon), fécule de pomme de terre, graisse de palme, châtaigne : 7.7 %, sel, sucre, sirop de glucose, protéines végétales hydrolysées, girolle 1.9 %, protéines de LAIT, amidon, épices et aromates: 0.5 % (ail, noix de muscade, curcuma) extrait de levure, maltodextrine, jus de citron, arômes.', '', '1.5', '0.8', '4.6', '2.1', '0.5', '0.8', '0.7', '0.275590551181102', '', '1');
+VALUES ('3701178700316', 'raisinq sec chili noir', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0316/front_fr.4.400.jpg', '0.5', '0', '66.4', '59.2', '', '2.99', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700780250', 'Soupe Légumes du potager moulinés', 'eau, légumes 42 % (pomme de terre, caroot, céleri, oignon, brocoli, haricot vert, poireau), crème fraîche, sel, amidon, extrait de levure.', 'https://static.openfoodfacts.org/images/products/872/270/078/0250/front.14.400.jpg', '1', '0.6', '5', '0.9', '0.8', '1.5', '0.7366', '0.29', '', '1');
+VALUES ('3701178700385', 'Figue lerida', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0385/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700781059', 'Soupe Forestière aux cèpes', '', 'https://static.openfoodfacts.org/images/products/872/270/078/1059/front.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701178700804', 'Amandes caramelisees sesame', '', 'https://static.openfoodfacts.org/images/products/370/117/870/0804/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700781479', 'Lipton pessego', '', 'https://static.openfoodfacts.org/images/products/872/270/078/1479/front.3.400.jpg', '0.5', '0.5', '4.7', '4.5', '0', '0.5', '0.053', '0.0208661417322835', '', '1');
+VALUES ('3701178701214', 'Amande US Californienne', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1214/front_fr.4.400.jpg', '53.4', '4.19', '7.85', '4.4', '', '21.1', '4', '1.5748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700804628', 'The Lipton Yellow 30S.-60G', 'Thé noir', '', '0', '0', '0', '0', '0', '0.4', '0', '0', '', '1');
+VALUES ('3701178701276', 'gingembre bonbon', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1276/front_fr.4.400.jpg', '1.7', '0.4', '82.5', '53.5', '', '3.7', '87', '34.251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700808978', 'Douceur de légumes du soleil avec une pointe d\'origan', 'eau, légumes : 36% (tomate: 13%, aubergine : 10%, pomme de terre, oignon), crème fraîche, fromage fondu (fromages, lait écrémé, eau, beurre, protéines de lait, sel), amidon modifié, sel, sucre, huile d\'olive vierge extra, épices et aromates (ail, curcuma, poivre, thym, origan), beurre', 'https://static.openfoodfacts.org/images/products/872/270/080/8978/front.6.400.jpg', '2.5', '1.1', '4.4', '2', '0.6', '1', '0.67', '0.263779527559055', '', '1');
+VALUES ('3701178701283', 'Baies de goji', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1283/front_fr.4.400.jpg', '0.4', '0', '64.1', '45.6', '', '14.3', '0.745', '0.293307086614173', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700809784', 'Douceur de légumes à la crème fraîche', '', 'https://static.openfoodfacts.org/images/products/872/270/080/9784/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701178701290', 'Fruits secs', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1290/front_fr.4.400.jpg', '27.5', '3.07', '37.2', '30.4', '', '12.8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700809906', 'Crème de légumes déshydratée', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701178701320', 'Muesli 3 noix', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1320/front_fr.4.400.jpg', '10', '3', '63', '22', '', '9', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700810155', 'Douceur à l\'italienne tomates, mozzarella et pointe de balsamique', 'Légumes : 57 % (tomate : 54 %, oignon), eau, _crème_ fraîche, amidon modifié, sucre, mozzarella : 1,2 % (_fromage_), huile de tournesol, huile d\'olive vierge extra : 1,1%, _beurre_, sel, lactosérum (_lait_), vinaigre : dont vinaigre balsamique (vinaigre de vin, moût de raisin), épices et aromates (ail, basilic, poivre), _fromage_, _lait_ en poudre écrémé, maltodextrine, acidifiant : acide lactique.', 'https://static.openfoodfacts.org/images/products/872/270/081/0155/front.6.400.jpg', '4.8', '1.8', '6.4', '4.4', '0.5', '1.2', '0.77', '0.303149606299213', '', '1');
+VALUES ('3701178701337', 'Muesli 4 baies', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1337/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700817864', 'Vinaigre Balsamique Blanc Aromatisé Pistache', '', '', '0', '0', '24', '24', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701178701467', 'Safari mix', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1467/front_fr.4.400.jpg', '45.3', '5.6', '12.9', '4.5', '', '17.1', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700821762', 'Douceur Potiron', 'Légumes issus de l\'agriculture durable 49% (potiron 24,5%, carotte 16%, oignon 4%, pomme de terre 4%, tomate 0,5%), eau, _crème_ 1,6%, _beurre_, sel, sucre, extrait de levure, arôme (dont _lait_).', '', '1.9', '1.2', '3.9', '2.2', '0.9', '0.7', '0.73', '0.28740157480315', '', '1');
+VALUES ('3701178701498', 'Pignon de pin', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1498/front_fr.4.400.jpg', '58', '3.95', '17', '6.1', '', '19', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700824947', 'Cremefine 15% Wie Creme Fraiche', '0,02 0 Referen?llàenge fur einen durchschnittlichen (8400 kJ / 2000 kcal); ln hait ergibt 20 portionen, BUTTERMILCHI Ole und Fette (Rops, Pa Im l), modifizierte stabilisatoren (Methylcellulose, xanthan)/ (Corotine). laus zertifiziert nachhaltigenlltîglbeaito Www.unilever.de(.at,', '', '15', '5', '4', '2.5', '', '2', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701178701504', 'Raisin sec blond', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1504/front_fr.4.400.jpg', '0.5', '0.12', '79.2', '62.2', '', '3.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700830085', 'Soupe Forestière velouter', '', 'https://static.openfoodfacts.org/images/products/872/270/083/0085/front.3.400.jpg', '3', '1.5', '4.2', '0.6', '', '0.9', '0.67', '0.263779527559055', '', '1');
+VALUES ('3701178701641', 'Amandes fruites aux herbes', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1641/front_fr.4.400.jpg', '55.9', '4.42', '10.3', '2.8', '', '23.2', '0.87', '0.34251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700847793', 'Thé vanille caramel', 'thé, arôme (18 %), éclats caramélisés, (5,7 %) (caramel, amidon, sucre), morceaux de pousses de vanille (0,4 %)', 'https://static.openfoodfacts.org/images/products/872/270/084/7793/front.7.400.jpg', '0', '0', '0.5', '0.5', '0', '0.5', '0', '0', '', '1');
+VALUES ('3701178701726', 'Amande us Californienne', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1726/front_fr.4.400.jpg', '54.4', '5.19', '8.85', '5.4', '', '22.1', '0.005', '0.00196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700919193', 'Hellmanns Majonez Orginal', 'HELLMANNS Mayonnaise original 2251 ) de eau, d\'OEUF(OEUFS Sicre, moutarde (eau, GRAINES DE MOUTARDE, vinaigre, sel, épices, sel, (nidon modifié, arôme, antioxydant( EDTA calcio•disodique), color(lt Oeufs de poules élevées au sol. dan un endroit sec, frais et à l\'abri de la lumière, après Distribué par Unilever Polska Sp.z 0.0.. énergie Valeurs nutritionnelles pour 100m 1/1 portion **/%* en portion grasses 65g/10g/14% dont acides gras monoinsaturés 39g/6g, polyinsaturés 20 g/3g ,glucides dont 1,0%, 15/3%, 3 (ALA) 5,1g nutritionnels conseillés pour un adulte(8400kJ/2000kd)• ml. Pot contient 15 portions. ALA•acide alpha•lipoique préférence avallt la date indiquée.', '', '65', '6', '4.5', '4', '', '0.8', '1', '0.393700787401575', '', '0');
+VALUES ('3701178701849', 'Figue baglama', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1849/front_fr.4.400.jpg', '50.4', '48.1', '1.41', '0.28', '', '3.37', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722700919254', 'tatarská omáčka', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701178701955', 'Gingembre Bonbon', '', 'https://static.openfoodfacts.org/images/products/370/117/870/1955/front_fr.4.400.jpg', '1.7', '0.4', '82.5', '53.5', '', '3.7', '0.067', '0.0263779527559055', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722703929939', 'Sucre Vanillé', '', '', '0.5', '0.1', '99', '94', '', '0.5', '', '', '', '0');
+VALUES ('3701178702013', 'Raisin sec noir', '', 'https://static.openfoodfacts.org/images/products/370/117/870/2013/front_fr.4.400.jpg', '0.5', '0.12', '79.2', '62.2', '', '3.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722710112713', 'Sauce barbecue', 'eau, sucre, vinaigre,purée de tomates mi-concentré,mélasse, amidon modifié,sel, arômes (dont arôme de fumée)sauce Worcestershire (eau, sirop de glucose, vinaigre de malt,(orge),sucre, sel, arômes, épices, pâte d\'anchois (anchois,sel,eau, huile d\'olive,vinaigre) jus concentré de citron,huile de tournesol)huile de tournesol, épices, farine de moutarde,épaississant : gomme de xanthane,conservateur:acide sorbique', 'https://static.openfoodfacts.org/images/products/872/271/011/2713/front.3.400.jpg', '0.6', '0.1', '29', '26', '', '0.8', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701178702082', 'Melange japonais', '', 'https://static.openfoodfacts.org/images/products/370/117/870/2082/front_fr.4.400.jpg', '20.2', '4.5', '56.6', '20', '', '11.2', '0.854', '0.336220472440945', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8722755056904', 'Sauce Hollandaise aux fines herbes', 'Fécule de pomme de terre, graisse de palme, jaune d\'OEUF : 16 %, amidon, lactosérum (LAIT), sel, lactose (LAIT), maltodextrine, protéines végétales hydrolysées, sucre, fines herbes : 2,9 % (aneth : 1,1 %, cerfeuil : 0,7 %, ciboulette : 0,7 %, persil), protéines de LAIT, farine de BLÉ, extrait de levure, jus de légumes concentrés (CÉLERI, carotte, poireau, oignon), chlorure de potassium, acidifiant : acide citrique, épice et aromate (ail, curcuma), arômes.', '', '35', '21', '6', '2.2', '0.5', '1.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701178702150', 'Mix apéro\'hot', '', 'https://static.openfoodfacts.org/images/products/370/117/870/2150/front_fr.4.400.jpg', '20.2', '4.5', '56.6', '20', '', '11.2', '0.855', '0.336614173228346', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400756552', 'Rainbow', 'Sucre, sirop de glucose, jus de fruits (pastèque, fraise, pomme, orange, framboise, pamplemousse, myrtille) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, arômes, maltodextrine, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (curcumine, carmins, anthocyanes, caroténoïdes, rouge de betterave).', 'https://static.openfoodfacts.org/images/products/872/340/075/6552/front.6.400.jpg', '1.9', '1.9', '92', '60', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701178702235', 'Amande chocolat beurre salé', '', 'https://static.openfoodfacts.org/images/products/370/117/870/2235/front_fr.4.400.jpg', '38.2', '15.6', '41.2', '38.1', '', '11.3', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400757733', 'Ademin suikervrij test with product_name_nl', 'zoetstoffen (maltitolstroop, steviolglycosiden), geleermiddel 31% (arabische gom), gemodificeerd zetmeel, salmiakzout, plantaardige oliën (kokos, palmpit), zoethoutwortelextract, aroma\'s, glansmiddel (bijenwas)', '', '0', '0', '58', '0', '', '0.6', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701178702440', 'Gingembre Lamelle', '', 'https://static.openfoodfacts.org/images/products/370/117/870/2440/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400758334', 'Mint Chewy 100 Dragees', '', '', '1.9', '1.9', '93', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701178702495', 'Chips de legumes', '', 'https://static.openfoodfacts.org/images/products/370/117/870/2495/front_fr.4.400.jpg', '13.3', '6.1', '33.8', '14.3', '', '5.3', '0.72', '0.283464566929134', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400758358', 'Mentos Fruits', 'sucre, sirop de glucose, jus de fruits (fraise, orange, citron) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, arômes, maltodextrine, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (caroténoïdes, rouge de betterave).', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300021', 'Whey protéine bio saveur Nature', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0021/front_fr.4.400.jpg', '5', '3.3', '3.5', '3.5', '', '77', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400758808', 'Mentos', 'Bonbons aromatisés menthe. Ingrédients: sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, fécule, arômes naturels de menthe, maltodextrine, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille).', '', '1.9', '1.9', '93', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300038', 'Whey proteine bio saveur nature', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0038/front_fr.8.400.jpg', '5', '3.3', '3.5', '3.5', '', '77', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400758822', 'Mentos fruits', 'Sucre, sirop de glucose, jus de fruits (fraise, orange, citron) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, arômes, maltodextrine, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (bêta-carotène, rouge de betterave).', 'https://static.openfoodfacts.org/images/products/872/340/075/8822/front.5.400.jpg', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300045', 'Whey proteine', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0045/front_fr.7.400.jpg', '5.6', '3.7', '5', '3.2', '', '72', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400760351', 'Chupa Chups Babo Tuttifrutti', 'Zucker, Kaumasse, Glukosesirup, Stabilisator: Glycerin, Aroma, Emulgator: Sojalecithin, Farbstoff: Echtes Karmin, Antioxidationsmittel: (E320); Sucre, chewing-gum, sirop de glucose, stabilisant: glycérine, arôme, émulsifiant: lécithine de soja, colorant: véritable carmin, antioxydant: (E320);', '', '1', '1', '1', '1', '', '1', '3', '1.18110236220472', '', '0');
+VALUES ('3701182300052', 'Whey Protéine Bio', 'lactosérum• en poudre bio (9096), cacao mtaigre Bio et', 'https://static.openfoodfacts.org/images/products/370/118/230/0052/front_fr.4.400.jpg', '5.6', '3.7', '5', '3.2', '', '72', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400762652', 'Mentos Duo', 'sucre, sir opde glucose, jus de fruits (fraise, citron vert) 2%, huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, maltodextrine, arômes, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (curcumine, rouge de betterave).', 'https://static.openfoodfacts.org/images/products/872/340/076/2652/front.6.400.jpg', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300069', 'Whey proteine bio', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0069/front_fr.4.400.jpg', '5.6', '3.7', '5', '3.2', '', '72', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400766506', '3 Sticks Strawberry', 'Sirop de glucose, sucre, huile de noix de coco totalement hydrogénée, jus de fraise (7 %), acidifiant (acide citrique), gélatine, humectant (glycérol), arôme naturel, concentrés (carotte, violette, baie de sureau), gélifiant (gomme arabique), dextrose.', 'https://static.openfoodfacts.org/images/products/872/340/076/6506/front.9.400.jpg', '6.8', '6.8', '83', '55', '', '0.8', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701182300076', 'Whey proteine Bio', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0076/front_fr.4.400.jpg', '4.9', '3.2', '6.2', '3.6', '', '75', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400766520', 'Fruit-tella Garden Fruits 3PK', 'sirop de glucose, sucre, huile de noix de coco totalement hydrogénée, jus de fruits (pomme, mûre, framboise, poire) (3%), acidifiant (acide citrique), gélatine, humectant (glycérol), concentrés (carotte violette, baie de sureau, carotte, potiron, spirulina), arômes naturels, gélifiant (gomme arabique), dextrine.', '', '6.8', '6.8', '83', '54', '', '0.8', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701182300083', 'Whey proteine bio', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0083/front_fr.4.400.jpg', '4.9', '3.2', '6.2', '3.6', '', '75', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400768869', 'Fruits Acidulés', 'Sucre, sirop de glucose, acidifiants (acide citrique, acide tartrique), jus de fruits (fraise, pomme, citron vert, cerise) (2%), huile de noix de coco totalement hydrogénée, fécule, maltodextrine, arômes, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage cire de carnauba, cire d\'abeille), colorants (carmins, curcumine, anthocyanes, extrait de paprika)', 'https://static.openfoodfacts.org/images/products/872/340/076/8869/front.5.400.jpg', '1.8', '1.8', '91', '68', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300090', 'Whey protéine bio vanille', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0090/front_fr.8.400.jpg', '4.9', '3.2', '6.2', '3.6', '', '75', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400769286', 'Mentos strawberry mix', 'sucre, sirop de glucose, jus de fraise (2%), huile de noix de coco totalement hydrogénée, acidifiants (acide citrique, acide tartrique), fécule, arômes, maltodextrine, agents épaississants (gomme gellane, gomme de gomme arabique), émulsifiant (sucroesters diacides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (carmins, rouge de betterave, extrait de paprika).', '', '1.9', '1.9', '92', '69', '0', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300106', 'WHEY PROTEINE BIO', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0106/front_fr.4.400.jpg', '4.6', '3', '5.7', '3.6', '', '71', '0.59', '0.232283464566929', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400769774', 'Fruitella Summer Fruit', 'sirop de glucose, sucre, huile de noix de coco totalement hydrogénée, jus de fruib (fraise, orange, citron) (ï%),- acidifiant (acide citrique), gélatine, humectant (glycérol), concentrés (carotte, carotte violette, baie de sureau), arômes naturels _gélifiant (gomme arabive), dextrine,', '', '6.8', '6.8', '83', '54', '0', '0.8', '0.0299999999999999', '0.0118110236220472', '', '0');
+VALUES ('3701182300120', 'Whey Proteine Bio Banane', 'SEULEMENT : protéines de en poudre bio (92%), arôme banane* (8%). Ingrédients issus de l\'agriculture biologique. Fait à partir de petit lait de vache bio. Alter Nutrition élabore, prépare _„nfectionne en France', 'https://static.openfoodfacts.org/images/products/370/118/230/0120/front_fr.4.400.jpg', '4.6', '3', '5.7', '3.6', '', '71', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400769941', 'Drop fruit ', '', 'https://static.openfoodfacts.org/images/products/872/340/076/9941/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701182300182', 'Protéines de chanvre', 'SEULEMENT 1 INGRÉDIENT : Protéines de chanvre en poudre Bio*', 'https://static.openfoodfacts.org/images/products/370/118/230/0182/front_fr.4.400.jpg', '11', '1.4', '8.8', '4.2', '18', '45', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400772163', 'FruitTella', '', '', '6.8', '6.8', '83', '54', '', '0.8', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701182300199', 'Proteine de chanvre bio nature', 'protéines de chanvre bio*. ingrédients issus de l\'agriculture Biologique Fabriqué dans un atelier manipulant des produits à base de lait Acides aminés . V', '', '16.6', '1.7', '21.3', '2.7', '32.5', '44.8', '0.12', '0.047244094488189', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400772637', 'Mentos aux fruits', '', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300205', 'Graines de chanvre', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0205/front_fr.4.400.jpg', '47.4', '4.8', '8', '1', '', '31.3', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400772996', 'FRUIT PARTY', '', '', '6.8', '6.8', '83', '54', '', '0.8', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701182300236', 'Supermix pois-riz bio nature', 'IMPORTANT : Ce produit n\'a pas vocation à se substituer à une alimentation varie et équilibrée ainsi qu\'à un mode de vie sain. Ne pas consommer en cas dfinsufisan(\'l/l rénales ou hépatiques ZAC de La Nau 19240 Saint-Viance o î alter-nutritioncom', 'https://static.openfoodfacts.org/images/products/370/118/230/0236/front_fr.4.400.jpg', '1.8', '0.4', '0.1', '0', '', '82.7', '1.47', '0.578740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773733', 'Mentos Fruit 8x14er Jumbo-rolle', 'fat / Fett / matières grasses / grasas / fedt / rasva / fett / AITTapd / grassi las cui: - saturates / gesàttigte Fettsàurén / acides gras saturés / saturadas / mattede fedtsyrer / tyydyttynytü / Éuv màttat fett I Kop€ouéva / acidi grassi saturi succodi catbohydrate I Kohlenhydrate/ glucides / hidratos de carbono / kulhydrat / hiilihydraatit / kolhydrat/ Ybaxdvepaxes/çarboidrati\' doN./delo onofwv:/di cui: -sugarSJZucker Isukres / ai6careStSukkerarter / sokerit/ sockerarter/odxxapa/zuccheri protein/ I protéines} Ìsale iotein/ proteiini / protein / rrpurçîvEÇ / proteine A\\ndestens sa\\t t I seWsa\\ salttsuola I', '', '1.9', '1.9', '92', '69', '', '0.1', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300342', 'Pocket\'barre', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0342/front_fr.4.400.jpg', '18', '6', '38', '19', '', '22', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773771', 'Mentos Mint', '', '', '1.9', '1.9', '93', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300359', 'pocket\'barre', 'Pâte d\'amandes* au sirop d\'agave 27,8% (poudre d\'amandes15,3%, sirop d\'agave 12,5% ), protéines de tournesol*, sirop d\'agave*, protéines tournesol extrudées*, _noix*_ 9,4%, purée de noisettes* 7,4%, graines de chanvre 3,8%, _noisettes*_ 3,5%.', 'https://static.openfoodfacts.org/images/products/370/118/230/0359/front_fr.4.400.jpg', '29', '2.7', '21', '16', '10', '23', '0.07', '0.0275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773818', 'Mentos Cola Jumbo Rolle 8er', 'sucre, sirop de glucose, huile de noix de coco totalement hydrogenee, acidifiant (acide citrique), fécule, maltodextrine, arôme, colorant (caramel ordinaire), agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille)', '', '1.9', '1.9', '92', '69', '0', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701182300380', 'Whey protéine bio', '', 'https://static.openfoodfacts.org/images/products/370/118/230/0380/front_fr.14.400.jpg', '5.6', '3.7', '5', '3.2', '', '72', '0.47', '0.18503937007874', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773856', 'Mentos Strawberry Jumbo Rolle 8er', 'FR -Bonbons parfum fraise. Ingrédients: sucre, sirop de glucose, jus de fraise (2%), huile de noixde coco totalement hydrogénée, acidifiant (acide citrique), fécule, arôme, maltodextrine, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d’abeille), colorant (rouge de betterave)', '', '1.9', '1.9', '92', '68', '0', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701184000141', 'Purée artisanale de yuzu de Kôchi', '', 'https://static.openfoodfacts.org/images/products/370/118/400/0141/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773894', 'Mentos Berry Mix Jumbo Rolle 8er', 'sucre, sirop de glucose, jus de fruits (cassis, framboise, de citrique), colorants (anthocyanes, carmins, épaississants (gomme gellane,gommede cellulose,gomme arabique), émulsifiant (sucroesters', '', '1.9', '1.8', '92', '69', '0', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701184000165', 'Purée artisanale de yuzu', '', 'https://static.openfoodfacts.org/images/products/370/118/400/0165/front_fr.4.400.jpg', '0.5', '0.1', '39', '35', '', '0.01', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773917', 'Mentos Tutti Frutti Jumbo Rolle 8er', '', '', '1.9', '1.9', '92', '69', '0', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701184001698', 'Poudre de thé matcha', '', 'https://static.openfoodfacts.org/images/products/370/118/400/1698/front_fr.4.400.jpg', '4.5', '0.7', '57', '7.8', '', '29', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400773979', 'Mentos Watermelon Mango Orange Jumbo Rolle 8er', 'sat:soken; nAqpopopieçavd gnpoïévroç/lnformazioni nutrizionali per 100g 9appoJen energy/Energie/énergie/valor energético / energi / energia / energi / EVÉPYEla / energia ) ape/sin, fat/Fett/matières grasses / grasas / fedt / rasva / fett / AITTapé / grassi (âmnen / de las cuales:/ heraf: /josta: / varav: / EK uv onoiuv: / di cui: Ç gÉoo - saturates / gesâttigte Fettsâuren / acides gras saturés / saturadas / mattede fedtsyrer / tyydyttynytü / UTIKÉç mâttat fett / Kopwgéva / acidi grassi saturi Jenato, carbohydrate / Kohlenhydrate / glucides / hidratos de carbono / kulhydrat / hiilihydraatit / kolhydrat / aprica, Y6aTdvepaKEÇ / carboidrati of which: I davon: I dont/ de los cuales: / heraf:/josta: / varav: / EK T(.ov OTTOiwv: / di cui: BòTerM - sugars I Zucker I sucres I azücares / sukkerarterÏSokerit / sockerarter / odqapa /zuccheri ITypeoT protelnlEiweiBl protéines/ proteinas/protein/proteiini]protein/rrpwrûv« / proteine sel I sal I sait/ suo\\a / sait/ / sale', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701184401108', 'Raisin muscat', '', 'https://static.openfoodfacts.org/images/products/370/118/440/1108/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400774471', 'Mentos Popins Fruit 170G', 'Zutate 1.• Zucker, Glukosesirup, Kokosôl (ganz gehârtet), Suerungsmittel Spiru%nakonzentrat, Oberzugsmittel (Bienenwachs, Schellack, Carnaubawachs), Emulgatot $ Verdckungsmittel (Gellan), Farbstoffe (Kurkumin, Beta-Carotin, Echtes Karmin). FRU)SMAKEN (APPEL, BOSBES, CNROEN, SINAASAPPEL EN AARDBEI). arwubawas), emulgator (sucrose-esters van vetzuren), verdikkingsmiddel \\glucose, huile de hydrogénée, acidifiant MED (curcumine, carotérüd$, carmins). SORTERADE TUGGBARA PASIILLER Ingredierser. socker, glukossirap, fullhârdad kokosolja\'', '', '3.4', '3.4', '89', '69', '', '0', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701185700361', 'Poudre de Ginkgo Biloba', '', 'https://static.openfoodfacts.org/images/products/370/118/570/0361/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400774495', 'Mentos Pop\'ins', 'sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, acidifiants (acide citrique, acide malique), correcteur d\'acidité (malates de sodium), humectant (glycérol), fécule, concentré-couleur de spiruline, arômes, agents d\'enrobage (cire d\'abeille, shellac, cire de carnauba), émulsifiant (sucroesters d\'acides gras), épaississant (gomme gellane), colorants (curcumine, carmins, caroténoïdes).', '', '3.4', '3.4', '88', '68', '', '0', '0.2', '0.078740157480315', '', '0');
+VALUES ('3701190001538', 'Cerise', '', 'https://static.openfoodfacts.org/images/products/370/119/000/1538/front_fr.4.400.jpg', '8', '8', '8', '8', '', '8', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400774501', 'Mentos Popins Fruit 50G', 'sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), humectant (glycérol), fécule, arômes, concentré-couleur de spiruline, agents d\'enrobage (cire d\'abeille, shellac, cire de carnauba), émulsifiant (sucroesters d\'acides gras), épaississant (gomme gellane), colorants (curcumine, caroténoïdes, carmins).', '', '3.4', '3.4', '89', '69', '0', '0', '0.0299999999999999', '0.0118110236220472', '', '0');
+VALUES ('3701192500084', 'Pizza napolitaine 4 fromages', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0084/front_fr.4.400.jpg', '8.8', '5', '29', '2.1', '', '8.8', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400774624', 'Chupa Chups Airheads Fruit Bites', '', '', '', '3.4', '', '89', '0.1', '0.1', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701192500091', 'Calzone jambon et mozzarella', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0091/front_fr.4.400.jpg', '7.3', '4.7', '28', '2.2', '', '8.6', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400774655', 'Mentos Popins Fruit', '', '', '3.4', '3.4', '89', '69', '', '0', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701192500107', 'Pizza napolitaine caprese', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0107/front_fr.4.400.jpg', '5.7', '0.2', '28', '1.8', '', '7.9', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400774679', 'Mentos Pop Ins', 'sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, acidifiants (acide citrique, acide malique), correcteur d\'acidité (malates de sodium), humectant (glycérol), fécule, concentré-couleur de spiruline, arômes, agents d\'enrobage (cire d\'abeille, shellac, cire de carnauba), émulsifiant (sucroesters d\'acides gras), épaississant (gomme gellane), colorants (curcumine, carmins, caroténoïdes)', '', '3.4', '3.4', '88', '68', '', '0', '0.2', '0.078740157480315', '', '0');
+VALUES ('3701192500114', 'Pizza napolitaine diavola', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0114/front_fr.4.400.jpg', '9.2', '5.8', '30', '2.4', '', '8.8', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400775249', 'Mini mentos - Fruit Mix', '', '', '1.7', '1.7', '92', '71', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701192500213', 'Risotto aux crevettes', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0213/front_fr.4.400.jpg', '1.2', '0.03', '76.4', '0.5', '', '8', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400776291', 'Mentos Mint 3-pack', '', '', '1.9', '1.9', '93', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701192500329', 'Sauce aux artichauts', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0329/front_fr.4.400.jpg', '11', '1.3', '1.8', '1', '', '2.6', '0.69', '0.271653543307087', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400776314', 'Fruit', '', '', '2', '2', '92', '69', '', '0', '', '', '', '0');
+VALUES ('3701192500336', 'Poivrons grillés', '', '', '8.01', '0.85', '7.72', '6.2', '', '1.98', '0.48', '0.188976377952756', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400776338', 'Mentos Rainbow 3 Pack', '', '', '1.9', '1.9', '92', '69', '', '0', '1', '0.393700787401575', '', '0');
+VALUES ('3701192500343', 'Risotto aux cèpes', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0343/front_fr.4.400.jpg', '10', '0.05', '77.7', '0.7', '', '7.7', '19', '7.48031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400777540', 'Zakgeld zoet & zout', 'suiker, gemodificeerd zetmeel, glucosestroop (bevat _sulfiet_), gelatine (bevat _sulfiet_), water, zoethoutwortelextract, rietsuikermelasse, salmiakzout, _tarwebloem_, zetmeel, geleermiddel (arabische gom), kokosolie, kleurstof (plantaardige koolstof), natuurlijke aroma\'s, glansmiddel (bijenwas)', '', '0.5', '0.5', '75', '46', '', '7.9', '0.34', '0.133858267716535', '', '0');
+VALUES ('3701192500350', 'Préparation pour risotto aux asperges vertes', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0350/front_fr.4.400.jpg', '1.1', '0.03', '77.3', '1', '', '7.4', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400777564', 'Klene', '', '', '0.2', '0.2', '75', '47', '', '5.3', '0.21', '0.0826771653543307', '', '0');
+VALUES ('3701192500374', 'Pizza napolitaine', '', 'https://static.openfoodfacts.org/images/products/370/119/250/0374/front_fr.4.400.jpg', '7.7', '5.1', '27', '3.3', '', '7.9', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400778615', 'Fruitella Fruitymix 370 Gram', '', '', '6.8', '6.8', '83', '54', '', '0.8', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701192500411', 'Pizza straciatella', 'Farine de FROMENT (GLUTEN), eau, mozzarella 16,2 % (LAIT, sel, présure animale), stracciatella 11,7% [ mozzarella (LAIT, sel, présure animale), crème (LAIT)], fleurs de courgette 8,6%, crème au gorgonzola A.O.P. 6,9% [gorgonzola 2 ,8 % ( LAIT , sel , présure animale), eau, crème (LAIT) huile d\'olive vierge extra], huile d\'olive vierge extra, huile de tournesol, sel, levure naturelle [farine de FROMENT (GLUTEN), levure, enzymes, antioxydant: acide ascorbique]', 'https://static.openfoodfacts.org/images/products/370/119/250/0411/front_fr.4.400.jpg', '11', '4.5', '27', '3.1', '2.9', '11', '0.85', '0.334645669291339', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400778899', 'Heads fruit', '', '', '', '3.6', '', '68', '0', '0', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701198100561', 'Veggie bun 350g', '', 'https://static.openfoodfacts.org/images/products/370/119/810/0561/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400778912', 'Fruitella Sugar Free Strawberry', 'glucosesyrup, sugar, inulin, humectants (sorbitol glyceroD, strawberry juice from concentrate (696), fully hydrogenated coconut oil, gelatine, starch, acid (citricacid), maltodextrin, naturalflavouring,gellin agent(gum elderberry), emulsifier (sucrose esters of fatty acids), dextrine', '', '5.6', '5.6', '70', '37', '', '1.5', '0.03', '0.0118110236220472', '', '0');
+VALUES ('3701198101131', 'BO BUN XL 500G', '', 'https://static.openfoodfacts.org/images/products/370/119/810/1131/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400778950', 'Fruit-tella Sugar Free Fruit Foams 80G', '', '', '0', '0', '85', '0', '', '5.4', '0.08', '0.031496062992126', '', '1');
+VALUES ('3701198800362', 'Friture de chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0362/front_fr.4.400.jpg', '37', '23', '52', '52', '', '6.4', '0.19', '0.0748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400778974', 'Fruit-tella Fruit Gums 90G', '', '', '73', '0.2', '0.2', '0', '', '8.2', '0.02', '0.0078740157480315', '', '0');
+VALUES ('3701198800409', 'Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0409/front_fr.24.400.jpg', '43.2', '26', '29.1', '25.6', '', '8', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400779254', 'Mentos Mint 4PK 152G', 'sugar, glucose syrup, fully hydrogenated coconut oil, starch, natural mint flavourings, maltodextrin, thickeners (gellan gum, cellulos gurr, gum arabic) eF\'Mlsifier (sucrose esters of fatty acids) glazing agents (Carnuba wax, sv bee wax). FR\' Bonbons aromatisés à ta menthe à la menthe. Ingrédients: sucre, sirop de glucose, ht.-illelg thickeners (oc]an gum, cellui de coco hydrogénée, amidon, arômes de menthe naturelle, maltodextrinìq*.+ fattyaci%), glazjng agents (c (gomme de gellane, gomme de cellulose, gomme arabique) émulsifiant (estery de des acides gras) agent de vitrage (cire de carnauba, cire d\'abeille).', '', '1.9', '1.9', '93', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800423', 'Tablette chocolat noir', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0423/front_fr.18.400.jpg', '43.2', '26', '29.1', '25.6', '', '8', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400779292', 'Mentos Fruit 4PK', 'sucre, sirop de glucose, jus de fruits de concentré (fraise, orange, citron) (2%), huile de coco entièrement hydrogénée, acide (acide citrique), amidon, arômes, maltodextrine, épaississants (gomme gellane, gomme de cellulose, ! gomme arabique) Émulsifiant (esters de saccharose d\'acides gras), agents de vitrification (cire carnuba, cire d\'abeille), colorants (bêta-carotène, betterave rouge).', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800430', 'Noir 71% cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0430/front_fr.4.400.jpg', '43.2', '26', '29.1', '25.6', '', '8', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400779315', 'Bonbons', '', '', '1.9', '1.9', '90', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800447', 'Noir et éclats de noisettes', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0447/front_fr.4.400.jpg', '45.2', '23.8', '27.3', '23.5', '', '8.7', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400779711', 'Mentos (Say Hello)', 'sucre, sirop de glucose, jus de fruits (orange, framboise) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, arômes, maltodextrine, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (carmins, bêta-carotène).', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800461', 'Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0461/front_fr.19.400.jpg', '45.2', '23.8', '27.3', '23.5', '', '8.7', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400779940', 'Klene Honing Bijtjes Suikervrij Réglisse au miel sans sucres', '', '', '0', '0', '61', '0', '', '1', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701198800485', 'Chocolat lait tendre 41% cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0485/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400780083', 'Klene Ademin Suikervrij Stazak', '', '', '0', '0', '59', '53', '', '0.6', '0.11', '0.0433070866141732', '', '0');
+VALUES ('3701198800508', 'Lait tendre 41% cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0508/front_fr.4.400.jpg', '40', '27', '47', '38', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400780328', 'Mentos Bonbons tendres Air eucalyptus menthol les 4 rouleaux de 37,5 g', 'sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, arômes naturels de menthe et eucalyptus, extrait de réglisse, fécule, maltodextrine, épaisissants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille).', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800515', 'Lait, caramel et sel de Guérande', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0515/front_fr.4.400.jpg', '36.9', '24.8', '50.7', '40.7', '', '7.3', '0.62', '0.244094488188976', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400781035', 'Soft liquorice', '', '', '1.2', '0.8', '72', '38', '', '3.6', '0.11', '0.0433070866141732', '', '0');
+VALUES ('3701198800522', 'Le chocolat des français', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0522/front_fr.4.400.jpg', '36.9', '24.8', '50.7', '40.7', '', '7.3', '0.62', '0.244094488188976', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400782469', 'MENTOS pomme verte', '', '', '1.8', '1.8', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800539', 'Lait caramel et sel de Guérande', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0539/front_fr.4.400.jpg', '36.9', '24.8', '50.7', '40.7', '', '7.3', '0.62', '0.244094488188976', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400782933', 'Mentos', '', '', '1.9', '1.7', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800546', 'Le chocolat des français', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0546/front_fr.4.400.jpg', '42.4', '24.7', '43.4', '34.7', '', '8.7', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723400810315', 'Mentos Chewy Bottle Strawberry Mix X8', 'Sucre, sirop de glucose, jus de fraise(2%), huile de noix de coco totalement hydrogénée, acidifiants( acide citrique, acide tartrique),fécule, arômes, maltodextrine, agents épaississant (gomme hellène, gomme de cellulose, gomme arabique) , émulsifiant ( sucroesters d’acides gras), agents d’enrobage ( cire de carnauba, cire d’abeille), colorants( carmins, rouge de betterave, extrait de paprika)', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701198800577', 'Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0577/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723480184740', 'citronnade', '', '', '0', '0', '5.4', '5.1', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701198800584', 'Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0584/front_fr.14.400.jpg', '36.4', '24.4', '49.7', '34.3', '', '8.6', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723480185112', 'May tea', 'infusiondethé noir 94% (eau, infusion intense dethé noir), sucre, jus de pêche à base de concentré arôme naturel de thé, citrique, arômes naturels, correcteur d\'acidité : citrate de sodium, anti- oxydant : acide ascorbique. La présence de thé peut entraîner la formation d\'un léger dépôt naturel. Aconserverà l\'abri du soleil et de la chaleur. Après ouverture, conserver au réfrigérateur set consommer dans les 5 jours. A consommer de préférence avant le : voir sur le haut de la bouteille.', '', '0', '0', '4.7', '4.7', '', '0', '0.03', '0.0118110236220472', '', '1');
+VALUES ('3701198800591', 'Tablette chocolat noir 71%', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0591/front_fr.4.400.jpg', '43.2', '26', '29.1', '25.6', '', '8', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723480185129', 'MayTea Thé vert parfum menthe', 'infusion de the vert 94% (eau, infusion intense de thé vert), sucre, eau, acidifiants : acide malique et acide citrique, correcteur d\'acidité : citrate de sodium, arôme naturel, antioxydant : acide ascorbique.', '', '0', '0', '4.8', '4.7', '', '0', '0.0299999999999999', '0.0118110236220472', '', '1');
+VALUES ('3701198800614', 'Lait tendre 41% cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0614/front_fr.4.400.jpg', '40', '27', '47', '38', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700009754', 'Rosinenkekse, Céréal, Rosinen', '', '', '14', '1.4', '65', '22', '0', '9.1', '0', '0', '', '1');
+VALUES ('3701198800638', 'Lait et eclats d\'amandes', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0638/front_fr.4.400.jpg', '41.3', '24.7', '42.5', '34.3', '', '9.74', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700016691', 'Ma pause', '', 'https://static.openfoodfacts.org/images/products/872/370/001/6691/front.3.400.jpg', '13', '8.6', '52', '36', '3', '22', '0.6', '0.236220472440945', '', '0');
+VALUES ('3701198800645', 'Noir amandes, caramel et sel de Guérande', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0645/front_fr.21.400.jpg', '39.9', '23.7', '44.6', '40.4', '', '6.02', '0.22', '0.0866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700020018', 'Gerlinéa au chocolat', '', 'https://static.openfoodfacts.org/images/products/872/370/002/0018/front.3.400.jpg', '6.8', '3.2', '29', '19', '', '15', '0.45', '0.177165354330709', '', '1');
+VALUES ('3701198800652', 'Chocolat lait croustillant', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0652/front_fr.16.400.jpg', '36.4', '24.4', '49.7', '34.3', '', '8.5', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700020520', 'Pudding Chocolat Hyperprotéiné', '', '', '1.9', '1', '14', '10', '', '6.6', '0.25', '0.0984251968503937', '', '1');
+VALUES ('3701198800669', 'Noir et sel de camargue', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0669/front_fr.4.400.jpg', '43.1', '25.9', '29', '25.5', '', '8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700020544', 'Gerlinea saveur vanille caramel', '', 'https://static.openfoodfacts.org/images/products/872/370/002/0544/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701198800676', 'Chocolat noir et éclats de fèves de cacao', 'masse de cacao*, sucre de canne roux*, beurre de cacao*, grué de cacao* (8%). Peut contenir des traces de gluten, oeufs, soja, lait arachides et fruits à coque.', 'https://static.openfoodfacts.org/images/products/370/119/880/0676/front_fr.31.400.jpg', '45.2', '27.3', '26.8', '23.6', '', '8.5', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700170171', 'Sesam bar', 'graines de sésame grillées décortiquées, sirop de glucose, sucre, miel de fleurs sauvages 5%.', '', '28.6', '4.3', '51', '36', '4.1', '13', '0.18', '0.0708661417322835', '', '0');
+VALUES ('3701198800683', 'Lait Et Éclats D amandes', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0683/front_fr.20.400.jpg', '41.3', '24.7', '42.5', '34.3', '', '9.74', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213526', 'Pâte à tartiner', 'Édulcorant: maltitol, huiles végétales (navet et palme), noisettes 13%, cacao maigre, poudre de lait écrémé, lactosérum (lait), émulsifiant: lécithine de tournesol, arôme. Peut contenir des traces d\'autres fruits à coque (dont des noix).', 'https://static.openfoodfacts.org/images/products/872/370/021/3526/front.3.400.jpg', '36.6', '7.7', '49.4', '8.7', '2.8', '6.7', '0.22', '0.0866141732283465', '', '0');
+VALUES ('3701198800768', 'Noir et sel de Camargue', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0768/front_fr.18.400.jpg', '43.1', '25.9', '29', '25.5', '', '8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213540', 'Céréal Petits Gâteaux Au Soja Et à L\'orange', '', '', '15', '1.6', '65', '23', '3', '10', '0.55', '0.216535433070866', '', '1');
+VALUES ('3701198800775', 'Noir amandes, caramel et sel de guérande', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0775/front_fr.18.400.jpg', '39.9', '23.7', '44.6', '40.4', '', '6.02', '0.22', '0.0866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213564', 'Biscuits lait chocolats', '', '', '19', '3.2', '62', '25', '4.6', '9.2', '0.75', '0.295275590551181', '', '1');
+VALUES ('3701198800782', 'Chocolat des Français', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0782/front_fr.4.400.jpg', '45.2', '27.3', '26.8', '23.6', '', '8.5', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213588', 'Céréal Biscuits Sésame', 'Farine de blé, sucre de canne roux, huile de colza, sésame toasté 12%, germes de blé, minéraux (carbonate de calcium, sels de potassium de l\'acide phosphorique), levain deshydraté et dévitalisé d\'orge, fibres d\'avoine, sel marin, arôme naturel, emulsifiant: lécithines de colza, poudres à lever: tartrates de potassium, carbonates de sodium et d\'ammonium, acidifiant: acide malique, protéines de lait, amidon de blé, vitamines (E [contient lactose et protéines de laitl niacine, 86, Bi, acide folique). Peut contenir des Ùaces de fruits à coque (amande, noix de pécan, noix, noisette), soja, oeuf et lupin.', '', '22', '2.2', '58', '19', '4.9', '11', '0.61', '0.240157480314961', '', '1');
+VALUES ('3701198800799', 'Chocolat lait croustillant au riz et quinoa souffles', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0799/front_fr.19.400.jpg', '36.4', '24.4', '49.7', '34.3', '', '8.5', '0.27', '0.106299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213601', 'Bar Pure', 'Bâton chocolat noir avec édulcorants INGREDIEHTS: Pâte de cacao,.édlllqrants: maltitol et lactitpl, Inuline, beurre de caca arome naturel de vanille. de soja, Peut contenir des traces de fruits à coque, arachide, sésame et lait.', '', '32.3', '20.2', '43', '0.2', '14.1', '5.3', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701198800812', 'Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0812/front_fr.4.400.jpg', '39.9', '23.7', '44.6', '40.4', '', '6.02', '0.22', '0.0866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213663', 'Cereal Jam Aardbei En Framboos', 'pectinen, zu-urteregelaar: citro-enzuur. Garniture de fraises framboises, avec ENGRÉD\\ENTS: Édulcorante. sirop de maltitol, fraises 25%, framboises 25%, gélifiant: pectines, correcteur d\'acidité: acide citrique.', '', '0.2', '0.09', '59.4', '2.8', '1.7', '0.5', '0.09', '0.0354330708661417', '', '1');
+VALUES ('3701198800829', 'Noir et éclats de fèves de cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0829/front_fr.4.400.jpg', '45.2', '27.3', '26.8', '23.6', '', '8.5', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213687', 'Cereal Fruit Abrikoos Perzik', 'Édulcorant: siro abricots 25%, pêches 25%, correcteur d\'pcldité: acide citrique,', '', '0.09', '0.09', '60.4', '4.3', '1.1', '0.4', '0.03', '0.0118110236220472', '', '1');
+VALUES ('3701198800836', 'Le super calendrier de l\'avent', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0836/front_fr.4.400.jpg', '22', '11', '45', '39', '', '8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700213779', 'Fruit Strawberry', '', '', '0', '0', '59', '3', '', '0', '', '', '', '1');
+VALUES ('3701198800843', '32 carrés de chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0843/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700971952', 'Céréal Galettes Goût Vanille', 'Gauffres avec édulcorants. Farine de blé, graisse et huile vegetale palme, colza, émulsifiant: mono- et digiyterides diacides gras), édulcorant: nattitol, œufs, substitut de sucre (agent de charge: pcuc/dextrose, édulcorants: isomatt et sucra!ose, dattne, inuline), farine de soja, sel, émulsifiant: de soja, arôme naturel de vanille.', '', '21', '8.3', '64', '2.6', '2.2', '7.4', '0.75', '0.295275590551181', '', '0');
+VALUES ('3701198800850', 'Lait tendre 41% cacao', 'Sucre de canne roux, beurre de cacao, poudre de lait entier, masse de cacao', 'https://static.openfoodfacts.org/images/products/370/119/880/0850/front_fr.4.400.jpg', '40', '27', '47', '38', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700972799', 'Cereal Chocolade Crisp Reep', '', '', '', '6.5', '', '18.1', '34.1', '4.8', '0.62', '0.244094488188976', '', '1');
+VALUES ('3701198800867', 'Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0867/front_fr.4.400.jpg', '43.2', '26', '29.1', '25', '', '8', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700973079', 'Cereal Toffee Crisp Reep 3 X', 'de rizau chocolateu tait, avec sucres et édulcorant INGRÉDIENTS\'. Agent de charge: polydextrose, chocolat au lait 17% (sucre, beurre de cacao, lait entier en poudre, pâte de cacao, émulsifiant: lécithine de soja, arômes), —Cisns.deriz 14% (faine de riz, gluten de blé, sucre, maltde.blé,Âucosevsel), .so d\'avoine 606 gràïsse de na!me; fructose, édulcorant: xylitol, lait écrémé en on es nolX , arac&quot;lueyoeu e sesame.', '', '12.2', '6.5', '34.2', '18.1', '34.2', '4.6', '0.62', '0.244094488188976', '', '1');
+VALUES ('3701198800874', 'Lait et éclats de noisettes', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0874/front_fr.4.400.jpg', '40', '26.9', '46.9', '37.9', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700973215', 'Toffee crisp bar', '', '', '12.2', '6.5', '34.2', '18.1', '', '4.6', '0.62', '0.244094488188976', '', '1');
+VALUES ('3701198800898', 'Chocolat Noir et Éclats de Fèves de Cacao', 'Masse de cacao*, sucre de canne roux*, beurre de cacao*, grué de cacao* (6 %).', 'https://static.openfoodfacts.org/images/products/370/119/880/0898/front_fr.15.400.jpg', '44', '26.5', '27.4', '24.1', '', '8.2', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723700973864', 'Barre De Régime Orange Et Chocolat Noir', 'Energie / Énergie Vetten / Matières grasses waarvan verzadigde vetzuren / dont acides gras saturés Koolhydraten / Glucides waarvan suikers / dont sucres waarvan polyolen / dont polyols Vezels / Fibres alimentaires Eiwitten / Protéines sel Vitamine E Thiamine (BI) Niacine (B3) Vitamine B6 Foliurnzuur / Acide folique', '', '14', '8', '50', '39', '3.5', '22', '0', '0', '', '0');
+VALUES ('3701198800904', 'Lait tendre 41% cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0904/front_fr.4.400.jpg', '40', '27', '47', '38', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8723900207486', 'Petits cookies tartinés', '', '', '29', '17', '59', '32', '', '7', '0.4', '0.15748031496063', '', '0');
+VALUES ('3701198800911', 'Chocolat lait et eclats de noisettes', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0911/front_fr.4.400.jpg', '40', '26.9', '46.9', '37.9', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87241003106', 'Rustic Sprouted Wheat Bread', 'Enriched flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), water, sprouted wheat flour, sea salt (salt, magnesium carbonate), yeast, vital wheat gluten, enzymes, dough conditioner (wheat gluten, ascorbic acid), ascor', '', '0', '0', '47.37', '0', '2.6', '7.89', '1.27', '0.5', '', '0');
+VALUES ('3701198800935', 'Chocolat au lait caramel et sel de Guérande', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0935/front_fr.4.400.jpg', '38.7', '24', '46', '37', '', '7.8', '0.59', '0.232283464566929', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724200100125', 'Coffee Break Cookies', 'Wheat flour, sugar, vegetable oils and fats, honey, baking powder (e500), rapeseed lecithin (e322), cinnamon, vanillin, salt, aroma.', '', '20.95', '7.62', '70.95', '36.19', '', '4.76', '0.96774', '0.381', '', '0');
+VALUES ('3701198800959', 'Le chocolat des francais', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0959/front_fr.4.400.jpg', '44.4', '24.7', '28', '24.4', '', '8.4', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724200100132', 'Speculaas Spiced Biscuits With Cinnamon', 'Ingrediènten: tarwebloem, suiker, plantaardige olièn (palm-, raapzaad-), specerijen (kaneel, nootmuskaat, Kruidnagel, piment, gember, koriander, foelie, kardemom), rijsmiddelen: natriumbicarbonaat, dinatriumpyrofosfaat, zout, invertsuikerstroop. Dit product kan sporen bevatten van: nelkeiwit, lactose, noten en pinda\'s. Voedingwaarde Per 100g ?erPortiet \'/cinnarné\'', '', '22.1', '8.9', '71.2', '33.1', '1.5', '5.8', '1.09', '0.429133858267717', '', '0');
+VALUES ('3701198800966', 'Noir et éclats de fève de cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/0966/front_fr.4.400.jpg', '44', '26.5', '27.4', '24.1', '', '8.2', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724900260280', 'Tubo 150 Sucettes Fruits Crest', '', '', '0', '0', '95', '71', '', '0', '', '', '', '0');
+VALUES ('3701198801017', 'le chocolat des francais', '', 'https://static.openfoodfacts.org/images/products/370/119/880/1017/front_fr.4.400.jpg', '40', '27', '47', '38', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724900260341', 'Sucettes fruits', 'sucre, sirop do (acide citrique), extraits de el arômes.', '', '0', '0', '95', '71', '0', '0', '0', '0', '', '0');
+VALUES ('3701198801024', 'Noir 71% Cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/1024/front_fr.4.400.jpg', '43.2', '26', '29.1', '25.6', '', '8', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724900500881', 'Sucette rock fruit&fleur', 'Poids: 1050 g Confiserie Ingrédients. sirop de glucose, sucre, acidifiant (acide citrique E330), arômes, colorants (El 00, El 20, El 31, El 60c). Tenir au frais et au sec.', '', '0', '0', '96.1', '96.1', '', '0', '0', '0', '', '0');
+VALUES ('3701198801031', 'Chocolat lait tendre 41% cacao', '', 'https://static.openfoodfacts.org/images/products/370/119/880/1031/front_fr.4.400.jpg', '40', '27', '47', '38', '', '8', '0.3', '0.118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724900510279', 'Utz', 'sucre, lait entier en poudre, pâte de cacao, beurre de cacao, lactosérum en poudre lait), émulsifiant (lécithine de soja), arôme. Peut contenir fruits à coque et gluten. Teneur en cacao du chocolat au lait au moins 28%. A conserver au sec et à l\'abri de la chaleur. MILCHSCHOKOLADE Zutaten: Zucker, Vollmilchpulver, Kakaomasse, Kakaobutter, Molkepulver (Milch), Emulgator (Sojalecithin), Aroma. Enthâlt môglicherweise Schalenfrüchte und Gluten Kakao: 28% mindestens in der Milchshokolade. Kühl und trocken lagern. Voedingswaarde per [Valeur nutritive pour/ Nahrwerte pro: 100g Energie/énergie/Energie 2144kJ 512 kcal, vet/graissesFett 26,2g, waarvan verzadigd vet/dont acides gras saturés/ davon gesâttigte Fettsâuren 16,5g, koolhydraten/glucides/Kohlenhydrate 60,6g, waarvan suikers/dont sucres/davon Zucker 59,4g, eiwit/protéins/ Eiweiss 6,5g, zout/sel/SaIz 0,25g. Ten minste houdbaar tot / A consommer de préférence avant le/Mindestens haltbar bis: 30 - 06 - 2019', '', '26.2', '16.5', '60.6', '59.4', '', '6.5', '0.25', '0.0984251968503937', '', '0');
+VALUES ('3701198801314', 'Mini oeufs chocolat lait praliné noisettes', '', 'https://static.openfoodfacts.org/images/products/370/119/880/1314/front_fr.4.400.jpg', '31', '14', '57', '55', '', '5.8', '0.15', '0.0590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8724900514024', 'Chocolat au lait', '', '', '26.2', '16.5', '60.6', '59.4', '', '6.5', '0.25', '0.0984251968503937', '', '0');
+VALUES ('3701200400627', 'Vietnam Acidulé', 'Fèves de cacao torrefiées et concassées, sucre, beurre de cacao. Fabriqué dans un atelier qui utilise: gluten, lait, oeufs, fruits à coque, soja.', 'https://static.openfoodfacts.org/images/products/370/120/040/0627/front_fr.4.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000156992', '3 Horses Malt Bouteille', 'Water, barley malt, glucose fructose syrup, hop extract, e150c, carbon dioxide, e950', '', '0', '0', '7.5', '6.2', '', '0.3', '0.0031', '0.00122047244094488', '', '1');
+VALUES ('3701200401068', 'Cameroun cacaoté Noir 72%', '', 'https://static.openfoodfacts.org/images/products/370/120/040/1068/front_fr.4.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000308384', 'Boisson malté sans alcool', 'Eau, malt d\'_orge_, glucose, colorant E150c, édulcorant E950, houblon.', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701200401150', 'Guatemala doux Noir 72%', '', 'https://static.openfoodfacts.org/images/products/370/120/040/1150/front_fr.4.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000625092', 'Bière Atlas 7.2°', 'Eau, malt d\'_orge_, maïs, houblon.', '', '0', '0', '1.7', '0.2', '0', '0.5', '0.52', '0.204724409448819', '7.2', '0');
+VALUES ('3701200401167', 'Nicaragua Onctueux', '', 'https://static.openfoodfacts.org/images/products/370/120/040/1167/front_fr.9.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000637514', 'Dranjeboom', 'eau, malt d\'_orge_, sucre, houblon', 'https://static.openfoodfacts.org/images/products/872/500/063/7514/front.6.400.jpg', '', '', '', '', '', '', '', '', '8.5', '0');
+VALUES ('3701200401174', 'Perou fruite noir 72%', '', 'https://static.openfoodfacts.org/images/products/370/120/040/1174/front_fr.4.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000639457', 'Malt Beverage', 'Eau, malt d\'_orge_, houblon, extrait de houblon, dioxyde de carbone', '', '0', '0', '3.8', '2.8', '', '0', '0', '0', '', '1');
+VALUES ('3701200401198', 'Colombie amer noir 72%', 'Fèves de cacao torrefiées et concassées, sucre, beurre de cacao. Fabriqué dans un atelier qui utilise: gluten, lait, ceufs, fruits à coque, soja.', 'https://static.openfoodfacts.org/images/products/370/120/040/1198/front_fr.4.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000647346', 'Intense', 'Eau, malt d\'orge, maïs, houblon.', 'https://static.openfoodfacts.org/images/products/872/500/064/7346/front.8.400.jpg', '', '', '', '', '', '', '', '', '9', '0');
+VALUES ('3701200401853', 'Pérou corsé noir 85%', '', 'https://static.openfoodfacts.org/images/products/370/120/040/1853/front_fr.8.400.jpg', '43', '26', '33', '30', '', '8.3', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000649012', 'Bastaard Gember en Citroen', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701200402010', 'Mexique intense', 'Fèves de cacao torréfiées et concassées, sucre, beurre de cacao.', 'https://static.openfoodfacts.org/images/products/370/120/040/2010/front_fr.3.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725000649098', 'Bastaard Appel en Citroengras', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701200402027', 'Haiti doux', '', 'https://static.openfoodfacts.org/images/products/370/120/040/2027/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87250237', '3 horses', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701200402386', 'Madagascar velouté', '', 'https://static.openfoodfacts.org/images/products/370/120/040/2386/front_fr.4.400.jpg', '47', '28', '28', '28', '', '8.6', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725200124616', '4 Ch\'ticanos', 'Viande de poulet séparé mécaniquement (70%), chapelure (_blé_), eau, sel, sucre, herbes et épices, poudre de légumes (oignon, ail), exhausteur de goût (E621), émulsifiant (E450, E451), hydrolysât de protéine végétale (_soja_), fécule de pommes de terre, protéine de _blé_, antioxygène (E316), extrait de paprika, conservateurs (E211, E202)', 'https://static.openfoodfacts.org/images/products/872/520/012/4616/front.8.400.jpg', '11.1', '3', '11.8', '1.4', '', '11.9', '1.9', '0.748031496062992', '', '0');
+VALUES ('3701200403031', 'Vénézuela pur noir 100%', 'Fèves de cacao. Présence possible de: gluten, lait, oeufs, fruits à coque, soja, arachide.', 'https://static.openfoodfacts.org/images/products/370/120/040/3031/front_fr.4.400.jpg', '51', '32', '13', '1.2', '', '14', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725200867117', '20 fricandelles surgelées', 'Viande de poulet séparée mécaniquement 44%, eau, viande de porc 12%, chapelure, protéines de porc, sel, légumes (oignon), protéines végétales hydrolysées (_soja_), émulsifiant (E450, E450i), épices, exhausteur de goût (E621), _blé_, sauce soja (_soja_), maltodextrine, antioxygène (E316), arôme (_blé_), acidifiant (E330).', 'https://static.openfoodfacts.org/images/products/872/520/086/7117/front.7.400.jpg', '12.2', '3.7', '8.7', '0.1', '', '11.1', '1.89992', '0.748', '', '0');
+VALUES ('3701200403086', 'Caraibe doux Noir 66%', 'Fèves de cacao, sucre, beurre de caco, émulsifiant (lécithine de soja sans OGM) extrait naturel de vanille. Présence possible de gluten, fuits à coque, protéines de lait et d\'œuf.', 'https://static.openfoodfacts.org/images/products/370/120/040/3086/front_fr.8.400.jpg', '40', '24', '40', '35', '', '8.2', '0.4', '0.15748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725200868718', 'Fricadelle', '', '', '12.2', '3.7', '8.7', '0.1', '', '11.1', '1.9', '0.748031496062992', '', '0');
+VALUES ('3701200403093', 'Chocolat sans sucre noor 65%', 'Fèves de cacao, édulcorant (maltitol), beurre de cacao, émulsifiant (lécithine de soja sans OGM), extrait naturel de vanille. Présence possible de: gluten, lait, aeufs, fruits à coque, sojo, arachide.', 'https://static.openfoodfacts.org/images/products/370/120/040/3093/front_fr.10.400.jpg', '43', '26', '37', '0.5', '', '8.1', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725200869616', '20 fricadelles surgelées', 'Viande de poulet séparée mécaniquement 44%, eau, viande de porc 12%, chapelure, protéines de porc, sel, légumes (oignon), protéines végétales hydrolysées (_soja_), émulsifiant (E450, E450i), épices, exhausteur de goût (E621), _blé_, sauce soja (_soja_), maltodextrine, antioxygène (E316), arôme (_blé_), acidifiant (E330).', 'https://static.openfoodfacts.org/images/products/872/520/086/9616/front.7.400.jpg', '12.2', '3.7', '8.7', '0.1', '', '11.1', '1.9', '0.748031496062992', '', '0');
+VALUES ('3701200403123', 'Chocolat Brésil délicat noir 62%', 'Fèves de cacao, beurre de cacao, émulsifiant (lécithine de soja sans OGM), extrait naturel de vaille. Présence possible de: gluten, lait, oeufs, fruits à coque, soja.', 'https://static.openfoodfacts.org/images/products/370/120/040/3123/front_fr.4.400.jpg', '39', '19', '41', '37', '', '7.4', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725200869715', 'Fricandelle de volaille x20', 'La viande de poulet séparée mécaniquement 70%, eau, chapelure (blé), sel, poudre de légumes (oignon, ail), mélanges d\'épices, émulsifiants (E450, E452), pigment (E150d), oignon, dextrose, exhausteur de goût (E621 antioxygène (E316). Contient de blé. Peut contenir des traces du lait, d\'œufs, du soja, d\'arachides et de céleri.', '', '12.7', '3.5', '9.1', '1.9', '', '12.3', '1.6', '0.62992125984252', '', '0');
+VALUES ('3701200403147', 'République Dominicaine Cacaoté', 'Sucre, beurre de cacao, lait entier en poudre, fèves de cacao, émulsifiant (lécithine de soja sans OGM), extrait naturel de vanille.', 'https://static.openfoodfacts.org/images/products/370/120/040/3147/front_fr.13.400.jpg', '42', '26', '42', '41', '', '8.5', '0.19', '0.0748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8725800011118', 'Drentse', '', '', '35', '13.2', '1', '1', '', '31', '3.13', '1.23228346456693', '', '0');
+VALUES ('3701200403154', 'Chocolat au Lait 41%', 'Sucre, beurre de cacao, _lait_ en poudre, fèves de cacao, émulsifiant (lécithine de _soja_ sans OGM), extrait naturel de vanille.', 'https://static.openfoodfacts.org/images/products/370/120/040/3154/front_fr.17.400.jpg', '40', '25', '46', '38', '', '7.6', '0.18', '0.0708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('872698000253', 'Sunburst, West African Red Palm Oil', 'Palm oil.', '', '100', '50', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3701200403161', 'Grands Crus Chocolat Blond 35%', 'Beurre de cacao, sucre, _lait_ entier en poudre, lait écrémé en poudre, lactosérum, beurre, émulsifiant (lécithine de _soja_ sans OGM), extrait naturel de vanille.', 'https://static.openfoodfacts.org/images/products/370/120/040/3161/front_fr.5.400.jpg', '41', '25', '47', '50', '', '8.1', '0.65', '0.255905511811024', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200190677', 'Old El Paso Fajita Kit', '= Ingredientes: Tortillas Mexicanas de trigo extra tiernas (65%): Harina de trigo, agua, estabilizante: glicerina, aceite refinado de girasol, emulgente: monoglicéridos y digliceridos de âcidos grasos; dextrosa, gasificantes: carbonato âcido de sodio, difosfatos; sal. Salsa para acompafiar (29%): Tomate (64%), cebolla (17%), pimiento verde (11%), pasta de tomate, sal, vinagre de alcohol, azücar, zumo de limén concentrado, pimiento Guajillo (0,4%), ajo en polvo, aroma natural, corrector de acidez: acido citrico; endurecedor: cloruro de calcio; almidôn modificado de maïz. Sazonador (6%): Azücar, hortalizas deshjdratadas (cebolla, ajo), sal, prote(na de soja hidrolizada, especjas (pimienta negra, pimienta de Cayena, jengibre) (6%), aroma de humo, corrector de acidez: âcido citrico; aromas, extracto de levadura, colorante: caramelo natural. Alérgenos: ver ingredientes en negrita. Tortillas: Envasado en atmôsfera protectorat', '', '3.6', '0.8', '40.3', '6.2', '1.8', '6.7', '2.04', '0.803149606299213', '', '0');
+VALUES ('3701201349574', 'Pommes du Limousin Golden Delicious', 'Pommes Golden Delicious du Limousin (France) biologiques.', 'https://static.openfoodfacts.org/images/products/370/120/134/9574/front_fr.12.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200195221', '8 tortillas mais et blé', 'Farine_de_maïs 27%, eau, farine de blé, stabilisant : glycérol, gluten_de_blé, huiles_végétales (palme et colza) en_proportion_variable, dextrose, poudres_à_lever : diphosphate_disodique, carbonate_acide_de_sodium, émulsifiant : mono_et_diglycérides_d\'acides_gras, sel, conservateur : sorbate_de_potassium, acidifiant : acide_citrique.', 'https://static.openfoodfacts.org/images/products/872/720/019/5221/front.13.400.jpg', '4.8', '0.7', '51.8', '4.4', '2.4', '8.5', '0.925', '0.364173228346457', '', '0');
+VALUES ('3701201366991', 'Pomme ZÉLI', 'Pomme', 'https://static.openfoodfacts.org/images/products/370/120/136/6991/front_fr.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200221029', 'Nacho Kit', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701202200027', 'Herbalife - H24 rebuild strength', '', 'https://static.openfoodfacts.org/images/products/370/120/220/0027/front_fr.4.400.jpg', '3', '1.6', '36', '34', '', '51', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200260035', 'Tortilla chips chili', 'farine de maïs, huile de tournesol 20%, assaisonnement (légumes déshydratés (ail en poudre, oignon en poudre, tomate en poudre), épices (piment chili, graine de cumin, poivre), sel, dextrose, maltodextrine, extrait de levure, herbes (origan), sucre, correcteur d\'acidité : acide citrique, extrait d\'épice (paprika), arôme naturel (origan))', 'https://static.openfoodfacts.org/images/products/872/720/026/0035/front.6.400.jpg', '19', '1.8', '66.3', '3.2', '4.4', '6.3', '0.7874', '0.31', '', '1');
+VALUES ('3701203202020', 'Pâté au piment d\'espelette', '', 'https://static.openfoodfacts.org/images/products/370/120/320/2020/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200261001', 'Tortilla Chips - chili', '', 'https://static.openfoodfacts.org/images/products/872/720/026/1001/front.3.400.jpg', '19', '1.8', '66.3', '3.2', '4.4', '6.3', '0.75', '0.295275590551181', '', '1');
+VALUES ('3701203202051', 'Le classique', '', 'https://static.openfoodfacts.org/images/products/370/120/320/2051/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200299509', 'Tortilla chips', 'Harina de maíz, aceite de girasol alto oleico (20%), sal (0,5%).', 'https://static.openfoodfacts.org/images/products/872/720/029/9509/front.6.400.jpg', '20.1', '1.5', '65', '1.3', '3.7', '5.7', '0.6', '0.236220472440945', '', '1');
+VALUES ('3701205200000', 'Pur jus de pommes', 'Jus de pommes 100%.', 'https://static.openfoodfacts.org/images/products/370/120/520/0000/front_fr.9.400.jpg', '0', '0', '11', '11', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200299806', 'Sauce à garnir Original Salsa, non piquante', 'Milde salsa saus met tomaten en paprika\'s. #ceérd maïszetmeel, zuurterege aar. citoenzuur. ÜSalsadipomodoro cipolla, peperoneverdee peperoncino Guajiilo - Leggera di Ime üœntato, peperoncino guajillo France uniquement: Service appel gratuits horBelgië schrijft u naar / Pour la Belgique / Per Iliàlia : General Mills France • Old El Paso Consumer Topaz, 2 rue Paul Daufer, CS 50525, Cedex, France,', '', '0.5', '0', '5.5', '4.2', '2.4', '1.3', '1.13', '0.444881889763779', '', '0');
+VALUES ('3701208210013', 'Lait bio', '', 'https://static.openfoodfacts.org/images/products/370/120/821/0013/front_fr.4.400.jpg', '1.5', '1', '4.8', '4.8', '', '3.2', '0.11', '0.0433070866141732', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200500193', 'Refried Beans Eingekochte Pintobohnen', '', '', '0.5', '0', '12.2', '0.5', '5.5', '5.3', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701208210020', 'Camenbert BIO', '', 'https://static.openfoodfacts.org/images/products/370/120/821/0020/front_fr.4.400.jpg', '21', '14', '0', '0', '', '19', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200501039', 'Sliced Green Jalapenos', 'Piments Jalapeno (53.5%), eau, vinaigre, sel.', '', '0.3', '0', '3.4', '1.3', '1.4', '1.3', '1.08', '0.425196850393701', '', '0');
+VALUES ('3701208210037', 'Beurre doux', '', 'https://static.openfoodfacts.org/images/products/370/120/821/0037/front_fr.4.400.jpg', '82', '57', '1', '1', '', '0.7', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200501046', 'Old El Paso Jalapenos', '', '', '0.3', '0', '3.4', '1.3', '', '1.3', '1.08', '0.425196850393701', '', '0');
+VALUES ('3701208210044', 'Beurre', '', 'https://static.openfoodfacts.org/images/products/370/120/821/0044/front_fr.4.400.jpg', '35', '20', '0.303', '0.3', '', '0.2', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200502005', '8 Tortillas de Blé Nature', 'Farine de _blé_ (60%), eau, stabilisant : glycérol, huile végétale, poudre à lever : carbonate acide de sodium, diphosphate disodique ; émulsifiant : mono-diglycérines d\'acides gras, dextrose, sel, conservateur : sorbate de potassium. ', 'https://static.openfoodfacts.org/images/products/872/720/050/2005/front.3.400.jpg', '7.2', '3', '53', '2', '2', '8.3', '1.4224', '0.56', '', '0');
+VALUES ('3701208210082', 'Saint Marcellin', 'fromage au _lait_ de vache bio thermisé', 'https://static.openfoodfacts.org/images/products/370/120/821/0082/front_fr.4.400.jpg', '23', '18', '0.9', '0.6', '', '16', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200551508', 'Taco Shells', '', '', '27', '2.5', '59', '1', '3.5', '5', '0.05', '0.0196850393700787', '', '1');
+VALUES ('3701215212154', 'Noix de cajou', '', '', '7.8', '0.5', '26.9', '5.9', '', '18.2', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200552000', 'Nacho Chips - Pancho Villa', 'farine de maïs, huile de tournesol (20%), sel de cuisine. Peut contenir des traces de blé.', 'https://static.openfoodfacts.org/images/products/872/720/055/2000/front.3.400.jpg', '20', '2', '63', '1', '4', '6', '32', '12.5984251968504', '', '0');
+VALUES ('3701215500268', 'Huile essentielle lavande', '', 'https://static.openfoodfacts.org/images/products/370/121/550/0268/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200553007', 'Salsa Mexicana Medium - Pancho Villa', 'Tomates, oignons, purée de tomate, poivrons, piments, sel de cuisine, jus de citron concentré, vinaigre d`alcool, oignon en poudre, ail en poudre, épices', 'https://static.openfoodfacts.org/images/products/872/720/055/3007/front_en.8.400.jpg', '0.5', '0', '7', '4', '1', '1.5', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701215700019', 'coteaux d\'aix-en-provence', '', 'https://static.openfoodfacts.org/images/products/370/121/570/0019/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200553502', 'Sauce piquante avec des tomates', '', '', '0.5', '', '7', '4', '1', '1.5', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701216500007', 'Oeufs', '', 'https://static.openfoodfacts.org/images/products/370/121/650/0007/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8727200554509', 'Refried Beans - Pancho Villa', 'haricots pinto cuits 60 %, eau, sel de cuisine, huile de tournesol, oignon en poudre ', 'https://static.openfoodfacts.org/images/products/872/720/055/4509/front.3.400.jpg', '0.5', '', '12', '0.5', '6', '5', '1.2', '0.47244094488189', '', '0');
+VALUES ('3701219900248', 'Confiture de raisin rouge', '', 'https://static.openfoodfacts.org/images/products/370/121/990/0248/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728200402517', 'Pancit Canton', '', '', '', '21', '', '4', '0', '11', '1.34', '0.52755905511811', '', '0');
+VALUES ('3701220200207', 'Miel de sapin', '', 'https://static.openfoodfacts.org/images/products/370/122/020/0207/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728200404009', 'Sambal Oelek', 'Piment rouge 86 %, sel, correcteur d’acidité: E260, E330, conservateur : E211.', '', '1.5', '0.5', '3', '2.5', '0', '2', '11.33', '4.46062992125984', '', '0');
+VALUES ('3701221400101', 'Super Skunk', '', 'https://static.openfoodfacts.org/images/products/370/122/140/0101/front_fr.4.400.jpg', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728200404030', 'Geröstete Zwiebeln 500 G HS Große Packung Röstzwiebeln', 'onions 76%, palm oil, Wheat flour, water, salt. Zutaten: Zwiebeln 76%, Palmôl, Weizenmehl, Wasser, Salz. Ingrediënten: Uien 76%, palmolie, tarwemeel, water, zout. Ingrédients: oignons 76%, huile de palme, farine de éJé, water, sel. Ingredienser: Log 76%, palmeolie, bygdgmel, vand, salt. Skladniki: cebula 76%, olej palmowy, maka pszenna, woda, sél. Net Contents / Netto Inhalt/ Netto tilhoud / Contenu Net / Nettoinhold / ZawartoSé Netto :', '', '46', '23', '44', '15', '', '6', '1.4', '0.551181102362205', '', '0');
+VALUES ('3701222800016', 'Risotto aux Cèpes', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0016/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728200404306', 'Rice Paper', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701222800306', 'TATIN de Saint-Jacques', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0306/front_fr.4.400.jpg', '18', '8.6', '17', '3.9', '', '5.8', '0.74', '0.291338582677165', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728200404511', 'Kokosmilch', '', '', '13', '11', '2.5', '0', '', '1.1', '0.04', '0.015748031496063', '', '1');
+VALUES ('3701222800344', 'Mousseline de patate douce aux amandes', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0344/front_fr.4.400.jpg', '9.3', '6.5', '16', '7.3', '', '3.3', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728200408663', 'Oignons Frits', 'onions 76%, palm Oil, Wheat flour, water, Salt. Zutaten: Ingrediënten?. Uien 76%, palmolie, tarwemeel, water, zout. Ingrédients?. oignons 76%, huile de palme, farine de blé, water, sel.', '', '46', '23', '44', '15', '', '6', '1.4', '0.551181102362205', '', '0');
+VALUES ('3701222800511', 'Fondant boeuf', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0511/front_fr.4.400.jpg', '20', '5.5', '4.5', '1.6', '', '22', '0.75', '0.295275590551181', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728500995474', 'SuperSours Energy Drink', '', '', '0.5', '0.1', '14', '14', '', '0.5', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701222800573', 'Tatin de saint Jacques', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728500999847', 'Tropical', 'Eau de source 80%, jus de fruits à base de concentrés 12% (orange 6,4%, pomme 5,5%, fruit de la passion 0,1%, mangue 0,07%), sucre, acidifiant : acide citrique, arômes, antioxydant : acide ascorbique, stabilisant : gomme d\'acacia, colorant : extrait de paprika.', '', '0', '0', '9.3', '9.1', '0', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701222800764', 'Tatin de canard aux figues rôties', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0764/front_fr.4.400.jpg', '17', '11', '18', '6.3', '', '10', '1.56', '0.614173228346457', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8728500999854', 'The Peche', '', '', '1', '0', '5.3', '5.3', '0', '0', '0.4', '0.15748031496063', '', '1');
+VALUES ('3701222800887', 'Boeuf Bourguignon Tagliatelles', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0887/front_fr.4.400.jpg', '8.1', '3.9', '11', '1.9', '', '23', '1.28', '0.503937007874016', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87288155', 'Edel\'pils', 'bronwater, _gerste_mout, hop', 'https://static.openfoodfacts.org/images/products/87288155/front_en.22.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701222800917', 'Blanquette de veau', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0917/front_fr.3.400.jpg', '9.2', '4.9', '15', '1.8', '1.1', '14', '1.13', '0.444881889763779', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87289299', 'Blijekip eieren biologisch ', '', 'https://static.openfoodfacts.org/images/products/87289299/front_en.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701222800948', 'Paupière de veau sauce champignons écrasé de pommes de terre', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0948/front_fr.4.400.jpg', '15', '6.5', '8.6', '1.2', '', '9.6', '1.22', '0.480314960629921', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87289329', 'Babybel', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701222800962', 'Rognons de porc sauce madère et moutarde', '', 'https://static.openfoodfacts.org/images/products/370/122/280/0962/front_fr.4.400.jpg', '8.9', '4.2', '11', '1.6', '', '22', '1.52', '0.598425196850394', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87290264', 'Lipton Pure Leaf Lemon 250ML', '', '', '0.5', '0.1', '3', '3', '', '0.5', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701222801242', 'Gratin de butternut au cabillaud', '', 'https://static.openfoodfacts.org/images/products/370/122/280/1242/front_fr.4.400.jpg', '15', '10', '7.4', '3.9', '', '6.9', '1.03', '0.405511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8729311800025', 'Amsterdam Cannabis Cookies Hash', '', '', '24.3', '16.4', '64.5', '36', '', '6.8', '0.27', '0.106299212598425', '', '0');
+VALUES ('3701222801327', 'Blanquette de veau', '', 'https://static.openfoodfacts.org/images/products/370/122/280/1327/front_fr.4.400.jpg', '9.2', '4.9', '15', '1.8', '', '14', '1.13', '0.444881889763779', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87294996', 'Cod Liver', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701228400647', 'Perles de fruits', '', 'https://static.openfoodfacts.org/images/products/370/122/840/0647/front_fr.4.400.jpg', '0', '0', '21', '16', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87298277', 'Sliced Kosher Dill Pickles', 'Organic cucumbers, water, organic distilled vinegar, salt, calcium chloride, organic garlic chips, organic dillweed oil, organic gum arabic, organic natural spice flavors, xanthan gum.', '', '0', '', '3.57', '0', '', '0', '2.63144', '1.036', '', '0');
+VALUES ('3701229000471', 'Fruits Secs', 'Baies de Goji issues de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/370/122/900/0471/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87301403', 'Zuivelhoeve Boer\'n Yoghurt Muesli Naturel Bakje', '(MELK), 12% (H41ŒhH.ka1 utrog, kokos\', HAIEINOOT; zwt).', '', '5.5', '2.8', '12', '7', '', '5.4', '0.25', '0.0984251968503937', '', '1');
+VALUES ('3701232010016', 'Moringa', '', 'https://static.openfoodfacts.org/images/products/370/123/201/0016/front_fr.4.400.jpg', '0', '0', '38.2', '0', '', '27.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87301724', 'Eucalyptus - Menthol', 'sucre, sirop de glucose, huile de coco totalement hydrogénée, arômes naturels d\'eucalyptus et de menthe, extrait de réglisse, fécule, maltodextrine, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701232400015', 'Biscuit aperitif de Normandie saveur Camembert', '', 'https://static.openfoodfacts.org/images/products/370/123/240/0015/front_fr.4.400.jpg', '29.25', '17.1', '40.12', '0.14', '', '6.44', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87303223', 'Orange', 'Jus d\'orange à base de concentré.', 'https://static.openfoodfacts.org/images/products/87303223/front.8.400.jpg', '0', '0', '9.1', '9.1', '', '0.7', '0', '0', '', '1');
+VALUES ('3701232400039', 'Gressins artisanaux & aux graines', '', 'https://static.openfoodfacts.org/images/products/370/123/240/0039/front_fr.4.400.jpg', '4.33', '0.61', '43.55', '1.41', '', '8.19', '1.24', '0.488188976377953', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8730359037762', 'Tiger', '(NL) Suikerwerk, Ingrediënten: Dextrose, suiker, gelatine aroma\'s (D) Zuckerwaren, Zutaten: dextrose, Zucker Gelatine Aromen (GB) Confectionery, Ingredients : Dextrose, sugar, gelatine, flavourings. (FR) Confiserie, Ingrédients : Dextrose, sucre, gélatine, arômes (E) confiteria, Ingredientes : Dextrosa, azúcar, gelatina, aromas. (P) Produtos de confeitaria, Ingredientes: Dextrose, açúcar, gelatina, aromas. (I) Caramelle, Ingredienti: Destrosio, zucchero, gelatina, aromi. (S) Sockerkonfektyrer, Ingredienser: Dextros, socker, gelatin, smakämnen. (PL) Wyroby cukiernicze, Skladniki: Dekstroza, cukier, Zelatyna, srodki aromatyzujace.', '', '0', '0', '94', '94', '0', '0.6', '0', '0', '', '0');
+VALUES ('3701232600262', 'Chocolat 75%', 'pâte de cacao, sucre, beurre de cacao, émulsifiant: lécithine sans ogm. Allergènes : lait, gluten, fruit à coques, soja.', 'https://static.openfoodfacts.org/images/products/370/123/260/0262/front_fr.15.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87303612', 'fuzetea', '', 'https://static.openfoodfacts.org/images/products/87303612/front_en.6.400.jpg', '4.3', '4.3', '4.3', '4.3', '', '4.3', '0.03', '0.0118110236220472', '', '1');
+VALUES ('3701232600347', 'Chocolat Bolivia 68%', '', 'https://static.openfoodfacts.org/images/products/370/123/260/0347/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8730410100008', 'Choux de Bruxelles', 'Choux de Bruxelles, catégorie 1.', 'https://static.openfoodfacts.org/images/products/873/041/010/0008/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701232600422', 'Maracaibo 68%', '', 'https://static.openfoodfacts.org/images/products/370/123/260/0422/front_fr.7.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87304220', 'Yogourt fraise', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701232600446', 'Grenada', '', 'https://static.openfoodfacts.org/images/products/370/123/260/0446/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87304565', 'Zonnatura Sesam Crunch Eko', 'VOEDINGSWAARDEPERIOO [VALEURS eskelvoudig onverzadigde icides gras mono-lnsa urés 92 g; meery nverzadi devetzuren acides gras (oolhydraqen ont', '', '24.5', '3.4', '54.7', '41.6', '8.6', '8.7', '0.09', '0.0354330708661417', '', '0');
+VALUES ('3701232600620', 'Nossi-Bé 75%', 'pâte de cacao, sucre, beurre de cacao, êmulsifiant: lécithine sans ogm. Allergènes: lait, gluten, fruit à coques, soja.', 'https://static.openfoodfacts.org/images/products/370/123/260/0620/front_fr.6.400.jpg', '45.9', '', '29', '', '', '7.6', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87304787', 'fruit', '', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701232600705', 'Caramel', '', 'https://static.openfoodfacts.org/images/products/370/123/260/0705/front_fr.4.400.jpg', '45.9', '41.23', '29', '29', '', '7.6', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87306361', 'Berry', '', '', '0.2', '0.2', '83', '78', '', '2.7', '', '', '', '0');
+VALUES ('3701232600903', 'Chocolat foresteros', '', 'https://static.openfoodfacts.org/images/products/370/123/260/0903/front_fr.4.400.jpg', '45.9', '0', '29', '0', '', '7.6', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87306408', 'Natuurzuiver bier', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701232603423', 'Ile Sao Tomé 67%', 'Pâte de cacao, sucre, beurre de cacao, émulsifiant : lécithine de soja sans ogm. Allergènes : lait, gluten, fruit à coques, soja.', 'https://static.openfoodfacts.org/images/products/370/123/260/3423/front_fr.8.400.jpg', '45.9', '', '29', '', '', '7.6', '', '', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87306859', 'De perelaere', '', '', '0.1', '0', '9.6', '8.1', '', '0.1', '0.003', '0.00118110236220472', '', '1');
+VALUES ('3701232615112', 'Plaisir Chocolat', '', 'https://static.openfoodfacts.org/images/products/370/123/261/5112/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87311396', 'Rainbow', 'sucre, sirop de glucose, jus de fruits (pastèque, fraise, pomme, orange, pamplemousse, framboise, myrtille) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, arômes, maltodextrine, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (anthocyanes, curcumine, carmins, bêta-carotène, rouge de betterave).', 'https://static.openfoodfacts.org/images/products/87311396/front.8.400.jpg', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701236400004', 'Tablette de 24 Tomates', 'Tomates* (63 %), beurre de cacao* (37 %). *Ingrédients issus de l\'Agriculture Biologique.', 'https://static.openfoodfacts.org/images/products/370/123/640/0004/front_fr.4.400.jpg', '40', '23', '25', '22', '', '8.5', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87311495', 'Mints peppermint', 'edulcorants (sorbitol, sucralose, aspartame, acesulfame K), arôme, anitiagglomérant (sel de magnésium d\'acides gras), colorant (bleu brillant FCF)', 'https://static.openfoodfacts.org/images/products/87311495/front.13.400.jpg', '0.3', '0.3', '98', '0', '0.3', '0', '0', '0', '', '1');
+VALUES ('3701236400011', 'Tablette de 18 Carottes', 'Carottes* (65%), beurre de cacao*(35%).  *Ingrédients issus de l\'Agriculture Biologique', 'https://static.openfoodfacts.org/images/products/370/123/640/0011/front_fr.6.400.jpg', '36', '21', '39', '20', '', '3.9', '0.59', '0.232283464566929', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87311785', 'Colis Mentos Rouleau Asso', 'sucre, sirop de glucose, jus de fruits (fraise, citron vert) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, maltodextrine, arômes, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters diacides gras), agents d\'enrobage (cire de carnauba, cire dlabeille), colorants (curcumine, rouge de betterave). Peffetti Van Melle Benelux B.V. P.O. Box 3000 4800 DA Breda Holland. Ten minste houdbaar tot einde. / A consommer de préférence avant fin', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701236400028', 'Tablette de 5 betteraves', '', 'https://static.openfoodfacts.org/images/products/370/123/640/0028/front_fr.4.400.jpg', '36', '21', '43', '32', '', '8.3', '0.71', '0.279527559055118', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87311853', 'Frisk', '', 'https://static.openfoodfacts.org/images/products/87311853/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701236600015', 'Confiture de Fraises', '', 'https://static.openfoodfacts.org/images/products/370/123/660/0015/front_fr.3.400.jpg', '0.5', '0.1', '56', '55', '', '0.5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87313277', 'Barkleys Cinnamon', '', '', '0.7', '0.3', '96', '91', '', '0', '', '', '', '0');
+VALUES ('3701236600091', 'Pur jus de pomme', '', 'https://static.openfoodfacts.org/images/products/370/123/660/0091/front_fr.3.400.jpg', '0.1', '0.1', '14', '13', '', '0.6', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87314540', 'Botergoud gezouten grasboter', '', 'https://static.openfoodfacts.org/images/products/87314540/front_en.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701236600107', 'Jus multi fruit', '', 'https://static.openfoodfacts.org/images/products/370/123/660/0107/front_fr.4.400.jpg', '0.3', '0.1', '12.4', '11.3', '', '0.6', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87314854', 'Rozemarijn gebroken', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701236600367', 'Jus de fruit cyfruileg', '', 'https://static.openfoodfacts.org/images/products/370/123/660/0367/front_fr.3.400.jpg', '0.4', '0.1', '11', '10', '', '0.6', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87315172', 'Zwarte peper molen', 'zwarte peper', 'https://static.openfoodfacts.org/images/products/87315172/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701236600756', 'Pur jus de citron', '', 'https://static.openfoodfacts.org/images/products/370/123/660/0756/front_fr.4.400.jpg', '0.1', '0.1', '8', '8', '', '0.5', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87316674', 'Bière blanche sans alcool 0,0% prénium wit', 'Alc.OO%Vol. de/ Rreferentemente antes fine/', '', '0', '0', '6.4', '3.9', '', '0.3', '0', '0', '', '1');
+VALUES ('3701238820305', 'Spiruline en comprimé', '', 'https://static.openfoodfacts.org/images/products/370/123/882/0305/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87316681', 'Bière Pêche 0%', 'maltée nap{ \'alcool dina de orz, acidifiant piersicâ i 1, 37 ZG odÌy$Wl mL («aiss6L', '', '0', '0', '8.3', '8', '', '0.03', '0', '0', '', '1');
+VALUES ('3701239900082', 'Petit beurre comté', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0082/front_fr.4.400.jpg', '25', '17', '55', '2.8', '', '11', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87316728', 'Bière 0,0% Alcool Framboise et Cerise', '', '', '0', '0', '8.7', '7.5', '', '0.2', '', '', '', '1');
+VALUES ('3701239900259', 'l\'incroyable riz au lait', 'Les 4 ingrédients de votre incroyable riz au lait sont du bon lait entier de vache 71 % et un peu de crème entière des Pays de la Loire 10%, du bon riz de Camargue 9,5%, une pointe de sucre. Et c\'est tout! Lait et crème: origine France.', 'https://static.openfoodfacts.org/images/products/370/123/990/0259/front_fr.3.400.jpg', '', '4', '20', '9', '', '3.4', '0.1', '0.0393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87317466', 'Chewy Dragees', 'Sugar, glucose syrup, hydrogenated vegetable oil, acid (citric acid), watermelon juice (1%), starch, gelling agents (e414, e418), flavouring, emulsifier (sucrose esters of fatty acids), glazing agents (carnauba wax, beeswax), colours (anthocyanins, curcum', '', '2', '', '92', '', '', '0', '0.0762', '0.03', '', '1');
+VALUES ('3701239900273', 'Le Cookie super fin et croustillant', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0273/front_fr.4.400.jpg', '25.1', '16.1', '62.2', '36.9', '', '7', '0.64', '0.251968503937008', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87317503', 'Mentos Fruits Acides', 'sucre, sirop de glucose, acidifiants (acide citrique, acide tartrique), jus de fruits (fraise, pomme, citron vert, cerise) (2%), huile de noix de coco totalement hydrogénée, fécule, maltodextrine, arômes, agents épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (carmins, curcumine, anthocyanes, extrait de paprika).', '', '1.8', '1.8', '91', '68', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701239900396', 'Vache à boire', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0396/front_fr.4.400.jpg', '5.2', '3.3', '11', '10', '', '4', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87317527', 'Mentos Strawberry Mix', 'Verdickungsmittel (Gellan, Ceilulosegummi, Gummi arabicum), Emulgator (Zuckerestf\',r von Speisefettsâuren), l)berzwsmittej Pavmkaextrakt). Nâhrwertangaben pro 1 Energie 1647 kJ / 388 kca/; Fett 1,9 g (davon: gesàttigte O Salz - —x •vedetti Van Melle Benelux B.V., po- Box 3000, 4800 DA Breda, Ho//and.', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701239900532', 'Petits carrés à emporter', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0532/front_fr.4.400.jpg', '25', '15', '63', '29', '', '6.7', '0.75', '0.295275590551181', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87317756', 'Mentos Mint Rol', 'Ingrodiénten: SUiker. gehecA coue kokosvots 20tmee\\. natuudqke mint «URO SPAARWAAROE DE SHOP. OP: (geilanqom, arabische qom), emulgator van WWW.MENTOSMORECOM glansmiddelqn (carnaubawas, bitenwas). Voec%ngswaarde per 100g: energie 1653 kJ / 390 kcal; votton 1 g vetzuren 1 q): koolhydraten 93 g (waarvan: 69 g)\' eiwitton 0 9\', zout g. Bonbons aromatisés menthe. Ingrédienta: sucre, sirop huile de de coco hydroq6n6e, fécule, arômes naturels de menthe, maltodextrine, épaissisgants (gomme gellang, gmvne de cettulosa, 87 arabique), émulsifiant (sucroesters d\'acides g,as), agents d\'enrobage (cire de carnauba, cm d\'abeille). Intumation nutritionnelle pour OOg: énergie 1653 kJ / 390 kcal; matières grasses 1.9 g (dont: acides gras saturés 1.9 g)\' giuc&s (dont q. Portetti Van Melle Benelux B.V , P.O. Box 3000, 4800 DA Breda, Holland. Ten minste tot I A de', '', '100', '1.9', '0.1', '0', '', '0', '0', '0', '', '0');
+VALUES ('3701239900570', 'Tout petits sablés', 'farine de blé, une noix de beurre AOP Charentes - Poitou 26%, une cuillere à soupe de sucre roux de canne 23,5%, une pincée d\'amidon de blé, des oeufs de poules élevées en plein air 5% (jaune d\'oeufs 4%, oeufs entiers 1%), une pointe de sel de Guérande 1,1 %. Et c\'est tout! Gourmand et allergique Contient du gluten, du lait et des oeufs. Dans la biscuiterie sont utilises des fruits à coque, de la moutarde et du soja. Eventuelles traces dans ces tout petits sables de pouks en Mat nour yoir la vie en rose nvez T2 dlevee', 'https://static.openfoodfacts.org/images/products/370/123/990/0570/front_fr.4.400.jpg', '23', '15', '66', '24', '', '6', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87317763', 'Mentos Fruit', 'sucre, sirop de glucose, lus de fruits fraise, range, citron) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), arômes, maltodextrinet épaississants (gomme 8731 7 pllane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters diacides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants *a-carotène, rouge de betterave). Informaüon nuMüonneIle pour 100g: énergie 1648 kJ / 388 kcal; matiè? grasses 1,9 g (dont: acides gras eturé9 1 9 929 (d 0_ ? sel g. Perfetti Van Melle B.V., P.O. BOA 3000, 4800 DA gr a lland Teupinste hou4baarPt einde:/A consommer de préférgve', '', '1.9', '1.9', '92', '69', '0', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701239900594', 'Sablés au citron de Sicile', 'Les ingredients de vos tout petits sablés au Citron de Sicile sont : de la farine de blé, une cuillere à soupe de sucre roux de canne 26%, une noix de beurre 21,2%, une pincée d\'amidon de blé, des oeufs de poules élevées en plein air 5% (jaune d\'oeufs 4%, ceufs entiers 1%), une cuillère de jus concentré de citron de Sicile 2%, une pointe de sel de Guérande 1,1%.Et c\'est tout! Gourmand et allergique ? Contient: du gluten, du lait et des oeufs Dans la biscuiterie sont utilisés des fruits à coqye, de la moutarde et du soja. Eventuelles CEufs traces dans ces tout petits sablés. plein rsur notre site internet mais chuuut levee', 'https://static.openfoodfacts.org/images/products/370/123/990/0594/front_fr.4.400.jpg', '19', '12', '70', '26', '', '6', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87317787', 'Mentos Mentos Air', 'sucre, sirop de glucose, huile de de coco totalement hydrogénée, arômes naturels de menthe et eucalyptus, extrait de réglisse, fécule, maltodextrine, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras, agents d\'enrobage (cire de carnoba, cire d\'abeille).', '', '1.9', '1.9', '92', '69', '', '0.1', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701239900662', 'Tout petits Palmiers au sucre caramélisé', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0662/front_fr.4.400.jpg', '28.5', '18.1', '58.2', '17.6', '', '7.8', '0.45', '0.177165354330709', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8732709084198', 'Secrets de Grand-Mère Tomates, carottes, oignons au basilic', '', '', '0.5', '0.03', '5.6', '2.9', '', '0.9', '0.63', '0.248031496062992', '', '1');
+VALUES ('3701239900686', 'Petit feuilleté Emmental label rouge', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0686/front_fr.4.400.jpg', '28', '20', '59', '2.5', '', '10', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87328196', 'Italiaanse kruiden', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701239900709', 'Petits feuilletés 3 graines', 'Wheat flour, fresh butter 27%, sesame seeds 6.7%, Guerande salt, linseeds 1.7%, poppy seeds 1.3%, Jamaica pepper 0.54% and black pepper. Contains: milk, gluten, sesame. May contain: traces ofsoy, nuts, eggs, peanut, and lupine. Zutaten: Weizenmehl, frische Butter 27%, Sesamsamen 6,7%, Guerande Salz, Leinsamen 1,7%, Mohnsamen 1,3%, Jamaika-Pfeffer0,54% , schwarzer Pfeffer. Enthält: Milch, Gluten, Sesam. Kann Spuren von Soja, Schalenfrüchten, Eier, Erdnüsse und Lupine enthalten. Ingrediënten: Tarwebloem, verse boter 27%, sesamzaad 6.7 % , Guerande zout, lijnzaad 1.7 %, maanzaad 1.3%, Jamaica peper 0.54%, zwarte peper. Bevat: melk, gluten, sesam. Kann sporen van soja, noten, eieren, pindaden en lupine bevatten. ete ca 2', 'https://static.openfoodfacts.org/images/products/370/123/990/0709/front_fr.10.400.jpg', '30', '18', '49', '1.6', '', '9.5', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87328424', '4 Seizoenen pepermaler', 'peperkorrels 94% (witte, zwarte, groene), roze peperbessen 5%, zonnebloemolie', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701239900723', 'L\'incroyable cookie', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0723/front_fr.4.400.jpg', '27', '22.5', '60', '37', '', '4.7', '0.97', '0.381889763779528', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87328509', 'Zeezout gekruid maler', 'zeezout 90%, groenten (paprika, ui), knoflook, _mosterd_zaad, koriander, maanzaad, kruiden 0.4% (rozemarijn, dragon, peterselie)', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701239900860', 'Le cookie super fin et croustillant', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0860/front_fr.3.400.jpg', '25', '15.9', '63', '38.7', '', '6.9', '0.8', '0.31496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87330908', 'Raak Kinder Cola', 'eau minérale, sucre, acide carbonique, colorant:caramel, acidifiant:acide citrique, acide tartirique, arôme, édulcorant', '', '0', '0', '6', '5.9', '0', '0', '0', '0', '', '1');
+VALUES ('3701239900976', 'Infusion a la fleur de sureau pointe de citron', '', 'https://static.openfoodfacts.org/images/products/370/123/990/0976/front_fr.4.400.jpg', '0', '0', '4.2', '4.2', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87330960', 'Raak sirop', '', '', '0', '0', '6.9', '6.7', '', '0', '', '', '', '1');
+VALUES ('3701239901270', 'Test tortillon gruyere', '', 'https://static.openfoodfacts.org/images/products/370/123/990/1270/front_fr.4.400.jpg', '27', '2.5', '49', '4.4', '', '8.7', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87331097', 'Fruits Tropical', '', '', '0', '0', '4.9', '4.7', '', '0', '0', '0', '', '1');
+VALUES ('3701239901331', 'Essai nature', '', 'https://static.openfoodfacts.org/images/products/370/123/990/1331/front_fr.3.400.jpg', '10', '9.1', '6.5', '1.3', '', '1.1', '0.35', '0.137795275590551', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8733131210308', 'Napolitain', 'Farine de _blé_ 24,5%, sucre, huile de palme, sirop de glucose-fructose, chocolat en poudre 6,7% (sucre, cacao en poudre), _œufs_, stabilisant (glycérol), lactosérum en poudre (de _lait_), margarine [huile de palme, eau, huile de colza, émulsifiant (E471), correcteur d\'acidité (citrate de sodium), acidifiant (acide citrique), colorant (bêta-carotène)], sirop de glucose, arômes (contient alcool), cacao maigre en poudre, poudre à lever (carbonate acide d\'ammonium), beurre de karité, sel, émulsifiants (E472b, E472a, lécithine de _soja_), _lait_ écrémé en poudre, _beurre_ pâtissier, conservateur (sorbate de potassium), huile de tournesol, colorant (E160a).', '', '20', '8.9', '58', '34', '2', '4.2', '0.24', '0.094488188976378', '', '0');
+VALUES ('3701239901348', 'Essai vanille', '', 'https://static.openfoodfacts.org/images/products/370/123/990/1348/front_fr.3.400.jpg', '8.9', '8', '10', '5', '', '0.9', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87332025', 'Sandwiches bacon & ei', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701239901355', 'Essai passion', '', 'https://static.openfoodfacts.org/images/products/370/123/990/1355/front_fr.3.400.jpg', '8', '7.2', '14', '9.2', '', '1.1', '0.28', '0.110236220472441', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333046', 'Mentos Chlorophylle X40', 'Ingrédients: sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, fécule, maltodextrine, arôme naturel de menthe, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (anthocyanes, bêta-carotène).', '', '1.9', '1.9', '93', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701239901379', 'Essai muesli', '', 'https://static.openfoodfacts.org/images/products/370/123/990/1379/front_fr.3.400.jpg', '8.7', '7', '11', '7', '', '1.4', '0.27', '0.106299212598425', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333114', 'Mentos Say hello Framboise Orange', 'sucre, sirop de glucose, jus de fruits (orange, framboise) (2%), huile de noix de coco totalement hydrogénée, acidifiant (acide citrique), fécule, arômes, maltodextrine, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d\'acides gras), agents d\'enrobage (cire de carnauba, cire d\'abeille), colorants (carmins, bêta-carotène).', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701247410146', 'Confiture Abricot Fleur d\'Oranger', '', 'https://static.openfoodfacts.org/images/products/370/124/741/0146/front_fr.4.400.jpg', '0.5', '0.1', '56', '55', '', '0.9', '0.005', '0.00196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333121', 'AirMentos', 'sucre, sirop de glucose, huile de noix de coco totalement hydrogénée, arômes naturels de menthe et eucalyptus, extrait de réglisse, fécule, maltodextrine, épaississants (gomme gellane, gomme de cellulose, gomme arabique), émulsifiant (sucroesters d’acides gras), agents d’enrobage (cire de carnauba, cire d’abeille)', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701247420022', 'Pâte à tartiner chocolat noir cacahouete', '', 'https://static.openfoodfacts.org/images/products/370/124/742/0022/front_fr.4.400.jpg', '52', '13', '23', '18', '', '13', '0.34', '0.133858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333312', 'Mentos pomme', '', '', '1.8', '1.8', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701247420046', 'Pate à tartiner chocalat noir pralin', '', 'https://static.openfoodfacts.org/images/products/370/124/742/0046/front_fr.4.400.jpg', '52', '12', '26', '22', '', '11', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333367', 'Mentos citron', '', '', '1.9', '1.9', '92', '69', '', '0', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701247420060', 'Chocolat au lait noisette', '', 'https://static.openfoodfacts.org/images/products/370/124/742/0060/front_fr.4.400.jpg', '53', '11', '25', '22', '', '12', '0.11', '0.0433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333824', 'Sport Water lemon', '', '', '0', '0', '0', '0', '', '0', '0.03', '0.0118110236220472', '', '1');
+VALUES ('3701247500069', 'Crème dessert chocolat', '', 'https://static.openfoodfacts.org/images/products/370/124/750/0069/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333831', 'Eau minéral', 'Eau', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3701248400887', 'Tofu', '', 'https://static.openfoodfacts.org/images/products/370/124/840/0887/front_fr.4.400.jpg', '1.9', '0.3', '2.3', '1.2', '', '4.5', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333848', 'Eau petillante', 'Bar-le-Duc eau minérale naturelle avec gaz carbonique ajouté', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3701250100003', 'Grande Source du VOLCAN', '', 'https://static.openfoodfacts.org/images/products/370/125/010/0003/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0.014', '0.00551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87333855', 'Bar le duc 0.5 L', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('3701250700043', 'Sardines poivre sauvage de re', '', 'https://static.openfoodfacts.org/images/products/370/125/070/0043/front_fr.4.400.jpg', '29.6', '4.6', '0.5', '0.5', '', '19.3', '0.97', '0.381889763779528', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8733496903990', 'Wheat Flour Tortilla Wraps', '', '', '9.6', '1.1', '51.9', '3.2', '', '9.1', '1.9', '0.748031496062992', '', '0');
+VALUES ('3701250700067', 'Sardines', '', 'https://static.openfoodfacts.org/images/products/370/125/070/0067/front_fr.4.400.jpg', '15', '4.1', '0.2', '0.2', '', '20.8', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87336504', 'Champignons chinois', '', '', '0.2', '0.1', '3.5', '3.5', '', '2.4', '0.9', '0.354330708661417', '', '1');
+VALUES ('3701250700142', 'Sardines huile d\'olives bio', '', 'https://static.openfoodfacts.org/images/products/370/125/070/0142/front_fr.4.400.jpg', '14.5', '3.5', '0.5', '0.5', '', '24.8', '0.91', '0.358267716535433', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87338621', 'Sirop de Fruits / Citron', '', '', '0', '0', '6.9', '6.7', '', '0', '', '', '', '1');
+VALUES ('3701251001101', 'Huile d\'olive vierge extra', '', 'https://static.openfoodfacts.org/images/products/370/125/100/1101/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87338638', 'Sirop', '', '', '0', '0', '0.3', '0.2', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3701251001200', 'Huile d olive vierge extra', '', 'https://static.openfoodfacts.org/images/products/370/125/100/1200/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87338683', 'Boisson hypotonique', '', '', '0', '0', '0.2', '0', '', '0', '0', '0', '', '1');
+VALUES ('3701251002207', 'Huile d\'olive extra vierge', '', 'https://static.openfoodfacts.org/images/products/370/125/100/2207/front_fr.4.400.jpg', '91.5', '12.6', '0', '0', '', '0', '0.0025', '0.000984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87338690', 'Eau minerale gazeuse framboise', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('3701257300024', 'Terrine Normande', '', 'https://static.openfoodfacts.org/images/products/370/125/730/0024/front_fr.4.400.jpg', '29.09', '9.82', '5.79', '2.36', '', '10.42', '1.26', '0.496062992125984', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87342444', 'Zéro café Peach on the beach', 'Cremosa granita alla pesca e alla fragola, guarnita con gelato alla vaniglia. Ingredienti: LATTE scremato reidratato, acqua, sciroppo di glucosio-fruttosio, sciroppo di glucosio, purea di pesca (11%), purea di fragola (4%), LATTOSIO e protelne del LATTE, olio di cocco, succo di limone concentrato, latte scremato in polvere, addensanti (carragenina, gomma di guar), aroma naturale di vaniglia, aromi, emulsionanti (mono- e digliceridi degll acidi grassi), coloranti (caroteni). Senza glutine.', '', '1.5', '1.3', '21', '18', '', '1.3', '0.07', '0.0275590551181102', '', '1');
+VALUES ('3701257300031', 'Terrine Normande', '', 'https://static.openfoodfacts.org/images/products/370/125/730/0031/front_fr.4.400.jpg', '29.09', '9.82', '5.79', '2.36', '', '10.42', '1.26', '0.496062992125984', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8735967636543', 'Sauce', 'Water, high fructose corn syrup, salt, modified corn starch, extract of soya beans, oyster extract, yeast extract, wheat flour, caramel color, sodium benzoate, citric acid.', '', '0', '0', '22.22', '16.67', '0', '0', '10.86612', '4.278', '', '0');
+VALUES ('3701257300055', 'Rillettes de maquereaux aux salicornes', '', 'https://static.openfoodfacts.org/images/products/370/125/730/0055/front_fr.4.400.jpg', '11.36', '3.31', '17.17', '1.66', '', '9.69', '1.29', '0.507874015748031', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8736121211064', 'Pain d\'épices tranché', 'Sirop de sucre de canne inverti*, miel de fleurs 25 %*, farine de _seigle_*, 20%, œufs entiers 13,5 %, farine de _blé_*10%, poudre à lever : carbonates de sodium, épices 0,61 %, cannelle*, anis*). *Ingrédients issus de l\'agriculture biologique.', '', '2', '0.3', '66.1', '37', '4.6', '4.6', '0.42', '0.165354330708661', '', '0');
+VALUES ('3701257300123', 'Rillettes de saumon', '', 'https://static.openfoodfacts.org/images/products/370/125/730/0123/front_fr.4.400.jpg', '8.8', '2.72', '18.16', '1.91', '', '13.02', '0.97', '0.381889763779528', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8736363593560', 'Nutella', '', '', '30.9', '10.6', '57.5', '56.3', '', '6.3', '0.107', '0.0421259842519685', '', '0');
+VALUES ('3701257300215', 'Soupe de poissons', 'eau, poissons (28% - grondins, tacauds, congres), étrilles, vin blanc, tomates. oignons, carottes, poireaux, fenouil, thym, laurier, ail sel,poivre, safran.', 'https://static.openfoodfacts.org/images/products/370/125/730/0215/front_fr.4.400.jpg', '0.8', '0', '1.7', '1.1', '', '4.6', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8736567593465', 'Ma Panna Cotta', '', '', '0.1', '0', '80', '76', '', '4.6', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3701257300239', 'Rillettes pur porc au sel de Guérande', 'viande de porc (62%), gras de porc, vin blanc (sulfite), sel de Guérande, poivre, muscade', 'https://static.openfoodfacts.org/images/products/370/125/730/0239/front_fr.4.400.jpg', '31.8', '11.4', '1.6', '0.9', '', '10.8', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8738479555210', 'Râpé de la mer', 'À BASE DE CHAIR DE POISSON SAVEUR CRABE', '', '4.4', '0.3', '10.8', '1.9', '', '7.9', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701259100042', 'Purée de pomme avec morceaux', '', 'https://static.openfoodfacts.org/images/products/370/125/910/0042/front_fr.4.400.jpg', '0.5', '0.1', '13', '11', '', '0.3', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('873922711677', '12 Knodel Bayrisch', 'Ingredients: dehydrated potatoes, potato starch, potato starch modified, iodlzed salt, mono- and diglyceridee of fatty acids (emulsifier), artificial flavor, sodium metablsulfite (preservative), colors (tumeric, riboflavin)', '', '0', '0', '75', '0', '7.1', '3.57', '2.81178', '1.107', '', '0');
+VALUES ('3701259100073', 'Jus de pomme', '', 'https://static.openfoodfacts.org/images/products/370/125/910/0073/front_fr.4.400.jpg', '0.5', '0.1', '12', '11', '', '0.3', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87409300021', 'Pea Flour', 'Pea flour', '', '0', '0', '41.59', '0', '0.9', '18.58', '0', '0', '', '1');
+VALUES ('3701259800768', 'Crème choco', '', 'https://static.openfoodfacts.org/images/products/370/125/980/0768/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('874492003221', 'Milk Chocolate', 'Cocoa butter*+, peanut butter (roasted peanuts)*, sugar*+, cocoa beans*+, powdered sugar (sugar, non-gmo cornstarch)*+, milk powder*, peanut flour (roasted peanuts)*, salt, rosemary extract (vegetable oil, rosemary extract)*[caret], ground vanilla bean*+.', '', '30.56', '16.67', '44.44', '33.33', '2.8', '13.89', '0.14224', '0.056', '', '0');
+VALUES ('3701260600012', 'Thé vert (menthe, citron, gingembre)', '', 'https://static.openfoodfacts.org/images/products/370/126/060/0012/front_fr.4.400.jpg', '0', '0', '3.7', '3.3', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8748550090646', 'Le Sucre d’Érable Bio', '100% sirop d’érable pur', 'https://static.openfoodfacts.org/images/products/874/855/009/0646/front.6.400.jpg', '0', '0', '91', '91', '0', '0', '0', '0', '', '0');
+VALUES ('3701260600036', 'Jomo', '', 'https://static.openfoodfacts.org/images/products/370/126/060/0036/front_fr.4.400.jpg', '0', '0', '4', '3.7', '', '0.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87521300008', 'Dubbel bruin', 'zuiver bronwater, hop- en moutsoorten, gerstemout', 'https://static.openfoodfacts.org/images/products/875/213/000/08/front.13.400.jpg', '', '', '', '', '', '', '', '', '6.5', '0');
+VALUES ('3701261000002', 'Creme dessert chocolat', '', 'https://static.openfoodfacts.org/images/products/370/126/100/0002/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8754160001552', 'Ouassous entier', '', '', '0.2', '0', '15.7', '9.7', '', '6.9', '1.7', '0.669291338582677', '', '0');
+VALUES ('3701261800084', 'Beurre de ferme demi sel', 'crème, ferments lactiques (Sel de Guérande ajouté 2 % maxi )', 'https://static.openfoodfacts.org/images/products/370/126/180/0084/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('875444', 'Lhhgf', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701263600088', 'La miellée de la forêt', '', 'https://static.openfoodfacts.org/images/products/370/126/360/0088/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('875700050112', 'Fruit Snacks, Grape', 'Peach puree, papaya puree, cane sugar, red grape juice concentrate, carrageenan, locust bean gum, natural flavors, potassium citrate, citric acid, ascorbic acid (to promote color retention), and sodium metabisulfite (preservative).', '', '0', '0', '80', '76.67', '3.3', '0', '0.42418', '0.167', '', '0');
+VALUES ('3701265000008', 'Chocolat  lait fourré praliné', '', 'https://static.openfoodfacts.org/images/products/370/126/500/0008/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('875754003039', 'Sandwich Cookies', 'Wheat flour, chocolate flavored filling (30%) [sugar, vegetable oil shortening (partially hydrogenated palm), cocoa powder, whey, cocoa liquor, whey permeate, corn starch,natural flavors and emulsifiers: soy lecithin (ins 322) and sorbitan triestearate (i', '', '21.21', '12.12', '66.67', '33.33', '3', '6.06', '0.35306', '0.139', '', '0');
+VALUES ('3701265000015', 'Coffret', '', 'https://static.openfoodfacts.org/images/products/370/126/500/0015/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87602004185', 'Bar', 'Organic sunflower seed butter, organic brown rice protein, organic crispy brown rice, organic rice bran, organic blue amber agave, organic pea fiber, organic chocolate liquor, monk fruit extract.', '', '8.93', '0.89', '37.5', '10.71', '17.9', '19.64', '0.13716', '0.054', '', '1');
+VALUES ('3701265000060', 'BIO Tablette Noire Orange Confite', '', 'https://static.openfoodfacts.org/images/products/370/126/500/0060/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('876314003016', 'Crostini', 'Wheat flour, olive pomace oil, extra virgin olive oil, sea salt, dehydrated garlic, brewer\'s yeast, wheat malt.', '', '12.5', '1.79', '67.86', '3.57', '3.6', '10.71', '2.72034', '1.071', '', '0');
+VALUES ('3701265000138', 'Comptoir du cacao', '', 'https://static.openfoodfacts.org/images/products/370/126/500/0138/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8764563452202', 'Crackers aux olives', 'Eau, fécule de pomme de terre*, crème de riz*, amidon de maïs*, olives noires* 10%, huile d\'olive exta-vierge*, émulsifiant : lécifrine de tournesol, sirop de glucose* (mais), poudre levante : bicarbonate de sodium, sel, épaississant : gomme de guar, sucre de canne blond*. *ingrédients issus de l\'agriculture biologique.', '', '12', '1.3', '78', '1.2', '3', '2.6', '2.32', '0.913385826771653', '', '0');
+VALUES ('3701265000213', 'Tablette blonde de pâques', '', 'https://static.openfoodfacts.org/images/products/370/126/500/0213/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87666666', 'Viande', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701265100036', 'myVeggie VM', '', 'https://static.openfoodfacts.org/images/products/370/126/510/0036/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('876958618376', 'Organic Steel Cut Oats', 'Organic steel cut oats.', '', '6.67', '0', '68.89', '2.22', '8.9', '13.33', '0', '0', '', '1');
+VALUES ('3701265844466', 'My veggie VM', '', 'https://static.openfoodfacts.org/images/products/370/126/584/4466/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8770301194600', 'Gichu-garu', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('3701268000005', 'Spaghetti konjac et avoine', '', 'https://static.openfoodfacts.org/images/products/370/126/800/0005/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0.2', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8770838064889', 'Just au Four Classique', 'Pommes de terre (88,5%), huile de tournesol (6%), enrobage (5,5%) : farine de _blé_, farine de riz, amidon de maïs, sel, dextrine de pomme de terre, poudre à lever : carbonates de sodium, colorants : curcumine, extrait de paprika.', 'https://static.openfoodfacts.org/images/products/877/083/806/4889/front.9.400.jpg', '6', '0.7', '24.5', '0.5', '3', '2.5', '0.5', '0.196850393700787', '', '1');
+VALUES ('3701268000029', 'Riz konjak et avoine', '', 'https://static.openfoodfacts.org/images/products/370/126/800/0029/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0.2', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8772100817063', 'Riz & Quinoa', 'riz : 61 quinoa rouge : légumes : i NC (carotte : 4,6%, tomate, haricot vert : 2%, poivron épinard), épices et aromates : 5,3% (ail, coriandre, rouge : citronnet[er gingembre, poivre, cumin, poivre de Cayenne, Écilles de combava), amidon de pois, graisse de palme, sucre/ lait de coco, sel, ,extrait de levure, arômes naturels, jus de légumes concentrés (CELERI, carotte : 0,05%, poireau, oignon), maltodextrifie, protéines de LAIT, sirop de glucose, acidifiant : acide cittique. Peut contenir : gluten. Mélange d\'oignon frit et de croûton (5 g) - Ingrédients : oignon frit : 67% (oignon : 57%, huile de tournesol), croûton : (farine de BLEI huile de palme, assaisonnement (farine de riz, sel, dextrose, extrait de levure, ail en poudre : 1%, oignon en poudre : 0,4%, acidifiant : acide citrique, romarin : 0,02%1 sel p?w69ge levure). Peut contenir : céleri, lait. 4 III (III', '', '2.7', '1.4', '20', '3.4', '1.8', '2.5', '0.44', '0.173228346456693', '', '1');
+VALUES ('3701268000050', 'Spaghetti konjac et avoine', '', 'https://static.openfoodfacts.org/images/products/370/126/800/0050/front_fr.4.400.jpg', '0.1', '0.1', '8.4', '0.5', '', '0.1', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8772700878044', 'Moutarde', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701268000067', 'RIz konjac et avoine', '', 'https://static.openfoodfacts.org/images/products/370/126/800/0067/front_fr.11.400.jpg', '0', '0', '8.4', '0.5', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8773868455573', 'Champignons surgelés', '', '', '0.1', '0', '0.4', '0.2', '', '2.3', '0.015', '0.00590551181102362', '', '1');
+VALUES ('3701268000098', 'Noodle konjac & avoine', '', 'https://static.openfoodfacts.org/images/products/370/126/800/0098/front_fr.4.400.jpg', '0.1', '0.1', '8.4', '0.5', '', '0.1', '0.001', '0.000393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8775700137739', 'Heinz Beanz', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701269300432', 'Pâte à tartiner châtaigne cacao', '', 'https://static.openfoodfacts.org/images/products/370/126/930/0432/front_fr.4.400.jpg', '1.4', '0.3', '66.3', '51.9', '', '1.4', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8776238368015', 'Madeleines', 'G rosse : huiles ( oléique, (ln oeufs, :tabljisant 8120 a20i poudro à lever dir iv(lteur E200 fi0dium, sel VALCURS • (netçlje : tvtattètes g:asses 79 , aturég : Glucides : : 24 Proteines : 5 sa : 0,29 cars', '', '19.7', '1.9', '52.4', '24.9', '1.3', '5.5', '0.2', '0.078740157480315', '', '1');
+VALUES ('3701269300463', 'Limonade aromatisée à la myrtille', '', 'https://static.openfoodfacts.org/images/products/370/126/930/0463/front_fr.4.400.jpg', '0.5', '0.1', '7', '7', '', '0.5', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8780643003478', 'Pad thai sauce', 'SUGAR, WATER, ONJON, soy BEAN OIG ROASTED / por GARLIC, SALT, SHRIMP ARTIFICIAL FLAVOUR, soy SAUCE POWDER (SOY BEAN, SALT, WHEAT), ACIDITYREGULATOR (E330), CHILI, COLOUR (E160c). FORALLERGENS INGREDIENTS IN BOLD. IN A FACUITY THAT USES SESAME AND SEAFOOD, STORE INACOOL PLACE. ONCE OPENED, KEEP REFRIGERATED DAYs DANS UN ENDRPIT FRAIS ET SEC. APRÈS OUVERTURE, RÉFR!GERATEIJR ET CONSOMMER SOUS 30 JOURS, htWlwww nrinstam.net 8850643 003478', '', '5', '1', '41', '33', '0.9', '3.2', '4.4', '1.73228346456693', '', '0');
+VALUES ('3701274800002', 'Pumpking in the north', '', 'https://static.openfoodfacts.org/images/products/370/127/480/0002/front_fr.4.400.jpg', '5.7', '0.9', '8.7', '1.8', '', '7.2', '0.45', '0.177165354330709', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8782116790014', 'Premium lait coco', '', '', '18', '16', '2.8', '1.8', '', '1.1', '0.06', '0.0236220472440945', '', '1');
+VALUES ('3701275400027', 'Lapin chasseur', '', 'https://static.openfoodfacts.org/images/products/370/127/540/0027/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8782700729987', '2 Meunières Tradition', '_Colin_ d\'Alaska* 80% (_poisson_), eau, chapelure (farine de _blé_, eau, levure, sel), farine de _blé_, amidon de pomme de terre, sel, _œuf_ en poudre, farine de riz, persil 0,1%. * Malgré tout le soin apporté à la préparation produit, il est possible qu\'il contienne encore quelques arêtes.    ', '', '0.7', '0.2', '8.9', '0.4', '0.4', '14.8', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701276600907', 'Cookelli Chcolat Noisettes Corses', '', 'https://static.openfoodfacts.org/images/products/370/127/660/0907/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8787395439586', 'Chocolat au lait aux amandes entières', '', '', '41.7', '17.7', '42.8', '38.8', '', '11.8', '0.19', '0.0748031496062992', '', '0');
+VALUES ('3701281300144', 'Basaltik blonde', '', 'https://static.openfoodfacts.org/images/products/370/128/130/0144/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87874402', 'Schweppes zéro lemon', '', 'https://static.openfoodfacts.org/images/products/87874402/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701281300298', 'Sulfurik', '', 'https://static.openfoodfacts.org/images/products/370/128/130/0298/front_fr.4.400.jpg', '', '', '', '', '', '', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8788536593464', 'Pain complet 100/100 mie', '', '', '4.3', '0.4', '39.7', '4.3', '', '7.2', '1.09', '0.429133858267717', '', '0');
+VALUES ('3701281400028', 'Granola Noisette du Piemont', '', 'https://static.openfoodfacts.org/images/products/370/128/140/0028/front_fr.4.400.jpg', '12.6', '2.1', '66', '11.4', '', '10.4', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8789133900372', 'Jambon cuit supérieur decouenne', '', '', '3', '1', '0.9', '0.7', '', '21', '2', '0.78740157480315', '', '0');
+VALUES ('3701281400110', 'Granola', 'flocons d\'avoine produits en Lorraine*, miel produit en Lorraine*. *Produits issus de l\'agriculture biologique', 'https://static.openfoodfacts.org/images/products/370/128/140/0110/front_fr.4.400.jpg', '6', '1', '69', '12', '', '10', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8791197826017', 'Kékette Extra Large', 'Bière (_malt d\'orge_, houblon, eau), épices.', 'https://static.openfoodfacts.org/images/products/879/119/782/6017/front.23.400.jpg', '', '', '', '', '', '', '', '', '6.2', '0');
+VALUES ('3701281400127', 'Or brun', '', 'https://static.openfoodfacts.org/images/products/370/128/140/0127/front_fr.4.400.jpg', '20.9', '4.15', '49.2', '12.1', '', '12.6', '0.15', '0.0590551181102362', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('879147009028', 'Tuna Salad', 'Tuna (light tuna, water, vegetable broth (contains soy), salt), salad dressing (canola oil, water, sugar, distilled vinegar, corn vinegar, egg yolks, food starch modified, contains less than 2% of: salt, spices, paprika, natural flavors), celery, red wine', '', '8.93', '0', '7.14', '0', '0', '14.29', '1.45034', '0.571', '', '0');
+VALUES ('3701281400134', 'Granola terre et mer', '', 'https://static.openfoodfacts.org/images/products/370/128/140/0134/front_fr.4.400.jpg', '21.5', '2.4', '40.5', '2.3', '', '16.7', '1.98', '0.779527559055118', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('879147009458', 'Roasted Sweet Potato Salad', 'Roasted sweet potatoes, mayonnaise (soybean oil, egg yolk, water, high fructose corn syrup, vinegar, contains less than 2% of: salt, spice, calcium disodium edta to protect flavor), green pepper strips (green peppers, water, sugar, salt, citric acid and c', '', '16.43', '1.79', '17.86', '0', '3.6', '0', '1.72466', '0.679', '', '0');
+VALUES ('3701281500001', 'Epeautre', '', 'https://static.openfoodfacts.org/images/products/370/128/150/0001/front_fr.4.400.jpg', '2.2', '0.3', '22.6', '3.7', '', '5.8', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8792100369676', 'Yellow label tea', '', 'https://static.openfoodfacts.org/images/products/879/210/036/9676/front.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701281500018', 'Risotto', '', 'https://static.openfoodfacts.org/images/products/370/128/150/0018/front_fr.4.400.jpg', '2.2', '0.3', '21.4', '2.2', '', '4.3', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87926002211', 'Chocomaker, Choco Bites, Dark Chocolate', 'Dark chocolate flavored compound coating: (sugar, hydrogenated palm kernel oil and palm kernel oil, cocoa powder (processed with alkali), soya lecithin (an emulsifier), whey powder and salt, mint filling: (fondant, sugar, corn syrup, water and peppermint', '', '20', '17.5', '72.5', '65', '2.5', '0', '0.09652', '0.038', '', '0');
+VALUES ('3701281500025', 'Curry', '', 'https://static.openfoodfacts.org/images/products/370/128/150/0025/front_fr.4.400.jpg', '1.7', '0.2', '18.2', '5.5', '', '3.8', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8792730560047', 'Préparation pour brioche ', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701281500032', 'CHILI', '', 'https://static.openfoodfacts.org/images/products/370/128/150/0032/front_fr.4.400.jpg', '1.7', '0.2', '14.7', '2.7', '', '5.6', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8794032003826', 'Poelee ensoleillée', '', '', '5.2', '0.7', '9.6', '1.9', '', '1.9', '0.6', '0.236220472440945', '', '1');
+VALUES ('3701281500049', 'Butternut quinoa cumin', '', 'https://static.openfoodfacts.org/images/products/370/128/150/0049/front_fr.4.400.jpg', '2.5', '0.3', '13.8', '2.2', '', '4.3', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8794049790214', 'Pain mie à la farine complète', '', '', '4.9', '0.5', '50', '6.2', '', '6.3', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701283500009', 'Cru et nu', 'beurre de cacao cru&quot;, cacao cru, sucre de coco &quot;Ingrédients issus de l\'agriculture biologique. Fabriqué dans un atelier qui utilise des noix de pécan.', 'https://static.openfoodfacts.org/images/products/370/128/350/0009/front_fr.4.400.jpg', '54.6', '34.3', '35.45', '24.11', '', '6.97', '0.09', '0.0354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8794275570338', 'Riz facon zanzibar', '', '', '3', '0.5', '65', '6.4', '', '12', '2.1', '0.826771653543307', '', '0');
+VALUES ('3701283500016', 'Bel amant', 'beurre de cacao cru, cacao cru sucre de coco&quot;, éclats de fèves de cacao cru', 'https://static.openfoodfacts.org/images/products/370/128/350/0016/front_fr.4.400.jpg', '55.15', '34.07', '32.7', '18.2', '', '8.28', '0.069', '0.0271653543307087', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8795229004763', 'Хлеб «Скандинавский» ржаной', '', '', '2.6', '', '42.1', '', '', '8', '', '', '', '1');
+VALUES ('3701283500023', 'Chocolat cru', '', 'https://static.openfoodfacts.org/images/products/370/128/350/0023/front_fr.4.400.jpg', '49.2', '30.55', '38.69', '26.37', '', '7.17', '0.185', '0.0728346456692913', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8798032890424', 'Condimento ahumado ', '', 'https://static.openfoodfacts.org/images/products/879/803/289/0424/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701283500047', 'Olé', '', 'https://static.openfoodfacts.org/images/products/370/128/350/0047/front_fr.4.400.jpg', '56', '28', '34', '27', '', '6', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('87992304', 'Fraises', '', '', '1', '1', '1', '1', '', '1', '1', '0.393700787401575', '', '1');
+VALUES ('3701283500108', 'Divin chocolat', '', 'https://static.openfoodfacts.org/images/products/370/128/350/0108/front_fr.4.400.jpg', '41.66', '25.87', '43.59', '23.66', '', '7.43', '0.09', '0.0354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8800209675168', 'Organic extra virgin coconut oil', '', '', '99.88', '93.9', '0', '0', '', '0', '', '', '', '0');
+VALUES ('3701283840563', 'Potion rose', '', 'https://static.openfoodfacts.org/images/products/370/128/384/0563/front_fr.5.400.jpg', '2.92', '0.01', '58.5', '16.5', '', '13.3', '0.57', '0.224409448818898', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88004396', '콩두유', '', 'https://static.openfoodfacts.org/images/products/88004396/front.3.400.jpg', '6', '1.1', '10', '7', '', '6', '0.381', '0.15', '', '1');
+VALUES ('3701283840594', 'Potion verte', '', 'https://static.openfoodfacts.org/images/products/370/128/384/0594/front_fr.4.400.jpg', '3', '0.01', '52', '12', '', '16.02', '0.51', '0.200787401574803', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('88005362', 'Bière', 'malt d\'orge, malt, amidon, eau', 'https://static.openfoodfacts.org/images/products/88005362/front.11.400.jpg', '', '', '', '', '', '', '', '', '4.5', '0');
+VALUES ('3701284000003', 'Jus de grenade', '', 'https://static.openfoodfacts.org/images/products/370/128/400/0003/front_fr.4.400.jpg', '0', '0', '13', '12', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005000222', 'Wakame-Seetang, getrocknet', 'Wakame-Seetang, getrocknet', '', '0.5', '0.1', '2.5', '0.5', '', '20', '20.1', '7.91338582677165', '', '0');
+VALUES ('3701284901010', 'Beurre de cacahuètes à la cannelle', '', 'https://static.openfoodfacts.org/images/products/370/128/490/1010/front_fr.4.400.jpg', '42', '6', '19', '14', '', '26', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005000451', 'Sempio Green Tea Soba Noodle', '', '', '0.5', '0', '75', '3', '', '10', '2.9', '1.14173228346457', '', '0');
+VALUES ('3701284901027', 'Beurre d\'amande a la noisette', '', 'https://static.openfoodfacts.org/images/products/370/128/490/1027/front_fr.4.400.jpg', '50', '4', '17', '16', '', '16', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005000611', 'Sempio Dried Laver for Sushi and Roll', 'dried laver', 'https://static.openfoodfacts.org/images/products/880/100/500/0611/front_en.8.400.jpg', '0', '0', '2', '0', '0', '2', '0', '0', '', '1');
+VALUES ('3701284901034', 'Beurre de noix de cajou', '', 'https://static.openfoodfacts.org/images/products/370/128/490/1034/front_fr.4.400.jpg', '45', '13', '29', '17', '', '16', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005104043', 'Stir 500ML Boiled Soy Sauce For Flavor Sempio', '', '', '0', '0', '33', '30', '', '5', '12.8', '5.03937007874016', '', '0');
+VALUES ('3701285300058', 'Tantôt', '', 'https://static.openfoodfacts.org/images/products/370/128/530/0058/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005105200', 'Sauce Soja', 'Eau, _Soja_, sel, sirop de maïs, alcool, farine de _blé_, benzoate de sodium, extrait de levure, sucralose.', '', '0', '0', '5', '5', '0', '6', '13.6', '5.35433070866142', '', '0');
+VALUES ('3701285800008', 'Chocolat a tartiner', 'LAIT concentré sucré, chocolat 17% Peut contenir des traces de FRUITS À COQUE et D\'ARACHIDES.', 'https://static.openfoodfacts.org/images/products/370/128/580/0008/front_fr.4.400.jpg', '11', '7', '54', '53', '0', '7', '0.22', '0.0866141732283465', '0', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005105729', 'Sempio Soy Sauce Jin S', '', '', '0', '0', '7', '4', '', '7', '16', '6.2992125984252', '', '0');
+VALUES ('3701285800022', 'Chocolat blanc pistache', '', 'https://static.openfoodfacts.org/images/products/370/128/580/0022/front_fr.4.400.jpg', '13', '7', '52', '52', '', '8', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005107006', 'Sempio Jinganjang Gold -S', '', '', '0', '0', '6', '5', '', '7', '13.4', '5.2755905511811', '', '0');
+VALUES ('3701286555259', 'Tarti noix bio', '', 'https://static.openfoodfacts.org/images/products/370/128/655/5259/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005109215', 'Sempio Soy Sauce For Soup', '', '', '0', '0', '7', '3', '', '8', '19', '7.48031496062992', '', '0');
+VALUES ('3701286600003', 'Le Camemvert', '', 'https://static.openfoodfacts.org/images/products/370/128/660/0003/front_fr.4.400.jpg', '29.9', '4.8', '13.6', '2.7', '', '13.2', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005112314', 'Sempio, Soy Sauce', 'Water, defatted soybean, wheat, salt, spirits, high-fructose corn syrup, yeast extract, licorice extract, sucralose.', '', '0', '0', '13.33', '13.33', '0', '13.33', '15.91818', '6.267', '', '0');
+VALUES ('3701286600010', 'Le Camenvert', '', 'https://static.openfoodfacts.org/images/products/370/128/660/0010/front_fr.4.400.jpg', '29.9', '4', '13.6', '2.7', '', '13.2', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005118002', 'Sempio Naturally Brewed Soup Soy Sause For Soup - Chosun (wheat Free)', 'Sojasauce, Sauce de Soja, Chosun Inhalt/ Netto Gewicht/ (FR) soja, sel (DE) Mindestens haltbar bis : siehe (NL) Houdbaarheidsdatum : zie (FR) Avant Fin : Voir Date sur femballage (DE) Uroprungsland : Republik Korea/ (NL) Land van Herkomst : Zuid-Korea (FR) Pays d\'origine : RepubliquedeCorée INTER-BURGONETHEUNDSBIV Vareseweg 13047 at Rotterdam theNethà± Tel : 010 437 {399', '', '0', '0', '8', '0', '0', '7', '20.2', '7.95275590551181', '', '0');
+VALUES ('3701286600027', 'Le Carré', '', 'https://static.openfoodfacts.org/images/products/370/128/660/0027/front_fr.4.400.jpg', '25.4', '18.6', '0.8', '0.6', '', '10', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005123495', 'Sempio Crispy Seaweed Snack', '', '', '0', '0', '50', '3', '', '50', '2', '0.78740157480315', '', '0');
+VALUES ('3701286600034', 'La Carrée', '', 'https://static.openfoodfacts.org/images/products/370/128/660/0034/front_fr.4.400.jpg', '25', '18', '0', '0', '', '10', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005139816', 'Bloc de soupe a Pâte de Soja ,miso', '', '', '2', '1', '76', '32', '', '6', '5', '1.96850393700787', '', '0');
+VALUES ('3701286600041', 'Camemvert', '', 'https://static.openfoodfacts.org/images/products/370/128/660/0041/front_fr.4.400.jpg', '29.3', '4.8', '14', '3.2', '', '13.1', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005149525', 'Doen Jang Soybean Sauce', 'Soybean, salt, distilled alcohol (derived from agricultural products), parched soybean powder, water, koji starter mustard powder, bacillus culture fluid.', '', '5.56', '5.56', '16.67', '11.11', '5.6', '11.11', '12.48918', '4.917', '', '0');
+VALUES ('3701286600058', 'la carrée', 'TOFU* (FEVES DE SOJA*, EAU, NIGAR), TOFU LACTOFERMENTE* AUX BAIES ROSES (FEVES DE SOJA*, EAU, FERMENTS PAPRIKA*, EPICES* DONT BAIES ROSES*, OIGNON*, AIL*, POIVRES*), HUILE DE COCO DESODORISEE*, JUS DE CITRON FRAIS*, VINAIGRE DE CIDRE*, SEL DE CAMARGUE NON RAFFINÉ, SEL AUX PLANTES* (DONT CELERI), OIGNON*, BAIES ROSES*, POIVRE TIMIZ D\'ETHIOPIE *issu de l\'agriculture biologique. Peut contenir des traces de fruits à coque.', 'https://static.openfoodfacts.org/images/products/370/128/660/0058/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005149822', 'Doenjang Soybean Paste', '', '', '2', '0', '19', '6', '', '14', '11', '4.33070866141732', '', '0');
+VALUES ('3701287405003', 'Miel de printemps d\'ardeche', '', 'https://static.openfoodfacts.org/images/products/370/128/740/5003/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005171410', 'Pâte de piment rouge (500g)', 'fermentierter Reis (Reis, Salz, Wasser), Glucose-Sirup, rote Paprika-Gewürzmischung 13% (rotes Paprikapulver, Salz, Knoblauch, Zwiebel, Wasser), scharfes Paprikapulver 6%, fermentierte Sojabohnen-Paste (_Sojabohnen_, Wasser, Salz), Alkohol, Wasser, Salz, _Weizenextrakt_, Sojasauce (_Sojabohnen_, Wasser, Salz, _Weizenextrakt_, Alkohol, Hefeextrakt), Knoblauchextrakt.', '', '2', '0', '46', '22', '', '4', '5.6', '2.20472440944882', '', '0');
+VALUES ('3701287405010', 'Miel d\'été d\'Ardèche', '', 'https://static.openfoodfacts.org/images/products/370/128/740/5010/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005171465', 'Gochujang', '', '', '1', '0', '42', '25', '', '6', '7', '2.75590551181102', '', '0');
+VALUES ('3701287405034', 'Miel de châtaignier d’Ardèche bio', 'Miel de Châtaignier dArdèche. Le châtaignier, arbre emblématique de l\'Ardèche, permet aux abeilles de produire un miel de caractère au goût puissant. Récolté en moyenne montagne du Centre Ardèche. CERTIFIE AB FR-BIO-01 AGRICULTURE FRANCE BIOLOGIOUE AGRICULTURE', 'https://static.openfoodfacts.org/images/products/370/128/740/5034/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005172707', 'Gochu Jang Hot & Sweet Chili Sauce', 'Fermented rice paster (rice, salt, koji-starter, water), corn syrup, hot pepper powder, water, soybean paste (soybean, water, salt, koji-starter), distilled alcohol (derived from agricultural products), salt, wheat extract, fermented soy seasoning (soybean, water, sea salt, wheat extract, distilled alcohol, yeast extract).', '', '1.67', '0', '46.67', '20', '3.3', '3.33', '5.50418', '2.167', '', '0');
+VALUES ('3701287405072', 'Miel de tilleul', '', 'https://static.openfoodfacts.org/images/products/370/128/740/5072/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005182010', 'Pâte De Soja Coréen', '', '', '4', '0', '40', '25', '', '2', '7', '2.75590551181102', '', '0');
+VALUES ('3701292100030', 'Fromage blanc fermier lissé', '', 'https://static.openfoodfacts.org/images/products/370/129/210/0030/front_fr.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005197311', 'Grilled laver with grapeseed oil', '', '', '40', '0', '40', '0', '', '0', '1.4', '0.551181102362205', '', '0');
+VALUES ('3701292100054', 'Yaourt nature', '', 'https://static.openfoodfacts.org/images/products/370/129/210/0054/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005198325', 'Sempio Topokki Sauce (spicy & Sweet)', 'pâte piment, sirop maïs à haut teneur en fructose, sirop malis, eau, sucre, soja fermenté, ketchup, oignon, assaisonnement en poudre, ail, purée de pomme, extrait anchois extrait calamar, alcool, extrait oignon, protéine de blé en poudre, oléorésine de capsicum. Informations Nutritionnelles Par/Per g / Nutrition Facts Ener ie / Ener calorie 860 K / 203 Kcal', '', '0.5', '0', '47', '30', '0', '20', '4', '1.5748031496063', '', '0');
+VALUES ('3701292400017', 'Thaas Chips Classique 120g', '', 'https://static.openfoodfacts.org/images/products/370/129/240/0017/front_fr.4.400.jpg', '29', '2.5', '52', '0.6', '', '7.2', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005205337', 'Sauce soja', '', '', '0.5', '0.1', '0.5', '0.5', '', '9', '16', '6.2992125984252', '', '0');
+VALUES ('3701292400024', 'Thaas Chips Classique', '', 'https://static.openfoodfacts.org/images/products/370/129/240/0024/front_fr.16.400.jpg', '29', '2.5', '52', '0.6', '', '7.2', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005302838', 'Sesame Leaves In Soy Sauce', '', '', '', '3', '', '14', '0', '3', '3', '1.18110236220472', '', '0');
+VALUES ('3701292605160', 'Box brochette de boulette de poulet', '', 'https://static.openfoodfacts.org/images/products/370/129/260/5160/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005306836', 'Braised Lotus Root In Soy Sauce', 'Lotus foot, sesame, soy sauce, defatted soybean, wheat, high fructose corn syrup. salt), polyglyciotol, syrup, sugar, corn syrup, fermented soy sauce, hydrolyzed wheat gluten, modified starch, yeast extract, crushed garlic, grapefruit seed extract, water.', '', '2.22', '0', '72.22', '43.33', '0', '1.11', '2.286', '0.9', '', '0');
+VALUES ('3701292605184', 'Box brochettes boeuf fromage', '', 'https://static.openfoodfacts.org/images/products/370/129/260/5184/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005306898', 'Haricot noir braisé en sauce de soja', 'Haricot noir cuits dans sauce de _soja_, _sésame_, sirop de polyglycitol, sauce de _soja_, sucre, extrait de _soja_ fermenté, amidon modifié, _gluten de blé_ hydrolysée, extrait de pépins de pamplemousse.', 'https://static.openfoodfacts.org/images/products/880/100/530/6898/front.6.400.jpg', '5.71', '1.43', '38.57', '24.29', '0', '18.57', '3.26644', '1.286', '', '0');
+VALUES ('3701292605207', 'Box brochette poulet yakitori et gyoza', '', 'https://static.openfoodfacts.org/images/products/370/129/260/5207/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005401814', '고등어캔', 'Maquereaux, eau, sel.', 'https://static.openfoodfacts.org/images/products/880/100/540/1814/front.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701292605399', 'Sushi saumon x10', '', 'https://static.openfoodfacts.org/images/products/370/129/260/5399/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005423458', 'Doen Jang Seasoning Paste', 'Soybean, salt, distilled alcohol (derived from agricultural products), koji-starter, water.', '', '1.67', '0', '46.67', '23.33', '3.3', '3.33', '5.75818', '2.267', '', '0');
+VALUES ('3701292605511', 'Salade de choux', '', 'https://static.openfoodfacts.org/images/products/370/129/260/5511/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005523455', 'Gochu Jang Hot & Sweet Chili Sauce', 'Fermented rice paste(rice, salt, koji-starter, water), corn syrup, hot pepper powder, soybean, water, salt, koji-starter), distilled alcohol(derived from agricultural products), salt, wheat extract, fermented soy seasoning(soybean, water, salt, wheat extr', '', '3.33', '1.67', '10', '6.67', '3.3', '6.67', '7.493', '2.95', '', '0');
+VALUES ('3701292606211', 'Riz cantonais', '', 'https://static.openfoodfacts.org/images/products/370/129/260/6211/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005560511', 'Sempio Soba', 'Fâtiôïdëb?,amidon de tapioca, sarrasin 3d/0, sel ln redienser: VetemiôÇfâpiokastârkelse, bovete salt Ingredienti: FaÌiÏâüârano, amido di taoioca, grano saraceno Infredientes: Harina almid6n de tapioca, trigo sarraceno%', '', '0.5', '0', '76', '0', '12', '12', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701295700084', 'Le Mochi glacé', '', 'https://static.openfoodfacts.org/images/products/370/129/570/0084/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005560528', 'Nouilles Soba', 'Wheat Flour (87,5%), Tapioca Starch, Buckwheat, Salt', '', '0', '0', '76', '0', '2', '12', '1.5', '0.590551181102362', '', '0');
+VALUES ('3701297100004', 'Lentille verte du Puy - AOP', 'lentilles vertes du Puy', 'https://static.openfoodfacts.org/images/products/370/129/710/0004/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005567923', 'Noodle With Black Bean Sauce', 'Noodles (180 g): wheat flour, modified starch, wheat gluten, salt, riboflavin, corn oil, lactic acid, acetic acid, sodium lactate, adipic acid, water, black bean sauce (90 g): water, onion, black bean paste(wheat flour, caramel, soy bean), cabbage, sugar,', '', '0.74', '0.19', '17.41', '0.74', '0', '2.59', '0.69596', '0.274', '', '1');
+VALUES ('3701299403073', 'Daily fruits rouges', '', 'https://static.openfoodfacts.org/images/products/370/129/940/3073/front_fr.4.400.jpg', '15.9', '2.2', '48.8', '11.2', '', '20.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005700009', 'Crispy Tempura Batter Mix 500g', '(FR) iNGRÉDlENTS : Farine de Amidon de Sel, Aliéliorateur de saveur: Glutamate monosodique poivre blanc', '', '1', '0', '79', '2', '3', '10', '0.51', '0.200787401574803', '', '1');
+VALUES ('3701299404070', 'Carotte Curry', '', 'https://static.openfoodfacts.org/images/products/370/129/940/4070/front_fr.4.400.jpg', '3.4', '0.5', '10.5', '2.3', '', '4.1', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005912365', 'Sempio Garlic Soy Sauce', '', '', '0', '0', '9', '8', '', '2', '11', '4.33070866141732', '', '0');
+VALUES ('3701299411047', 'Ignite phase 3 framboise', '', 'https://static.openfoodfacts.org/images/products/370/129/941/1047/front_fr.4.400.jpg', '1.5', '0.3', '14.7', '4.4', '', '1.9', '0.24', '0.094488188976378', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005931519', 'Shindangdong Topokki Sauce', '', '', '1', '0', '35', '24', '', '4', '4', '1.5748031496063', '', '0');
+VALUES ('3701299412037', 'Recover phase 3 butternut', '', 'https://static.openfoodfacts.org/images/products/370/129/941/2037/front_fr.4.400.jpg', '2.1', '0.4', '10.9', '2.3', '', '5.6', '0.21', '0.0826771653543307', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801005962131', 'Grapeseed Oil', 'Grapeseed oil, 100% (100% refined grapeseed oil)', '', '90', '10', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3701299413027', 'Focus phase 2 mandarine', '', 'https://static.openfoodfacts.org/images/products/370/129/941/3027/front_fr.4.400.jpg', '17.2', '3', '41.6', '8.2', '', '19.8', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007011158', 'Dashida', '', '', '1.2', '0.4', '35.1', '14.9', '', '10.5', '29.1', '11.4566929133858', '', '0');
+VALUES ('3701299421015', 'Barre Carotte Patate Douce', '', 'https://static.openfoodfacts.org/images/products/370/129/942/1015/front_fr.4.400.jpg', '14.1', '2.1', '39.3', '11.5', '9.3', '15.2', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007023342', 'Furikake Rice Seasoning Mix', 'Vegetable mix[vegetable flake[egg flake, spinach flake pumpkin flake], seasoning[salt, lactose, soy, wheat, disodium inosinate, disodium guanylate], toasted sesame], seaweed(laver)', '', '11.11', '0', '55.56', '22.22', '11.1', '11.11', '14.95806', '5.889', '', '0');
+VALUES ('3701299421022', 'Patates douces, carottes, céréales, noix, graines', 'Sirop de riz* non raffiné 16%, flocons d\'avoine* (sans gluten), amandes*, noix de cajou*, carottes* 8%, patates douces* 8%, protéines de pois*, graines de lin*, graines de courge*, sarrasin grillé*, son d\'avoine*, oignons*, agave*, fibres d\'acacia*, lithothamne, sel de Guérande, acérola*, moringa*, roucou*, son de riz, feuilles de curry, basilic*, citrons, épinards, persil*, amla*, thé vert*, shitake, lichens*. Ingrédients issus de l\'agriculture biologique.', 'https://static.openfoodfacts.org/images/products/370/129/942/1022/front_fr.14.400.jpg', '15.4', '2.3', '42.7', '22.5', '10.2', '16.6', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007023359', 'Seafood Rice Seasoning', 'Seafood & vegetable mix [seasoned anchovy, seasoning[salt, lactose, soy, wheat, disodium inosinate, disodium guanylate], seasoned laver powder, toasted sesame, seasoned shrimp, egg flake, spinach flake], seaweed(laver)', '', '6.25', '0', '37.5', '25', '12.5', '25', '15.24', '6', '', '0');
+VALUES ('3701299454075', 'Carotte Curry', '', 'https://static.openfoodfacts.org/images/products/370/129/945/4075/front_fr.4.400.jpg', '3.5', '0.5', '10.6', '2.2', '', '4.1', '0.22', '0.0866141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007032672', 'Furikake Rice Seasoning, Cheese', 'Cheese & vegetable mix [cheese seasoning (salt, sugar, cheddar seasoning, lactose, cheese mix powder), carrot flake, egg flake, toasted sesame, spinach flake, toasted sesame. spinach flake, chicrella flake], seaweed (laver)', '', '5.56', '0', '55.56', '22.22', '0', '11.11', '17.49806', '6.889', '', '0');
+VALUES ('3701299902620', 'Repas vegan recette maraîchère', '', 'https://static.openfoodfacts.org/images/products/370/129/990/2620/front_fr.4.400.jpg', '12', '1.4', '39', '2.6', '', '21', '1.45', '0.570866141732283', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007039435', 'CJ Wheat flour', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701299912612', 'Repas vegan recette Provençale', '', 'https://static.openfoodfacts.org/images/products/370/129/991/2612/front_fr.4.400.jpg', '12', '1.4', '40', '4.7', '', '21', '1.43', '0.562992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007051376', 'CJ Hat Crispy Seaweed Yonggim', 'Algues 100%', '', '3.2', '0.8', '42', '0.4', '25.9', '44.1', '1.8', '0.708661417322835', '', '0');
+VALUES ('3701299912629', 'Recette maraîchère', '', 'https://static.openfoodfacts.org/images/products/370/129/991/2629/front_fr.4.400.jpg', '12', '1.4', '39', '2.6', '', '21', '1.45', '0.570866141732283', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007052854', 'CJ Haechandle Red Pepper Soy Paster', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701302100135', 'Barbecue', '', 'https://static.openfoodfacts.org/images/products/370/130/210/0135/front_fr.4.400.jpg', '26.1', '9.71', '0.5', '0', '', '61.2', '0.87', '0.34251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007052991', 'Haechandle Seasons Paste 1KG', '', '', '0.7', '0.1', '37.7', '12.4', '', '9.1', '7.1', '2.79527559055118', '', '0');
+VALUES ('3701302100159', 'Criquets au curry', 'CRIQUETS DÉSHYDRATÉS, CURCUMA, CORIANDRE, CUMIN, GOMME D\'ACACIA, FENUGREC, GINGEMBRE, SEL, AIL, POIVRE GRIS, PIMENT FORT.', 'https://static.openfoodfacts.org/images/products/370/130/210/0159/front_fr.4.400.jpg', '31.6', '11.9', '11.9', '1.6', '', '56.3', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007053349', 'Korean Soy Bean Paste', '', '', '1.8', '0.3', '24', '5.8', '', '12.5', '9.9', '3.89763779527559', '', '0');
+VALUES ('3701302644035', 'Vers Barbecue', '', 'https://static.openfoodfacts.org/images/products/370/130/264/4035/front_fr.4.400.jpg', '31.6', '11.9', '1.6', '0.8', '', '56.3', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007101408', 'Dark brown sugar', '', 'https://static.openfoodfacts.org/images/products/880/100/710/1408/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701302900018', 'Fondant auchocolqt', '', 'https://static.openfoodfacts.org/images/products/370/130/290/0018/front_fr.4.400.jpg', '26.39', '12.28', '52.1', '34.64', '', '8.71', '0.5', '0.196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007143491', 'Haechandle Chogochujang 300G (T)', '', '', '4.3', '1.2', '46', '40', '', '4', '1.82', '0.716535433070866', '', '0');
+VALUES ('3701303800003', 'Confiture de châtaignes', '', 'https://static.openfoodfacts.org/images/products/370/130/380/0003/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007143507', '500G Sweet And Sour CJ Chogochujang', '', '', '', '0.3', '', '35.7', '3.1', '4.4', '4', '1.5748031496063', '', '0');
+VALUES ('3701303900123', 'Poivronnade', '', 'https://static.openfoodfacts.org/images/products/370/130/390/0123/front_fr.4.400.jpg', '25', '3', '5', '4', '', '0', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007164311', 'Bibigo Kimchi Sliced 500G', '(Glutamate Monosodique I Sauce Assaisonnement (Eau, Edulcorant (Sorbitol), Extrait De Creyettes, Epaissi%qnt (Gl±ate Poivron Rouge En Poudre, Ail 15%, Agent Epaississant [Eu Sel De Mer, Epaississant (Gomme', '', '0.3', '0.1', '5.4', '0.8', '', '1.9', '0.556', '0.218897637795276', '', '1');
+VALUES ('3701303900208', 'Persillade', '', 'https://static.openfoodfacts.org/images/products/370/130/390/0208/front_fr.4.400.jpg', '40', '5', '2.6', '0.7', '', '0', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007166421', 'Gold Taeyangcho Rice Hot Pepper Paste', '', '', '', '51.2', '', '26.6', '0', '4.2', '4.6', '1.81102362204724', '', '0');
+VALUES ('3701303900222', 'Purée Thaï', '', 'https://static.openfoodfacts.org/images/products/370/130/390/0222/front_fr.4.400.jpg', '11', '2', '7', '2.5', '', '0', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007166452', 'CJ Koreanische Chilipaste', '', '', '2.7', '0.6', '51.2', '26.6', '', '4.2', '4.6', '1.81102362204724', '', '0');
+VALUES ('3701304900030', 'Douceur framboise et thym', '', 'https://static.openfoodfacts.org/images/products/370/130/490/0030/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007166490', 'Taeyangcho Rice and Spicy Red Pepper Paste 500G', '', '', '2.5', '0.6', '50.7', '26.6', '', '4.1', '4.4', '1.73228346456693', '', '0');
+VALUES ('3701307800009', 'Yaourt nature', 'lait entier pasteurisé de chèvre, ferments lactiques.', 'https://static.openfoodfacts.org/images/products/370/130/780/0009/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007176321', 'Bulgogi Marinade Sauce BBQ Pour Boeuf 290G', '', '', '0', '0', '40', '40', '', '0', '5.7', '2.24409448818898', '', '0');
+VALUES ('3701307800016', 'Yaourt fermier aux fruits', 'lait entier pasteurisé de chèvre, préparation à base de fruits 20%, (50% fruits, sucre 50%), ferments lactiques.', 'https://static.openfoodfacts.org/images/products/370/130/780/0016/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007176352', 'Galbi sauce for beef', '', '', '0', '0', '34.6', '30.5', '', '2.7', '5.6', '2.20472440944882', '', '0');
+VALUES ('3701308800015', 'Pâte à étoiler', 'Sucre de canne roux, matières grasses végétales (huile de tournesol & beurre de cacao), noisettes 20% , farine de riz, cacao 8%, lait écrémé, extrait de vanille. Traces possibles d\'autres fruits à coque', 'https://static.openfoodfacts.org/images/products/370/130/880/0015/front_fr.8.400.jpg', '43', '14.1', '40.9', '32.9', '4.9', '8.1', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007176376', 'CJ BBQ Sauce For Pork Spicy', 'pâte de A, pay•rm roi* assasrœrrert sm à en san de soja (eau, ProtFes sqa sa maa à haÂe tereŒ soja OJ as.s«t Secte, pxee anboxydaet (E300)l ea•. PYe 5,0 % (PWe, (En)l pate sa vn e rz emaustezs la (E627. E63u ram, mte régaatetr (E4t51 Coss', '', '0.7', '0.2', '39.9', '27.8', '2.3', '3.5', '6.09', '2.39763779527559', '', '0');
+VALUES ('3701345410017', 'Pain kebab traditionnel surgelé', '', 'https://static.openfoodfacts.org/images/products/370/134/541/0017/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007185811', 'Beksul Korea BBQ Sauce For Bulgogi Chicken', '', '', '0.8', '0.2', '27.4', '19.1', '', '4.4', '6.5', '2.55905511811024', '', '0');
+VALUES ('3701357200064', 'Confiture poire pomme fraise', '', 'https://static.openfoodfacts.org/images/products/370/135/720/0064/front_fr.4.400.jpg', '0.5', '0.1', '45', '45', '', '0.5', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007205564', 'Soba', '', '', '1.3', '0', '71', '2', '', '14', '2.2', '0.866141732283465', '', '0');
+VALUES ('3701357200163', 'Velouté de champignons de Paris et Céleri', '', 'https://static.openfoodfacts.org/images/products/370/135/720/0163/front_fr.4.400.jpg', '3.5', '2.4', '2.7', '1.5', '', '1.2', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007206394', '친한 참기름 (sesame oil)', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3701357200187', 'Compote pomme banane', '', 'https://static.openfoodfacts.org/images/products/370/135/720/0187/front_fr.3.400.jpg', '0.5', '0.1', '18', '17', '', '0.8', '0.005', '0.00196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007213422', 'Nouilles coreennes', '', '', '1.5', '0', '78', '2', '', '10', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3701537500847', 'Michelettes', 'Sucre, farine de _blé_, _noisettes_, pâte de cacao, _lait_ écrémé en poudre, huile de coprah non hydrogénée, beurre de cacao, poudre de jaune d\'_œufs_ de poules élevées en plein air, cacao maigre en poudre, émulsifiant: lécithines, sel, arôme naturel de vanille, arôme naturel.', 'https://static.openfoodfacts.org/images/products/370/153/750/0847/front_fr.4.400.jpg', '19', '6', '66', '43', '3.9', '8', '0.25', '0.0984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007231853', 'Snow White Rice Mix Hotteok', '', '', '', '0.9', '', '24.7', '0', '7.1', '1.1', '0.433070866141732', '', '0');
+VALUES ('3701620723580', 'Dés saumon fumé à la provencal', 'FUME PROVENCAL IOOG grédients SAUMON (Salmo salar. evé en Ecosse). SCI, decor prcvencal Illet, oignon. carvi, poivron, persil, extrait e romarin, pirnent, huile de colza) races éventuelles de fruits à coque consommer rapidement apres ouverture 0,120kg POIDS NET : CONSOMMER JUSQU\'AU : ONDITIONNE LE', 'https://static.openfoodfacts.org/images/products/370/162/072/3580/front_fr.4.400.jpg', '20.8', '3.43', '0.6', '0.6', '0', '20', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007232744', 'Cj Bibigo Bulgogi Barbecue Sauce Hot & Spicy 290G', '', '', '0.7', '0.2', '40', '34', '', '3.2', '6.2', '2.44094488188976', '', '0');
+VALUES ('3701810074225', 'Sucre de canne complet bio', '', 'https://static.openfoodfacts.org/images/products/370/181/007/4225/front_fr.4.400.jpg', '0.1', '0', '96.5', '96.5', '', '0.72', '0.6', '0.236220472440945', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007234625', 'CJ Bibigo Gochujang With Vinegar (hot Pepper Sauce)', '300G Sauce vinaigrée au piment Pâte de rouge 83% (sirop maïs à tenetr frudose, fm blé, eau, sel, paffe de rouge, blé, ad, Kdi de riz), ure, 4,5%, coredeur dawé E330, jus de dtm Uœntré, graines de sésame. V&xs nutitionnelles Traces éventuelles d\'œuf, lait pour 100g crustacés. 1040 kJ 1246 kcal Aconsetver au frais et au sec, à l\'abri de la lumière, 3.7g Conserver au réfrigérateur après tes grasses ant aodes gras saturés 0,9g ouverture, 50,5 g stnes 39.6 g 42 g 8 801007 234625 36 g 300ge avait Frms 3, Rue Grosse Pierre ZI de la Doller GU€WENHEIM - France', '', '3.7', '0.9', '50.5', '39.6', '', '4.2', '3.6', '1.41732283464567', '', '0');
+VALUES ('3701918620102', 'Blanquette de la mer', '', 'https://static.openfoodfacts.org/images/products/370/191/862/0102/front_fr.4.400.jpg', '5.1', '2.6', '4.8', '1.1', '', '11', '0.66', '0.259842519685039', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007333038', 'Fruit vinegar for drink', '', '', '0', '0', '44', '44', '', '0', '', '', '', '0');
+VALUES ('3701918661297', 'Anneaux d\'encornets', '', 'https://static.openfoodfacts.org/images/products/370/191/866/1297/front_fr.4.400.jpg', '1.1', '0', '0.4', '0', '', '10', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007343884', 'Plum Extract, Plum', 'Brown sugar, water, plum juice concentrate.', '', '0', '0', '63.33', '60', '0', '0', '0', '0', '', '0');
+VALUES ('3701918661402', 'Queues de crevettes decortiquées déveinées cuite', '', 'https://static.openfoodfacts.org/images/products/370/191/866/1402/front_fr.4.400.jpg', '0.72', '0.33', '0', '0', '', '15.35', '0.22', '0.0866141732283465', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007440750', 'Premium Sesame Oil', 'Sesame oil.', '', '93.33', '16.67', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3701918661419', 'Queues de crevette', '', 'https://static.openfoodfacts.org/images/products/370/191/866/1419/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007441351', 'CJ Sesame Oil', '', '', '92', '15', '0', '0', '', '0', '', '', '', '0');
+VALUES ('3701918662737', 'Filet de cabillaud', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007499468', 'Seaweed crisps original flavor', '', '', '8.2', '1', '78.6', '5.2', '', '5', '3.1', '1.22047244094488', '', '0');
+VALUES ('3701918664915', 'Filet de panga', '', 'https://static.openfoodfacts.org/images/products/370/191/866/4915/front_fr.4.400.jpg', '0.97', '0.46', '0', '0', '', '15.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007499482', 'Seaweed Rice Crisps (BBQ Flavour)', '', '', '8.4', '0.9', '79.9', '2.1', '', '5.2', '2.8', '1.10236220472441', '', '0');
+VALUES ('3701918666940', 'Saumon', '', 'https://static.openfoodfacts.org/images/products/370/191/866/6940/front_fr.4.400.jpg', '5.6', '1.6', '1.9', '0', '', '20.8', '0.2', '0.078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007506081', 'Real coconut vierge', '', '', '100', '91', '0', '0', '', '0', '', '', '', '0');
+VALUES ('3701918667022', 'Cocktail de fruit de mer', '', 'https://static.openfoodfacts.org/images/products/370/191/866/7022/front_fr.4.400.jpg', '2.2', '0.8', '0.5', '0.5', '', '12.6', '0.39', '0.153543307086614', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007539782', 'Seaweed crisps', '', '', '40', '10', '10', '10', '', '30', '20', '7.8740157480315', '', '0');
+VALUES ('3701918667039', 'Dos de cabillaud', '', 'https://static.openfoodfacts.org/images/products/370/191/866/7039/front_fr.6.400.jpg', '0.2', '0.03', '0', '0', '', '17.6', '0.28', '0.110236220472441', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007556475', 'Seaweed crisps chips d\'algues', 'Chips derizauxalguessaveuroriginale IngrédienÉ: Chips de riz 65,1 0%(Amidon de taoioca, Riz brun 9.8 0%, Sel), Huiles végétales (Huile de colza, Huile de sésame, Antioxydant: E3921i Algues 7.0 0%, Assaisonnement original 6 q \' [Sucre, Sel, Extrait de levure)', '', '7.9', '0.9', '81', '8', '', '4.6', '2.7', '1.06299212598425', '', '0');
+VALUES ('3701918667145', 'Dos de cabillaud', '', 'https://static.openfoodfacts.org/images/products/370/191/866/7145/front_fr.4.400.jpg', '0.5', '0.5', '0.5', '0.5', '', '17', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007556499', 'Chips d\'Algues - saveur Barbecue', 'Chips de riz 65.1% (amidon de tapioca, riz brun 9.8%, sel, huiles végétales (huile de colza, huile de _sésame_, antioxydant (E392)), algues 7.0%, arôme de barbecue 6.8% (sucre, sel, extrait de levure, arômes, _lait_ entier en poudre, correcteur d\'acidité (E330), exhausteurs de goût (E627, E631), colorant (E160c)), édulcorant (E951).', '', '8.4', '0.9', '80', '2.1', '', '5.2', '2.8', '1.10236220472441', '', '0');
+VALUES ('3701922000006', 'Pur jus pomme poire', '', 'https://static.openfoodfacts.org/images/products/370/192/200/0006/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007556512', 'Chips d’algues', 'chips de riz aux algues saveur miel Arôme miel & maïs 80 % (Sucre, Sel, Lactosérum en poudre (lait), Arômes Sauce de soja (blé), Exhausteurs de goût: Edulcorant: E951 *Contient de l\'aspartame (source de phénylaœnipel - I SANS GLUTEN / GLUTEN FREE', '', '11', '0.9', '76', '2.7', '', '5.5', '2', '0.78740157480315', '', '0');
+VALUES ('3701930000005', 'Pur jus pomme raisin', '', 'https://static.openfoodfacts.org/images/products/370/193/000/0005/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801007556543', 'Chips d\'Algues', '0 00 a)', '', '1.1', '1.1', '77', '4.6', '', '5.3', '2.2', '0.866141732283465', '', '0');
+VALUES ('3701957000002', 'Sorbet bio peche', 'Pêches 70%, sucre, eau.', 'https://static.openfoodfacts.org/images/products/370/195/700/0002/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019300974', 'Cracker', 'Wheat flour, sugar, almond, palm oil, shortening, whole egg, corn syrup, salt, natural calcium', '', '27.27', '13.64', '63.64', '18.18', '0', '9.09', '0.80772', '0.318', '', '1');
+VALUES ('3701968000008', 'Sorbet bio pomme citron', '', 'https://static.openfoodfacts.org/images/products/370/196/800/0008/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019306273', 'H&E Trading, Inc., Cookie, Egg', 'Wheat flour, white sugar, liquid whole egg, shortening, sweetened condensed milk, processed sugars, salt, egg powder processed fruits & vegetables (coconut), vanilla, lecithin (soybean phospholipids) leavening agents, milk flavor, lemon flavor.', '', '15.56', '8', '73.33', '33.33', '0', '6.67', '0.508', '0.2', '', '0');
+VALUES ('3703012000002', 'Berti herbe', '', 'https://static.openfoodfacts.org/images/products/370/301/200/0002/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019309175', 'Biscuit, Flour Sarubia Cracker', 'Wheat flour, white sugar, palm oil, grain powder (barley, brown rice, glutinous rice, sesame), shortening, processed sugar (milk, soybean), leavening agents, salt, processed cheese, milk flavor.', '', '14.33', '6.67', '73.33', '20', '0', '10', '0.93218', '0.367', '', '1');
+VALUES ('3703066000003', 'Flan à la Cardamome', 'Poids n à consommer avant le: 28/. LAN à la Cardamor omposition: Lait de chèvre*.oeufs*.sucre cardamome', 'https://static.openfoodfacts.org/images/products/370/306/600/0003/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019310928', 'Pocky strawberry', '', '', '19.5', '14.6', '70.7', '39', '', '7.3', '0.7', '0.275590551181102', '', '0');
+VALUES ('3703069000000', 'Flan au chocolat', '', 'https://static.openfoodfacts.org/images/products/370/306/900/0000/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019311345', 'Pocky Blueberry', '', '', '19.5', '14.6', '70.7', '41.5', '', '4.9', '0.699999999999999', '0.275590551181102', '', '0');
+VALUES ('3703083000710', 'Spiruline Bio', '', 'https://static.openfoodfacts.org/images/products/370/308/300/0710/front_fr.4.400.jpg', '7.72', '2.75', '20', '3.1', '', '63', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019311673', 'Pocky green tea', 'st. Acidifr,\' Huile véo» ite, sj.ze blanc, émulsifiant. fanne, Manc, scÀde, bé vert, pmjuit transformé en rafiné, iesa.re', 'https://static.openfoodfacts.org/images/products/880/101/931/1673/front_en.11.400.jpg', '9', '7', '31', '16', '', '3', '0.15', '0.0590551181102362', '', '1');
+VALUES ('3703083000765', 'Tisane BIO digestion', '', 'https://static.openfoodfacts.org/images/products/370/308/300/0765/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019311864', 'Haitai Green Tea Thin Thin 84G', 'Lactic acid, whole milk powder, green tea, emulslfier, synthetic flavoring agent (marjoram, milky flavor, soybean oil, vegetable cream (White sugar, refined processed oil, palmsteen esterifying oil, Glycerin fatty acid ester) Shortening 1 (palm oil), palm olein oil, brown rice oil, palm stearin oil, emulsifier, oleoresin rose bemy, other sugar (White sugar, starch) , Shortening 2, Refined salt, emulsifier, swelling agent ,synthetic flavoring agent (milk flavor 2), Wheat, soybean, egg, milk, greentea 1.9%', '', '32.13', '17.85', '60.69', '35.7', '0', '7.14', '0.16', '0.062992125984252', '', '0');
+VALUES ('3703210026910', 'Sucre de canne bio', '', 'https://static.openfoodfacts.org/images/products/370/321/002/6910/front_fr.4.400.jpg', '0', '0', '99.6', '99.5', '', '0.1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019401985', 'French Pie Biscuit', 'Wheat flour, margarine (vegetable oil, salt, emulsifier (e471, e322), color (e 160)), white sugar, corn syrup, glucose, strawberry jam, butter (butter fat, water, coconut oil).', '', '23.08', '13.46', '61.54', '26.92', '0', '7.69', '0.53848', '0.212', '', '0');
+VALUES ('3703220009927', 'Tirlibibi', '', 'https://static.openfoodfacts.org/images/products/370/322/000/9927/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019603723', 'Kekse snack', '', '', '44', '11', '46', '6', '', '6', '6.29', '2.47637795275591', '', '0');
+VALUES ('3703261700012', 'Filet de maquereaux', '', 'https://static.openfoodfacts.org/images/products/370/326/170/0012/front_fr.4.400.jpg', '7.3', '2.5', '0.5', '0.5', '', '13', '1.45', '0.570866141732283', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801019605697', 'Haitai Grilled Squid', 'Energy / Brennwert / Pouvoir calorifique Energy Fat / Fett / Graisse Of which saturates / Davon gesàttigte / Dont saturés Carbohydrate / Kohlenhydrate / Glucides Of which sugars / Davon Zucker / Dont sucres Protein / Eiweiss / Protéine sait / / Sel Net Wt/Nettogewicht/Poids net: 70g', '', '26', '10', '63', '4', '', '7', '6', '2.36220472440945', '', '0');
+VALUES ('3704047123544', 'Poudre de piment d\'espelette AOP', '', 'https://static.openfoodfacts.org/images/products/370/404/712/3544/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024190225', 'Daesang Mat Kimchi', '', '', '0.7', '0', '7.3', '6.1', '', '2.4', '2.3', '0.905511811023622', '', '0');
+VALUES ('3704047124206', 'Confiture de fraises', '', 'https://static.openfoodfacts.org/images/products/370/404/712/4206/front_fr.4.400.jpg', '0', '0', '70', '70', '', '1', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024801008', 'Traditional seaweed', 'Algues, huile de maïs, huile de périlla, huile de sésame, sel (sel, L-glutamate monosodique)', '', '43', '7', '9', '1', '0', '19', '2.6', '1.02362204724409', '', '0');
+VALUES ('37041106', 'Peanut butter', '', '', '50.3', '9', '12.4', '6.5', '', '23.3', '0.98', '0.385826771653543', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024942268', 'Snack algues grillées', ' Algues, huile d\'olive, huile de maïs, sel d\'assaisonnement (sel, glutamate monosodique) 2 %.', '', '50', '0', '24', '1', '0', '16', '4.7', '1.8503937007874', '', '0');
+VALUES ('3704594304045', 'Hugo le maraicher', 'Jus d\'orange (31%), Jus de carotte (24%), purée de pomme, jus d\'ananas (14%), purée de mangue (8%), jus de citron vert (3%), fibre d\'acacia, gingembre en poudre (0.2%)', 'https://static.openfoodfacts.org/images/products/370/459/430/4045/front_fr.6.400.jpg', '0.1', '0', '11', '10', '0.7', '0.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024942367', 'Sauce Tteokbokki', 'Eau, pâte de poivron rouge, sucre, oignon, ail, Huile de maïs, Extrat d\'anchots, Extrat de varech, Poudre de piment, Extrait de poivre vert', '', '3', '1', '26', '22', '0', '3', '10', '3.93700787401575', '', '0');
+VALUES ('3706330003458', 'Pain de mie complet', 'Farine complète de blé 59%, eau, sucre, huile de colza, farine de blé, gluten de blé, levure, arôme (contient alocool), sel', 'https://static.openfoodfacts.org/images/products/370/633/000/3458/front_fr.4.400.jpg', '4.5', '0.4', '44', '7.2', '5.5', '8.9', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024943739', 'Traditional Seawed', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3707070707071', 'Metton affiné', '_Lait_ écrémé caillé, sel de fonte : bi/tri phosphate, sel.', 'https://static.openfoodfacts.org/images/products/370/707/070/7071/front_fr.13.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024944569', 'Chongga TTeokbokki Rice Cake  500G', 'Rhr-l Rice Cake(Tubular Type) Rice-cake Spicy Pasta Ricecake Mild Pasta IZ, &yg.Œ2Tg', '', '0', '0', '51.3', '0', '0', '4', '0.4', '0.15748031496063', '', '1');
+VALUES ('3707070707170', 'Cancoillotte nature', 'Eau, Metton (lait écrèmé caillé), Beurre, Sel de fonte (bi, tri phosphate), Sel', 'https://static.openfoodfacts.org/images/products/370/707/070/7170/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801024946471', 'Rice topokki', 'Gâteau de riz: le riz, sel raffiné, Alcool / -Sauce: Raffiné l\'eau, poivre rouge pâte, le sucre, l\'oignon, ail, huile de maïs, extrait d\'anchois, extrait de varech, Poudre de piment rouge, vert extrait de poivre, - lactobacillus I Leek secs', '', '0', '0', '23', '3', '', '2', '1', '0.393700787401575', '', '1');
+VALUES ('3707070707378', 'Beurre fermier', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801030999423', 'Seoljoongmae', '', 'https://static.openfoodfacts.org/images/products/880/103/099/9423/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3707304470597', 'Crème de Gruyère France', '_Gruyère_ France (50% minimum), eau, acide citrique, _beurre_, sel.', 'https://static.openfoodfacts.org/images/products/370/730/447/0597/front_fr.7.400.jpg', '20.45', '13.77', '1.8', '0.01', '', '15.18', '1.4', '0.551181102362205', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801033775031', 'Vegemil Black Bean Soymilk', '0% • VitaminC/HI {Ic 20% Calcium/#â 20% • Niacin/ 00 u 4% • VitaminB6/H {Bâ 50% • *Percent Dailv Values are based on a 2,000 calorie diet. Your daily values may be higher or Iower depending on your calorie needs.', '', '5', '1', '12', '10', '1', '5', '0', '0', '', '1');
+VALUES ('3709011000005', 'Escargots confits', '', 'https://static.openfoodfacts.org/images/products/370/901/100/0005/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801033796012', 'Soy Drink - Banana', '', '', '2.5', '0.5', '20', '20', '', '4', '', '', '', '1');
+VALUES ('3709012000004', 'Esca\'pito', '', 'https://static.openfoodfacts.org/images/products/370/901/200/0004/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037001884', 'coffee', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3709613042052', 'Tranches orange / citron', '', 'https://static.openfoodfacts.org/images/products/370/961/304/2052/front_fr.4.400.jpg', '0.5', '0.1', '89', '67', '', '0.5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037006391', 'Maxim, Mocha Gold Mild Coffee Mix', 'Coffee [maxim mocha gold mild (roasted bean: peru 35%, columbia 20%)], sugar, non-dairy creamer (corn syrup, hydrogenated vegetable oil, casein, dipotassium phosphate, tricalcium phosphate).', '', '15.83', '15', '75', '41.67', '', '8.33', '0.29718', '0.117', '', '0');
+VALUES ('3710525900583', 'DR-114', '', 'https://static.openfoodfacts.org/images/products/371/052/590/0583/front_fr.4.400.jpg', '1', '1', '1', '1', '', '1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037006919', '보리차', '', 'https://static.openfoodfacts.org/images/products/880/103/700/6919/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3712100820592', 'BioBébé 3 ans - Goût Nature', '', '', '2.7', '0.6', '8.1', '6.7', '0.8', '1.4', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037018059', 'Coffee', 'Coffee', '', '0', '0', '50', '', '', '0', '0.254', '0.1', '', '1');
+VALUES ('3712100824542', 'BioBébé', '', '', '2.8', '0.7', '7.8', '6.3', '0.8', '1.6', '0.7', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037035384', 'Better Beans Better Coffee', 'Coffee', '', '0', '0', '50', '', '', '0', '0.254', '0.1', '', '1');
+VALUES ('3712120824549', 'BioBébé 3 ans Goût Nature', 'LAIT écrémé - Lactose (LAIT) - Lactoserum (lactoserum déminéralisé, protéines de lactoserum concentrées) (LAIT) - Sirop de galacto - oligosaccharides (GOS) (LAIT) - Maltodextrines - Huiles végétales (palme, tournesol, colza) - Poudre de galacto - oligosaccharides (GOS) (LAIT) - Fructo-oligosaccharides (FOS) - Emulsifiant: lécithine de SOJA - Taurine - Chlorure de choline - Antioxydant: extrait riche en tocophérols - Vitamine C, Vitamine PP, Vitamine B5, Vitamine B9, Vitamine E, Vitamine A, Vitamine B8, Vitamine B1, Vitamine D3, Vitamine B6, Vitamine B2, Vitamine B12, Vitamine K1, phosphate de calcium, carbonate de calcium, citrates de potassium, citrates de sodium, chlorures de magnésium et de potassium, sulfates de fer, de zinc, de cuivre et de manganèse, iodure de potassium, sélénite de sodium.', 'https://static.openfoodfacts.org/images/products/371/212/082/4549/front_fr.6.400.jpg', '2.7', '0.6', '8.1', '6.8', '1', '1.5', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037049565', 'Maxim, Kanu, Dark Roast Americano Coffee', 'Coffee', '', '0', '0', '62.5', '0', '', '0', '0', '0', '', '1');
+VALUES ('37127176', 'Jambon à l\'os Magistral', '', 'https://static.openfoodfacts.org/images/products/37127176/front_fr.8.400.jpg', '2.5', '1', '0.7', '0.7', '', '21', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801037087543', 'Maxim Espresso T. o. p Can Coffee - Master Latte', '', '', '1.1', '0.8', '6.5', '6.5', '', '0.8', '0.02', '0.0078740157480315', '', '1');
+VALUES ('3717000150419', 'Brownie chocolat', '', 'https://static.openfoodfacts.org/images/products/371/700/015/0419/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801039907344', '들기름', '', 'https://static.openfoodfacts.org/images/products/880/103/990/7344/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3717100756818', 'Good Noodles kip', 'Kruidige instant noedels met de smaak van kip. Ingrediënten: Deegwaar 89,2% (noedels): TARWEBLOEM, palmvet, zout, gemodificeerd aardappelzetmeel, suiker, raapzaadolie, rijsmiddel (E500, E501), antioxidant (E306, E304), kurkuma-extract. Kruidenmixpoeder 5,5%: Aroma (bevat TARWE, SOJA), suiker, zout, smaakversterker (E621, E635), sojasauspoeder (SOJABOON, TARWE, zout, moutextract, gistextract, palmolie), rode paprika, prei, ui, peper, antiklontermiddel E551, kleurstof E100, peterselie. Oliemix 5,3%: Plantaardige olie (rijstvlies, SESAM), knoflookextract,sjalotextract, uienextract, gemberextract. Kan melk, ei, selderij, mosterd bevatten. E=door de E.G. goedgekeurde hulpstof.', 'https://static.openfoodfacts.org/images/products/371/710/075/6818/front_nl.4.400.jpg', '28.6', '11.1', '58.6', '2.86', '2.14', '7.71', '4.43', '1.74', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801042385382', 'Sulloc-Cha, Chrysanthemum Tea', 'Chrysanthemum.', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3717439030306', 'Crème de cajou', '', 'https://static.openfoodfacts.org/images/products/371/743/903/0306/front_fr.4.400.jpg', '51', '92', '22', '5', '', '22', '0.03', '0.0118110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801042505698', 'Sulloc Brown Rice Green Tea', 'Brown rice, green tea.', '', '0', '0', '66.67', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3717566387014', 'Ice tea', '', 'https://static.openfoodfacts.org/images/products/371/756/638/7014/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801042505704', 'Sulloc Brown Rice Green Tea', 'Brown rice, green tea.', '', '0', '0', '66.67', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3718870382061', 'Coconut sugar', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801042790681', 'green tea milk spread', '', 'https://static.openfoodfacts.org/images/products/880/104/279/0681/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3719750000037', 'Philomène', 'eau, malt d\'_orge_*, sucre*, houblon*, levure. *Produit biologique', 'https://static.openfoodfacts.org/images/products/371/975/000/0037/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '7.5', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801042927506', 'Cold Green Tea', 'Green tea', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('37200008', 'Gefüllte Parika', '', 'https://static.openfoodfacts.org/images/products/37200008/front_de.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043001786', 'Shrimps Flavoured Cracker', 'Farine de huile de fécule de maïs, huile de palme, sucre, épaississant E1404, sel, Assaisonnement au kimchi (chou, piment rouge, ail, sel), piment rouge, glucose, extraitde levu onon, farine de u dégraissée, amidon de Informations sur les allergènes : Fabriqué dans un atelier qui utilise aussi : Œufs, arachides et lait', '', '24', '8.6', '65', '5.9', '0', '6.5', '1.5', '0.590551181102362', '', '0');
+VALUES ('37200015', 'Sauerbraten', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043007313', 'Nong Shim Cho Chung U-gua', '', '', '30', '9', '61', '27', '', '3', '0.29', '0.114173228346457', '', '0');
+VALUES ('37200039', 'Rinderbraten', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043007344', 'Chips Onion Rondelle épicé Nongshim 40G Corée', ')lnfrédients Farine de blé, fécule de maïs, huile de riz, pomme de ter*lfle de palme, oignon en poudre 4%, sucre, sel, piment exhausteur de goût : E621, colorants : El 20, EIOI. Informations sur les allergènes : Fabriqué dans un utilise aussi : crustacés, œuf et arachide.', '', '21', '6', '69', '11', '', '5', '0.7', '0.275590551181102', '', '1');
+VALUES ('37200046', 'Sauerbraten', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043007368', 'Beignets De Crevettes Nong Shim', 'Farine de tapioca, huile de riz, crevette 13,3%, farine de blé, huile de palme, sucre, sel, assaisonnement en poudre à la (extrait de en poudre 0,3%, protéine de hydrolysée, (lait)), oignon en poudre, ail en poudre, acidifiant : Ego, protéine de na. Informations sur les allergènes : Fabriqué dans un atelier qui utilise aussi : œuf et sésame.', '', '25', '8', '69', '10', '0', '2', '0.74', '0.291338582677165', '', '1');
+VALUES ('37200091', 'Zwetschgen', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043014830', 'มาม่าเกาหลี Shin Ramyun สีแดง', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3720130419127', '12 œufs Bio', '', 'https://static.openfoodfacts.org/images/products/372/013/041/9127/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043015226', '140G Olives chapaghetti', '', '', '14', '5.7', '68', '4.3', '', '8', '2', '0.78740157480315', '', '0');
+VALUES ('3720611020514', 'Jus de pommes', '', 'https://static.openfoodfacts.org/images/products/372/061/102/0514/front_fr.4.400.jpg', '0.02', '0.02', '1.16', '1.15', '', '0.02', '0.021', '0.00827', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043016094', ' 무파마 큰사발', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3720629019708', 'Pommes Gala', '', 'https://static.openfoodfacts.org/images/products/372/062/901/9708/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043020756', '감자깡', 'Wheat flour(U.S.A), Steamed Potato(Korea), Starch, Rice Bran Oil, Palm Oil, Beef Flavored Powder, Barbecue Flavored Powder, Onion, Powdered Skim Milk, Sweet Whey(Milk), Pork Seasoning Oil, Peanut Oil', 'https://static.openfoodfacts.org/images/products/880/104/302/0756/front_en.5.400.jpg', '18', '6', '72', '4', '', '6', '1.27', '0.5', '', '0');
+VALUES ('3720630449365', 'Pur jus de pomme', '', 'https://static.openfoodfacts.org/images/products/372/063/044/9365/front_fr.4.400.jpg', '0.1', '0.1', '13.4', '11.6', '', '0.2', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043022705', 'SOON VEGGIE RAMYUN NOODLE SOUP', 'Nouilles: Farine de blé (USA), huile de palme, fécule de pomme terre, amidon de pomme de terre modifié, sel, correcteur d\'acidité : E501, E339, E500, assaisonnement( extrait de levure, sauce soja, ail), liquide de tocophérol (antioxydant: E306, émulsifiant: lécithine de soja),extrait de thé vert, acidifiant: E330), colorant: E101. Poudre de soupe: assaisonnement ( protéine végétales hydrolysées (soya), maltodextrine, extrait de levure, sel, la sauce soja, soja, sucre, farine de blé), épices (maltodextrine, ail, poivron rouge, sel, poivre noir, gingembre, oignon, oignon vert), sel, sucre, exhausteur de goût: E631, E627, maltodextrine, shiitaké champignons, acidifiant: E330. Flocons de légumes, somme choy séché, carottes séchées. Informations allergènes: produit dans une entreprise traitant aussi: orge, crustacés, œufs, poissons, arachides, lait, céleri, moutarde, graines de sésame et les mollusques.', '', '14', '6.8', '67', '3', '', '9', '4.1', '1.61417322834646', '', '0');
+VALUES ('3720631018652', 'Pur jus de pomme', '', '', '0.1', '0.1', '13.4', '11.6', '', '0.2', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043025256', 'Shin noodle soup', 'farine de blé (Australie), fécule de pomme de terre, huile de palme,  sel, assaisonnement (protéines végétales hydrolysées (soja),extrait de levure, exhausteurs de goût : E627, E631), correcteur d\'acidité : E501 , E500, E339, liquide de tocophérol (antioxydant: E306, émulsifiant : E322 (contient soja)), extrait de thé vert (oligosaccharides, catéchine de thé), colorant : E101.        Assaisonnement: assaisonnement  (protéines végétales hydrolysées (soja), maltodextrine, extrait de levure, sel, radis, épices (maitodextrine, glucose, poivre noir, Piment rouge,sel, Extrait de chili), sel, sucre, champignons, glucose, exhauteurs de goût : E627, E631, fécule de pomme de terre.             Folcons: champignons, carotte, oignon vert, piment rouge.', '', '17', '8.5', '64', '4.6', '', '7.4', '3.3', '1.2992125984252', '', '0');
+VALUES ('3721031973022', 'Jus pomme fermier', '', 'https://static.openfoodfacts.org/images/products/372/103/197/3022/front_fr.4.400.jpg', '0.5', '0', '11.5', '11.5', '', '0.5', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043028127', 'Nong Shim Instant Nudeln Veggie Cup Noodle Soup Mild, 67 g', '@lngrédients Nouilles: Farine de blé (Etats•Unis), fécule de pomme de terre, huile de palme, sel, correcteur d\'aciïlté : E501, E500, E339, liquide de tocophérol antioxydant : 806, émulsifiant : E322 (contient Su)), effait de thé (catéc ine de thé), colorant El 01. Poudre de soupe: Assaisonnement (protéines végétales hydrolysées blé), maltodextrine, oignon, extrait de levure, sucre, sel, huile végétale (graines de sésame moutarde, graines de céleri), moutarde brune)), sel, assaisonnement (maltodextrine, ail, pimenl poivre noir, sel), sucre (sucre, maltodextrine), exhausteurs de goût : E627, 631, champignons. Flocons de legumes: Légumes secs (choy surn, chou, carofte). Allergy information: Prepared at a company that also processes barley, crustaceans, eggs, fish, peanuts, milk and molluscs.', '', '17', '8.5', '63', '7.8', '', '7.3', '6', '2.36220472440945', '', '0');
+VALUES ('3721504004666', 'Crème', '_Fromage_ (50%), _lait_, eau, protéines de _lait_, sels émulsifiants (E45, E452), acidifiant (acide lactique), sel.', 'https://static.openfoodfacts.org/images/products/372/150/400/4666/front_fr.4.400.jpg', '25', '18', '2.3', '0.8', '', '1.3', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043028158', 'Nongshim Kimchi Ramyun Cup Noodle Soup', 'de gott E63i, assi\'scli ail, oignon), sucre. (Chou ata that also processes barley, eggs, peanuts, milk celeryj sesame seeds and molluscs.', '', '21', '10', '60', '3.4', '', '8.2', '5.5', '2.16535433070866', '', '0');
+VALUES ('3723035250802', 'Sauce soja', 'Valeurs nutritivos par 100ml I kJ233kaI )AaliCtc5 Grasses', 'https://static.openfoodfacts.org/images/products/372/303/525/0802/front_fr.4.400.jpg', '0', '0', '53', '50', '', '3.8', '7.6', '2.99212598425197', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043031011', 'Nong Shim Shin Cup Noodles', '\'iles : Farine de (Etats-Unis école de sel, correcteurs diacidité E50t E500} E339, Jdant : E306, émulsifiant : E322 (contiefit st Thine de thé), colorant : El Ole /dro}ysées (g l;onnement : Assaisonnement (protéines végét ü), maltodextrine, sucre, sel, piment rouge, ge de levure, huile de palme, oignon, anchois), ail, piment rouge), sel, glucose, fécule de , Aeurs de goût : E627, E631 , champignons, : Carotte, ciboule, champignoGS, piment rouge, latrmaticns sur les allergènes : Produit dans une entnfise aussi : orge, crustacés, Œufs, arachides, tait, céleri, gra:nes de sésame et mollusques. Nitriftve value I pro/ pour 100 g FatlFett/VettenlMatières grasses oi}fthgturatesldavongesâttigteftttguren,', '', '18', '8.9', '63', '7.5', '', '6.9', '3.7', '1.45669291338583', '', '0');
+VALUES ('37232832', 'Bâtonnets de crabe', '', 'https://static.openfoodfacts.org/images/products/37232832/front_fr.4.400.jpg', '4.9', '0.4', '12', '1.7', '', '5.8', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043032049', 'Soupe Verm. Pomme De Terre', '', '', '16', '7.9', '68', '3.8', '', '9.5', '4.5', '1.77165354330709', '', '0');
+VALUES ('3723400000001', 'Lait Cru', '_Lait_ cru', 'https://static.openfoodfacts.org/images/products/372/340/000/0001/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043032308', 'Tempura UDON', '', '', '14', '7.1', '67', '5.2', '', '7.3', '2.99', '1.17716535433071', '', '0');
+VALUES ('3723400600003', 'Cancoillotte ail', '', 'https://static.openfoodfacts.org/images/products/372/340/060/0003/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043150620', 'Shin Ramyun Instant Noodles', 'Noodles: Wheat flour (USA), potato starch, palm oil, salt, acidity regulator: E501, E339, E500, tocopherol liquid (antioxidant: E306, emulsifier: E322 (contains soy)), seasoning (yeast extract, soy sauce, garlic, wheat starch), green tea extract (oligosaccharides, tea catechin, acid: E330), colour: E101 Soup powder: Seasoning (hydrolyzed vegetable protein (soy), maltodextrin, yeast extract, salt, garlic, onion, wheat flour), salt, spices (maltodextrin, black pepper, red chili pepper, garlic), sugar, glucose, flavour enhancers: E631, E627, mushroom Flakes: Green onion, mushroom, bok choy, carrot, red chili pepper ', 'https://static.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.400.jpg', '14', '6.8', '67', '3', '', '8.9', '3.70000000000001', '1.45669291338583', '', '0');
+VALUES ('3723402000009', 'Crème Crue', '_Crème_ crue', 'https://static.openfoodfacts.org/images/products/372/340/200/0009/front_fr.9.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157506', 'NONGSHIM Ramen', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3723402100006', 'Crème Crue', '_crème_ crue', 'https://static.openfoodfacts.org/images/products/372/340/210/0006/front_fr.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157711', 'Nouilles Neoguri Ramyun Seafood & Spicy', 'Nouilles : Farine de _blé_ (Australie), fécule de pomme de terre, huile de palme, assaisonnement (huile de riz, sucre, _seiche_, _anchois_, émulsifiant : E322 (contient _soja_), _crevette_, sauce de _poisson_ (_thon_, _dorade_)), sel, liquide de tocophérol (antioxydant : E306, émulsifiant : E322 (contient _soja_)), correcteur d\'acidité : E501, E339, E500, extrait de thé vert (oligosaccharides, cathéchine de thé, acidifiant : E330), colorant : E101. Poudre de soupe : Assaisonnement (maltodextrine, protéines végétales hydrolysées (_soja_, _blé_), sel, extrait de levure, _moule_, sucre, _seiche_, _palourde_, _anchois_, _thon_, _crabe_, _crevette_, bonite à dos rayé), sel, assaisonnement (maltodextrine, piment rouge, poivre noir, ail), sucre, exhausteurs de goût : E631, E627, caramel en poudre (maltodextrine, colorant : E150c), antiagglomérant : E551. Flocons : varech, oignon vert, carotte, gâteau de _poisson_ (pollachlus, seiche, amidon de _blé_).', 'https://static.openfoodfacts.org/images/products/880/104/315/7711/front_en.3.400.jpg', '13', '6.5', '67', '3.8', '', '7.9', '4.1', '1.61417322834646', '', '0');
+VALUES ('3723404200001', 'Crème de fromage', '', 'https://static.openfoodfacts.org/images/products/372/340/420/0001/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157728', 'Nouilles Chapaghetti Nongshim', '', 'https://static.openfoodfacts.org/images/products/880/104/315/7728/front_en.3.400.jpg', '14', '5.7', '68', '4.3', '', '8', '2', '0.78740157480315', '', '0');
+VALUES ('3723405600008', 'Cancoillotte - ail des ours 6.5% M.G.', 'eau, metton (_lait_ écrémé caillé), beurre, sel de fonte (bi, tri phosphate), ail des ours déshydraté 1%, sel', 'https://static.openfoodfacts.org/images/products/372/340/560/0008/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157735', 'Ansungtangmyun Nongshim Nouille125g', 'Nouilles : Farine de _blé_ (Australie), huile de palme, fécule de pomme de terre, sel, correcteur d\'acidité : E501, E339, E500, liquide de tocophérol (antioxydant : E306, émulsifiant : E322 (contient _soja_)), assaisonnement (maltodextrine, extrait d\'ail, édulcorant : E420), extrait de thé vert (oligosaccharides, catéchine de thé, acidifiant : E330), colorant : E101. Poudre de soupe : Assaisonnement (protéines végétales hydrolysées (_soja_, _blé_), maltodextrine, sel, extrait de levure, ail, poivre noir, champignons, sucre), sel, sucre, assaisonnement (piment rouge, huile de graines de piment rouge, ail, poivre noir), algues séchées, exhausteurs de goût : E627, E631, piment rouge séché, caramel en poudre (maltodextrine, colorant : E150c).', 'https://static.openfoodfacts.org/images/products/880/104/315/7735/front_en.3.400.jpg', '14', '7', '66', '2.9', '', '8.2', '4.7', '1.8503937007874', '', '0');
+VALUES ('37236069', 'Marmelade orange', 'oownod 6 09 : uo', 'https://static.openfoodfacts.org/images/products/37236069/front_fr.4.400.jpg', '0.5', '0.1', '59', '59', '', '0.5', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157742', 'Kimchi Ramyun Noodle soup', 'Noodles: Wheat flour (USA/Australia), palm oil, potato starch, salt, acidity regulator : E339, E500, E501, seasoning (yeast extract, soy sauce, garlic, wheat starch), tocopherol liquid (antioxidant: E306, emulsifier: E322 (contains soy)), green tea extract (oligosaccharides, tea catechin, acid: E330), colour :E101. Soup powder: Seasoning (maltodextrin, hydrolyzed vegetable protein (soy, corn ,wheat), salt, anchovy, yeast extract, mustard oil), salt sugar spices (maltodextrin, glucose, red pepper, black pepper, garlic), acidificante: E330, flavour enhancers: E627, E631, caramel powder (maltodextrin, colour: E150c). Vegetable Flakes: Dried vegetables (kimchi flake, bokchoy, carrot, green onion).', 'https://static.openfoodfacts.org/images/products/880/104/315/7742/front_en.14.400.jpg', '14', '6.7', '67', '4.2', '', '8.1', '4.8', '1.88976377952756', '', '0');
+VALUES ('3723700110622', 'Tomato ketchup', '', 'https://static.openfoodfacts.org/images/products/372/370/011/0622/front_fr.4.400.jpg', '0.1', '0.1', '23.2', '22.8', '', '1.2', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157759', 'Soupe Champong Ramyun Fruits Mer Nongshim', 'oligosaccharides, thee catechine, voeàingszuur : \'Éé0), Heurstof : EIUI oep poeder : smaakmaker (maltodextrine, zout, gehydrotyseerd plantaardig elwit (sù, nuis), gistextract, suiker, mQsel, Ili, knoflook, gamaal, yetlUS$Chelpen, aŒjQYjS, IQ.njn, zout, smaakmaker (chilipeper, maffodemne, knoflook, rijstolie, suiker, smaakversterkers : E631, E627, antiklontermiddel : E551 , caramel poeder (maltodeffine, Heurstof : E15&). : bol, wortel, zeewier, paddenstoelen.. Ingrédients Nouilles : de blé (Etats-Unis), fécule de pomme de terre, huile de palme, sel, asgisonnement (glft, de émulsifiant : E322 gh)), wrecteur d\'acidité : E501 , (contient ;ph)), de (o*cdurides, catéchine de thé, acidifiant : 830), colwt : EIOI. Poudre de soupe : assaisonnement (tlùdextrine, u, protéinŒ végéüles hydrobjsés eûait de Oignon, asgisonnement (plŒnt rouget ail, huile de riz, fécule de pomme de brre), sucre, eûalBteurs de goût : EBI, E627, antiagglomérant : E551, caramel en poudre (maltodeftine, colorant : El ü). Flocons : chou, aroüe, varech, Alletw Information : at a cortvy that also bartey, and musurd.', '', '13', '6.4', '68', '4', '', '8.8', '4.1', '1.61417322834646', '', '0');
+VALUES ('37255329', 'Sirop cassis', '', 'https://static.openfoodfacts.org/images/products/37255329/front_fr.4.400.jpg', '0.5', '0.1', '80', '80', '', '0.5', '0.01', '0.00393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157766', 'Seafood Ramyun', 'Noadles : flour (USA), cotato starch, palm oij, seasonim (ta sajü)), reguUtor: E501, E339, E5U tupherd liquid : E3Œ, : E322 (contains green ta extract tu : Soup povder : Seasoning rattodenm hydr$tzed protü) E), sal, pepper, maltMeftin, rte bran 011, peppr), enharxs : E627, ENI, gli.nose, : 651, (nutto&ftin, colour : Elü), : Ego. : arrot, ake (ulh± pouto gr*\' onm kelp, mtshroon', 'https://static.openfoodfacts.org/images/products/880/104/315/7766/front_en.4.400.jpg', '13', '6.4', '67', '3', '', '8.3', '4.2', '1.65354330708661', '', '0');
+VALUES ('3725972712771', 'Petits beurres Comté AOP', '', 'https://static.openfoodfacts.org/images/products/372/597/271/2771/front_fr.4.400.jpg', '25', '17', '55', '2.8', '', '11', '1.6', '0.62992125984252', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043157773', 'Soupe Nouille Néoguri Ramyun Mild Nongshim 120G Corée', '', '', '13', '6.6', '68', '3', '', '8.3', '3.6', '1.41732283464567', '', '0');
+VALUES ('3726550100119', 'Tourte seigle', '', 'https://static.openfoodfacts.org/images/products/372/655/010/0119/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043216128', 'Shrimp Flavored Cracker', '', 'https://static.openfoodfacts.org/images/products/880/104/321/6128/front_en.4.400.jpg', '25', '9.2', '64', '4.3', '0', '6.6', '1.4', '0.551181102362205', '', '0');
+VALUES ('3726650225002', 'Paté de campagne', '', 'https://static.openfoodfacts.org/images/products/372/665/022/5002/front_fr.4.400.jpg', '23.7', '8.9', '2.8', '0.5', '', '16.2', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043216135', 'Beignets saveur oignon', 'Farine de _blé_, huile de riz, amidon de _blé_, amidon modifié de tapioca, huile de palme, oignon en poudre 4,6%, sucre, dextrine, fibres alimentaires, sel, fécule de pomme de terre, arômes artificiels, poudre de _lactosérum_, _lactose_, colorant : E101, exhausteurs de goût : E631, E627', 'https://static.openfoodfacts.org/images/products/880/104/321/6135/front_en.3.400.jpg', '21', '7', '68', '6', '', '5', '1.6', '0.62992125984252', '', '0');
+VALUES ('3727377000101', 'semoule de blé dur', '', 'https://static.openfoodfacts.org/images/products/372/737/700/0101/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043216142', 'Chips Rondelle Oignon', 'flour (USA), corn starch, rice bran cil, thickener : El 404, onion powder sugar, mattodextrin, satt, potato granules, yeastextract, glucose, antioxidant : E3fi, flavour enhancer : E330, colour : EIOI, Allergy information : Prepared at a company that also processes crustaceans eggs, fish, peanuts, soybean, milk, sesame seeds and molluscs, @Zutaten —mehl (USA), Maissürke, Reisôl, Verdickungsmittel : E1404, Palmil, Zwiebel-pulver 4,8%, Zucker, Maltodextrin, Salz, Kartoffelgranulat Glukose, Antioxidationsmittel : E306, Geschmacksverstârker : E330, farbstofflll, Allergiker•lnfomaticn : Hergestellt in einem Betrieb, in dem Fisch, Erdnüsse, Sojabohnen, Milch, Sesam und Weichtiere @Ingrediinten Imbloem (USA), maïszetmeel, rijstolie, verdikkingsmjdd/l\'f/ uienpoeder 4,8%, suiker, maltodextrine, zout, glucose, antioxidant : E306, smaakversterkers : E330, Allergie•infomatie : Gemaakt in een bedrijfwaar ooksch vis, pindais, sojabonen, melk, sesamzaad en weekdieren Farine de (Etats-Unis), fécule de maïs, huile de riz, épaississan de palme, oignon en poudre 4,8%, sucre, maltodextrine, sel\' dei de terre, extrait de levure, glucose, antioxydant : E306, exhausteurs Informations sur les allergènes : Fabriqué dans un atelier qui crustacés, Œuf, poissons, arachides, graine de soja, lait, graines les mollusques.', '', '21', '6.8', '68', '6.1', '', '4.6', '1.63', '0.641732283464567', '', '0');
+VALUES ('3728476805543', 'Gaufrettes fourrées au chocolat noir', '', 'https://static.openfoodfacts.org/images/products/372/847/680/5543/front_fr.4.400.jpg', '34', '20', '51', '36', '', '4.6', '0.09', '0.0354330708661417', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043216210', 'Honey Flavored Twist Snack', 'Farine de _blé_, sucre, amidon (maïs, tapioca modifié), huile de riz, huile de palme, miel d\'acacia 3,4 %, jus de pomme 1,5 %, farine de riz grillé. farine de _blé_ complète, farine de _graines de sésame_, sel, extrait de réglisse, sirop de malt, arôme. ', '', '19', '6', '74', '23', '', '4', '0.28', '0.110236220472441', '', '1');
+VALUES ('3728605091984', 'Mie noodles wheat', '', 'https://static.openfoodfacts.org/images/products/372/860/509/1984/front_fr.4.400.jpg', '1.5', '0.1', '72', '3.5', '', '10.5', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043263085', 'Soupe De Nouilles Super Bowl Kimchi', '', '', '16', '7.7', '66', '2.1', '', '8.1', '5.5', '2.16535433070866', '', '0');
+VALUES ('3728745810780', 'Croustines biotiful', '', 'https://static.openfoodfacts.org/images/products/372/874/581/0780/front_fr.4.400.jpg', '19.7', '7', '49', '10', '', '21.2', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801043263566', 'Nongshim Beef Cup', '@lngrediénts Nouillesfarine De Huile De Palme, Amidon De Pomme De Terret Amidon De Pomme De Terre OModifie, Sel, Huile De Son De Riz Assaisonnee(Huile D3Son De Riz, Sirop De Mais, Emutsifiant:E322):\' Assaisonnement:Arome Artificiel De Sel} Epices(Ail, Oignons Poivre Noir, Gingembie) De Goût:E621, De alméEn Poudre, Sucre,Amidon DeTapiocat Pats Soja En Poudre(SojaiFaìË0e Set) IPoudref ColofantE 150c. Séchée, Froteine Vegetae, e, Champignon SéchY', '', '12.4', '0', '47.4', '0', '', '7.7', '0', '0', '', '1');
+VALUES ('3728859188102', 'Sorbet mangue', '', 'https://static.openfoodfacts.org/images/products/372/885/918/8102/front_fr.4.400.jpg', '0', '0', '34', '33', '', '0', '0.193', '0.0759842519685039', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045010113', 'Curry mild', '', 'https://static.openfoodfacts.org/images/products/880/104/501/0113/front_en.6.400.jpg', '17', '4', '65', '10', '', '5', '10', '3.93700787401575', '', '0');
+VALUES ('3730275110667', 'Crumble pomme', '', 'https://static.openfoodfacts.org/images/products/373/027/511/0667/front_fr.4.400.jpg', '6.33', '4.1', '35.24', '16.65', '', '1.36', '0.17', '0.0669291338582677', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045010137', 'Ottogi Curry Powder Hot', '', '', '17', '4', '65', '16', '', '5', '16', '6.2992125984252', '', '0');
+VALUES ('3730302000008', 'Fromage blanc', '', '', '7', '4.3', '4.1', '3.9', '', '0.001', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045010526', 'Ottogi curry medium', '', '', '13.2', '6', '64', '16', '', '8', '9.2', '3.62204724409449', '', '0');
+VALUES ('3730303000007', 'Fromage blanc', 'Froivtage DE MG SUR POIDS TOTAL eursnutrftne esrqeres 01-154-001 -dont acides rassa\\urés: lucides\'. •dontsucres: ctemepasteurisée, ferments lactiques (lait), présuren Proteines : ÀCONSERVERENTRE+?CEÏ+$C. Sel : Sélectionné par Coop Laitière de YENNE 73170 Y Fabriqué par coop Laitière d\'ETREZ 01340 ET', 'https://static.openfoodfacts.org/images/products/373/030/300/0007/front_fr.4.400.jpg', '7', '4.3', '4.1', '3.9', '', '4.4', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045051109', 'Mushroom Cream Soup Powder', 'Wheat flour, glucose, corn flour, palm oil, dextrin, salt processed milk cream powder (milk, starch syrup, lecithin, potassium phosphate dibasic), cream powder (whey powder, vegetable fat and oil, starch syrup, whole milk,powder, milk cream, sodium casein, lecthin, potassium phosphate dibasic, potassium polyphosphate), sugar, flavor enhancer (soybean, maltodextrin, chicken extract, carrot, onion juice), dehydrated mushroom, mushroom extract powder, garlic powder, onion powder', '', '11.11', '5.56', '66.67', '16.67', '0', '11.11', '6.63194', '2.611', '', '0');
+VALUES ('3730306000004', 'Fromage blanc', '', 'https://static.openfoodfacts.org/images/products/373/030/600/0004/front_fr.4.400.jpg', '7', '4.3', '4.1', '3.9', '', '4.4', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045052106', 'Cream Soup Powder', 'Wheat flour, cream powder (whole milk powder, sweet whey powder, vegetable fat and oil, milk cream, sodium casein, lecithin, potassium phosphate dibasic, potassium polyphosphate) dextrin, corn flour, salt, sugar, palm oil, flavor enhancer (soybean) whey p', '', '11.11', '5.56', '72.22', '22.22', '0', '5.56', '5.78612', '2.278', '', '0');
+VALUES ('3730329004508', 'Reblochon', '', '', '27', '19', '0.5', '0.5', '', '20', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045053103', 'Corn Cream Soup Powder', 'Wheat flour, corn flour, sugar, pureed sweet corn powder, palm oil, salt, glucose, cream powder (whey powder, vegetable fat and oil, starch syrup, whole milk powder, milk cream, sodium casein, lecithin, potassium phosphate dibasic, potassium polyphosphate', '', '10.83', '5.56', '83.33', '', '1.4', '', '6.77418', '2.667', '', '0');
+VALUES ('3730334000007', 'Petit vacherin la dent du chat', '', 'https://static.openfoodfacts.org/images/products/373/033/400/0007/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045054100', 'Vegetable Cream Soup', 'Meat flour, corn flour, glucose, palm oil, salt, cream powder (whey powder, vegetable fat and oil, starch syrup, whole milk powder, milk cream, sodium casein, lecithin, potassium phosphate dibasic, potassium polyphosphate), processed milk cream powder (milk, starch syrup, lecithin, potassium phosphate dibasic) flavor enhancer (soybean), dehydrated onion, sugar whey powder (whey powder, corn syrup, casein), dehydrated carrot, dehydrated broccoli, dehydrated sweet pumpkin, onion powder, dehydrated leek, black pepper powder', '', '11.11', '5.56', '72.22', '5.56', '0', '16.67', '6.91388', '2.722', '', '0');
+VALUES ('3730354002005', 'Meule de Savoie', 'Fromage au _lait_ cru.', 'https://static.openfoodfacts.org/images/products/373/035/400/2005/front_fr.3.400.jpg', '33.5', '20.51', '1.34', '0.2', '', '26.11', '0.68', '0.267716535433071', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045081106', 'Pine Nut Rice Porridge', 'Rice powder, pine nut. rice flour, salt, sugar, processed milk cream powder(milk, starch syrup, lecithin, potassium phosphate dibasic). onion sesoning mix, soy sauce powder, hyrolyzed vegetable protein, fermented soybean peptide powder', '', '4.69', '0', '46.88', '3.12', '0', '6.25', '3.175', '1.25', '', '0');
+VALUES ('3730472000013', 'Yaourt sucré a la framboise', '', 'https://static.openfoodfacts.org/images/products/373/047/200/0013/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045083100', 'Vegetable Rice Porridge', 'Rice, rice flour, salt, dehydrated onion, sugar, palm oil, dehydrated leek, soy sauce, powder sesame, dehydrated carrot, vegetable powder, yeast extract powder, sesame oil, disodium inosinate, disodium guanylate, onion powder, vegetable seasoning, soy sauce, hydrolyzed vegetable protein,dehydrated broccoli, mushroom extract powder dehydrated spinach, spinach powder, fermented soybean, peptide powder, black pepper powder.', '', '4.41', '2.94', '79.41', '2.94', '2.9', '8.82', '5.97662', '2.353', '', '0');
+VALUES ('37308001', 'Cube Jumbo', '', 'https://static.openfoodfacts.org/images/products/37308001/front_fr.3.400.jpg', '10', '4', '17', '4', '', '9', '56', '22.0472440944882', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045088105', 'Black Sesame Rice Porridge', 'Rice flour, black sesame powder, roasted rice powder, salt, sugar.', '', '18.75', '3.12', '59.38', '6.25', '3.1', '12.5', '5.00126', '1.969', '', '0');
+VALUES ('3732828280650', 'Moutarde de Dijon', '', 'https://static.openfoodfacts.org/images/products/373/282/828/0650/front_fr.4.400.jpg', '10.6', '1.1', '11', '1.8', '', '7.9', '6.35', '2.5', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045125121', 'Vinegared Red Pepper Paste', 'Red pepper paste sugar, distilled vinegar refined water, tropical fruit puree garlic, acetylated distarch adipate, citric acid, sesame, xanthan gum, le oresin paprika', '', '0', '0', '46.67', '33.33', '0', '6.67', '3.89382', '1.533', '', '0');
+VALUES ('3734466335334', 'Véritables pommes dauphine', '', 'https://static.openfoodfacts.org/images/products/373/446/633/5334/front_fr.4.400.jpg', '18', '7.6', '23.2', '1.6', '', '6.6', '1.47', '0.578740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045160191', 'Ottogi sesame dressing', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3734467531506', 'Creme con aceto balsamico di modena', '', 'https://static.openfoodfacts.org/images/products/373/446/753/1506/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045203218', 'Vinaigre De Riz', '', '', '0', '0', '5', '4', '', '0', '0', '0', '', '1');
+VALUES ('3734477361001', 'Poudre de Cacao cru', 'Poudre de fèves de cacao dégraissée* (Theobroma cacao)', 'https://static.openfoodfacts.org/images/products/373/447/736/1001/front_fr.4.400.jpg', '11.5', '7.2', '25.5', '0.77', '', '25.6', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045290317', 'Ottogi Beef Curry Sauce Regular', '', '', '3.5', '1.5', '22', '10', '', '5', '2.25', '0.885826771653543', '', '0');
+VALUES ('3734550215412', 'Graines de chia', '', 'https://static.openfoodfacts.org/images/products/373/455/021/5412/front_fr.4.400.jpg', '32.2', '3.5', '5.2', '0.5', '', '21.4', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045294025', 'America, Spicy Sauce With Octopus', 'Refined water, octopus, onion puree, cabbage, leek, modified tapioca starch, garlic, sunflower oil, red pepper powder, sugar, hot pepper paste, red pepper, salt, fish sauce powder (tuna,salt, sugar, soybean), seafood seasoning (shrimp, squid, mussel), hyd', '', '1.33', '0', '8', '4', '1.3', '4.67', '1.9812', '0.78', '', '0');
+VALUES ('37360320', 'Queso sin lactosa', 'Ingredientes: Leche pasteurizada de vaca, nata pasteurizada de vaca, sal, estabilizantes (goma garrofin y carragenano), lactasa, conservador (ácido Sórbicol y fermentos lácteos.', 'https://static.openfoodfacts.org/images/products/37360320/front_es.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045302379', 'Sweet Red Bean Porridge', 'Red bean paste, red bean, sugar, modified tapioca starch, glutinous rice flour, rice flour, salt, locust bean gum, cocoa powder', '', '1.19', '0.49', '22.11', '7.72', '0', '3.51', '0.36576', '0.144', '', '1');
+VALUES ('3736263582713', 'EnKmalin Abricot', '', 'https://static.openfoodfacts.org/images/products/373/626/358/2713/front_fr.4.400.jpg', '9.67', '1.14', '48.67', '20.38', '', '4.64', '0.132', '0.0519685039370079', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045307336', 'Ottogi instant  curry (hot)', '', '', '3', '2', '11', '1.5', '', '2', '0.5', '0.196850393700787', '', '1');
+VALUES ('3738950050680', 'Confiture pêche mangue', '', '', '0.5', '0.1', '57', '56', '', '0.5', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045351100', 'Old Seaweed', '', '', '0', '0', '2.5', '0', '', '0', '0.3', '0.118110236220472', '', '1');
+VALUES ('3739142961708', 'Super cookies coeur fondant', '', 'https://static.openfoodfacts.org/images/products/373/914/296/1708/front_fr.4.400.jpg', '31', '14', '57', '28', '', '7', '0.79', '0.311023622047244', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045420400', 'Préparation Pour Beignet &quot;frying Batter Mix&quot;', '', '', '1e-05', '0', '80', '3.3', '', '6.7', '0.732', '0.288188976377953', '', '1');
+VALUES ('3741259865480', 'Oméga 3', '', 'https://static.openfoodfacts.org/images/products/374/125/986/5480/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045423401', 'Ottogi Pfannkuchen Mehl', '', '', '0.7', '0', '76', '5', '', '9', '2.08', '0.818897637795276', '', '0');
+VALUES ('37413422', 'Noix de cajou', '', 'https://static.openfoodfacts.org/images/products/37413422/front_fr.4.400.jpg', '50', '9.2', '21.7', '5.8', '', '18.5', '1', '0.393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045426204', 'Panure Panko', 'Farine de _blé_, levure, sel, huile de palme, glucose.', '', '2', '1', '78', '6', '', '12', '0.6', '0.236220472440945', '', '1');
+VALUES ('3741449272159', 'Fût de poireaux', '', 'https://static.openfoodfacts.org/images/products/374/144/927/2159/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045426501', 'Ottogi Bread Crumbs 1KG', '', '', '2', '1', '78', '6', '', '12', '0.06', '0.0236220472440945', '', '1');
+VALUES ('3743300441353', 'Heinz Tomato Ketchup', '', 'https://static.openfoodfacts.org/images/products/374/330/044/1353/front_fr.4.400.jpg', '0.1', '0.1', '23.2', '22.8', '', '1.2', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045440101', 'Huile De Sesame', 'SESAME DE SESAME. MOYENNES POUR PARIS FRANCE . 01 49 605629', '', '92', '15', '0', '0', '', '0', '0', '0', '', '0');
+VALUES ('37443917', 'Viande des grisons', '', 'https://static.openfoodfacts.org/images/products/37443917/front_fr.4.400.jpg', '4.4', '2.2', '0.4', '0.4', '', '37.8', '5.27', '2.0748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045440408', 'Ottogi Sesame Oil', 'Sesame', '', '92', '15', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3744467357211', 'Mozzarella fabriquée en italie. A cuisiner', 'Lait pasteurisé de vache (origine UE) - coagulant microbien - ferments lactiques - sel - antiagglomérant: cellulose.', 'https://static.openfoodfacts.org/images/products/374/446/735/7211/front_fr.4.400.jpg', '25', '17', '1.8', '0', '', '23', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045440545', 'Huile De Sesame Ottogi', 'Sésame', '', '92', '15', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3744480204127', 'Oasis pomme cassis framboise', '', 'https://static.openfoodfacts.org/images/products/374/448/020/4127/front_fr.4.400.jpg', '0', '0', '8.1', '8', '', '0', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045448503', 'Perilla Oil', 'Perilla seed, rosemary mix.', '', '92.86', '10.71', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3744569975115', 'Purée de Pruneaux', 'Pruneaux (75 %), eau (25 %).', 'https://static.openfoodfacts.org/images/products/374/456/997/5115/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045452166', 'Wasabi Meerrettichpaste In Tube - Ottogi 35G', '', '', '0.5', '0.04', '0.93', '0.45', '', '0.1', '0.06', '0.0236220472440945', '', '1');
+VALUES ('3744637105628', 'Wraps au blé complet', '', 'https://static.openfoodfacts.org/images/products/374/463/710/5628/front_fr.4.400.jpg', '5.2', '1.4', '44.2', '3.7', '', '9.4', '1.76', '0.692913385826772', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045495415', 'Old Soba Noodles 400G', '', '', '0.5', '0', '75', '5', '', '10', '3.1', '1.22047244094488', '', '0');
+VALUES ('37448936', 'Cappuccino', '', 'https://static.openfoodfacts.org/images/products/37448936/front_fr.4.400.jpg', '1.5', '1.5', '11.2', '7.4', '', '0.6', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045520117', 'Soupe Jin Ramen 120G', 'COTTOCI) ( NÔIMSG) ozi120a)a', 'https://static.openfoodfacts.org/images/products/880/104/552/0117/front_en.3.400.jpg', '15', '6.66', '65', '3.33', '', '8.33', '1.66', '0.653543307086614', '', '0');
+VALUES ('3744908956294', 'Lipton façon macaron citron', '', 'https://static.openfoodfacts.org/images/products/374/490/895/6294/front_fr.4.400.jpg', '0', '0', '0.5', '0.5', '', '0.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045520124', 'Ramen Coréen épicée', '', '', '', '6.7', '', '3.8', '0', '9.2', '3.9', '1.53543307086614', '', '0');
+VALUES ('3745472257336', 'Spicy garlic', '', 'https://static.openfoodfacts.org/images/products/374/547/225/7336/front_fr.4.400.jpg', '64', '9.6', '5.9', '5.9', '', '1.3', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045521312', 'Soupe De Nouilles Ottogi Kimchi CT', 'Sel', '', '14.1', '6.7', '65', '3.6', '', '8.3', '1.6', '0.62992125984252', '', '0');
+VALUES ('3745757578460', 'Tomates entières pelées au jus carrefour', '', 'https://static.openfoodfacts.org/images/products/374/575/757/8460/front_fr.4.400.jpg', '0', '0', '4', '2.4', '', '0.8', '0.25', '0.0984251968503937', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045522111', 'Nouille De Fruits De Mer 120G', '', '', '11.7', '5.8', '65', '3.3', '', '8.3', '1.649', '0.649212598425197', '', '0');
+VALUES ('3746116116019', 'Maniocaron', '', 'https://static.openfoodfacts.org/images/products/374/611/611/6019/front_fr.4.400.jpg', '20.21', '7.76', '33.52', '17.87', '', '7.82', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045680224', 'Sesame Stir-100g', 'Sésame', '', '51', '8', '16', '0', '', '25', '0', '0', '', '0');
+VALUES ('37462444', 'galettes de belle isle', '', 'https://static.openfoodfacts.org/images/products/37462444/front_fr.7.400.jpg', '', '25.6', '58', '24', '', '5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045680422', '200G Sesame Stir-old', '', '', '53.8', '7.7', '15.4', '0', '', '23.1', '', '', '', '0');
+VALUES ('37466019017', 'Swiss classic', '', '', '11', '4.5', '16', '12', '', '3', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045999906', 'Jin Ramyon (mild)', '', '', '12.5', '6.7', '65.8', '4', '', '10', '3.3', '1.2992125984252', '', '0');
+VALUES ('3747200460445', 'Sauce crudités caesar', '', 'https://static.openfoodfacts.org/images/products/374/720/046/0445/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801045999913', 'Ottogi Jin Ramen (spicy)', '', '', '12.5', '6.7', '66.6', '3.3', '', '9', '0', '0', '', '1');
+VALUES ('3747233094396', 'Miel bio acacia', 'Ingrédient : 100% Miel d\'abeille* Ingrédient issu /Âgriculture Biol', 'https://static.openfoodfacts.org/images/products/374/723/309/4396/front_fr.4.400.jpg', '0', '0', '82.3', '82', '0.3', '0.3', '0.004', '0.0015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047127215', 'Furigake (Tuna & Vegetable)', 'Seasoning tuna flake (tuna, white sugar, refined salt, canola oil, d-sorbitol), mix vegetables (carrot flake, green pumpkin flake, spinach flake), chlorella flake, mix seaweed (seasoning seaweed, gree laver, roasted laver flake), greentea powder, sesame, black sasame', '', '13.33', '0', '46.67', '20', '0', '20', '9.31418', '3.667', '', '0');
+VALUES ('3747237001505', 'Petit déjeuner original', '', 'https://static.openfoodfacts.org/images/products/374/723/700/1505/front_fr.4.400.jpg', '15', '2.6', '68', '29', '', '7.4', '0.69', '0.271653543307087', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047141495', 'Stir-Fry Anchovy', 'Anchovy, stir-fried anchovy sauce mixed formulation polyglycitol syrup, purified water, isomalto-glucosaccharide, mixed soy sauce defatted soybean sea salt, wheat, fructose syrup, yeast extract powder, garlic, roasted sesame, seasoning fermented soybean, mixed formulation (denatured starch, malto-dextrin), vegetable fat&oil/soybean), milk, sugar, wheat extract, red pepper.', '', '2.2', '0', '46', '42', '0', '18', '2.1336', '0.84', '', '0');
+VALUES ('3747554462744', 'Intense choco', '', 'https://static.openfoodfacts.org/images/products/374/755/446/2744/front_fr.4.400.jpg', '10', '6', '58', '53', '', '10', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047141518', 'Stir-Fried Dries Squid', 'Dried squid, purified water, sugar, d-sorbitol, soybean oil, hot pepper, refined salt, l-glutamate) flavor enhancer)', '', '8.33', '0.83', '33.33', '38.33', '0', '16.67', '1.48082', '0.583', '', '0');
+VALUES ('3747700471194', 'Sauce barbecue', '', 'https://static.openfoodfacts.org/images/products/374/770/047/1194/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047182634', 'Sesame Leaves, Mild', 'Pickled sesame leaves, mixed soy sauce (defatted soybean, wheat, high fructose, alcohol, refined salt), purified water, sugar, red pepper paste, fructose, red powder, garlic, sesame oil, sesame seeds, flavor enhancer', '', '1', '0', '8', '0', '0', '2', '1', '0.393700787401575', '', '1');
+VALUES ('37477462', 'Coca zero', '', 'https://static.openfoodfacts.org/images/products/37477462/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047182641', 'Sesame Leaves, Hot', 'Pickled sesame leaves, mixed soy sauce (defatted soybean, wheat, high fructose, alcohol, refined salt), purified water, sugar, red pepper paste, fructose, garlic, sesame oil, red powder, oleoresin capsicum, cheongyang red powder, wheat extract, sesame seeds, flavor enhancer', '', '2.14', '0', '14.29', '0', '0', '4.29', '4.39166', '1.729', '', '0');
+VALUES ('3748680200316', 'Foie de morue', '', 'https://static.openfoodfacts.org/images/products/374/868/020/0316/front_fr.4.400.jpg', '40', '5.9', '2.9', '0', '', '7.2', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047183594', '자연한입 망고', '', 'https://static.openfoodfacts.org/images/products/880/104/718/3594/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('37490485', 'Riz Basmati 10min', '', 'https://static.openfoodfacts.org/images/products/37490485/front_fr.4.400.jpg', '0.6', '0.3', '71', '0.4', '', '8.9', '0.02', '0.0078740157480315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047224341', 'Dongwon Roasted Seaweed Laver - Perilla Oil 3X6G (12 Sheets)', '', '', '9', '1', '0.2', '0.2', '', '75', '47', '18.503937007874', '', '0');
+VALUES ('37491031', 'Les Milboz', '', 'https://static.openfoodfacts.org/images/products/37491031/front_fr.4.400.jpg', '0.9', '0.6', '12', '12', '', '3.1', '0.11', '0.0433070866141732', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047224372', 'สาหร่ายเกาหลีถุงสีเขียวถุงเล็ก', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3750016047502', 'avocat hass', '', 'https://static.openfoodfacts.org/images/products/375/001/604/7502/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047224570', 'สาหร่ายเกาหลีถุงสีเขียว', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3750240020111', 'Rillettes Du Mans', '', 'https://static.openfoodfacts.org/images/products/375/024/002/0111/front_fr.4.400.jpg', '36', '14', '0.1', '0.1', '', '18', '1.3', '0.511811023622047', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047224587', 'สาหร่ายเกาหลีถุงสีเหลือง', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3750300118895', 'Mat kimchi', '', 'https://static.openfoodfacts.org/images/products/375/030/011/8895/front_fr.4.400.jpg', '0.3', '0', '5.6', '2.4', '', '2.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801047281337', 'Boisson nectar de riz', '', '', '0', '0', '21', '21', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3750427421892', 'groene pesto', 'Ingrediënten: zonnebloemolie*, basilicum (30%), cashewnoten, extra vierge olijfolie*, zout, pijn - boompitten* &quot;van biologische oorsprong.', 'https://static.openfoodfacts.org/images/products/375/042/742/1892/front_nl.4.400.jpg', '58', '7.3', '5.8', '1.3', '1.1', '4.6', '3.5', '1.37795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052008240', 'Chung Jung One Seaweed Snack Seasoned, with Olive Oil', 'Seaweed, Corroil; Olive oil, Salt, Sesame oii; è4erb extract(Oleoresin Rosemaij)$ : 2 Monosodium Disodium guanylate(E627); Disodium', '', '42.5', '7.1', '25.4', '0', '18.1', '24.3', '4', '1.5748031496063', '', '0');
+VALUES ('3750587957767', 'Burgers surgelés', '', 'https://static.openfoodfacts.org/images/products/375/058/795/7767/front_fr.4.400.jpg', '15', '6.6', '1.6', '0.4', '', '13', '1.14', '0.448818897637795', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052012452', 'Daesang Beef Bulgogi Marinade', '', '', '0', '0', '40', '35', '', '5', '4.25', '1.67322834645669', '', '0');
+VALUES ('3752690000576', 'Déliss\' original', '', 'https://static.openfoodfacts.org/images/products/375/269/000/0576/front_fr.4.400.jpg', '16.1', '4.8', '8.8', '1', '', '9.5', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052012476', 'Marinade beef', '', '', '0', '0', '40', '35', '', '5', '4.25', '1.67322834645669', '', '0');
+VALUES ('3752690001665', 'Saucisson sec', '', 'https://static.openfoodfacts.org/images/products/375/269/000/1665/front_fr.4.400.jpg', '44.7', '22.2', '4.6', '2.8', '', '22.8', '4.8', '1.88976377952756', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052022529', 'Korean BBQ', '', '', '1.1', '0', '26.7', '19.4', '', '4.3', '4.9', '1.92913385826772', '', '0');
+VALUES ('3752875470644', 'Apéritif SEV', '', 'https://static.openfoodfacts.org/images/products/375/287/547/0644/front_fr.4.400.jpg', '49.2', '16.1', '16.1', '6', '', '25.8', '16.1', '6.33858267716535', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052023823', 'Premium Sesame Oil', '100% sesame oil, mechanically pressed', '', '100', '14.29', '0', '0', '0', '0', '0', '0', '', '0');
+VALUES ('3754576191279', 'Pesto verde', '', 'https://static.openfoodfacts.org/images/products/375/457/619/1279/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052023830', 'Premium sesame oil', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('37554446', 'Anchois marinés', '', 'https://static.openfoodfacts.org/images/products/37554446/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052035833', 'Korean Cripsy Frying Mix', '', '', '4.7', '1.4', '72.9', '0', '', '7.7', '1.3', '0.511811023622047', '', '0');
+VALUES ('3755605995257', 'MENTOS WHITE ALWAYS', '', 'https://static.openfoodfacts.org/images/products/375/560/599/5257/front_fr.4.400.jpg', '0.2', '0.2', '72', '0', '', '0', '0.78', '0.307086614173228', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052202013', 'Chungjungwon Dried Seaweed', '\' Information / Voedingswaarden / Dëclaration nutritionelle Twal / Le valars per 1 oog &wgy/Erergie/ 1 341101 Fat/ ofwhi& œvm / Dontadds gras sature Og Carti)hydrate/ / aucids 666g efwhidl Davm sui}es / 33g Og Satt/Salz/Zwt/Sd 5g Ingre&lts : Seav,eed ataten•.A19ffl h bdhe acssivecŒN.mptbn.mgcaŒedi#urbanŒofthethyroidglarü. Consunein gnal Gefahrtimse$ : anJod! vm NaturWhd. Ehem hépAufrwmrnevm bd kam lisdàSòada1 U NurinkEneM vonhô#8b8Gramm T WaarsdWhirg : Van nature riik aan édiwnt zstorhg van &sdlidklèrtzoo AttÙtm•.Naturdàmtridpabde minstehoucbaartot: Fe in a cod, dryplace. / An einern kühlffl, trockeoen Ort. / Bevaaar op een koeE droge plaats. / Cmserver dans un PRODUCTOF SOUTH KOREA/ PRODUKT SOUTH KOREA / PRODUCT / PRODUIT LA DU SUD IMmŒDBYK-MART DAESANG', '', '0', '0', '66.6', '33', '0', '0', '5', '1.96850393700787', '', '0');
+VALUES ('37557393', 'Maxwell House', '', '', '0', '0', '10', '0', '', '10', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052202020', 'Dried Seaweed - 100g', '', '', '0', '0', '66.6', '33', '', '0', '5', '1.96850393700787', '', '0');
+VALUES ('3755824444079', 'Daco bella', '', '', '21.4', '1.8', '45.9', '42.8', '', '9.5', '0.2', '0.078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052202211', '다시마', '', 'https://static.openfoodfacts.org/images/products/880/105/220/2211/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3756324585262', 'Graine de chia', 'CD Gemid{ùuoedingswaarde / Average nutritional information / Ingredie', '', '30.7', '3.3', '42.1', '0', '34.4', '16.5', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052202259', '미역', '', 'https://static.openfoodfacts.org/images/products/880/105/220/2259/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3757716', 'Liquid Water Enhancer', 'Water, malic acid, citric acid, natural flavor, contains less than 2% of niacinamide, vitamin b6, vitamin b12, stevia leaf extract, sodium citrate, red 40, blue 1, potassium sorbate (preservative).', '', '0', '', '0', '0', '', '0', '0.635', '0.25', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052435015', 'Monggo Taeyangcho Red Pepper Paste', 'Sirop de maïs, de l\'eau, riz brun, poudre de poivron rouge, sel de mer, liqueurs (&lt;3% vol. Alc.), ail, de _soja_, de _soja_ fermentée, torréfiée _soja_ en poudre, oignon, extraits de levure, dextrine, Graine de malt (_blé_).', 'https://static.openfoodfacts.org/images/products/880/105/243/5015/front.3.400.jpg', '0.9', '0.2', '47.1', '22.8', '6.7', '3.9', '6', '2.36220472440945', '', '0');
+VALUES ('3758000360590', 'Or jaune sélection exclusive intensité 9', '', 'https://static.openfoodfacts.org/images/products/375/800/036/0590/front_fr.7.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052435596', '초고추장', '', 'https://static.openfoodfacts.org/images/products/880/105/243/5596/front_en.6.400.jpg', '0', '0', '47.37', '21.05', '5.3', '5.26', '4.8133', '1.895', '', '0');
+VALUES ('3758000373538', 'Cappuccino goût noisettes', '', 'https://static.openfoodfacts.org/images/products/375/800/037/3538/front_fr.4.400.jpg', '9.9', '9.7', '74.9', '49.7', '', '3.8', '0.59', '0.232283464566929', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052436012', 'Chung Jung One Soybean Paste', '_Soja_, eau, sel, graines de _soja_ fermentées, vin de riz.', 'https://static.openfoodfacts.org/images/products/880/105/243/6012/front.3.400.jpg', '0', '0', '45', '20', '', '5', '4.50000000000001', '1.77165354330709', '', '0');
+VALUES ('3758000392621', 'Buddha bowl falafels', '', 'https://static.openfoodfacts.org/images/products/375/800/039/2621/front_fr.4.400.jpg', '12', '1.4', '10', '3.6', '', '3.9', '0.63', '0.248031496062992', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052436463', 'Pate de soja fermenté (Pour soupe) - Saveur anchois', '', '', '5.8', '0', '17.6', '17.6', '', '11.8', '9.5', '3.74015748031496', '', '0');
+VALUES ('3758000519776', 'Cappuccino', '', 'https://static.openfoodfacts.org/images/products/375/800/051/9776/front_fr.8.400.jpg', '11.5', '11', '74.5', '43', '', '4.8', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052438092', 'Daesang Mixed Bean Paste', 'BEANPASTE NETWT:20 Nutrition Information I Nàhrwertangaben I Voedin swaarden / Déclaration nutritionell Fat/ / pote wZ, getq magre, atad m Erdnuss Aler AWjce•Contains a Whea sam nut Aller •eFinwei •enthült \'a Wàz • end date • / Mirdetens haltbar bis : siehe Stemœl /Ten minste roœbaar tot ieprintscren(JJJJMM ./ An anem trockenen ùt. / un en&ot b. Eens DES SOUTH PRTJCTOF B.V', '', '0', '0', '33', '3.3', '', '10', '6.75', '2.65748031496063', '', '0');
+VALUES ('3758000533925', 'Café gringo', '', 'https://static.openfoodfacts.org/images/products/375/800/053/3925/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052730653', 'Korean Beef Bulgogi Marinade', '', '', '0', '0', '34.1', '30.5', '', '3.9', '5.9', '2.32283464566929', '', '0');
+VALUES ('3758000892091', 'Café', '', 'https://static.openfoodfacts.org/images/products/375/800/089/2091/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052730684', 'Marinade Porc Bulgogi', '\' Weerl CKMxk E621) , kru&rs (E21) s', '', '0', '0', '40', '35', '', '5', '4.25', '1.67322834645669', '', '0');
+VALUES ('3758151014502', 'Canisius', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052731896', 'Oriental sauce', '', '', '14.8', '1.3', '13.2', '12.9', '', '2.3', '2.52', '0.992125984251969', '', '0');
+VALUES ('3758200331659', 'Ma soupe repas', '', 'https://static.openfoodfacts.org/images/products/375/820/033/1659/front_fr.4.400.jpg', '2.3', '1.1', '3.9', '1.9', '', '2.8', '0.67', '0.263779527559055', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052732282', '진간장', '', 'https://static.openfoodfacts.org/images/products/880/105/273/2282/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3758200350230', 'Tomates pointe de basilic', 'eau, de belles tomates\' (31%), de la purée de tomates\' double-concentrée (10%), de l\' oignon (9,2%), de la CRÈME fraîche, un peu de sucre, de l\'amidon de maïs, un peu de BEURRE, une pointe de sel et rehaussé d\'épices et aromate (basilic (0,2%), poivre, origan).', 'https://static.openfoodfacts.org/images/products/375/820/035/0230/front_fr.6.400.jpg', '3.5', '2.1', '6.2', '4.6', '0.7', '1.1', '0.65', '0.255905511811024', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052733845', 'Seafood & Oyster Sauce', 'Water, concentrated oyster extracts, (oyster extracts, concentrated oyster, concentrated soy sauce, yeast extracts, glucose, xylose, lysine, glycine), soy sauce, (soybean, salt, wheat, oyster extracts, yeast extracts), high fructose corn syrup, salt, seafood extracts, (shrimp extracts, sea mussle extracts, crab extracts, oyster extracts), modified starch, contains 2% or less of sand lance sauce, disodium inosinate, disodium guanylate, disodium sucinate.', '', '0', '0', '20', '20', '0', '0', '10.414', '4.1', '', '0');
+VALUES ('3758200350339', 'Soupe', '', 'https://static.openfoodfacts.org/images/products/375/820/035/0339/front_fr.4.400.jpg', '3.2', '2', '4.8', '2.7', '', '0.6', '0.66', '0.259842519685039', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052734507', 'Grape Jam', 'Grape, sugar, oligosaccharide contains 2% or less of rectin, citric acid, citron juice.', '', '0', '0', '65', '60', '0', '0', '0', '0', '', '0');
+VALUES ('3758200350353', 'Soupe courgette ricotta parmesan', '', 'https://static.openfoodfacts.org/images/products/375/820/035/0353/front_fr.4.400.jpg', '2.6', '1.7', '6.4', '2.1', '', '1.6', '0.66', '0.259842519685039', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052734545', 'Fruit Jam', 'Sugar, grape, strawberry, apple, mandarin orange, oligosaccharide contains 2% or less of rectin, citric acid, citron juice.', '', '0', '0', '65', '60', '0', '0', '0', '0', '', '0');
+VALUES ('3758200350377', 'Soupe &quot;comme à la maison&quot;', '', 'https://static.openfoodfacts.org/images/products/375/820/035/0377/front_fr.4.400.jpg', '7.4', '4.5', '18', '7.9', '', '2', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052736945', 'Mixed Soy Bean Paste', 'Soybean paste (water, soybean, wheat flour, salt), red pepper paste (water, corn syrup, wheat flour, rice salt, red pepper powder, spirits, soybean, defatted soybean powder, garlic, monosodium glutamate, onion, xanthan gum), corn syrup, water, roasted soybean powder, sugar, spirits, red pepper seasoning (red pepper powder, water, sea salt, garlic, onion), roasted sesame, garlic, seasoning powder (roasted peanut powder, corn flour, maltodextrin), garlic extracts, onion extracts, leek extracts, yeast extract powder (monosodium glutamate, yeast extract powder), sesame oil, ginger extracts, salt, dieoresin capsicum.', '', '0', '0', '40', '20', '0', '10', '0.381', '0.15', '', '1');
+VALUES ('3758200454815', 'Pure Leaf Organic iced tea', '', 'https://static.openfoodfacts.org/images/products/375/820/045/4815/front_fr.4.400.jpg', '0.5', '0.1', '4.5', '4.4', '', '0.5', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052741680', 'Sauce Piment Sriracha', '', '', '0.1', '0', '22', '17.5', '', '0.86', '7.75', '3.0511811023622', '', '0');
+VALUES ('3758200534586', 'Bouillon de boeuf', '', 'https://static.openfoodfacts.org/images/products/375/820/053/4586/front_fr.4.400.jpg', '1.5', '0.8', '0.8', '0.5', '', '0.8', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052750095', 'Corn Silk Tea', 'Purified water, roasted corn, concentrated brown rice extracts, corn flavor, corn silk extracts, sodium hydrogen carbonate, l-ascorbic acid.', '', '0', '', '0', '', '', '0', '0.0254', '0.01', '', '1');
+VALUES ('3758200539352', 'fond de veau', '', 'https://static.openfoodfacts.org/images/products/375/820/053/9352/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052801773', 'Hot Pepper Beans Paste', 'Water, corn syrup, brown rice, red pepper powder, sea salt, isomalto oligosaccharide, spirts, garlic, soybean, soybean cultured with aspergilus cryzae, roasted soybean powder, glutrous brown rice flour, onion, monosodium glutamate, yeast extracts, seed malt, dextrin.', '', '0', '0', '47.37', '31.58', '0', '5.26', '9.62406', '3.789', '', '0');
+VALUES ('3758200547982', 'Mayonnaise de dijon', '', 'https://static.openfoodfacts.org/images/products/375/820/054/7982/front_fr.4.400.jpg', '73', '7', '3', '1', '', '2', '2', '0.78740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052812519', '고기전용쌈장', '', 'https://static.openfoodfacts.org/images/products/880/105/281/2519/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3758200548002', 'Mayonnaid de dijon', 'huile de tournesol, huile de colza, jaune d\'ŒUF de poules élevées en plein air 8%, vinaigre, eau, moutarde de Dijon 5,3% (eau, graines de MOUTARDE, vinaigre, sel), se(, sucre, dexrine, amidon modifié, arômes, colorants : extrait de paprika, lutéine (extrait de tagète),', 'https://static.openfoodfacts.org/images/products/375/820/054/8002/front_fr.13.400.jpg', '72', '7.3', '2.4', '1.3', '0', '1.7', '1.7', '0.669291338582677', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801052901091', 'Sirop de riz brun', '', 'https://static.openfoodfacts.org/images/products/880/105/290/1091/front.3.400.jpg', '0', '0', '76', '66', '', '0', '', '', '', '0');
+VALUES ('3758200548033', 'Mayonnaise de Dijon', 'huile de tournesol, huile de colza, jaune d’oeuf de poules élevées en plein air 8%,vinaigre, eau, moutarde de dijon 5,3 %, sel , sucre, dextrine, amidon modifié, aromes, colorants : extrait de paprica, lutéine', 'https://static.openfoodfacts.org/images/products/375/820/054/8033/front_fr.4.400.jpg', '73', '7', '2.5', '1', '', '1.5', '1.63', '0.641732283464567', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801055027330', 'Nescafe Vanilla 10 18GR', 'Coffee Creamer: {Hydrogenated Vegetable Oil (Palm Kernel), Skimmed cow\'s milk powder, Corn Syrup, Acidity Regulators (E340, E331iii, E452), Anticaking Agent (Silicon Dioxide)}, Sugar, foaming booster {Skimmed cow\'s milk powder, Maltodextrin, Lactose, Sodium Caseinate (Milk Protein), coconut oil), instant soluble coffee, artificial Vanilla flavor, Salt. Contains milk.', '', '16', '14.2', '69.6', '53.7', '', '9.4', '0.42', '0.165354330708661', '', '0');
+VALUES ('3758200607303', 'Planta fin doux', '', 'https://static.openfoodfacts.org/images/products/375/820/060/7303/front_fr.4.400.jpg', '60', '24', '0.5', '0.5', '', '0.5', '0.32', '0.125984251968504', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801055027361', 'Cappuccino', 'Coffee Creamer: {Hydrogenated Vegetable Oil (Palm Kernel), Skimmed cow\'s _milk_ powder, Corn Syrup, Acidity Regulators (E340, E331iii, E452), Anticaking Agent (Silicon Dioxide)}, foaming booster {Skimmed cow\'s milk powder, Maltodextrin, Lactose, Sodium Casenate (Milk Protein), coconut oil}, instant soluble coffee, Sugar, Salt. Contains _Milk_.                                                   ', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3758299000030', 'Rice crisps', '', 'https://static.openfoodfacts.org/images/products/375/829/900/0030/front_fr.4.400.jpg', '7.9', '1.1', '79.6', '5.1', '', '6.9', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801055061815', 'Caramel latté', '', '', '1.2', '1.1', '8.4', '6.4', '', '1', '0.051', '0.0200787401574803', '', '1');
+VALUES ('3758299020564', 'Party Mix', '', 'https://static.openfoodfacts.org/images/products/375/829/902/0564/front_fr.4.400.jpg', '14.9', '3.2', '68', '9.4', '', '9.1', '2.2', '0.866141732283465', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801055706389', 'Nescafe Cafe Menu Coffee Mix Hazelnut 345g', 'Sachet: Sugar, Milk Solids, Vegetable Oil, Soluble Coffee (10%), Glucose Syrup, Maltodextrin (Corn), Stabilisers (340, 452, 331), Flavour. Contains Milk.', '', '1.3', '1.2', '8.9', '7.1', '', '1.1', '0.053', '0.0208661417322835', '', '1');
+VALUES ('3758299021073', 'Célébration mix', '', 'https://static.openfoodfacts.org/images/products/375/829/902/1073/front_fr.4.400.jpg', '27.1', '3.6', '38.7', '29.9', '', '14.2', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801055707522', 'Nescafe Vanilla Instant Foaming Mix 10', '', '', '16', '14.2', '12.3', '9.9', '', '1.7', '0.1', '0.0393700787401575', '', '1');
+VALUES ('3758513324201', 'Crackers', '', 'https://static.openfoodfacts.org/images/products/375/851/332/4201/front_fr.4.400.jpg', '20', '8.3', '53', '12', '', '13', '1.48', '0.582677165354331', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801055707713', 'Nescafé Caramel', 'Coffee Creamer: {Hydrogenated Vegetable Oil (Palm Kernel), Skimmed cov/s milk powder, Corn Syrup, Acidity Regulators (E340), Emulsifier of synthetic origin (E331iii, E452), Anticaking Agent (Silicon Dioxide)), Sugar, Foaming booster {Skimmed cow\'s milk powder, Maltodextrin, Lactose, Sodium Caseinate (Milk Protein), coconut oil), Instant soluble coffee, Artificial caramel flavor, Salt. Contains milk.', '', '15', '14.7', '65.3', '51.2', '0', '8.24', '0.35', '0.137795275590551', '', '0');
+VALUES ('3758513339502', 'Petit pavé moelleux amandes et cranberry', '', 'https://static.openfoodfacts.org/images/products/375/851/333/9502/front_fr.4.400.jpg', '21', '12', '61', '32', '', '7.4', '0.53', '0.208661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056002701', 'Lotte, 2% Refreshing Water, Peach', 'Water, concentrated peach juice, citric acid , sodium citrate , artificial peach flavor , high fructose corn syrup , modified rutin', '', '', '0', '5.42', '5.42', '', '0', '0.01016', '0.004', '', '1');
+VALUES ('3758521021741', 'Almond choc', '', 'https://static.openfoodfacts.org/images/products/375/852/102/1741/front_fr.4.400.jpg', '21.7', '13.9', '24.2', '24', '', '3.2', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056005672', 'Lotte, Milkis, Melon', 'Filtered water, sugar, powdered skim milk, carbon dioxide, citric acid, melon flavour, phosphoric acid, vitamin-a, enzymatically modified rutin, vitamin-d, contains milk ingredients:', '', '', '0', '12', '12', '', '0', '0.01016', '0.004', '', '1');
+VALUES ('3758521021901', 'Plain Choc', '', 'https://static.openfoodfacts.org/images/products/375/852/102/1901/front_fr.4.400.jpg', '20.8', '14.6', '21.6', '21.6', '', '3.1', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056024413', 'Aloe vera', '', '', '0', '0', '8.8', '8.8', '', '0', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3758596001020', 'Bambu', 'chicorée, blé (20%), figues (20%), orge maltée et glands (1%). Tous les ingrédients proviennent de cultures biologiques contrôlées. Koel en droog bewaren. Conserver dans un endroit frais et sec. Tenrninste houdbaar tot einde: zie onderzijde verpakking. A consommer de préférence avant fin: voir fond.', 'https://static.openfoodfacts.org/images/products/375/859/600/1020/front_fr.4.400.jpg', '0.5', '0.5', '87', '6', '', '3.9', '0.5', '0.196850393700787', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056032654', 'Lotte, Sac Sac Grape', 'Filtered water, grape pulp, high fructose corn syrup, grape concentrate, citric acid, grape flavors, sodium citrate vitamin c', '', '0', '', '15.5', '15.5', '', '0', '0.07112', '0.028', '', '1');
+VALUES ('3758659071427', 'Saucisse', '', 'https://static.openfoodfacts.org/images/products/375/865/907/1427/front_fr.4.400.jpg', '19.8', '6.26', '1.2', '0.9', '', '14.2', '3.25', '1.27952755905512', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056041298', 'Guava flavour', '', '', '0', '0', '10', '10', '', '0', '0.0075', '0.00295275590551181', '', '1');
+VALUES ('3758866361601', 'Sauce samourai', '', 'https://static.openfoodfacts.org/images/products/375/886/636/1601/front_fr.4.400.jpg', '26', '4.1', '7.2', '3.6', '', '0.9', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056049720', 'Aloe vera grape flavour', '', '', '0', '0', '9.1', '9.1', '', '0.1', '0.01', '0.00393700787401575', '', '1');
+VALUES ('3758900013817', 'Energy Drink', '', 'https://static.openfoodfacts.org/images/products/375/890/001/3817/front_fr.4.400.jpg', '0', '0', '10.7', '10.7', '', '0', '0.16', '0.062992125984252', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056143015', 'Chilsung', 'Eau raffiné, sucre, fructose, dioxyde de carbone, acide citrique (E330), arôme naturel.', 'https://static.openfoodfacts.org/images/products/880/105/614/3015/front.8.400.jpg', '0', '0', '8.8', '6.4', '0', '0', '0.005', '0.00196850393700787', '', '1');
+VALUES ('3759567565343', 'Nutella', '', 'https://static.openfoodfacts.org/images/products/375/956/756/5343/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056154011', 'Milkis', '', '', '0', '0', '12.4', '12.4', '', '1', '0.015', '0.00590551181102362', '', '1');
+VALUES ('3759795259595', 'Lait d\'amande grillé non sucré', '', 'https://static.openfoodfacts.org/images/products/375/979/525/9595/front_fr.4.400.jpg', '1.1', '0.1', '0', '0', '', '0.4', '0.14', '0.0551181102362205', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056192013', 'Lotte, Chilsung Cider', 'Filtered water, high fructose corn syrup, sugar, carbon dioxide, citric acid, lemon flavor.', '', '0', '', '10.8', '8.4', '', '0', '0.00508', '0.002', '', '1');
+VALUES ('3760000027359', 'Melons de cavaillon', '', 'https://static.openfoodfacts.org/images/products/376/000/002/7359/front_fr.4.400.jpg', '0', '0', '44', '43', '', '0', '0.04', '0.015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056201012', 'Milkis', 'Filtered water, high fructose corn syrup, sugar, carbon dioxide, powdered skim milk, citric acid, yogurt flavor, phosphoric acid.', '', '0', '0', '12', '12', '0', '0', '0.01016', '0.004', '', '1');
+VALUES ('3760000031677', 'Pâte de fruits coing de Provence', '', 'https://static.openfoodfacts.org/images/products/376/000/003/1677/front_fr.4.400.jpg', '1.89', '0.46', '71.1', '71.1', '', '1.18', '0.054', '0.021259842519685', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056290016', 'Lotte, The Coffee Bean & Fresh Milk Drink, Let\'s Be Mild', 'Sugar, skimmed milk powder, whole milk powder, whole milk powder, instant coffee, sodium bicarbonate, sucrose esters of fatty acids, coffee flavor.', '', '0', '', '8.57', '8.57', '', '0.57', '0.1016', '0.04', '', '1');
+VALUES ('3760000410205', 'Miel Toutes Fleurs', 'Miel', 'https://static.openfoodfacts.org/images/products/376/000/041/0205/front_fr.3.400.jpg', '0', '0', '82.4', '82.12', '0.2', '0.3', '0.004', '0.0015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056412012', 'Lotte, Crunch Crunch Pear, Crushed Pear Juice', 'Water, high fructose corn syrup, pear puree, pear flavor, dl-malic acid, vitamin-c', '', '0', '', '11.76', '11.76', '', '', '0', '0', '', '1');
+VALUES ('3760000410304', 'Miel toutes fleurs', '', 'https://static.openfoodfacts.org/images/products/376/000/041/0304/front_fr.4.400.jpg', '0', '0', '82.4', '82.12', '', '0.3', '0.004', '0.0015748031496063', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801056755010', 'Lotte, Milkis, Refreshing Milk And Yogurt Flavor Soda Beverage, Milk And Yogurt', 'Filtered water, high fructose corn syrup, sugar carbon dioxide, powdered skim milk, citric acid, yogurt flavor, phosphoric acid, contains milk', 'https://static.openfoodfacts.org/images/products/880/105/675/5010/front_en.3.400.jpg', '0', '0', '12', '12', '0', '0', '0.01016', '0.004', '', '1');
+VALUES ('3760000410601', 'Miel', '$ Valeur nutritionnelle moyenne pour 100 G', 'https://static.openfoodfacts.org/images/products/376/000/041/0601/front_fr.4.400.jpg', '0', '0', '82.4', '82.12', '0.2', '0.3', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062001880', 'Nude cheese', '', '', '12', '8', '23', '13', '', '3', '0.12', '0.047244094488189', '', '1');
+VALUES ('3760000527101', 'Biscuits au citron vert', '', 'https://static.openfoodfacts.org/images/products/376/000/052/7101/front_fr.4.400.jpg', '14.8', '8.8', '75.8', '23.2', '', '4.1', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062144815', 'Lotte, Kancho Choco Biscuit', 'Wheat flour, sugar,blended oil(hydrogenated palm oil, glycerin esters of fatty acids, tocopherol).cocoa mass, palm oil, cocoa preparation (whole milk powder, cocoa mass), lactose, acidity regulator (ammoniumbicarbonate, sodium bicarbonate), dextrin, almond powder, processed whole milk powder (whey powder, butter fat, lactose, milk cream, sodium caseinate), salt d-maltito; syrub, artificial flavors, emulsifier (soy lecithin), yeast preparation(dried yeast, wheat flour), glucose preparation (glucose syrup, sugar, water), protease preparation (protease, glycerol.', '', '21.43', '11.9', '66.67', '30.95', '0', '7.14', '0.45466', '0.179', '', '0');
+VALUES ('3760000530019', 'Aligot', '', 'https://static.openfoodfacts.org/images/products/376/000/053/0019/front_fr.4.400.jpg', '9.5', '7.37', '8.05', '0.1', '', '7.75', '0.91', '0.358267716535433', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062161881', 'Choco Pie', '', '', '17.9', '14.3', '67.9', '35.7', '', '3.6', '0.4', '0.15748031496063', '', '0');
+VALUES ('3760000530095', 'Aligot', '', 'https://static.openfoodfacts.org/images/products/376/000/053/0095/front_fr.4.400.jpg', '10', '8', '7', '1', '', '8', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062245055', 'Biscuit', 'Wheat flour, sugar, partially hydrogenated vegetable oil, cocoa mass, milk powder, leavening agent (ammonium bicarbonate, sodium bicarbonate), lactose, almond, whey permeate powder, dextrin, salt, artificial flavor (vanilla, butter), emulsifier(soy lecith', '', '23.81', '11.9', '66.67', '33.33', '2.4', '7.14', '0.42926', '0.169', '', '0');
+VALUES ('3760000550017', 'Crème glacée chocolat grand cru', '', 'https://static.openfoodfacts.org/images/products/376/000/055/0017/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062267354', 'Choco Pie', 'мука пшеничная, сахар, кукурузный сироп, растительный жир (пальмовый), шортенинг (частично гидрогенизированные растительные жиры — пальмовое, кокосовое масло), подсластитель — d-Сорбитол, какао порошок, цельное сухое молоко, лактоза, разрыхлители (карбонат натрия E500, карбонат аммония E503, фосфат кальция E341), какао масса (0,5%), соль, эмульгатор (соевый лецитин), ванилин, гидролизованный молочный белок, ароматизатор идентичный натуральному — ванильный ', 'https://static.openfoodfacts.org/images/products/880/106/226/7354/front_en.17.400.jpg', '18.3', '12.8', '66.3', '37.3', '', '3.94', '0.4699', '0.185', '', '0');
+VALUES ('3760000550024', 'Crème glacée vanille bourbon', '', 'https://static.openfoodfacts.org/images/products/376/000/055/0024/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062267675', 'Pepero', '', 'https://static.openfoodfacts.org/images/products/880/106/226/7675/front.8.400.jpg', '17.02', '10.64', '68.09', '25.53', '4.3', '8.51', '0.70866', '0.279', '', '0');
+VALUES ('3760000564458', 'Dvd souris des villes l\'oasis perdu', '', 'https://static.openfoodfacts.org/images/products/376/000/056/4458/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062267699', 'Lotte Pepero Nude', 'Sugar, Wheat flour, Shortening(Palm oil, Lecithin, Tocopherol, Canola oil), Modified milk powder, Cocoa mass, Corn starch, Vegetable Fat (palm oil, tocopherol, lecithin, glycerin esters of fatty acids), Sweetened condensed milk, Fructose, Malt extract Salt, Artificial flavor (Vanilla, Vanillin), Sodium bicarbonate, Sodium hydroxide solution, Emulsifier (Lecithin), Rice oil, Sugar seasoning powder', '', '30', '18', '64', '34', '4', '6', '0.2', '0.078740157480315', '', '0');
+VALUES ('3760000736206', 'ŒUFS FRAIS', '', 'https://static.openfoodfacts.org/images/products/376/000/073/6206/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062267712', 'Lotte Pepero Almond', '', '', '11', '4', '17', '10', '', '4', '0.3', '0.118110236220472', '', '1');
+VALUES ('3760000750073', '2 médaillons au saumon et saint jacques', '', '', '10.2', '1.6', '3.53', '0', '', '14.7', '0.4', '0.15748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062275991', 'Dream Cacao', '', '', '', '7', '', '15', '0', '3', '1', '0.393700787401575', '', '1');
+VALUES ('3760000750165', 'Farci imperial(saumon et saint jacques)', 'SRUMON 50,40 ; orit 22.270 de filet, 19,5% de pulpe et 8,7% de chair (Salmo satar, élevé en % Nord Est)eFtet Norvège. Irlande, Ecosse, Fr\'ncèb, Poissons Blancs 23,9% (Pulpe de CRBILLRUD 17,4% (Gadus Morhua, péché en fli cust gigas, péché de COLIN D\'BLBSKR 6,5% (Theragra Chalcogramma, péché en Océan Pacifique)). ENCORNET GERNT (mollusque) 8,7 % en Océan Pacifique), DEYJRCQUES 6,9% (Pecten maximus, Chtamys Opercularis péchées en Rttantique Nord Fécula de Pomme /e Terre. BLBNC D\'OEUF (corhèfeur d\'acidité ? E330), Set, BROME (Mattodextrine (pomme de terre), (CRUSTRC4 86me laturel vin blanc (SULFITESÈ-LBCTOSE (Lait), épices et aromates (CELERI), amidon modifié (maïs), sucre,) Rrôme naèur de a. Laurier. chalote, PersL.', 'https://static.openfoodfacts.org/images/products/376/000/075/0165/front_fr.4.400.jpg', '10.3', '1.6', '3.35', '0', '0', '14.9', '0.38', '0.149606299212598', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062280032', 'Peanut Pepero', 'OPEN PEANUt PEPERO (Chocolate covered biscuit sticks With peanut) tlk Oil(Patm Oil, Sunt ower 011, Veclthlfi,Vltamin \\tttky M\\lk Milk Cteam)i Grain Product(Wheat, te leavenuw(Sodium Phosphate, Ammonium Bicarbonate, Sodium Bicarbonate), Salt, Fructose, Artificial Flavots, Peanut soybean peanut, May contain Atmond • Net welght 360 (l .27 Oz) $uildtno No tt San Miguel Avenue, Ortigas Centre, Pasio City, Philippines tel : (•63)2 4705272 43300 SERI SELANGOR MALAYSIA', '', '11', '5', '19', '11', '2', '5', '0.59', '0.232283464566929', '', '1');
+VALUES ('3760000750189', '2 rosaces au saumon et beurre aillé', '_Saumon_ 52.9% dont filet 25.6%, pulpe de saumon 20.5% et chair de saumon 6.8%, _poissons_ blancs 22.2% (filet fr colin d\'Alaska 15.4%, pulpe de cabillaud 6.8%, pulpe d\'_encornet_ géant 6.8%) , eau, assaisonnement (Beurre aillé 2.4% (_beurre_ 80.3%), Persil, Ail, Sel, Poivre blanc), fécule de pomme de terre, émincé de poireaux, blanc d\'_oeuf_, correcteur d\'acidité E330, sel, arôme, échalotte, persil. Allergènes : _poissons_, _mollusque_, _oeuf_, _lactose_', 'https://static.openfoodfacts.org/images/products/376/000/075/0189/front_fr.13.400.jpg', '12.3', '3.04', '2.98', '0.1', '0.13', '14.9', '0.9652', '0.38', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062322749', '乐天阿尔法木糖醇口香糖芦荟味86克', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760000751674', 'Brochettes de Saumon', 'de Saumon tar, élevé en Norvège et autres pa s), Poivrons vert VA r JFS Pour 100 Grs Energie 194.', 'https://static.openfoodfacts.org/images/products/376/000/075/1674/front_fr.6.400.jpg', '12', '3', '5', '1', '0.37', '16.5', '0.04', '0.015748031496063', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062332052', 'Lotte Anytime Milk Candy 74G', '', '', '0', '0', '11', '0', '', '0', '', '', '', '1');
+VALUES ('3760000751933', 'Saucisses aux 3 poissons', '', 'https://static.openfoodfacts.org/images/products/376/000/075/1933/front_fr.13.400.jpg', '7.5', '1.02', '2.4', '0.5', '', '15.5', '0.127', '0.05', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062334278', '푹신푹신 말랑카우', '', 'https://static.openfoodfacts.org/images/products/880/106/233/4278/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760000751940', 'Merguez aux 3 poissons', '', 'https://static.openfoodfacts.org/images/products/376/000/075/1940/front_fr.9.400.jpg', '6.8', '0.88', '3.1', '0.6', '0.8', '14.2', '0.1524', '0.06', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062336852', 'Anytime', '', '', '0', '0', '98', '0', '', '0', '', '', '', '1');
+VALUES ('3760000752008', 'Brochette d\'espadon', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2008/front_fr.4.400.jpg', '6.4', '0.4', '1.2', '1', '', '11', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062482788', 'Yogurt Jelly', '', '', '0', '0', '8', '7', '', '0.5285', '', '', '', '1');
+VALUES ('3760000752268', 'Farci Saumon et Saint Jacques', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2268/front_fr.4.400.jpg', '9.3', '1.7', '3.6', '0.14', '', '14.2', '0.55', '0.216535433070866', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062518159', 'Cereal Choco', 'Chocolate [sugar, partially hydrogenated shortening (palm oil, glycerin esters of fatty acids, tocopherol), cocoa mass, cocoa preparation (cocoa mass, whole milk powder), chocolate powder, lactose, almond powder, egg shell calcium, soy lecithin, artificia', '', '28.57', '19.05', '66.67', '52.38', '0', '9.52', '0.30226', '0.119', '', '0');
+VALUES ('3760000752374', 'Pavés de thon à la provençale', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2374/front_fr.4.400.jpg', '5.5', '0.7', '0.4', '0.3', '', '24', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062518210', 'Kancho', 'Farine de blé_, sucre, huile de palme, masse de cacao, margarine végétale, poudre d\'_amandes_, sel, poudre de patate douce, caramel (E150a).', '', '20', '10.29', '57', '29', '', '6', '0.143', '0.0562992125984252', '', '0');
+VALUES ('3760000752398', 'Pavés d\'espadon marinade thym citron', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2398/front_fr.4.400.jpg', '8.9', '0.7', '0.7', '0.1', '', '17', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062521265', 'Waffle Mate, Honey', 'Wheat flour, sugar, margarine (palm oil, esterification palm stearin oil, hydrogenated coconut oil, hydrogenated esterification rapeseed oil, milk cream, milk powder, salt, soy lecithin, butter flavor, corn oil, beta-carotene, dl-d-tocopherol), esterifica', '', '29.79', '16.67', '62.5', '', '0', '', '0.762', '0.3', '', '1');
+VALUES ('3760000752428', 'Plateau grillades de la mer', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2428/front_fr.4.400.jpg', '5.24', '0.81', '1.7', '0.43', '', '15.6', '0.09', '0.0354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062522392', 'Lotte Sand Green Tea', 'Wheat Flour (Wheat), Sugar, Vegetable Oil (Soybean), Powdered Sugar, Shortening I (Soybean), Shortening II (Soybean), Processed Whole Milk Powder (Milk), Cocoa Powder, Whey Powder (Milk), Corn Starch, Acidity Regulator, Green Tea Powder, Salt, Dextrose Monohydrate, Lecithin (Soybean), Artificial Flavour (Green Tea Flavour, Milk Flavour), Vanillin Mixed Formulation (Carthamus Yellow, Gardenia Blue Colour, Alcohol, Water)', '', '13', '7', '33', '15', '', '3', '1.52', '0.598425196850394', '', '0');
+VALUES ('3760000752930', 'Farci saumon et crevettes BIO', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2930/front_fr.4.400.jpg', '10', '1.8', '3.5', '0.38', '', '18', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062522422', 'Kancho Strawberry', '', '', '20.5', '13.4', '68.9', '33.6', '', '5.9', '0.2', '0.078740157480315', '', '0');
+VALUES ('3760000752947', 'Paupiettes saumon crevettes bio', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2947/front_fr.4.400.jpg', '10', '1.8', '3.5', '0.38', '', '18', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062629190', 'seok', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760000752954', 'Rosaces saumon et crevettes BIO', '', 'https://static.openfoodfacts.org/images/products/376/000/075/2954/front_fr.4.400.jpg', '11', '2.9', '3.3', '0.48', '', '17', '0.99', '0.389763779527559', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062634330', 'Lotte Almond Choco Ball', '', '', '17.61', '6.78', '20.97', '0', '', '5.67', '2.5', '0.984251968503937', '', '0');
+VALUES ('3760000814249', 'Vinaigre a la pulpe de tomate-menthe', '', 'https://static.openfoodfacts.org/images/products/376/000/081/4249/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062635245', 'Lotte pie', '', '', '17.9', '14.3', '68', '35.7', '', '3.6', '18.6', '7.32283464566929', '', '0');
+VALUES ('3760000815468', 'Vinaigre à la pulpe de pomme-miel', '', 'https://static.openfoodfacts.org/images/products/376/000/081/5468/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062635566', 'Half chocolate biscuit (초콜릿 반 비스킷)', '', 'https://static.openfoodfacts.org/images/products/880/106/263/5566/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760000950015', 'Source Beaupré', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0015/front_fr.12.400.jpg', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062636358', 'Lotte Biscuit Sticks White Chocolate & Cookie Flavor 32 G.', '', 'https://static.openfoodfacts.org/images/products/880/106/263/6358/front_en.16.400.jpg', '25', '15', '65', '6', '', '7', '0.5', '0.196850393700787', '', '1');
+VALUES ('3760000950107', 'Eau de source', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0107/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062640430', 'Lotte, Pepero Choco White Double Dip', 'White sugar, vegetable oil, milk, cocoa mass, malt, cocoa butter, dextrin, egg, wheat, fructose, salt, vanilla flavor, ferment.', '', '28', '16.8', '64', '40', '0', '8', '0.4064', '0.16', '', '0');
+VALUES ('3760000950220', 'Eau de source', 'eau de source', 'https://static.openfoodfacts.org/images/products/376/000/095/0220/front_fr.9.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062641253', 'Pepero Dark Chocolate', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760000950251', 'Valentine', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0251/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801062642144', 'Green chococo feuilles thé vert', '', '', '34.5', '20.7', '58.6', '34.5', '', '6.9', '0.4', '0.15748031496063', '', '0');
+VALUES ('3760000950442', 'Eau de source', 'Eau de source', 'https://static.openfoodfacts.org/images/products/376/000/095/0442/front_fr.13.400.jpg', '0', '0', '0', '0', '', '0', '0.00762', '0.003', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068006070', 'Samlip Fresh Udon 3 Packs', '', '', '0.4', '0.2', '32', '2', '', '4', '0.46', '0.181102362204724', '', '1');
+VALUES ('3760000950862', 'Eau de Source', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0862/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0.3', '0.118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068021356', 'Samlip Spicy Vermicelli Dumpling', '»erving Per Amount Per serving (68 g) Energy 141 kcal(590 kJ) Calories from Fat 45 %Daily Value Total Fata Sataurated Fat 2 Raviolis Epicé Congelés Poids net : 675g Ingrédients eau, vermicelle, ciboule de Chine, ciboulette, oignon, poivre vert, carotte, protéine de soja, sel raffiné, chapelure(farine de blé), sauce soja, ail, huile', '', '5.9', '3', '31', '1.5', '', '7.4', '1.1', '0.433070866141732', '', '0');
+VALUES ('3760000950886', 'Sainte Baume de Provence', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0886/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0.003', '0.00118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068023022', 'Samlip Panko', 'Wheat flour, Yeast, Sel, Perm cil, Dextrose, Dough conditioner(Corn strarch, Improvising agent (E516, E517), Enzyme, Vitamin C), Vitamin C.', '', '3.1', '0.9', '73', '4', '3.4', '11', '0.44', '0.173228346456693', '', '1');
+VALUES ('3760000950893', 'Eau ste baume', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0893/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068068368', 'White Chou', 'Custard flavour cream (_milk_, corn syrup, white sugar, dextrin, shortening (vegetable oil (palm olein oil, palm oil), oil and fat (beef))), _egg_ yolk, vegetable cream (processed oil, white sugar, processed fat and oil, _milk_, d-sorbitol (_soybean_)), liquid whole _egg_, margarine, _wheat_ flour, sodium caseinate, raising agent (ammonium bicarbonate), refined salt, synthetic flavour (vanilla).', 'https://static.openfoodfacts.org/images/products/880/106/806/8368/front_en.6.400.jpg', '25.3', '17.3', '28', '14.7', '', '5.3', '0.2032', '0.08', '', '1');
+VALUES ('3760000950916', 'Eau de source de montagne', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0916/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '3', '1.18110236220472', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068092745', 'Biscuits yakhaw mini', 'Farine de blé, sirop d\'amidon, huile de maïs,sucre, sel, carbonates d\'hydrogène de sodium, cannelle, vanilline, eau, isomalto-oligosaccharide, extrait de malt', '', '3', '0.35', '9.5', '3.5', '0', '0.5', '0.0015', '0.000590551181102362', '', '1');
+VALUES ('3760000950992', 'Eau minérale', '', 'https://static.openfoodfacts.org/images/products/376/000/095/0992/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068093681', 'nouilles japonaises', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760000951005', 'eau beaupré', 'calcium 58, magnésium 24, sodium 3, potassium &lt;1, bicarbonate 280, sulfate 8, chlorure 5, nitrate &lt;1, ph 7,6,  résidu sec à 180°: 240mg/l', 'https://static.openfoodfacts.org/images/products/376/000/095/1005/front_fr.7.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068134902', 'Samlip Panko Breadcrumbs 200G', '', '', '3.1', '0.9', '70', '4', '', '11', '1.1', '0.433070866141732', '', '0');
+VALUES ('3760000951043', 'Citronnade', '', 'https://static.openfoodfacts.org/images/products/376/000/095/1043/front_fr.4.400.jpg', '0.1', '0', '5.8', '5.5', '', '0.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068360226', 'Samlip Udon Noodle', 'Wheat flour, Thickener(E14d2), so!t, Enzyme. Acidity Requ!ator: (E575, E350. E325. E270. E260)', '', '0.7', '0', '34.5', '0', '0', '3', '0.25', '0.0984251968503937', '', '1');
+VALUES ('3760001040159', 'Probiolog Flore Intestinale 30 Gélules', 'Lactobaattus acidophilus, Difidobactedum lactis. Agents de charge : moltodexttine, Épaississants cellulose microcristalline, alginate de sodium, Arr tiaggtomérant dioxyde de silice, Émulsifiant stéarate de magnésium. Peut contemr des traces de lait. LactobaaTus acidophffus, ûifidobactetium lactis. Par gélule : 1 milliard Par jour : 1 à 2 milliards ENVELOPPE IA Hypromellose. Colorant : dioxyde de titane. CONSERVER HORS DE IA PORTÉE ENFANTS. Poids net : g', 'https://static.openfoodfacts.org/images/products/376/000/104/0159/front_fr.7.400.jpg', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068360288', 'Samlip Sanuki Udon 3 Packs Tempura', 'NOUILLES (200 G) : FARINE DE BLÉ TENDRE 62.3%, EAU, FECUIE MODIFIEE DE TAPIOCA, CORRECTEURS D\'ACIDITE (E270, E260, E575, E296, E325, E350). SACHET DÉ SAUCE (22 G) : ASSAISONNEMENT EN POUDRE (SAUCE DE SOJA (SOJA DEGRAISSE, BLE, SEL), SUCRE FLOCONS DE BONITE, SEL, GLUCOSE, DEXTRINE, EXHAUSTEUR DE GOUT (E361), ALGUE, CORRECTEURS D\'ACIDITE (E364), EAU, SAUCE SOJA FERMENTEE (SOJA DEGRAISSE, BLE, EAU, SEL, FRUCTOSE, ALCOOL, EXTRAIT DE LEVURE), SUCRE, SEL,  EXTRAIT D\'ANCHOIS, EXTRAIT DE BONITE, EXTRAIT D\'ALGUE, EXHAUSTEUR DE GOUT( E631) FLOCON (6 G) : TEMPURA 50% (FARlNE DE BLE TENDRE, HUILE DE PALME, FECULE DE POMME DE TERRE, OIGNON EN POUDRE,  CREVETTE EN PIUDRE, BLANC D\'OEUF EN POUDRE, EXTRAIT DE THON, SEL, SUCRE, LACTOSE, DEXTRINE, POIVRE NOIR EN POUDRE, EXHAUSTEUR DE GOUT (E635) EMULSIFIÀNT (E471) EXTRAIT DE THÉ VERT, ALCOOL, ASSAISONNEMENT EN POUDRE (CONTIENT DE LA CACAHUETE) TOFU FRIT (PROTEINE DE SOJA, FARINE DE BLE TENDRE, HUILE DE PALME) HUILE DE SOJA, EMULSIFIANT (E471), EXTRAIT DE THE VERT, ALCOOL), CIBOULE DÉSHYDRATÉ, ALGUE DESHYDRATEE.', '', '1.5', '0.7', '29.4', '1.3', '2.2', '4', '1.4', '0.551181102362205', '', '0');
+VALUES ('3760001040678', 'Mayoly Spindler Probiolog Fort', 'Épaississants : cellulose microcristalline, agents de charge : maltodextrine, Lactobacillus acidophilus, Bifidobacterium lactis, antiagglomérant : dioxyde de silice, stéarate de magnésium. Enveloppe : hypromellose, colorant : oxyde de fer.', 'https://static.openfoodfacts.org/images/products/376/000/104/0678/front_fr.7.400.jpg', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068363531', 'Samlip Sanuki Udon 3 Packs Seafood', '', '', '0.93', '0.47', '29.9', '0.93', '', '4.7', '2.1', '0.826771653543307', '', '0');
+VALUES ('3760001040791', 'Mayoly Sante Bien Etre Megamag One', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068450231', 'Leek Dumpling - raviolis', 'farine de blé, protéine de soja, ciboule de Chine, oignon, ciboulette, sucre, gingembre, ail, sel, poivre huile de sésame.', 'https://static.openfoodfacts.org/images/products/880/106/845/0231/front.3.400.jpg', '4.4', '1.4', '26.4', '1.4', '0', '5.8', '2.6', '1.02362204724409', '', '0');
+VALUES ('3760001040807', 'Mayoly Spindler Nauziaphyto', '', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801068450316', 'Vegetable dumpling', 'Samiip food 12.03.2019 REÉFïRÒZEN 675 g', '', '4.4', '2', '32.4', '1.5', '3.5', '8', '1.2', '0.47244094488189', '', '0');
+VALUES ('3760001380170', 'Muesli superfruits', '', '', '6', '1', '59', '17', '', '11', '0.03', '0.0118110236220472', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801069170619', 'French cafe', '', '', '1.65', '1.05', '9', '8', '', '1.5', '0.09', '0.0354330708661417', '', '1');
+VALUES ('3760001380255', 'Vin rouge', '', 'https://static.openfoodfacts.org/images/products/376/000/138/0255/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801069174020', '남양 몸이 가벼워지는 시간 17차', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
+VALUES ('3760001390070', 'MINERVOIS RGE CH.AGEL 75CL', '', '', '0', '0', '0.2', '0.05', '', '0.1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801069222462', 'French cafe', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001390513', 'Maestria château d\'agel 2013', '', 'https://static.openfoodfacts.org/images/products/376/000/139/0513/front_fr.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073110168', 'Samyang Lamen Assorted Vegetable', '', '', '14', '8', '78', '3', '', '9', '1.81', '0.71259842519685', '', '0');
+VALUES ('3760001390827', 'CHÂTEAU D\'AGEL 2014 MINERVOIS CUVÉE AGELLUM', '', 'https://static.openfoodfacts.org/images/products/376/000/139/0827/front_fr.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073110502', 'Samyang Stir-fried Noodles With Hot And Spicy Chicken Ramen', '', '', '11.4', '5.7', '60.7', '5', '0.71', '8.57', '2.3', '0.905511811023622', '', '0');
+VALUES ('3760001550023', 'Bière de pays ambrée', 'Eau, malt d\'_orge_, houblon, levures.', 'https://static.openfoodfacts.org/images/products/376/000/155/0023/front_fr.13.400.jpg', '', '', '', '', '', '', '', '', '6', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073111080', 'Samyang Korean Style Non-frying Noodles Assorted Clam Flavour,100G', 'FARINE DE BLÉ, AMIDON MODIFIÉ, SEL, SOLUTION DE D-SORBITOL, HUILE DE SOJA, LÉCITHINE, ESTER D’ACIDE GRAD DE POLYGLYCÉRINE, ESTER DE SUCRE, CARBONATE DE POTASSIUM, CARBONATE DE SODIUM, POLYPHOSPHATE DE SODIUM, PYROPHOSPHATE TÉTRASODIQUE, PHOSPHATE DISODIQUE. L-GLUTAMATE DE SODIUM, SUCRE, POUDRE D’AIL, POUDRE D’EXTRAIT D’ENCHOIS, MALTO DEXTRINE, POUDRE D’EXTRAIT DE THON, POUDRE D’OIGNON, SUCCINATE DISODIQUE, HUILE DE PALME, GUANILATE SODIQUE, INOSINATE SODIQUE, POUDRE DE GINGEMBRE, CONCENTRÉ D’AIL. CAROTTES, CIBOULETTE, CHOU CHINOIS, VARECH, POUDRE DE PIMENT.', '', '2', '2', '76', '2', '2', '10', '1.9', '0.748031496062992', '', '0');
+VALUES ('3760001658484', 'Pâte à tartiner', '', '', '42', '11', '45', '43', '', '5.3', '0.05', '0.0196850393700787', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073113336', 'Samyang Hot Chicken Flavour Ramen - Cold Stir Noodle', 'Noodle (78.3%) : Weat flour ( 68% ), Tapioca starch (16%),PALM OIL (14%), SALT, SOYBEAN OIL, THICKENER(E412), ACIDITY REGULATOR(E501), SUGAR SOLUTION, ACIDITY REGULATOR(E500), EMULSIFlER(E322) ACIDITY REGULATOR(E OIL, EMULSIFlER(E452) EMULSIFlER(E450), ACIDITY REGULATOR(E330) WATER, soy ARTIFICIAL CHICKEN FLAVOR, WHITE SUGAR, RED PEPPER POWDER SQEEAN ONJON, YEAST EXTRACT POWDER, RED pEPPER SEED OIL, GARLIC, PAPRIKA OLEORESIN, BLACK PEPPER POWDER, FLAVOUR ENHANCER(E635), CURRY POWDER, FLAVOUR ENHANCER(E621), ACIDITY REGULATOR(E330) ROAST SESAME, DRIED LAVER(PORPHYRA TENERA)', '', '13.2', '6.6', '62.3', '6', '0.7', '7.3', '2.24', '0.881889763779528', '', '0');
+VALUES ('3760001680225', 'Lait entier pasteurisé', '', 'https://static.openfoodfacts.org/images/products/376/000/168/0225/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073113381', 'Samyang Hot Chicken Flavor Ramen Stew Type (soup)', '', '', '11', '5.5', '61.1', '5.5', '', '6.9', '2.5', '0.984251968503937', '', '0');
+VALUES ('3760001680331', 'Yaourt aux fruits', '', 'https://static.openfoodfacts.org/images/products/376/000/168/0331/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073113428', 'Samyang Hot Chicken Flavour Ramen (2xspicy) Limited Edition', 'IN#DIENTS CARBONATE(E501), SODIUM ?$HATE DIBASIC(E339), SODIUM POLYPHOSPHATE(E452), CITRIC éE412)J , WATER, ARTIFICIAL CHICKEN FLAVOR POWDER WHITE SUGAR, SAUE RED PEPPER PER, SOYPEAN OIL, ONION POWDER, CHILLI EXTRACT, SALT, GARLIC POWDER, STARCH, YEAST POWDER, BLACK PEPPER POWDER, CURRY POWDER ROAST SESAME. ROASTED LAVER', '', '12.1', '5.7', '60.7', '5', '0.7', '9.3', '2.5', '0.984251968503937', '', '0');
+VALUES ('3760001680447', 'Flan vanille', '', 'https://static.openfoodfacts.org/images/products/376/000/168/0447/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073140578', 'Buldalk Bokkeummyeon', 'Noodle: Wheat flour, modified starch, palm oil, _wheat gluten_; Soup & Flake: Water, _soy_ sauce, sugar, artificial chicken flavor, red pepper seasoning powder, _soybean_ oil, onion, red pepper seed oil, red pepper powder, yeast extract seasoning powder, garlic roast sesame, dried laver', 'https://static.openfoodfacts.org/images/products/880/107/314/0578/front_en.6.400.jpg', '11.4', '5.71', '60.7', '5', '0.714', '8.57', '2.32', '0.914', '', '0');
+VALUES ('3760001770322', 'Miel de forêt', '', 'https://static.openfoodfacts.org/images/products/376/000/177/0322/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073141872', 'Samyang Curry Hot Chicken Flavor Ramen 1 Pack', '', '', '12.1', '5.7', '62.1', '5.7', '', '9.3', '2.6', '1.02362204724409', '', '0');
+VALUES ('3760001801064', 'Œufs Biologiques', '_Œufs_ frais', 'https://static.openfoodfacts.org/images/products/376/000/180/1064/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073210363', 'Samyang Hot Chicken Ramen Bowl', 'Nouilles (73,4 %) : Farine de _blé (42 %), amidon de tapioca (18 %), huile de palme (13 %), _gluten de blé_, sel, huile de _soja_, régulateur d\'acidité (carbonate de potassium, carbonate de sodium, phosphate de sodium dibasique, polyphosphate de sodium, acide citrique, poudre d\'oignon, épaississant (gomme de guar), eau, émulsifiant (lécithine, huile de thé vert, arôme, colorant (riboflavine). Soupe (23.8 %) : Eau, saveur de poulet artificiel, sucre blanc, sauce de _soja_, poudre de piment rouge, huile de _soja_, poudre d\'oignon, poudre d\'ail, sel, amidon de tapioca, d\'extrait de levure, poudre de poivre noir, poudre de curry. Flocons (2.8%) : _sésame_ rôti, algues séchées.', '', '14.3', '7.62', '60', '7.62', '0.952', '8.57', '0.905', '0.356', '', '1');
+VALUES ('3760001820010', 'Santé & Bien-être / Nez - Gorge - Oreille / Gorge Irritée', 'Gomme Arabique (épaississant, E414), Sucre roux pur canne, Miel 17%, Extrait de Propolis purifiée 6%, Arômes naturels : Suc de Réglisse, Anéthol et Violette. Agents d\'enrobage : Huile végétale et cire de carnauba. Peut contenir des traces éventuelles d\'oeuf, de fruits à coque et de blé.', 'https://static.openfoodfacts.org/images/products/376/000/182/0010/front_fr.4.400.jpg', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073210776', 'Samyang Hot Chicken Flavor Cup Ramen 2.47 Oz', 'AMIDON DE ÉPAISSISSANT (LA GOMME DE GUAR (E412)l LE CARBONATE DE SODIUM (E500)r PHOSPHATE SODIUM : EAU, SAUCE ARTtFlCtEL SAVEUR DE SUCRE BLANC ROUGE, POUDRE DE POIVRE NOIR)t [HUILE DE DE LEVURE POUDRE, POUDRE DE CURRY), PO}VRE ROUGE HUILE DE EXHAUSTEUR DE GOÛT (DISOD$UM 5+RBONUCLéOTiDES (E635), L-GIUTAMATE MONOSOOIQIEE! RÉGULATEUR DE L\'ACIDITÉ [ACIDE AMIDON DE TAPIOCA DÉCOLORATION CAPüeE (OLÉORÉSINE DE PAPR}KA (El : RÔTI SESAMES ALGUES SÉCHÉE9iÉ3éu CONTIENTDESINGRÉDIENTS DU BLÉ, DU SOJA,b YIT ET DE UITS DE POISSON INSTALLATIONS QUI TRAITENT ÉGALEMENT DES,', '', '14.3', '7.1', '60', '8.6', '1.4', '8.6', '2.3', '0.905511811023622', '', '0');
+VALUES ('3760001820027', 'Propolis Pure à Mâcher - 10 G - Propolia', 'Le meilleur de la Propolis Pionnier de la Propolis et spécialiste des produits de la Ruche depuis plus de 30 ans, Propolia@ met à votre disposition le meilleur de l\'apiculture traditionnelle Française : au travers de cette Propolis spécialement sélectionnée pour sa pureté, retrouvez toutes les qualités d\'une action 100% naturel!ee Réminiscence des anciens temps, voilà un produit qui mérite d\'être découvert... demandez conseil à votre revendeur! Ingrédient : 100% propolis purifiée Conseils d\'utilisation : Utiliser une barre d\'I g de Propolis Chauffer doucement une de ces petites barres dans la bouche la mastiquer : le picotement caractéristique et révélateur de Vattiûl\\ de la Propolis se fait ressentir. A garder dans la bouche 15 minutes a 1 heure selon votre besoin, ou jusqu\'à sa désagrégation. Al de kracht van Propolis ln voorgesneden schijfjes Propolia@, al meer dan 30 jaar pionier van Propolis en specialist in producten van de bijenkorf, stelt de beste traditionele Franse apicultuur tot uw beschikking: met deze speciaal om zijn puurheid gekozen Propolis, ziet u alle kwaliteiten terug van een 100% natuurlijke werking. Herinnering aan oude tijden, zie hier een product dat verdient om ontdekt te worden..... vraag advies aan uw handelaar. Ingredient : 100% zuivere Propolis Aanbevelingen: Gebruik een staafie van 1 g Propolis per dag. Verwarm voorzichtig een van de kleine staafies in de mond alvorens erop te kauwen : u voelt het typische en veelzeggende gekriebel van de werking van de Propolis. Houd het al naar gelang uw behoefte 15 minuten à 1 uur in uw mond of totdat het volledig is opgelost. MADE IN FRANCE', 'https://static.openfoodfacts.org/images/products/376/000/182/0027/front_fr.3.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073211063', 'Samyang Hot Chicken Flavor Ramen Stew Type (soup) (bowl)', '', '', '13.3', '6.6', '57.5', '5.8', '', '7.5', '3.2', '1.25984251968504', '', '0');
+VALUES ('3760001820058', 'Spray Buccal Propolis Et Thym - 20ML - Propolia', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073211223', 'Hot chicken flavor ramen', '', '', '15.7', '7.1', '60', '7.1', '', '10', '2.3', '0.905511811023622', '', '0');
+VALUES ('3760001820102', 'Energie Vitale - 120 G - Propolia', 'Miel (42,4%), Sirop de Blé (Triticum aestivum L.) (sans gluten), Extrait de Propolis (4,5%), Gelée Royale (3%), Extrait d\'Acérola titré à 25% de Vitamine C, Poudre de Papaye, Extrait de ginseng, Arôme naturel d\'Orange (Huile Essentielle de Citrus sinensis). Ingrediënten: Honing (42,4%), Siroop van tarwe (Triticum aestivum L.) (glutenvrij), Propolisextract (4,5%), Koninklijke gelei (3%), Acerola extract (getiteld op 25% ascorbinezuur), Papaja poeder, Ginseng extract, Natuurlijk aroma van de sinaasappel (Etherische Olie van Citrus sinensis), Pour 1 cuillère à café / Voor een theetepettJe (8g) : Miel/Honing 3,4g ; Extrait de Propolis/Propolisextract 360mg (dont Propolis/ waarvan Propolis 95mg) ; Gelée royate/Koninklijke gelei 243mg ; Extrait d\'Acérola/Extract van Acerola (Malpighia punicifolia) 224mg (dont Vitamine C/waarvan Ascorbinezuur 40mg - 50% des AQR*) ; Poudre de Papaye/Papaja poeder (Carica papaya) 121mg ; Extrait de Ginseng/Extract van Ginseng (Panax Ginseng) 32mg? *AQR : Apports Quotidiens de Référence / Referentie Dagelijkse Inname A consommer de préférence avant fin : Ten minste houdbaar tot einde:', 'https://static.openfoodfacts.org/images/products/376/000/182/0102/front_fr.6.400.jpg', '1', '1', '1', '1', '', '1', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801073310759', 'Honey Dipped Snack', '', '', '8', '3', '19', '4', '', '2', '0', '0', '', '1');
+VALUES ('3760001820249', 'Gomme de propolis - miel & eucalyptus', 'gomme arabique (épaississant), sucre roux pur canne, miel 17%, extrait de propolis purifiée 6%, huile essentielle d\'Eucalyptus (Eucalyptus Globulus), aromes naturels de menthe et de menthol, agents d\'enrobage (huile végétale et cire de carnauba)', 'https://static.openfoodfacts.org/images/products/376/000/182/0249/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801077298800', 'Korean Fish Sausage Stick', 'Pollack meat, egg, wheat, milk, soybean protein, sorbitol, sugar, salt, onion, garlic, malt syrup, carrageenan, sodium pyrophosphate, glucose,black pepper, agar, monosodium glutamate, soybean oil, propylene glycol.', '', '8', '4.5', '13', '2', '0', '10', '1.397', '0.55', '', '0');
+VALUES ('3760001820331', 'Gommes Propolis Miel & Orange', 'Gomme Arabique (épaississant, E414), Sucre roux pur canne, Miel 17%, Extrait de Propolis purifiée 6%, Arôme naturel dprange. Agents d\'enrobage : Huile végétale et cire de carnauba. Peut contenir des traces éventuelles d\'oeuf, de fruits à coque et de blé. Précautions d\'emploi : Pour les enfants à partir de 3 ans. Contre-indiqué chez les personnes allergiques aux produits de la Ruche. A éviter chez les fernmes enceintes. Ne peut remplacer une alimentation variée et équilibrée et un mode de vie sain. Tenir hors de portée des jeunes enfants. Ne pas dépasser la dose conseillée. Conserver à l\'abri de la chaleur et de l\'humidité. Complément Alimentaire. Poids net : 45g', 'https://static.openfoodfacts.org/images/products/376/000/182/0331/front_fr.9.400.jpg', '0', '0', '10', '10', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801081700061', 'Assi Brand Red Bean In Sugar Syrup 475g', '', '', '0', '0', '47.5', '32.5', '', '5', '0.1', '0.0393700787401575', '', '0');
+VALUES ('3760001820348', 'Epicerie / Thé Bio Et équitable / Tisanes, Infusions', '', 'https://static.openfoodfacts.org/images/products/376/000/182/0348/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801085010241', 'Udon frais au kimichi', 'FARINE DE BLE, EAU, SEL, AROME POISSON. SAUCE SOJA EN POUDRE, PIMENT  ROUGE. ALGUE, KIMCHI SECHE, SEL.  ', '', '4.76', '0', '22.9', '0.476', '1.9', '2.86', '2.13', '0.838', '', '0');
+VALUES ('3760001820430', 'Propolis', '', 'https://static.openfoodfacts.org/images/products/376/000/182/0430/front_fr.8.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801085010258', 'Soupe Udon Fruit De Mer 212G', 'NOUILLES: FARlNE DE BLE.  EAU, SEL. ASSAISONNEMENT: AROME ANCHOIS  SAUCE SOJA EN POUDRE, SEL, CAROTTE ALGUE, AROME MOULE', '', '0.75', '0', '29.72', '1.888', '0', '5.18', '1.924', '0.75748031496063', '', '0');
+VALUES ('3760001820515', 'Miel d\'acacia', '', 'https://static.openfoodfacts.org/images/products/376/000/182/0515/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801094984205', '씨그램', '', '', '0', '0', '0', '0', '0', '0', '0.02794', '0.011', '0', '1');
+VALUES ('3760001820591', 'Apimab Propolia Chewing Gum Propolis & Cannelle - Boîte', 'Sorbitol, Xylitol, Sirop de Maltitol', 'https://static.openfoodfacts.org/images/products/376/000/182/0591/front_fr.4.400.jpg', '0', '0', '3', '0', '', '0.1', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801097122017', 'Olatte milky and fruit', 'INGREDIEHTS: WATER saxED MILK POWOER CONISESYRATEO \'JCE, POTASSLN LACTATE. MRTOOEXIRtN. cjrqc CYACOEXTRN SYNTHETIC FLAVORtNG AGENT. SCOAJU CITRATE. CCP. FREAU PURIFIÉE. FRUCTOSE ECRÊUÊ EN POWRE, JUS CONCENTRÉ. LACTATE OE POTASSwu SOUOOEXTRJNEt ACIDE CITRIQUE, CYCLOOEXTRINE. AGENT AROUATISANT SYNTHÉTIQUE, CITRATE DE SOOtUU CCP. wjGEZVtVERO WATER, LIQUID FRUCTOSE. MIXEO WAGERE MELKPOEDER GECONCENTREERD VRUCHTENSAP, KAjtu.ACTAAT, CITROENZUUR CYCLOOEXTRINE, SYNTHETISCHE SMAAKSTOF, NATRIUMCITRA.AT, CCP.', '', '0', '0', '7.5', '6.67', '0', '0', '0', '0', '', '1');
+VALUES ('3760001820768', 'Miel de lavande', 'miel', 'https://static.openfoodfacts.org/images/products/376/000/182/0768/front_fr.5.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801097250048', 'Pocari Sweat Drink', '', '', '0', '0', '15', '6.7', '', '0', '0.05', '0.0196850393700787', '', '1');
+VALUES ('3760001820805', 'Miel de thym', '', 'https://static.openfoodfacts.org/images/products/376/000/182/0805/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801104302081', 'Bungeo Samanco', '', '', '5', '3', '37', '24', '', '3', '0.085', '0.0334645669291339', '', '1');
+VALUES ('3760001820867', 'Chewing gums fraicheur', '', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801105901009', 'Haitai Grape Juice Bon Bon D', '', '', '0', '0', '13', '13', '', '0', '0.016', '0.0062992125984252', '', '1');
+VALUES ('3760001821017', 'Gommes de propolis bio', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801111186209', 'Crown Biscoito White Heim Choco', '', '', '31.3', '15.6', '56.3', '31.3', '', '9.4', '0.4', '0.15748031496063', '', '0');
+VALUES ('3760001821024', 'Rosée des hesperides', '', 'https://static.openfoodfacts.org/images/products/376/000/182/1024/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801111611312', 'Teeth', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001821239', 'Propolis intense - poudre ultra', '', 'https://static.openfoodfacts.org/images/products/376/000/182/1239/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801111690133', 'Джолли Понг', 'Пшеничная крупа, сахарный сироп, кокосовое масло, сироп мальтозы, цветная карамель, соль, ирисовая смесь, витамин C, аромат арахиса, ванелин, лецитин (E322)', '', '13', '', '77', '', '', '8', '0.4191', '0.165', '', '1');
+VALUES ('3760001821253', 'Propolis Ultra', '', '', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801111917346', 'Ice Cream Wafer', 'Yogurt cream, wheat flour, fructo-oligo saccharide, soy powder, shortening (vegetable), skim milk powder, sugar, corn oil, lactose, dextrine, lecithin, sugar esters of fatty acids, ammonium bicarbonate, sodium bicarbonate, salt, guar gum, enzyme.', '', '31.25', '18.75', '59.38', '34.38', '0', '6.25', '0.23876', '0.094', '', '0');
+VALUES ('3760001821260', 'Propolis Ultra - 180 Gélules - Propolia', '', '', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801111917537', 'ChamMini cheese cracker', '', '', '15', '9', '70', '23.3', '', '10', '1.8', '0.708661417322835', '', '0');
+VALUES ('3760001821468', 'Santé & Bien-être / Résistance Et Vitalité', '', 'https://static.openfoodfacts.org/images/products/376/000/182/1468/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801114124314', 'Soupe de nouille', '', '', '7', '4', '54', '22', '', '16', '1.3', '0.511811023622047', '', '0');
+VALUES ('3760001822168', 'Delicat ESAIM', '', 'https://static.openfoodfacts.org/images/products/376/000/182/2168/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801114132227', '120G X 3 Pulmuone Korean Spicy Beef Soup Chopped Noodle Ramen No Fried Noodle', '3, ole, sel), matt±ne, dextriné&gt;frÉare de de thé vtrt (pur présener l\'arôme), extrafr de n de ril, lécitine acide lez', '', '3.5', '0.5', '39', '2', '2', '5', '0.95', '0.374015748031496', '', '1');
+VALUES ('3760001822519', 'Gommes de propolis bio', '', 'https://static.openfoodfacts.org/images/products/376/000/182/2519/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801114302439', 'Vinegar Red Pepper Paste', 'Red pepper paste, vinegar, high fructose corn syrup, starch syrup, garlic, fish sauce, apple concentrate, water, plum concentrate, sugar, red pepper powder, sesame seed, citric acid, wheat gluten.', '', '1.5', '0', '48', '37', '0', '4', '3.6576', '1.44', '', '0');
+VALUES ('3760001860023', 'Endive', '', 'https://static.openfoodfacts.org/images/products/376/000/186/0023/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801114302729', 'Clam Bean Pasta Soup Sauce', 'Water, soybean paste (soy, bay salt, wheat flour, malt seed), garlic, powdered seasoning base, crab flavor base, clam extract, shrimp concentrate (shrimp extract, sugar, salt, tuna extract, amino acid sy-1), mussel extract, bean sprouts extract, red pepper powder, kelp extract, anchovy powder, vegetable soup base.', '', '2.69', '0.38', '10.77', '2.31', '0.8', '7.69', '5.76326', '2.269', '', '0');
+VALUES ('3760001860030', 'Endive', '', 'https://static.openfoodfacts.org/images/products/376/000/186/0030/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801114305515', 'Snail Bean Paste Soup Sauce', 'Fermented soybean paste, water, fermented soybean lump, snail, garlic, tuna seasoning, soybean paste soup base, red pepper powder, snail extract, salted shrimp powder, manila clam extract-p, fermentation taste booster, yeast extract, vegetable soup base.', '', '1.92', '0.38', '9.23', '3.08', '0.8', '11.54', '6.858', '2.7', '', '0');
+VALUES ('3760001860108', 'Endives de France', '', 'https://static.openfoodfacts.org/images/products/376/000/186/0108/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801115114031', 'Milk (우유)', '', 'https://static.openfoodfacts.org/images/products/880/111/511/4031/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001860139', 'Endives', '', 'https://static.openfoodfacts.org/images/products/376/000/186/0139/front_fr.4.400.jpg', '0.2', '0.05', '2.37', '1.72', '', '1.08', '0.01', '0.00393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117084905', 'Korepab Snack (Chicken Flavour)', 'wheat flavour, vegetable oil, modified starch, corn flour, brown sugar, flabour (chicken flabour), emulsifier (E322), raising agent (E500(ii)), oyster shell powder, edible salt, flabour enhancer (E951). ', 'https://static.openfoodfacts.org/images/products/880/111/708/4905/front.12.400.jpg', '11.4', '5.95', '77', '5.41', '4.32', '6.22', '1.52', '0.597', '', '0');
+VALUES ('3760001970142', 'Caillette cuite choux', '', 'https://static.openfoodfacts.org/images/products/376/000/197/0142/front_fr.4.400.jpg', '21.3', '3.2', '1.2', '0.22', '', '12.6', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117249908', 'Brownie เกาหลีรสช็อคโกแลค', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001972368', 'Saucisses de Toulouse', '', 'https://static.openfoodfacts.org/images/products/376/000/197/2368/front_fr.4.400.jpg', '24.5', '4.5', '1.7', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117250003', 'Real Brownie', 'Pure chocolate(sugar, cocoa butter, whole milk powder, cocoa mass, cocoa powder), wheat flour, pure chocolate chunk (cocoa mass, sugar, cocoa butter)', '', '30', '18.5', '50', '35', '0', '5', '0.381', '0.15', '', '0');
+VALUES ('3760001972573', 'Merguez boeuf mouton', '', 'https://static.openfoodfacts.org/images/products/376/000/197/2573/front_fr.4.400.jpg', '30.1', '16.1', '2.5', '1.05', '', '13.67', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117264901', 'Orion, Yegam Cheese Chips', 'Potato flake, sugar, whey, salt, monoandiglyceride, citric acid, shortening, soybean, starch, pregelized corn flour, sugar, flavor, emulsifier, soy lecithin, whey, lactose, edible salt, shrimp extract.', '', '11.48', '6.56', '31.15', '0', '1.6', '3.28', '0.54102', '0.213', '', '1');
+VALUES ('3760001972597', 'Chipolatas herbes de provence', '', 'https://static.openfoodfacts.org/images/products/376/000/197/2597/front_fr.4.400.jpg', '24.3', '4.5', '1.5', '0.62', '', '14.21', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117267605', 'Orion Choco Chip Cookies 104G', '', '', '27.6', '15.1', '65.5', '20.7', '', '6.9', '0.6', '0.236220472440945', '', '1');
+VALUES ('3760001972641', 'Saussisses de Toulouse', '', 'https://static.openfoodfacts.org/images/products/376/000/197/2641/front_fr.4.400.jpg', '24.5', '4.5', '17', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117331405', 'Bio Raw Milk Candy 99G', '', '', '11.5', '10', '77', '53.8', '', '0', '0.04', '0.015748031496063', '', '0');
+VALUES ('3760001972993', 'Langue en gelee LA HAUTE LOIRE GOURMANDE, 4 tranches', 'SALAISONS MASSARDIER spi RISONS ct EN GELEE TR/ Composition. Languc dc porc, nitrite, dcxtrose, sucra, SCI, émulsifiant EA50 at EA51, persil, poivra blanc, antioxygànc:E316e préparation aromatisation. getéa d@anrobagc.gétatinc dc porc, doxtrosc, exhausteur de goût:E621, gélifiant EA07. acidifiant acidifiant E330, colorant, arôme. can:crvateur E202. NutT\'6r•o do Lot 728560', '', '8.1', '2.3', '1', '1', '', '14.4', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117339708', 'Orion Dark Grape Gummi 66G', '', '', '2.7', '0', '72', '63', '', '0', '', '', '', '0');
+VALUES ('3760001973082', 'Mbonette cuite LA HAUTE LOIRE GOURMANDE, 4 tranches', '', 'https://static.openfoodfacts.org/images/products/376/000/197/3082/front_fr.4.400.jpg', '20.9', '2.9', '0.2', '0.16', '', '13.17', '1.9', '0.748031496062992', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117446901', 'Orion Choco Boy (korean Version)', '. swe blanc, huile végétale 1, huile v*.ale 2, beure de czao, lait en paffe, laité?érré en panre, lactose, poudre de Tèrne végétale, masse de acao, de érrulsifiant, agent', '', '28', '16', '31', '16', '3', '3', '0.11', '0.0433070866141732', '', '1');
+VALUES ('3760001975994', 'CHIPOLATAS', '', 'https://static.openfoodfacts.org/images/products/376/000/197/5994/front_fr.4.400.jpg', '24.5', '4.5', '1.7', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117534912', 'Korean cracker', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001976007', 'Chipolatas sans colorant', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6007/front_fr.4.400.jpg', '24.5', '4.5', '17', '0.91', '', '14.54', '21', '8.26771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117536916', '오뜨 프로마즈', '전란액,밀가루,소프트오뜨크림,소프트에스,식물성유지,백설탕,유당,치즈코코넛분말,난황액,에멘탈치즈분말,폴리글리시톨시럽,D-소르비톨액,혼합제제 베이킹파우더,블루치즈분말,아몬드분말,주정,혼합제제,단호박농축액,레몬과즙,잔탄검,타라검,합성착향료(치즈향,와인향)', 'https://static.openfoodfacts.org/images/products/880/111/753/6916/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001976014', 'Chipolata sans colorant x8', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6014/front_fr.4.400.jpg', '24.5', '4.5', '1.7', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117546205', 'Brownie เกาหลีรสชาเขียว', '', '', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001976045', 'Merguez', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6045/front_fr.4.400.jpg', '30.9', '16.1', '2.5', '1.05', '', '13.67', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801117870416', 'Orion Custard', 'Eggs, Wheat flour, sugar, vegetable oil (canola 011) com hydrogenated vegetable fat (palm oil) palm kemel oil)) (142011, gg yolks powder, ethyl alcohol, maltodeùrg raising agents (Ë575, E500ii), artificial flav ors (v anillin flavor, custçÀ flavor), (E415), natural color (E160a11) Product is With Su ar and Sweetener Sorbitol soy ingredients ln bold and underlined)', '', '23', '0', '51.9', '6', '0', '6', '0', '0', '', '1');
+VALUES ('3760001976182', 'Saucisses sans colorant (x2)', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6182/front_fr.4.400.jpg', '24.5', '4.5', '1.7', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801118251016', 'Frozen Red Bean Cake With Mochi', 'Water, fructose, maltose, processed butter, palm oil, artificial flavor (vanilla), fd&c yellow no.5, fd&c yellow no.6.', '', '5.29', '2.35', '45.88', '25.88', '0', '3.53', '0.254', '0.1', '', '0');
+VALUES ('3760001976205', 'Saucisson à cuire', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6205/front_fr.4.400.jpg', '24.5', '4.5', '1.7', '0.91', '', '14.94', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801119853301', 'Ice Point', 'Eau, amidon de maïs, malt, houblon', 'https://static.openfoodfacts.org/images/products/880/111/985/3301/front.6.400.jpg', '1.2', '0', '77.4', '0', '0.5', '9.8', '0.01', '0.00393700787401575', '4.5', '0');
+VALUES ('3760001976328', 'SAUCISSON A CUIRE', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6328/front_fr.4.400.jpg', '24.5', '4.5', '1.74', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801121768457', 'Milk (두유)', '', 'https://static.openfoodfacts.org/images/products/880/112/176/8457/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760001976960', 'MERGUEZ BOEUF AGNEAU (X6)', '', 'https://static.openfoodfacts.org/images/products/376/000/197/6960/front_fr.4.400.jpg', '30.9', '16.1', '2.5', '1.05', '', '13.67', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128504737', 'Paldo Jang Ramyun Soy FLVR', '', '', '9', '2', '40', '3', '', '5', '9', '3.54330708661417', '', '0');
+VALUES ('3760001977011', 'Saucisson Sec Pur Porc Artisanal', '', 'https://static.openfoodfacts.org/images/products/376/000/197/7011/front_fr.4.400.jpg', '32.05', '4.65', '2.16', '2.03', '', '25.36', '2.67', '1.0511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128541725', 'Paldo Chloella Green Tea Cup Noodles 65G', '', '', '15', '3', '63', '1.5', '', '9', '1.7', '0.669291338582677', '', '0');
+VALUES ('3760001977790', 'Chipolatas', '', '', '24.5', '4.5', '1.7', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542579', 'Original Korean Ramen - Nouilles Instantanées Goût Légumes', 'Nouilles : farine de _blé_, huile de palme, amidon modifié, fécule de pomme de terre, sel, extrait de sauce de légumes, gomme guar, polyphosphate de sodium (E452), vitamine B (riboflavine). Bouillon déshydraté : sel, glutamate L monosodique (E621), poudre de protéines de légumes, sucre, sauce soja, poudre de bouillon de légumes, poudre d\'ail, poudre de pâte de soja, poudre d\'extrait de ciboulette, poudre de champignon, poudre de poivre noir, inosinate disodique (E631). Légumes déshydratés : flocons de chou, flocons de pakchoï, flocons d\'oignons, flocons de ciboulette, flocons de carotte.', '', '16', '7', '64', '1', '7', '9', '3.53', '1.38976377952756', '', '0');
+VALUES ('3760001978544', 'Saucisse sèche droite', 'Viande de porc, sel, Lactose, dextrose, épices et plantes aromatiques, E252,  140g de viande mis en oeuvre pour 100g de produit finis, Boyau naturel de porc', 'https://static.openfoodfacts.org/images/products/376/000/197/8544/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542586', 'Koren ramen', '', 'https://static.openfoodfacts.org/images/products/880/112/854/2586/front.3.400.jpg', '', '7', '', '62', '7', '9', '4.1', '1.61417322834646', '', '0');
+VALUES ('3760001978568', 'Saucisson', 'Etiquette recto: maigre et gras de porc frais (146 g de viande utilisée pour 100 g de produit fini), sel, sucre (lactose, dextrose), assaisonnement, ferments, Conservateur: nitrate de potassium. - Étiquette verso: maigre et gras de porc, assaisonnement (sel, lactose, sirop de glucose, épices, plantes aromatiques, dextrose, E252, E316).', 'https://static.openfoodfacts.org/images/products/376/000/197/8568/front_fr.24.400.jpg', '32.1', '4.7', '2.2', '2.03', '', '25.36', '2.7', '1.06299212598425', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542593', 'Original Korean Ramen goût Fruits de Mer', 'Nouilles : farine de _blé_, huile de palme, fécule de pomme de terre, amidon modifié, sel, _gluten_, gomme guar, polyphosphate de sodium (E452), vitamine B2 (riboflavine). Bouillon déshydraté : glutamate monosodique (E621), sucre raffiné, maltodextrine, poudre de _seiche_, poudre de _crevettes_ déshydratées, poudre de fruits de mer, poudre de ciboulette, poudre d\'ail, poudre de gingembre, poudre de bonite, poudre d\'extrait de clam, poudre de poivre noir, inosinate disodique (E631). Légumes déshydratés : flocons de ciboulette, flocons d\'algues, flocons de carotte, flocons d\'allaska pollak, flocons de seiche.', 'https://static.openfoodfacts.org/images/products/880/112/854/2593/front.5.400.jpg', '15', '7', '63', '', '7', '9', '3.3528', '1.32', '', '0');
+VALUES ('3760001978605', 'Saucisson 250g camp artisanal', '', '', '32.05', '4.65', '2.16', '2.03', '', '25.36', '2.67', '1.0511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542609', 'Nouilles instantanée', 'l\'assaisonnement et les {drotés dans d\'eau ondant 2 minutes et servir MADE IN KOREA', '', '15', '7', '63', '0', '7', '9', '4.3', '1.69291338582677', '', '0');
+VALUES ('3760001979008', 'Chipolatas', 'CHIPOLRTRS SRNS COLORRNT Composition. Viande et gras de porc, eau, set, sirop de glucose, saccharose, E 301, E 315, épices et plantes aromatiques, arômes naturels, lactates citrate et acétate de sodium consommer cuit à coeur', 'https://static.openfoodfacts.org/images/products/376/000/197/9008/front_fr.4.400.jpg', '24.5', '4.5', '1.7', '0.91', '', '14.54', '2.1', '0.826771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542616', 'Nouilles Instantanées Goût Boeuf', 'Nouilles : farine de blé, fécule de pomme de terre , amidon modifié , sel , gluten , gomme guar, polyphosphate de sodium (E452) , vitamine B2 (riboflavine).  Bouillon déshydraté : sel grille , glutamate L monosodique (E621) , sel fin, sucre, poudre de sauce soja, poudre de lactosérum, poivre rouge, poudre de levure, poudre de poivre noir, poudre d\'ail, poudre de poivron , inosinate disodique (E631)', '', '15', '7', '62', '0', '7', '9', '4.93', '1.94094488188976', '', '0');
+VALUES ('3760001979978', 'Saucisse de Couenne', '', 'https://static.openfoodfacts.org/images/products/376/000/197/9978/front_fr.4.400.jpg', '27.4', '5.4', '1', '0.38', '', '16.43', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542623', '110G Xlcup Legumes M. min', 'Nouilles: Farine de blé (céréales contenant du gluten), amidon de tapioca modifié, huile de palme raffinée, sel raffiné, émulsifiant (soja), correcteur d\'acidité, extrait d\'oignon (soja), gomme de guar (E412), poudre de tocophérols mélangé, assaisonnement d\'huile de thé vert, riboflavine (EIOI), acide citrique (E330) / Bouillon déshydraté: sel, sucre, glutamate L monosodique (E621), poudre doignon, poudre d\'ail, poudre d\'oignon vert, poudre de sauce soja fermentée (soja), arôme de champignon (lait), poudre de base de goût (oeuf, lait, soja), glucose, poudre de riz, poudre de gingembre, poudre de poivre blanc, concentré dail (soja), DL-malic acide (E296), huile de soja (soja), disodium5\'-inosinate (E631), disodium5\'•guanylate (E627) / Légumes déshydratés: chou déshydraté, carotte déshydratée, radis vert déshydraté, oignon vert déshydraté, pois déshydratés. * Pour les élémenb allergènes, se référer aux ingrédients en gras.', '', '14.93', '7.5', '66.02', '2.54', '0', '7.5', '1.75', '0.688976377952756', '', '0');
+VALUES ('3760001979985', 'Saucisse de choux', 'Viandc ct gras dc porc, couenne da porc cuite. choux vcrt: ct épinards, Citratc E-331 acétatQ sodique E-262, extrait naturel d\'épices. poivre, al. consommer cuit a coaur.', 'https://static.openfoodfacts.org/images/products/376/000/197/9985/front_fr.4.400.jpg', '21.3', '3.2', '1.2', '0.22', '', '12.6', '2.5', '0.984251968503937', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542630', 'XL Original Korean Ramen Cup Nouilles Instantanées Goût Piquant', 'Nouilles : Farine de _blé_, huile de palme, amidon modifié, fécule de pomme de terre, sel, extrait de sauce de légumes, gomme guar, polyphosphate de sodium (E452), vitamine 82 (riboflavine). Bouillon déshydraté :  Sel, glutamate L monosodique (E621), poudre de _lactosérum_, poudre d\'ail. poudre de radis, poudre de ciboulette, sucre, poudre de levure, poudre de poivre noir, paprika. Légumes déshydratés : Flocons de poivron rouge, flocons d\'algues, flocons de ciboulette. ', 'https://static.openfoodfacts.org/images/products/880/112/854/2630/front.3.400.jpg', '19', '9', '67', '0', '0', '9', '5.70000000000001', '2.24409448818898', '', '0');
+VALUES ('3760002090030', 'Jus de pomme le verger', 'jus de pomme', 'https://static.openfoodfacts.org/images/products/376/000/209/0030/front_fr.12.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542647', '110G Xlcup Fruits De Mer M. min', 'Nouilles : farine de blé (céréales contenant du gluten), amidon de tapioca modifié, huile de palme raffinée, selraffiné, Issolaà, correcteur dacidité, extrait d\'oignon (soja), gomme de guar (E412), poudre de tocophérols mélangé de thé vert, riboflavine (EIOI), acide citrique (E330) / Bouillon déshydraté: sel, sucre, glutamate L assaisonnement de poudre de calamar (calamar), poudre d\'extrait de crevette (crevette)\' de poudre de moule (moule, soja, blé), substitut de poudre de lait entier (lait), poudre de sauce soja (sow, poudre de poivre blanc, protéines végétales hydrolisées (soja), poudre de riz, inosinate disodique (631)\' (627), poudre de gingembre, poudre d\'ail, huile de soja (soja), acide DL-malique (E296) / déshératé, carote déshydratée, radis vert déshydraté, oignon vert déshydraté', '', '15.8', '7.6', '65.43', '2.64', '0', '7.87', '1.79', '0.704724409448819', '', '0');
+VALUES ('3760002090047', 'Jus Pomme Casis', '', 'https://static.openfoodfacts.org/images/products/376/000/209/0047/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542654', 'Original korean ramen cup', '', 'https://static.openfoodfacts.org/images/products/880/112/854/2654/front.3.400.jpg', '19', '9', '69', '5', '', '9', '4.75', '1.87007874015748', '', '0');
+VALUES ('3760002090054', 'Pomme groseille', '', 'https://static.openfoodfacts.org/images/products/376/000/209/0054/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542661', 'Ramen Cup Boeuf', 'Nouilles: Farine de blé (céréales contenant du gluten), amidon de tapioca modifié, huile de palme raffinée, sel raffiné, émulsifiant(soja), correcteur d\'acidité, extrait d\'oignon (soja), gomme de guar (E412), poudre de tocophérols mélangé, assaisonnement d\'huile de thé vert, riboflavine (E101), acide citrique (E330) / Bouillon déshydraté: sel, glutamate L monosodique (E621), sucre, glucose, arome artificiel de boeuf(lait), poudre de sauce soja(soja), poudre d\'oignon, poudre de caramel (colorant), poudre d\'oignon vert, poudre de poivre blanc, poudre d\'ail, poudre de gingembre, huile de soja (soja), acide DL-malique (E296), inosinate disodique (E631), disodium 5\'-guanylate (E627) / Légumes déshydratés: chou déshydraté, carotte déshydratée, radis vert déshydraté, oignon vert déshydraté. ', 'https://static.openfoodfacts.org/images/products/880/112/854/2661/front.3.400.jpg', '17.3', '8.18', '61.8', '0', '3.64', '8.18', '4.55', '1.79', '', '0');
+VALUES ('3760002120508', 'Tripes a la mode caen', '', 'https://static.openfoodfacts.org/images/products/376/000/212/0508/front_fr.4.400.jpg', '5.8', '2.96', '0.4', '0.4', '', '14.3', '0.95', '0.374015748031496', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542678', 'Original Korean Ramen Cup', '', '', '', '9.23', '', '10', '4.62', '7.69', '2.01533', '0.793437007874016', '', '0');
+VALUES ('3760002120713', '6 Saucisses LES 3 RIVIERES', '', '', '12', '4.4', '0.3', '0.3', '', '18', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542685', 'Original korean ramen cup', 'Nouilles: Farine de blé, huile de palme, amidon modifié, fécule de pomme de terre. sel extrait de sauce de légumes, gomme guar, polyphosphate de sodium (E452), vitamine Bouillon déshydraté: Sel fin, glutamate L monosodique (E621), poudre de lactosérum*ii poudre de radis, poudre de ciboulette, sucre, poudre de levure, poudre de poivre légumes désh!dratés: Flocons de poivron rouge, flocons d\'algues, flocons de ciboulett *pour allergèftES, s\'il vous plaît voir les ingrédients en gras', 'https://static.openfoodfacts.org/images/products/880/112/854/2685/front.3.400.jpg', '12', '6', '40', '0.01', '', '5', '3.28', '1.29133858267717', '', '0');
+VALUES ('3760002120737', 'Saucisses', '', '', '12', '4.4', '0.3', '0.3', '', '18', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542692', '65G Cup Fruits Mer M. min', '1M5Ri-p10vr$', '', '12', '6', '41', '0', '3', '5', '3.58', '1.40944881889764', '', '0');
+VALUES ('3760002120850', 'Chipolatas', '', 'https://static.openfoodfacts.org/images/products/376/000/212/0850/front_fr.4.400.jpg', '12', '4.4', '0.3', '0.3', '', '18', '2.3', '0.905511811023622', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542708', '65G Cup Poulet M. min', '', '', '', '12', '', '40', '3', '5', '3.58', '1.40944881889764', '', '0');
+VALUES ('3760002120874', 'Plateau barbecue porc bœuf et mouton', '', 'https://static.openfoodfacts.org/images/products/376/000/212/0874/front_fr.4.400.jpg', '21.5', '8.93', '0.73', '0.73', '', '19.27', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128542715', 'Mr. Min original korean ramen cup goût boeuf', 'Nouilles (farine de _blé_, huile de palme, amidon modifié, fécule de pomme de terre, sel, extrait de sauce de légumes, gomme guar, polyphosphate de sodium (E452), vitamine B2 (Riboflavine)), bouillon déshydraté (sel grillé, glutamate L monosodique (E621), sel fin, sucre, sauce de _soja_, poudre de lactosérum, poivre rouge, poudre de levure, poudre de poivre noir, poudre d\'ail, poudre de poivron, inosinate disodique (E631)), légume déshydratés (_protéines végétales texturées_, ciboulette, flocon de carotte)', 'https://static.openfoodfacts.org/images/products/880/112/854/2715/front.4.400.jpg', '12', '6', '39', '1', '3', '6', '3.95', '1.55511811023622', '', '0');
+VALUES ('3760002140537', 'Mélange pour salade pomme noix crumble', 'Amandes 38%, pommes 27%, Noix de pécan, Chapelure (farine de riz et de pois chiche, sel), pomme (conservateur E223), vinaigre balsamique (vinaigre de vin, mout de raisin concentré et cuit, Colorant E160D1, ciboulette extrait DE LEVURE', 'https://static.openfoodfacts.org/images/products/376/000/214/0537/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801128945462', 'Soft Drink', 'Waterm iygisaccgude sugar, nonfat dry milk(treated with lactic acid cluture), citric acid, apple concentrate, calcium lactate, vitamin d3, trisodium citrate, emusifying agent, artificial flavor(apple).', '', '0', '0', '8.09', '5.53', '1.3', '0', '0.03302', '0.013', '', '1');
+VALUES ('3760002141015', 'Poivre noir', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801139012368', 'Bohae, Bokbunjawon Prime, Black Raspberry', 'Black raspberry juice, cystalline fructose, isomaltooligosaccharide, citric acid, vitaminc, glycine, high fructose corn syrup, sodium citrate, water.', '', '0', '', '70', '', '', '0', '0.1524', '0.06', '', '1');
+VALUES ('3760002141107', 'Estragon', '', 'https://static.openfoodfacts.org/images/products/376/000/214/1107/front_fr.4.400.jpg', '0', '0', '0', '0', '', '0', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801139020356', 'Bohae, Maewon Prime', 'High fructose corn syrup, sugar, filtered water, plum extract, artificial flavor (plum), sodium citrate, citric acid, caramel color, glycine.', '', '0', '0', '65', '65', '0', '0', '0.127', '0.05', '', '0');
+VALUES ('3760002141176', 'Persillade biologique', '', 'https://static.openfoodfacts.org/images/products/376/000/214/1176/front_fr.11.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801150501117', 'Cheese (치즈)', '', 'https://static.openfoodfacts.org/images/products/880/115/050/1117/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760002141275', 'Curcuma Bio - Un Brin Sauvage', '', 'https://static.openfoodfacts.org/images/products/376/000/214/1275/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801223104306', 'Carbonated Soft Drink', 'Purified water, white sugar, carbon dioxide erythritol, fibersol-2, citric acid, artificial flavor (cider essence), artificial flavor (lemon), sucralose powder, artificial flavor (strawberry)', '', '0', '0', '5.2', '4.8', '0', '0', '0', '0', '', '1');
+VALUES ('3760002221137', 'Nougat de Montélimar', '', 'https://static.openfoodfacts.org/images/products/376/000/222/1137/front_fr.4.400.jpg', '15.64', '1.3', '67.72', '56.27', '0', '7.36', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382123446', 'Lait De Riz 1.5L', '', '', '1', '1', '12', '2', '', '0', '13', '5.11811023622047', '', '0');
+VALUES ('3760002221144', 'Nougat de montelimar', '', 'https://static.openfoodfacts.org/images/products/376/000/222/1144/front_fr.4.400.jpg', '15.64', '1.3', '67.72', '56.27', '', '7.36', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382124528', 'Lait De Riz 500ML', 'INGRÉDIENT: L\'extrait de riz, de l\'extrait de riz brun, l\'eau purifiée, le sucre blanc, de la crème végétale W (sirop d\'amidon, de la graisse végétale durcie et de l\'huile, de la caséine, du phosphate de potassium dibasique, émulsifiant), la dextine, Emulisifiers (E473, E471), arôme de riz brun, rextrait d\'igname , antioxydant (E300), exhausteur de goût (E640), formulation mixte (extrait de pépins de pamplemousse, de la glycérine, de vitamine C, extrait de thé vert)', '', '1', '1', '12', '8', '0', '0', '0.005', '0.00196850393700787', '', '1');
+VALUES ('3760002222486', 'Nougat tendre', '', 'https://static.openfoodfacts.org/images/products/376/000/222/2486/front_fr.4.400.jpg', '9.52', '0.77', '60.8', '58.37', '', '4.59', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382126515', 'New Green Plum', 'INGRÉDtENT: Eau ptxifiée, sucre b!anc, concentrer 0,91% (Chine), extrait de prune fermenté, dextrine, Appie se concentrer (Chine), la saveur de prune, Enhancer (ESSO), Couleur (El 50a), régulateur (E3Ëu antioxydants (E300 )', '', '0', '0', '14', '11', '0', '0', '0.025', '0.00984251968503937', '', '1');
+VALUES ('3760002222653', 'Nougat', 'Saze, ARAM)ES, DXYIFS,', 'https://static.openfoodfacts.org/images/products/376/000/222/2653/front_fr.4.400.jpg', '9.52', '0.77', '80.8', '58.37', '', '4.59', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382126539', 'Woongjin Plum Drink', '', '', '0', '0', '14', '11', '', '0', '20', '7.8740157480315', '', '0');
+VALUES ('3760002227443', 'Nougat', '', 'https://static.openfoodfacts.org/images/products/376/000/222/7443/front_fr.4.400.jpg', '9.72', '0.89', '79.58', '56.92', '', '4.78', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382126560', 'Woongjin plum drink', '', '', '0', '0', '13', '13', '', '0', '8', '3.1496062992126', '', '0');
+VALUES ('3760002227467', 'Nougat', '', '', '9.72', '0.89', '79.58', '56.92', '', '4.78', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382127758', 'Boisson Aloe', 'INGRÉDIENT: L\'eau purifiée, le sucre blanc, raloe vera jus de tranche de gel de 8% (gel ffaloe veta tranche de 45%, faloe vera jus de gel de 54,8%, de racide citnque à 0,2%), rabe vera poudre de gel de 100: 1 0,33% (gd daloe vera en poudre 200: 1 50%, la dextrine 50%), régulateur Œacidité (E330, E331, E327), boire Essense, raisin blanc Essense, saveur de raisjn ved, antioxydant (E300), épaississant (E418), mixte (gardénia couleur bleue, carthame ja éthylique), Couleur (El 70)', '', '0.3', '0', '10', '9', '0', '0', '0', '0', '', '1');
+VALUES ('3760002227481', 'Nougat fabrication artisanale', '', 'https://static.openfoodfacts.org/images/products/376/000/222/7481/front_fr.4.400.jpg', '9.72', '0.89', '79.58', '56.92', '', '4.78', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382127789', 'WOONGJIN ALOE VERA DRINK', 'INGRÉDIENT: L\'eau purifiée, le sure blanc, rabe vera jus de tranche de gel de 8% (gel (faloe vera tranche de 45%, rajoe vera jus de gel de 54,8%, de racide à 0,2%), rabe vera poudre de gel de 100: 1 0,33% (gel dabe vera en mdre 200: 1 50%, la dextrine 50%), régulateur dacidité (E3301 E331, E327), boire Essense, raisin blanc Essense, saveur de raisin vert antioxydant (E300), épasssant (E418), formulation mixte (camame jaune, alcod étMJque), Couleur (El 70) INGREDIËNTEN: Gezuiverd', '', '0.3', '0', '10', '9', '0', '0', '0', '0', '', '1');
+VALUES ('3760002228235', 'Nougat aux eclats de caramel', '', 'https://static.openfoodfacts.org/images/products/376/000/222/8235/front_fr.4.400.jpg', '8.21', '1.31', '83.29', '58.99', '', '3.75', '0.02', '0.0078740157480315', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382127796', 'Aloe', 'NGRÉDIENT: L\'eau purifiée, le sucre blanc, faloe vera jus de tranche de gel de 8% (gel dabe de 45%, rdoe vera jus de gel de 54,8%, de racide cifrique à 0,2%), rabe vera poche 9è IW. 1 ddoe en poudre 200: 1 50%, la dextrine 50%), régulateur (E330, E331\' E327) bye Essense, raisin Essense, saveur de raisin vert, antioxydant (E300), (E418), forrrdabon mute (gardénia couleur bleue, carthame jaune, alcool éthylique), (E m', '', '0', '0', '10', '10', '0', '0', '0.019', '0.00748031496062992', '', '1');
+VALUES ('3760002228525', 'Pâte de nougat aux écorces d\'orange confites', '', 'https://static.openfoodfacts.org/images/products/376/000/222/8525/front_fr.4.400.jpg', '15', '6', '70', '55', '', '4', '0', '0', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382128007', 'Nature is Carrot', 'INGRÉDIENT: Eau purifiée, carotte concentré, le sucre blanc, régulateur d\'acidité (E330), arôme de carotte, antioxydants (E300)', '', '0', '0', '10', '9', '0', '0', '0.02', '0.0078740157480315', '', '1');
+VALUES ('3760002228761', 'Pâte à tartiner crème de nougat', '', 'https://static.openfoodfacts.org/images/products/376/000/222/8761/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382131397', 'Aloe', 'Aloe vera 41 %, Eau purifiée, Sucre acide citrique, raisin blanc, Raisin vert, citrate de tricalcium, Lactate de calcium, gomme gellane.', '', '0', '0', '1', '1', '0', '0', '0', '0', '', '1');
+VALUES ('3760002229447', 'Calisson', '', 'https://static.openfoodfacts.org/images/products/376/000/222/9447/front_fr.4.400.jpg', '19.8', '1.96', '58.7', '53.7', '', '8.3', '0.12', '0.047244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382135166', 'Natural Apple', '', '', '0', '0', '11', '9', '', '0', '0.25', '0.0984251968503937', '', '1');
+VALUES ('3760002230177', 'Meuh ou est', '', 'https://static.openfoodfacts.org/images/products/376/000/223/0177/front_fr.4.400.jpg', '3', '3', '4', '3', '', '6', '0', '0', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382136217', '자연은 튼튼 (Jayeon-eun Teunteun)', 'Eau purifiée, poudre de gelée d\'aloe vera, concentré de raisins blancs, sirop de glucose, malto-oligosaccharide, lactate de calcium (E327), acide citrique, vitamine C, citrate de trisodium (E331iii), arôme, arôme de raisin muscat.', '', '0', '', '10.5', '10.5', '', '0', '0.0127', '0.005', '', '1');
+VALUES ('3760002250007', 'P\'tit coffret gaeni de biscuits fins pur beurre', '', 'https://static.openfoodfacts.org/images/products/376/000/225/0007/front_fr.4.400.jpg', '26', '17', '65', '31', '', '5.7', '0.8', '0.31496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382139478', 'Nature Blueberry', '', '', '0', '0', '14', '14', '', '0', '5', '1.96850393700787', '', '0');
+VALUES ('3760002250045', 'Biscuits Pur Beurre', 'Farine de BLÉ, beurre pâtissier sucre, (LAIT) 23 %, ŒUFS entiers frais, jaune d’_œuf_, sel marin gris alimentaire de Noirmoutier 0,8 % (Fleur de Sel), colorant : caroténoïdes, poudres à lever : carbonates de sodium-diphosphates, sirop de glucose.', 'https://static.openfoodfacts.org/images/products/376/000/225/0045/front_fr.4.400.jpg', '26', '17', '65', '31', '', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382143000', 'Cocomong Grapes', '', '', '0', '0', '9', '9', '', '0', '0.05', '0.0196850393700787', '', '1');
+VALUES ('3760002250076', 'Berlingots Vendée Globe', '', 'https://static.openfoodfacts.org/images/products/376/000/225/0076/front_fr.4.400.jpg', '0.1', '0.1', '95.5', '58', '', '0.1', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382144434', 'Dr Aloe', 'INGRÉDIENT: L\'eau purifiée, le sucre blanc, l\'aloe vera jus de tranche de gel de 8% (gel d\'aloe vera tranche de 45%, l\'aloe vera jus de gel de 54,8%, de racide citrique à 0,2%), raloe vera poudre de gel de 100: 1 0,33% (gel d\'aloe vera en poudre 200: 1 50%, la dextrine 50%), régulateur d\'acidité (E330, E331, E327), boire Essense, raisin blanc Essense, saveur de raisin vert, antioxydant (E300), épaississant (E418), formulation mixte (gardénia couleur bleue, carthame jaune, alcool éthylique), Couleur (E170)', '', '0', '0', '12', '11', '0', '0', '0.013', '0.00511811023622047', '', '1');
+VALUES ('3760002250113', 'Confiture de lait', '', 'https://static.openfoodfacts.org/images/products/376/000/225/0113/front_fr.4.400.jpg', '3.5', '1.9', '57', '56', '', '7.4', '0.35', '0.137795275590551', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382144731', 'Peach Juice with Peach Pieces', 'Purified water, white sugar, diced peaches, peach puree concentrate, citric acid, combined congener (peach fragrance), xanthan gum, vitamin c.', 'https://static.openfoodfacts.org/images/products/880/138/214/4731/front_en.8.400.jpg', '0', '', '14.71', '', '0', '', '0.0254', '0.01', '', '1');
+VALUES ('3760002250144', 'Hoolala', '', 'https://static.openfoodfacts.org/images/products/376/000/225/0144/front_fr.4.400.jpg', '12', '1', '77', '47', '', '7.6', '0.08', '0.031496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382144748', 'Woongjin, Orange Juice With Orange Pieces, Orange', 'Purified water, tangerine peel granules, orange juice concentrate, citric acid, combined congener (orange fragrance, tangerine fragrance), xanthan gum, vitamin c', '', '0', '0', '14.71', '13.87', '0', '0', '0.06604', '0.026', '', '1');
+VALUES ('3760002250328', 'Miel sève de pin', '', 'https://static.openfoodfacts.org/images/products/376/000/225/0328/front_fr.4.400.jpg', '0.1', '0.1', '93.7', '65.9', '', '0.2', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382144755', 'Woongjin, Juice With Peeled Grapes, White Grape', 'Purified water, white sugar, grape granules, white grape juice concentrates, citric acid, combined congener (green grape fragrance), sodium citrate, vitamin c', '', '0', '0', '13.45', '13.03', '0', '0', '', '', '', '1');
+VALUES ('3760002250366', 'Salade anglaise', 'sucre, sirop e do bf65;g acide citriqWe, c naturgls: cureyrngne,garrti\'pn cÈ(P et•efiloro', 'https://static.openfoodfacts.org/images/products/376/000/225/0366/front_fr.4.400.jpg', '0.1', '0.1', '92.6', '53.2', '', '0.1', '0.1', '0.0393700787401575', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382146155', 'Woongjin Green Plum & Honey', '', '', '0', '0', '29', '15', '', '0', '', '', '', '1');
+VALUES ('3760002250519', 'Biscuits pépites de chocolat', '', 'https://static.openfoodfacts.org/images/products/376/000/225/0519/front_fr.4.400.jpg', '24.3', '15.5', '64.9', '29.8', '', '6.2', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801382146179', 'Woong jin raisin and honey', '', '', '0', '0', '16', '8', '', '0', '', '', '', '1');
+VALUES ('3760002250618', 'Assortiment Breton Pur Beurre', 'Galettes : Farine de BLÉ, sucre BEURRE pâtissier 20 %, ŒUFS, sel, poudres à lever carbonates d\'ammonium, carbonates de sodium diphosphates, malt (ORGE), blancs d’ŒUFS, poudre de LAIT écrémé, stabilisant sorbitols, colorants caramel ordinaire, caroténoides, épaississants : gomme arabique. Palets : Farine de BLÉ, BEURRE pâtissier 27 %, sucre, ŒUFS, blancs d\'ŒUFS, sel, poudres à lever diphosphates, carbonates de sodium, malt (ORGE), colorant : caroténoides.', 'https://static.openfoodfacts.org/images/products/376/000/225/0618/front_fr.4.400.jpg', '23', '16', '66', '25', '', '5.9', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801517350013', 'Kitea, Schizandrae Fructus Hot Or Ice Tea, Schizandrae Fructus', 'Sugar, schizandrae fructus extract powder, malic acid, sodium citrate, caramel color, citric acid. silicon dioxide.', '', '0', '0', '100', '30', '0', '0', '0.254', '0.1', '', '0');
+VALUES ('3760002250878', 'Biscuits Fins, l’original', 'Ingrédients : Farine de BLE, sucre, BEURRE pâtissier (LAIT) 23%, OEUF entier frais, jaune d’OEUF, sel, colorant . carotenoïdes, poudres à lever . carbonates de sodiums, diphosphates, Sirop de glucoses. Traces eventuelles de : fruits a coques et soja.', 'https://static.openfoodfacts.org/images/products/376/000/225/0878/front_fr.4.400.jpg', '26', '17', '65', '31', '', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801517590013', 'Gastrodia Elata, Blume Tea', 'Pregelitinized rice, vegetable oil powder, sugar, corn cereal, pregelitinized potato, pregelitinized corn, pregelitinized starch, yam powder, salt, almonds, sodium citrate, gastrodia elata blume powder, silicon dioxide, peanuts seasoning powder', '', '7.22', '3.33', '66.67', '', '0', '', '0.67818', '0.267', '', '1');
+VALUES ('3760002251479', 'Galettes fines pur beurre', '', 'https://static.openfoodfacts.org/images/products/376/000/225/1479/front_fr.4.400.jpg', '26', '17', '65', '31', '', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801517770019', 'Kohyang, Opuntia & Citron Tea', 'Sugar, citron juice powder, opuntia extract powder, wild berry extract powder, citric acid, sodium citrate, salt, silicon dioxide.', '', '0', '0', '100', '71.43', '0', '0', '1.016', '0.4', '', '0');
+VALUES ('3760002251844', 'Madeleines Chocolat Pur Beurre', 'Farine de _blé_, sucre, _beurre_ concentré reconstitué 19 % (colorant: bêta-carotène), _œufs_ 15 %, sirop de glucose, poudre à lever (amidon de _froment_, diphosphate disodique, carbonate acide de sodium), poudre de cacao, chocolat 2 % (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de _soja_, arôme vanille), dextrose, malt d\'_orge_, sucre inverti, sel, sucre vanilliné, stabilisant: sorbitol, conservateur: sorbate de potassium.', 'https://static.openfoodfacts.org/images/products/376/000/225/1844/front_fr.4.400.jpg', '19', '10.8', '57.2', '27.7', '', '5.6', '0.85', '0.334645669291339', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801550233229', '울무차', '', 'https://static.openfoodfacts.org/images/products/880/155/023/3229/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760002251851', 'Vndée Globe', '', 'https://static.openfoodfacts.org/images/products/376/000/225/1851/front_fr.4.400.jpg', '26', '17', '65', '31', '', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801550235155', 'Honey And Aloe 580G For Tea And Jam', 'miel, arôme raisin vert, sucre/ aloe vera, Carboxyméthylcellulose de sodium réticulée E468.', '', '0', '0', '55', '40', '0', '0', '0', '0', '', '0');
+VALUES ('3760002251929', 'Caramels beurre salé', '', 'https://static.openfoodfacts.org/images/products/376/000/225/1929/front_fr.4.400.jpg', '9.9', '7.1', '77.1', '43.7', '', '2.4', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801550237548', 'Popped Rice roll cracker', 'Rte, Sugar, Corn Syrup, Gelatine, Margarine.', '', '0', '0', '42', '18', '0', '4', '0.015', '0.00590551181102362', '', '1');
+VALUES ('3760002251936', 'Gâteau Breton Pur Beurre', 'Farine de _blé_, _beurre_ concentré reconstitué 23 % (colorant: bêta-carotène), sucre, jaunes d\'_œufs_ frais 7 % , _œufs_ entiers frais 3 %, stabilisant: sorbitol, poudre à lever (amidon de _froment_, diphosphate disodique, carbonate acide de sodium), sel, sirop de glucose.', 'https://static.openfoodfacts.org/images/products/376/000/225/1936/front_fr.8.400.jpg', '25', '16', '62', '27', '', '5.9', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801566034445', 'Mammos Green Tea Candy', 'RE EN CANOY g) -g te xyais, the veec veft, avart le. s.:rl\'eçrcatlage en a Calcoe ùet. et Cwer on UCT OF KOREA', '', '0', '0', '97.3', '66.2', '', '0', '0', '0', '', '0');
+VALUES ('3760002251950', 'Gâteau Breton Pruneaux', 'Biscuit 80% : farine de _blé_, _beurre _concentré reconstitué 23 % (colorant : bêta-carotène), sucre, jaunes d\'_œufs_ frais 7 %, _œufs_ entiers frais 3 %, stabilisant : sorbitol, poudre à lever (amidon de _froment_, diphosphate disodique, carbonate acide de sodium), sel, sirop de glucose. Fourrage 20% (sucre, crème de pruneaux (40 %).', 'https://static.openfoodfacts.org/images/products/376/000/225/1950/front_fr.4.400.jpg', '19', '12', '65', '37', '', '4.4', '0.91', '0.358267716535433', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801566035374', 'Bonbon Au Ginseng 100G', 'àbNBONS AU GINSE NO 135972 LOT NO SU INGfiEDtENTS: SUCRE, SIROP DE DE GINSENG, MENTHE, CARI POIDS NET: 100g PRODUIT DE COREE DU SUD TANG FRERES D\'IVRY 75013 PARIS.FRANCE', '', '0.02', '0', '19.39', '14.87', '', '0.05', '0', '0', '', '1');
+VALUES ('3760002252179', 'Rouille', '', 'https://static.openfoodfacts.org/images/products/376/000/225/2179/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801566036609', 'Ginger Candy', '', '', '0', '0', '97.5', '77', '', '0', '', '', '', '0');
+VALUES ('3760002252209', 'Terrine de homard à la fleur de sel', '', 'https://static.openfoodfacts.org/images/products/376/000/225/2209/front_fr.4.400.jpg', '15', '2.1', '2', '0.8', '', '13', '1.58', '0.622047244094488', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801759001254', 'Opp Chilkab Noodle', 'Wheat flour, salt.', '', '1.1', '0.7', '76', '4', '0', '9', '2.921', '1.15', '', '0');
+VALUES ('3760002252230', 'Soupe de poisson', '', 'https://static.openfoodfacts.org/images/products/376/000/225/2230/front_fr.4.400.jpg', '1.1', '0.1', '2.2', '0.8', '', '4.1', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801766012588', 'Choux Chinois Au Piment KIMCHI', 'Chou chinois 75%, eau, échalote, piment 2,6%, sucre, sel, ail, gingembre, exhausteur de goût (E621)', '', '0', '0', '6.7', '0', '1.7', '3.3', '0.58', '0.228346456692913', '', '1');
+VALUES ('3760002252322', 'Soupe de poissons', 'Eau, poissons et crustacés mis en œuvre 20% (dont tacaud, grondin, congre, langoustine, crave vert), légumes, concentré de tomate, vin blanc, amidon de pomme de terre et de riz, sel, huile végétale, épaississant : gomme xanthane, épices et aromates.', 'https://static.openfoodfacts.org/images/products/376/000/225/2322/front_fr.12.400.jpg', '1.1', '0.1', '2.2', '0.8', '', '4.1', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767250057', 'Green Tea Latte', 'Green tea, hon-diary cream powder, refined sugar, sodium citrate, refined salt, yogurt flavor powder, glycine, sodium silicoaluminate.', '', '4.62', '0', '84.62', '53.85', '', '7.69', '1.27', '0.5', '', '0');
+VALUES ('3760002254166', 'Caramels Beurre salé', '', 'https://static.openfoodfacts.org/images/products/376/000/225/4166/front_fr.4.400.jpg', '9.9', '7.1', '77.1', '43.7', '', '2.4', '1.8', '0.708661417322835', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767334191', 'Korean Honey Citron Tea', '', '', '0', '0', '65', '60', '', '0', '0.075', '0.0295275590551181', '', '0');
+VALUES ('3760002255781', 'Biscuits pepites de chocolat', 'ELA JNAY-LEVEILLE di Savoie aux Pépites de Blscuits Pur B*urre Chocolat Ingrédients Farine de BLE, BEURRE de Savoie 25%, sucre (sucre, pâte de cacao, beurre de cacao. chocolat 15% étnulsifiant lécithine de soja, arôme vanille), OEUF, LAIT er poudre, sel de Guérande (IGP), poudre à lever (bicarbonat borate d\'ammonium). de sodium \'t bio', 'https://static.openfoodfacts.org/images/products/376/000/225/5781/front_fr.4.400.jpg', '24.3', '15.5', '64.9', '29.8', '', '6.2', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767631696', 'Nokchawon, Iced Mixed Grain Tea', 'Rye, rice, soybeans, brown rice, sticky rice, sorghum, malt, white barley, corn, black bean, adlai, black sesame, glucose, refined sugar, dextrine, ice creamer, cornstarch, gelatinized rice four powder.', '', '4.5', '0', '80', '45', '', '5', '0.6985', '0.275', '', '0');
+VALUES ('3760002255880', 'Biscuits pur beurre', 'Farine de blé, sucre, beurre pâtissier (lait) 23%, OEUFS entiers frais, jaune D\'OEUFS, sel marin gris alimentaire de Noirmoutier 0,8% (Fleurs de Sel), colorant :caroténoïdes, poudre à lever : carbonates de sodium-diphosphates, sirop de glucose. Peut contenir des traces de soja et de fruits à coque', 'https://static.openfoodfacts.org/images/products/376/000/225/5880/front_en.8.400.jpg', '26', '17', '65', '31', '', '5.7', '0.83', '0.326771653543307', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767632839', 'Nokchawon, Wild Yam Tea', 'Corn flakes, wild yam mix powder, n on dairy creamer, gelatinized rice flour, refined sugar, regelatinized corn flour, refined salt, glucose, xanthan gum, calcium phosphate dibasic', '', '0', '0', '', '22.22', '', '5.56', '2.39776', '0.944', '', '0');
+VALUES ('3760002257655', 'Thé oolong caramel', '', 'https://static.openfoodfacts.org/images/products/376/000/225/7655/front_fr.4.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767633409', 'Persimmon leaves tea', 'PERSIMMON LEAVES FR)PERSIMFtCîl FEUILLES PERSIMMON FEUILLES NL)PERSIMMON PERSIHMOU 64, 7EL: Sire : /', '', '0', '0', '0', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3760002257747', 'Biscuits pur beurre', '', 'https://static.openfoodfacts.org/images/products/376/000/225/7747/front_fr.4.400.jpg', '24.3', '15.5', '64.9', '29.8', '', '6.2', '0.7', '0.275590551181102', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767912559', 'Nokchawon Korean Ginseng Tea', '•lngrediens : Ginseng extract 10%,Glucose 90%', '', '0', '0', '0', '0', '3', '0', '0', '0', '', '1');
+VALUES ('3760002259222', 'Mini Gâteaux Bretons', 'Farine de _blé_, beurre concentré reconstitué 23 % (colorant: bêta-carotène) sucre, jaunes d’_œufs_ frais 7 %, _œufs_ entiers frais 3 %, stabilisant : sorbitol, poudre à lever (amidon de _froment_, diphosphate disodique, carbonate acide de sodium), sel, sirop de glucose.', 'https://static.openfoodfacts.org/images/products/376/000/225/9222/front_fr.4.400.jpg', '25', '16', '62', '27', '', '5.9', '1.1', '0.433070866141732', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801767921308', 'Honey jujube tea', '', '', '0', '0', '17', '7', '', '0', '', '', '', '1');
+VALUES ('3760002259246', 'Palets', '', 'https://static.openfoodfacts.org/images/products/376/000/225/9246/front_fr.4.400.jpg', '27.9', '19.5', '60.6', '26.9', '', '5.5', '1.2', '0.47244094488189', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801779853307', 'Bière', 'Eau, amidon de maïs, malt, houblon.', '', '', '', '', '', '', '', '', '', '4.5', '0');
+VALUES ('3760002259253', 'Galettes bretonnes pur beurre', '', 'https://static.openfoodfacts.org/images/products/376/000/225/9253/front_fr.4.400.jpg', '20', '12.8', '56.6', '23', '', '7', '1.15', '0.452755905511811', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801791500036', 'Kimchi Seasoning', 'Water, corn starch syrup, red pepper powder garlic, onion, sugar, pepper powder, vinegar, soy sauce, ethyl alcohol, salt, garlic powder, onion powder, citric acid, malic acid, grapefruit seed extract', '', '0', '0', '20', '15', '5', '0', '2.921', '1.15', '', '0');
+VALUES ('3760002259475', 'Galettes Bretonnes Pur Beurre', 'Farine de _blé_, sucre, _beurre_ concentré reconstitué 22 % (colorant : bêta-carotène), jaunes d\'_œufs_, _œufs_ entiers frais, sel, poudres à lever (diphosphate et carbonate acide de sodium, carbonate d\'ammonium, amidon de blé), poudre de _lait_ écrémé, sucre vanilliné, antioxydant : acide ascorbique.', 'https://static.openfoodfacts.org/images/products/376/000/225/9475/front_fr.4.400.jpg', '20', '12.8', '59.6', '23', '', '7', '1.15', '0.452755905511811', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801791500043', 'Sauce Pour Nouilles Japchae', 'sauce soja, sucré, sirop amidon de maïs, eau, alcool éthylique, maïs amidon modifié, huile sésame, sel poivre noir, guar gomme, graine de sésame, extrait graine de pamplemousse', '', '5', '0', '30', '20', '1', '5', '5', '1.96850393700787', '', '0');
+VALUES ('3760002310039', 'Château sainte marie', '', 'https://static.openfoodfacts.org/images/products/376/000/231/0039/front_fr.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801791500050', 'Kimchi', 'eau, sirop amidon de maïs, piment en paste de piment rouge, ail, oignon, sucre, potvre roir, vinaigre, sauce soja, alcool éthylique, sel, ail en oignon en poudre, acide citique(E330), acide it arain de pamplemousse Talique(E296). e', '', '0', '0', '35', '25', '', '5', '4.3', '1.69291338582677', '', '0');
+VALUES ('3760002340159', 'Legumes confits a l\'huile', '', 'https://static.openfoodfacts.org/images/products/376/000/234/0159/front_fr.4.400.jpg', '9.3', '1', '8.6', '7.1', '', '2.4', '1.5', '0.590551181102362', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8801898161468', '녹차맛 훈제란', '', '', '3.4', '', '1.6', '', '', '3.9', '', '', '', '1');
+VALUES ('3760002340180', 'Soupe De Poisson', 'Eau, _poissons_ 35%, légumes Ingrédients (carottes, oignons, poireaux, _céleri_), concentré de tomates, vin blanc, _langoustines_, sel, _homard_, persil, ail, épices et aromates.', 'https://static.openfoodfacts.org/images/products/376/000/234/0180/front_fr.4.400.jpg', '0.8', '0.2', '1.4', '0.8', '', '4.9', '0.770000000000001', '0.303149606299213', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802355000146', 'Korean ginseng tea', 'Le THÉ AU G!NSENG CORÉEN est un produit alimentaire fabnque sous la forme de granule (ou en paJdre) pour répondre aux goûts de rutilisateur Il est fa±qué à pamr d\'extraf de ginseng. Ingrédients. 10% de concentré de ginseng (ongine Coree) - (plus de de contenu solide, Gnsénoslde Rgl + Rbl 5 mg\'g)r lactose 10 glucose 80 % Recommandation de stockage \' Éviter la lumere solaire directe et rhumid)té. Conserver dans un endroit frais avec une bonne ventJlatjon ou un ré\'nçerateur Posologte : Mettre un sachet de thé dans un verre d\'eau froide ou chaude et remuez bien. Ajouter du sucre ou du mel si vous le souhaftez • Avertissement veuillez vérifier votre apport quotidien lorsque vous prenez des médicaments (trartement du dtabete, medtcaments antcoagutants) Informat\'ons dordre fonctionnel Ce produit peut contnbuer a amefiorervotre système immunttatre et est un excellent anti-fatigue. Contact . Maténau (femballage tnténeur : PE de lot 610105-604 Date d\'expgratson , 2020-05-03 : KOREA GINSENG MFG. co LTD, 358 Cheongoh•ro. Cheongbuk•myeon. Pyeongtaek•sl. Gyeongry-do Korea http Illwww oktnsam.com Valeurs nutritives Portion : 1 w;het de thé (3 g) I portjon par tasse : 30 rots', '', '0', '0', '9', '0', '', '0', '0', '0', '', '1');
+VALUES ('3760002340203', 'Risotto fruits de mer', 'Riz 35%, tomates, _seiches_ 10%, _crevettes_ 7%, _moules_ 6%, eau, huile de colza ou de tournesol, carottes, poivrons rouges rissolés à l\'huile de tournesol, oignons rissolés à l\'huile de tournesol, concentré de tomate, pulpe d\'ail (eau, ail, sel), arômes (_poisson_, exhausteur de goût : monoglutamate de sodium, _gluten_), amidon modifié de maïs, sel, sucre, curry (_moutarde_), colorant : extrait de paprika, poivre, piment d\'Espelette 0,01%, persil.', 'https://static.openfoodfacts.org/images/products/376/000/234/0203/front_fr.4.400.jpg', '5.8', '0.9', '15.1', '1.4', '', '5.9', '0.8', '0.31496062992126', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802373117123', 'Yuzu Marmelade', '', 'https://static.openfoodfacts.org/images/products/880/237/311/7123/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
+VALUES ('3760002340241', 'Risotto Fruits de mer', '', 'https://static.openfoodfacts.org/images/products/376/000/234/0241/front_fr.4.400.jpg', '5.9', '3.4', '14.2', '1.2', '', '6.1', '0.86', '0.338582677165354', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802521122221', '쌀막걸리 ', 'Boisson fermentée à base de riz.', 'https://static.openfoodfacts.org/images/products/880/252/112/2221/front.6.400.jpg', '', '', '', '', '', '', '', '', '6', '0');
+VALUES ('3760002340258', 'Brandade de morue parmentière', 'pommes de terre 38 %, _morue_ (gadus spp.) 30 %, eau, huile de colza ou de tournesol, flocons de pommes de terre (pommes de terre, curcuma), oignons, sel, ail, fibre de blé, persil, épaississants : gomme de guar et xanthane, poivre.', 'https://static.openfoodfacts.org/images/products/376/000/234/0258/front_fr.12.400.jpg', '9.8', '1.4', '9.2', '0.7', '', '6.8', '0.699999999999999', '0.275590551181102', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802534402259', 'Black mint', '', '', '0', '0', '74', '0', '', '0', '', '', '', '1');
+VALUES ('3760002340319', 'Anchois marines au piment d\'Espelette FUMERIES OCCITANES', 'Poids n - FILETS DIANCHOIS MARINES AU PIMENT DIESPELETTE Poids net A consommer en l\'état, à l\'apéritif ou en salade. Bien égoutter avant de consommer. nyédie ts : Filets. d\'anchois gyec peau amarinés 5 % (filets, eau , tinent d Es elefte 0%2%, piment 0,01%. Fabri ué en France', '', '15.5', '1.8', '2.3', '0.8', '', '17.6', '1.94', '0.763779527559055', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783200156', 'Ottogi Zitrone Honig Tee', '', '', '0', '0', '60', '60', '', '0', '3', '1.18110236220472', '', '0');
+VALUES ('3760002340432', 'Piquillos farcis a la morue', 'morue pommes de c v rissoles à de terres sel, fibre de , gomme de guar, de poisson tcau, po$reaux, céleri). poisson langoustines, amidon mod:fse de bomxrdd d\'a I ( a l\'huile de tournesci, ce vinaigre de Xérès, sel. celcœnt : :gomme', 'https://static.openfoodfacts.org/images/products/376/000/234/0432/front_fr.4.400.jpg', '7.5', '1.1', '8.3', '1', '', '3.2', '0.9', '0.354330708661417', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783200576', 'Ottogi Honey Citron Tea', '', '', '0', '0', '60', '60', '', '0', '3', '1.18110236220472', '', '0');
+VALUES ('3760002340456', 'Brandade de morue parmentière', 'Pommes de terre cuites 38 %, _morue_ (gadus spp) 30 %, eau, huile de colza ou de tournesol, flocons de pommes de terre (pommes de terre, curcuma), oignons, sel, ail, fibre de blé, persil, poivre, épaississants : gomme de guar et xanthane, poivre.', 'https://static.openfoodfacts.org/images/products/376/000/234/0456/front_fr.8.400.jpg', '9.8', '1.4', '9.2', '0.7', '', '6.8', '0.8', '0.315', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783201429', 'Ottogi Honey Citron Tea', '', '', '0', '0', '12', '12', '', '0', '0.06', '0.0236220472440945', '', '1');
+VALUES ('3760002340685', 'Acras de Morue au Piment d\'Espelette', 'Morue* 41,0% (gadus spp), oeuf entier, farine de blé, pommes de terre, poivrons rouges rissolés à l\'huile de tournesol), ciboule 2,6%, ail, échalotes, huile de colza, arôme de poisson (contient poisson, lait), sel, piment dEspelette 0,2%, poudre à lever (diphosphate, carbonate de sodium, amidon de blé) poivre noir. Cuisson en huile de tournesol.Traces eventuelles de crustacés. *Malgré tout le soin apporté la préparation de nos poissons qualité sans a ô e. orésence exceptionnelle darêtes n\'est jamais exclue.', 'https://static.openfoodfacts.org/images/products/376/000/234/0685/front_fr.4.400.jpg', '9.3', '1.34', '18.1', '0.7', '', '12.2', '1.35', '0.531496062992126', '', '0');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783202785', 'Ginger Tea', 'Ginger concentrate mix powder, refined sugar, dextrin, refined salt, sunflower seed, almond, jujube, silicon dioxide', '', '4.17', '0', '91.67', '66.67', '0', '0', '0.21082', '0.083', '', '0');
+VALUES ('3760002340852', 'Risotto aux Saint Jacques', '', 'https://static.openfoodfacts.org/images/products/376/000/234/0852/front_fr.3.400.jpg', '', '2.1', '', '0.7', '0', '3.54', '1', '0.393700787401575', '', '1');
 
 INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783203065', 'Herb Tonic Tea', 'Ssangwha consentrate powder, herb tonic consentrate powder, sodium citrate, caramel color, sunflower seeds, almond, jujube, silicon dioxide, refined sugar, acanthopanax senticossus extraction powder, acaia honey powder, xylitol powder, enzymatically modif', '', '0', '0', '75', '', '0', '', '0.508', '0.2', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783203287', 'Job\'s Tears Tea', 'Rice flour, refined salt,refined sugar,job\'s tears,soybean powder,alpha rice flour,alpha starch,milk cream,refined glucose,silicon dioxide', '', '6.67', '0', '80', '33.33', '0', '6.67', '0.508', '0.2', '', '0');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783620084', 'Ottogi Jujube Tea', 'JUJUBE, JUJUBE CONCENTRÉ, MIEL, fructose, sucre, eau purifiée oligosaccharides CARRAGHÉNINE ACIDE CITRIQUE, carboxyméthylcellulose sodique', '', '0', '0', '75', '60', '0', '0', '0.2', '0.078740157480315', '', '0');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802783620121', 'Ottogi Samhwa Ginger Tea 500G', 'FRUCTOSE, GINGEMBRE CONFIT (19,5%), EAU, SUCRE, SIROP D\'AMIDON, ISOMALTO-OLIGOSACCHARIDES, MIEL (2%), CONCENTRE DE GINGEMBRE, EPAISSISSANTS (E466, E407, E410 ET E327), ACIDIFIANT (E330), COLORANT(E150d),', '', '0', '0', '14', '10', '0', '0', '0.05', '0.0196850393700787', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802796111418', 'Морская капуста в кунжутном масле', '', '', '', '', '', '', '', '', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802796113245', 'Croissant integral au miel', 'Honey filling 24% (glucose-fructose syrup, honey 30% corresponding to 6% of total ingredients, water, wheat dextrin, gelling agent?. pectin, preservative: potassium sorbate, flavoring) - Wheat flour - Misura Whole Wheat Fibrextra Selection 16% (who\\e Wheat flour 80%*, soluble fibre from wheat starch 10%, vegetable fibre 10%) - Non-hydrogenated vegetable cils and fats (sunflower seed oil, shea butter) - Natural yeast (Wheat) - Sugar - Eggs - Butter - Emulsifiers: mono and diglycerides ot fatty acids from vegetable origin, Soy lecithin - Egg yolk - Flavoring - Powdered skim milk - Barley malt extract - Salt - Malted wheat flour. C) Corresponding to 12.8% of total ingredients, CROISSANT AU LEVAIN NATUREL AVEC FARINE COMPLÈTE FOURRÉ AU MIEL Ingrédients: Garniture au miel 24% (sirop de glucose-fructose, miel 30% correspondant à 6% sur la totalité des ingrédients, eau, dextrine de blé, gélifiant: pectine, conservateur: sorbate de potassium, arômes) - Farine de blé - Sélection Misura Complète Fibrextra 16% (farine de blé complète 80%*, fibres solubles d\'amidon de blé 10%, fibres végétales 10%) - Huiles et graisses végétales non hydrogènes (huile de tournesol, beurre de karité) - Leuvre naturelle (blé) - Sucre - œufs - Beurre - Émulsifiants.\' mono et diglycérides des acides gras d\'origine vegétale, lécithine de soja - Jaune d\'œufs - Arômes - Lait écrémé en poudre - Extrait de malt d\'orge - Sel - Farine de blé maltée. C) Correspondant à 12,8% sur le total des ingrédients,', '', '18', '7.1', '46', '21', '6.5', '6.1', '0.5', '0.196850393700787', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8802796211057', 'Морская капуста (премиум)', '', 'https://static.openfoodfacts.org/images/products/880/279/621/1057/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803147103328', 'Jus d\'aloe vera DR ROOTS', '', '', '0.1', '0.1', '0.4', '0.2', '', '0.1', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803147103618', 'Dumpling, Mit Schnittlauch', '', '', '7', '1', '32', '3', '', '9', '0.3', '0.118110236220472', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803217012246', '우엉차', '', 'https://static.openfoodfacts.org/images/products/880/321/701/2246/front_en.6.400.jpg', '', '', '', '', '', '', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('880328460223', 'Dam Tuh Food Co, Citron Tea With Honey', 'Crystallized citron, sugar, water, honey, cmc(sodium carboxymethylcellulose), citric acid, l-ascorbic acid(vitamin c)', '', '0', '0', '64', '56', '0', '0', '0.1524', '0.06', '', '0');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803284606416', 'Agave Ginger and lemon concentrated (아가베 생강 레몬) ', '', 'https://static.openfoodfacts.org/images/products/880/328/460/6416/front_en.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803284608502', '쌍화차', '', 'https://static.openfoodfacts.org/images/products/880/328/460/8502/front.3.400.jpg', '', '', '', '', '', '', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803560000143', '쌀떡', '', 'https://static.openfoodfacts.org/images/products/880/356/000/0143/front.7.400.jpg', '0.5', '0', '', '2', '54', '3', '0.1778', '0.07', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803712127483', 'Noguchi Dduksum cheese 芝士午餐肉', '', '', '', '', '', '', '', '', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8803937016135', 'Korean ginseng granule tea', '', '', '0.01', '0.01', '2', '1', '', '0.01', '0.06', '0.0236220472440945', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8804293001841', 'Korean ginseng tea', '', '', '0', '0', '0', '0', '', '0', '', '', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8804551348020', 'Sundried Tomato Risotto', 'Italian arborio rice, dehydrated vegetables (onions, sun dried tomato), black pepper. italian seasoning, turmeric, garlic granulated & saffron.', '', '0.74', '0.18', '78.14', '3', '4.1', '18.57', '0.38862', '0.153', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8804970000129', 'Maïs', 'Maïs doux en grains sans OCM , eau, se. Contient des sucres naturellement présents. A consommer de préférence avant la date figurant sur l\'un des fonds de la boîte. Cri,', '', '2.7', '0.5', '10.8', '5.2', '3.8', '2.9', '0.4', '0.15748031496063', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8805167000717', 'Ssanggye, Organic Green Tea Jakseol', 'Brown rice, green tea.', '', '0', '0', '83.33', '0', '0', '0', '0', '0', '', '1');
-
-INSERT INTO product (barcode_id, product_name, ingredients, product_image, fat_amount, saturated_fats, carbohydrate, sugar, dietary_fiber, protein, salt, sodium, alcohol, is_healthy)
-VALUES ('8805167009727', 'Ssanggye Tea, Hydrangea Tea', 'Hydrangea, brown rice.', '', '0', '0', '83.33', '0', '0', '0', '0', '0', '', '1');
+VALUES ('3760002340890', 'Acras de morue au chorizo', 'œufs entiers, farine de blé, pommes de terre, morue 14.9% (gadus spp.) chorizo 14,9% (viande de porc, paprika, sel/ dextrose, dextrine, ail, colorant : extrait de paprika, stabilisant : triphosphate pentasodique, antioxydant : erythorbate de sodium, conservateur : nitrate de sodium) Origine : UE/ crème, persil, poudre à lever (diphosphate, carbonate de sodium, amidon de blé), sel/ piment doux fumet aromes de piment (gluten). Cuisson en huile de tournesol. Traces éventuelles de crustacés. *Malgré tout le soin apporté à la préparation de nos poissons qualité sans arête, la présence exceptionnelle darêtes n\'est jamais exclue.', 'https://static.openfoodfacts.org/images/products/376/000/234/0890/front_fr.4.400.jpg', '8.4', '4.04', '16.85', '1.12', '', '9.71', '0.9', '0.354330708661417', '', '1');
 
